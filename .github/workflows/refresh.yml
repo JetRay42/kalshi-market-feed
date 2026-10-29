@@ -1,0 +1,138 @@
+
+name: Refresh Kalshi public market quotes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kalshi-public-quotes
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Collect read-only public order books
+        run: |
+          python - <<'PY'
+          import json, time
+          from datetime import datetime, timezone
+          from decimal import Decimal, InvalidOperation
+          from pathlib import Path
+          from urllib.parse import urlencode
+          from urllib.request import Request, urlopen
+
+          BASES = [
+              'https://external-api.kalshi.com/trade-api/v2',
+              'https://api.elections.kalshi.com/trade-api/v2',
+          ]
+          SERIES = [
+              'KXHIGHTMIN', 'KXHIGHCHI', 'KXHIGHTATL',
+              'KXRT', 'KXTOPALBUM', 'KXNBAGAME',
+              'KXNFLGAME', 'KXNHLGAME', 'KXF1RACEPODIUM',
+          ]
+          WATCH = ['KXRT-WIC-92', 'CONTROLS-2026-D']
+          def stamp():
+              return datetime.now(timezone.utc).isoformat(timespec='seconds')
+          def get(path, params=None):
+              suffix = path + ('?' + urlencode(params) if params else '')
+              last = None
+              for base in BASES:
+                  for attempt in range(2):
+                      try:
+                          req = Request(base + suffix, headers={'User-Agent': 'kalshi-public-research/1.0'})
+                          with urlopen(req, timeout=12) as response:
+                              return json.load(response)
+                      except Exception as error:
+                          last = f'{type(error).__name__}: {error}'
+                          time.sleep(1 + attempt)
+              raise RuntimeError(last)
+          def best(levels):
+              try:
+                  bids = [(Decimal(p), Decimal(q)) for p, q in levels if Decimal(q) > 0]
+                  return max(bids, default=None)
+              except (TypeError, ValueError, InvalidOperation):
+                  return None
+          def fmt(value):
+              return f'{value:.4f}' if value is not None else None
+          markets, errors = {}, []
+          for ticker in WATCH:
+              try:
+                  markets[ticker] = get('/markets/' + ticker)['market']
+              except Exception as error:
+                  errors.append(f'{ticker}: {error}')
+          for series in SERIES:
+              try:
+                  response = get('/markets', {'series_ticker': series, 'status': 'open', 'limit': 200})
+                  candidates = [m for m in response.get('markets', []) if m.get('ticker') and m.get('market_type', 'binary') == 'binary']
+                  candidates.sort(key=lambda m: (m.get('close_time') or '9999', -(float(m.get('volume') or 0))))
+                  for item in candidates[:8]:
+                      markets.setdefault(item['ticker'], item)
+              except Exception as error:
+                  errors.append(f'{series}: {error}')
+          quotes = []
+          for ticker, market in list(markets.items())[:80]:
+              try:
+                  book = get('/markets/' + ticker + '/orderbook').get('orderbook_fp', {})
+                  yes = best(book.get('yes_dollars') or [])
+                  no = best(book.get('no_dollars') or [])
+                  quotes.append({
+                      'ticker': ticker,
+                      'title': market.get('title') or '',
+                      'close_time': market.get('close_time'),
+                      'observed_at_utc': stamp(),
+                      'yes_bid': fmt(yes[0]) if yes else None,
+                      'yes_ask': fmt(Decimal(1) - no[0]) if no else None,
+                      'yes_ask_size': str(no[1]) if no else None,
+                      'no_bid': fmt(no[0]) if no else None,
+                      'no_ask': fmt(Decimal(1) - yes[0]) if yes else None,
+                      'no_ask_size': str(yes[1]) if yes else None,
+                  })
+              except Exception as error:
+                  errors.append(f'{ticker}: {error}')
+              time.sleep(0.1)
+          if not quotes:
+              raise SystemExit('No valid order books; preserving previous snapshot. ' + '; '.join(errors[:3]))
+          result = {
+              'generated_at_utc': stamp(),
+              'source': 'Kalshi public Trade API',
+              'warning': 'Research-only snapshots; fees and live execution are NOT verified.',
+              'quotes': quotes,
+              'errors': errors,
+          }
+          Path('data').mkdir(exist_ok=True)
+          Path('data/latest.json').write_text(json.dumps(result, indent=2) + '\n')
+          lines = [
+              '# Kalshi public order-book snapshots', '',
+              f"Updated UTC: **{result['generated_at_utc']}** | Markets: **{len(quotes)}**", '',
+              '> Research only: quotes may be stale. Confirm exact contract rules, current book and fees before trading.', '',
+              '| Ticker | Contract | YES bid | YES ask | Ask size | NO bid | NO ask | Ask size | Observed UTC |',
+              '|---|---|---:|---:|---:|---:|---:|---:|---:|---|',
+          ]
+          for q in quotes:
+              fields = [q['ticker'], q['title'].replace('|', '/').replace('\n', ' ')[:70]]
+              fields += [str(q.get(k) or '-') for k in ('yes_bid','yes_ask','yes_ask_size','no_bid','no_ask','no_ask_size','observed_at_utc')]
+              lines.append('| ' + ' | '.join(fields) + ' |')
+          lines += ['', f"Retrieval errors: {len(errors)}. Full details in `data/latest.json`.", '']
+          Path('data/latest.md').write_text('\n'.join(lines))
+          print(f"Saved {len(quotes)} order books with {len(errors)} warnings")
+          PY
+      - name: Publish snapshots to this repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/latest.json data/latest.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh public Kalshi market quotes'
+            git push
+          fi
