@@ -103,7 +103,7 @@ def get(path: str, params: dict | None = None) -> dict:
 
 def market_active(m: dict, now: float) -> bool:
     return bool(m.get('ticker') and m.get('market_type', 'binary') == 'binary'
-                and m.get('status', 'open') == 'open'
+                and m.get('status', 'open') in ('open', 'active')
                 and parse_time(m.get('close_time')) > now)
 
 
