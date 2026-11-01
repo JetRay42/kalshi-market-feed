@@ -1,0 +1,211 @@
+{
+  "shared": {
+    "parallel_books": 4,
+    "sampling_note": "Rotates event groups and thresholds every 30 minutes; does not imply real-time executability."
+  },
+  "profiles": {
+    "sports": {
+      "max_orderbooks": 240,
+      "per_series": 5,
+      "max_pages": 3,
+      "base_series": [
+        "KXNFLPASSYDS",
+        "KXNFLRSHYDS",
+        "KXNFLRECYDS",
+        "KXNFLREC",
+        "KXNFLTD",
+        "KXNFLPASSTDS",
+        "KXNBAPTS",
+        "KXNBAREB",
+        "KXNBAAST",
+        "KXNBA3PT",
+        "KXNFLGAME",
+        "KXNBAGAME",
+        "KXNFLSPREAD",
+        "KXNFLTOTAL",
+        "KXNBASPREAD",
+        "KXNBATOTAL",
+        "KXF1RACEPODIUM",
+        "KXF1H2H",
+        "KXNHLGAME",
+        "KXATPGSPREAD"
+      ],
+      "discovery": [
+        {
+          "category": "Sports",
+          "keywords": [
+            "single game",
+            "passing yards",
+            "passing touchdowns",
+            "rushing yards",
+            "receiving yards",
+            "receptions",
+            "anytime touchdown",
+            "player points",
+            "player rebounds",
+            "player assists",
+            "3 pointers",
+            "threes",
+            "game spread",
+            "game total",
+            "tennis",
+            "formula 1",
+            "formula one",
+            "driver head-to-head",
+            "race winner",
+            "podium",
+            "qualifying"
+          ],
+          "exclude": [
+            "career",
+            "all-time",
+            "hall of fame",
+            "regular season",
+            "season-long",
+            "mvp",
+            "2027 season",
+            "award winner",
+            "escalator"
+          ],
+          "max_series": 12
+        }
+      ],
+      "priority": {
+        "exact_tickers": [],
+        "event_tickers": [],
+        "series_tickers": []
+      },
+      "dynamic_per_series": 8,
+      "per_series_overrides": {
+        "KXNFLPASSYDS": 14,
+        "KXNFLRSHYDS": 14,
+        "KXNFLRECYDS": 14,
+        "KXNFLREC": 14,
+        "KXNFLTD": 14,
+        "KXNFLPASSTDS": 14,
+        "KXNBAPTS": 14,
+        "KXNBAREB": 14,
+        "KXNBAAST": 14,
+        "KXNBA3PT": 14,
+        "KXNFLGAME": 7,
+        "KXNBAGAME": 7
+      }
+    },
+    "pop_culture": {
+      "max_orderbooks": 140,
+      "per_series": 16,
+      "max_pages": 3,
+      "base_series": [
+        "KXRT",
+        "KXTOPALBUM",
+        "KXSTEAMTOPSELLER"
+      ],
+      "discovery": [
+        {
+          "category": "Entertainment",
+          "keywords": [
+            "billboard",
+            "music",
+            "album",
+            "song",
+            "box office",
+            "movie",
+            "film",
+            "rotten tomatoes",
+            "television",
+            "tv",
+            "streaming",
+            "steam",
+            "games",
+            "awards",
+            "oscars",
+            "grammy",
+            "emmy",
+            "celebrity",
+            "reality show"
+          ],
+          "exclude": [],
+          "max_series": 16
+        }
+      ],
+      "priority": {
+        "exact_tickers": [],
+        "event_tickers": [],
+        "series_tickers": []
+      },
+      "dynamic_per_series": 10
+    },
+    "weather_politics": {
+      "max_orderbooks": 170,
+      "per_series": 15,
+      "max_pages": 3,
+      "base_series": [
+        "KXHIGHTMIN",
+        "KXHIGHCHI",
+        "KXHIGHTATL",
+        "CONTROLS"
+      ],
+      "discovery": [
+        {
+          "category": "Climate and Weather",
+          "keywords": [
+            "temperature",
+            "high temperature",
+            "daily high",
+            "precipitation",
+            "rain",
+            "snow",
+            "weather",
+            "hurricane",
+            "storm",
+            "wind"
+          ],
+          "exclude": [],
+          "max_series": 12
+        },
+        {
+          "category": "Politics",
+          "keywords": [
+            "election",
+            "senate",
+            "house",
+            "governor",
+            "congress",
+            "control",
+            "president",
+            "majority",
+            "ballot",
+            "vote",
+            "politic",
+            "government",
+            "shutdown"
+          ],
+          "exclude": [],
+          "max_series": 12
+        },
+        {
+          "category": "Economics",
+          "keywords": [
+            "inflation",
+            "unemployment",
+            "employment",
+            "jobs report",
+            "federal reserve",
+            "interest rate",
+            "GDP",
+            "CPI",
+            "payroll"
+          ],
+          "exclude": [],
+          "max_series": 4
+        }
+      ],
+      "priority": {
+        "exact_tickers": [],
+        "event_tickers": [],
+        "series_tickers": []
+      },
+      "dynamic_per_series": 10
+    }
+  }
+}
