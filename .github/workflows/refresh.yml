@@ -1,4 +1,3 @@
-
 name: Refresh Kalshi public market quotes
 
 on:
@@ -22,15 +21,26 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Retrieve public Kalshi quotes (read-only API)
+      - name: Refresh existing all-market feed (backward-compatible)
+        id: legacy
+        continue-on-error: true
         run: python collector.py --config config.json --watchlist watchlist.json --out data
-      - name: Commit latest snapshot
+      - name: Collect independent sports, pop culture, weather/politics feeds
+        id: categories
+        continue-on-error: true
+        run: python category_collector.py --profiles category_profiles.json --output data/feeds
+      - name: Publish successful outputs (failed profiles retain last good files)
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/latest.json data/latest.md
+          git add -A data/
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh public Kalshi snapshots'
+            git commit -m 'Refresh public Kalshi market snapshots'
             git pull --rebase origin main
             git push origin main
           fi
+      - name: Report any collection failure
+        if: steps.legacy.outcome == 'failure' || steps.categories.outcome == 'failure'
+        run: |
+          echo 'One or more feeds failed. Successful files were published and older failed-feed files were preserved.'
+          exit 1
