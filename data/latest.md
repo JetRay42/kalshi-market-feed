@@ -1,6 +1,6 @@
 # Kalshi public order-book snapshots (v2)
 
-Updated UTC: **2026-11-01T09:42:21Z** · Books: **172** of **172** selected · Warnings: **0**
+Updated UTC: **2026-11-01T10:21:39Z** · Books: **172** of **172** selected · Warnings: **0**
 
 > Research snapshots only: no live execution guarantee. Recheck market status, fees and settlement rules before placing any order.
 
@@ -8,177 +8,177 @@ Updated UTC: **2026-11-01T09:42:21Z** · Books: **172** of **172** selected · W
 
 | Ticker | Reason | Contract | YES bid | YES ask | YES ask size | NO bid | NO ask | NO ask size | Observed UTC |
 |---|---|---|---:|---:|---:|---:|---:|---:|---|
-| KXNFLGAME-26NOV01BALBUF-BAL | watchlist_event | Baltimore wins | 0.3800 | 0.3900 | 831483.31 | 0.6100 | 0.6200 | 179959.37 | 2026-11-01T09:42:12Z |
-| KXNFLGAME-26NOV01BALBUF-BUF | watchlist_event | Buffalo wins | 0.6100 | 0.6200 | 681171.95 | 0.3800 | 0.3900 | 32927.52 | 2026-11-01T09:42:12Z |
-| KXATPGSPREAD-26NOV01DEALC-ALC2 | series:KXATPGSPREAD | Will Carlos Alcaraz win at least 1.5 more games than Alex de Mina | 0.7300 | 0.7700 | 33.00 | 0.2300 | 0.2700 | 1.00 | 2026-11-01T09:42:19Z |
-| KXATPGSPREAD-26NOV01DEALC-ALC5 | series:KXATPGSPREAD | Will Carlos Alcaraz win at least 4.5 more games than Alex de Mina | 0.4500 | 0.4600 | 539.82 | 0.5400 | 0.5500 | 855.00 | 2026-11-01T09:42:19Z |
-| KXATPGSPREAD-26NOV01HALFER-HAL3 | series:KXATPGSPREAD | Will Quentin Halys win at least 2.5 more games than Arthur Fery? | 0.4400 | 0.4700 | 0.01 | 0.5300 | 0.5600 | 0.02 | 2026-11-01T09:42:20Z |
-| KXATPGSPREAD-26NOV01LEHVAC-LEH3 | series:KXATPGSPREAD | Will Jiri Lehecka win at least 2.5 more games than Valentin Vache | 0.4600 | 0.4800 | 1563.38 | 0.5200 | 0.5400 | 2032.06 | 2026-11-01T09:42:19Z |
-| KXATPGSPREAD-26NOV01NAKBER-NAK3 | series:KXATPGSPREAD | Will Brandon Nakashima win at least 2.5 more games than Matteo Be | 0.4100 | 0.4400 | 0.01 | 0.5600 | 0.5900 | 0.02 | 2026-11-01T09:42:20Z |
-| KXATPGSPREAD-26NOV01PAURUN-PAU4 | series:KXATPGSPREAD | Will Tommy Paul win at least 3.5 more games than Holger Rune? | 0.4300 | 0.4900 | 12.00 | 0.5100 | 0.5700 | 1.00 | 2026-11-01T09:42:20Z |
-| KXATPGSPREAD-26NOV01RUBETC-RUB4 | series:KXATPGSPREAD | Will Andrey Rublev win at least 3.5 more games than Tomas Martin  | 0.4300 | 0.4600 | 0.01 | 0.5400 | 0.5700 | 0.02 | 2026-11-01T09:42:19Z |
-| KXF1H2H-MEX26ANTVER-ANT | series:KXF1H2H | Will Andrea Kimi Antonelli beat Max Verstappen in the Mexico City | 0.4200 | 0.4800 | 205.00 | 0.5200 | 0.5800 | 20.00 | 2026-11-01T09:42:19Z |
-| KXF1H2H-MEX26ANTVER-VER | series:KXF1H2H | Will Max Verstappen beat Andrea Kimi Antonelli in the Mexico City | 0.5500 | 0.6000 | 5.00 | 0.4000 | 0.4500 | 5.00 | 2026-11-01T09:42:19Z |
-| KXF1H2H-MEX26GASHUL-GAS | series:KXF1H2H | Will Pierre Gasly beat Nico Hulkenberg in the Mexico City Grand P | 0.5900 | 0.6400 | 11.00 | 0.3600 | 0.4100 | 6.52 | 2026-11-01T09:42:19Z |
-| KXF1H2H-MEX26HAMLEC-LEC | series:KXF1H2H | Will Charles Leclerc beat Lewis Hamilton in the Mexico City Grand | 0.3000 | 0.3800 | 200.00 | 0.6200 | 0.7000 | 100.00 | 2026-11-01T09:42:19Z |
-| KXF1H2H-MEX26LAWLIN-LAW | series:KXF1H2H | Will Liam Lawson beat Arvid Lindblad in the Mexico City Grand Pri | 0.1300 | 0.2100 | 1.00 | 0.7900 | 0.8700 | 23.00 | 2026-11-01T09:42:19Z |
-| KXF1H2H-MEX26LECRUS-RUS | series:KXF1H2H | Will George Russell beat Charles Leclerc in the Mexico City Grand | 0.4200 | 0.5100 | 200.00 | 0.4900 | 0.5800 | 5.00 | 2026-11-01T09:42:19Z |
-| KXF1H2H-MEX26PIAGAS-GAS | series:KXF1H2H | Will Pierre Gasly beat Oscar Piastri in the Mexico City Grand Pri | 0.2000 | 0.3000 | 200.00 | 0.7000 | 0.8000 | 203.00 | 2026-11-01T09:42:19Z |
-| KXF1RACEPODIUM-MEX26-ANT | series:KXF1RACEPODIUM | Main Race: Andrea Kimi Antonelli to finish top 3 | 0.5300 | 0.5500 | 2805.41 | 0.4500 | 0.4700 | 84.46 | 2026-11-01T09:42:18Z |
-| KXF1RACEPODIUM-MEX26-HAM | series:KXF1RACEPODIUM | Main Race: Lewis Hamilton to finish top 3 | 0.6900 | 0.7400 | 5.00 | 0.2600 | 0.3100 | 49.00 | 2026-11-01T09:42:18Z |
-| KXF1RACEPODIUM-MEX26-LEC | series:KXF1RACEPODIUM | Main Race: Charles Leclerc to finish top 3 | 0.6700 | 0.6800 | 72.25 | 0.3200 | 0.3300 | 61.00 | 2026-11-01T09:42:18Z |
-| KXF1RACEPODIUM-MEX26-NOR | series:KXF1RACEPODIUM | Main Race: Lando Norris to finish top 3 | 0.1600 | 0.1700 | 722.58 | 0.8300 | 0.8400 | 10.00 | 2026-11-01T09:42:18Z |
-| KXF1RACEPODIUM-MEX26-PIA | series:KXF1RACEPODIUM | Main Race: Oscar Piastri to finish top 3 | 0.0100 | 0.0400 | 515.00 | 0.9600 | 0.9900 | 2597.00 | 2026-11-01T09:42:19Z |
-| KXF1RACEPODIUM-MEX26-RUS | series:KXF1RACEPODIUM | Main Race: George Russell to finish top 3 | 0.5500 | 0.5700 | 1.90 | 0.4300 | 0.4500 | 10.57 | 2026-11-01T09:42:18Z |
-| KXF1RACEPODIUM-MEX26-VER | series:KXF1RACEPODIUM | Main Race: Max Verstappen to finish top 3 | 0.5100 | 0.5300 | 566.00 | 0.4700 | 0.4900 | 38.00 | 2026-11-01T09:42:18Z |
-| KXHIGHCHI-26NOV01-B64.5 | series:KXHIGHCHI | Will the maximum temperature be 64-65° on Nov 1, 2026? | 0.3900 | 0.4000 | 59.00 | 0.6000 | 0.6100 | 19.90 | 2026-11-01T09:42:20Z |
-| KXHIGHCHI-26NOV01-B66.5 | series:KXHIGHCHI | Will the maximum temperature be 66-67° on Nov 1, 2026? | 0.1600 | 0.1700 | 88.00 | 0.8300 | 0.8400 | 34.00 | 2026-11-01T09:42:20Z |
-| KXHIGHCHI-26NOV01-B68.5 | series:KXHIGHCHI | Will the maximum temperature be 68-69° on Nov 1, 2026? | 0.0200 | 0.0300 | 121.00 | 0.9700 | 0.9800 | 405.00 | 2026-11-01T09:42:20Z |
-| KXHIGHCHI-26NOV01-B70.5 | series:KXHIGHCHI | Will the maximum temperature be 70-71° on Nov 1, 2026? | — | 0.0200 | 949.00 | 0.9800 | — | — | 2026-11-01T09:42:20Z |
-| KXHIGHCHI-26NOV01-T64 | series:KXHIGHCHI | Will the maximum temperature be <64° on Nov 1, 2026? | 0.4000 | 0.4100 | 45.00 | 0.5900 | 0.6000 | 32.00 | 2026-11-01T09:42:20Z |
-| KXHIGHCHI-26NOV01-T71 | series:KXHIGHCHI | Will the maximum temperature be >71° on Nov 1, 2026? | — | 0.0100 | 818.16 | 0.9900 | — | — | 2026-11-01T09:42:20Z |
-| KXHIGHTATL-26NOV01-B64.5 | series:KXHIGHTATL | Will the maximum temperature be 64-65° on Nov 1, 2026? | 0.0300 | 0.0500 | 21.00 | 0.9500 | 0.9700 | 100.28 | 2026-11-01T09:42:20Z |
-| KXHIGHTATL-26NOV01-B66.5 | series:KXHIGHTATL | Will the maximum temperature be 66-67° on Nov 1, 2026? | 0.0100 | 0.0200 | 125.00 | 0.9800 | 0.9900 | 49.72 | 2026-11-01T09:42:20Z |
-| KXHIGHTATL-26NOV01-B68.5 | series:KXHIGHTATL | Will the maximum temperature be 68-69° on Nov 1, 2026? | — | 0.0100 | 158.00 | 0.9900 | — | — | 2026-11-01T09:42:20Z |
-| KXHIGHTATL-26NOV01-B70.5 | series:KXHIGHTATL | Will the maximum temperature be 70-71° on Nov 1, 2026? | — | 0.0100 | 159.00 | 0.9900 | — | — | 2026-11-01T09:42:20Z |
-| KXHIGHTATL-26NOV01-T64 | series:KXHIGHTATL | Will the maximum temperature be <64° on Nov 1, 2026? | 0.9100 | 0.9300 | 0.46 | 0.0700 | 0.0900 | 17.00 | 2026-11-01T09:42:20Z |
-| KXHIGHTATL-26NOV01-T71 | series:KXHIGHTATL | Will the maximum temperature be >71° on Nov 1, 2026? | — | 0.0100 | 3147.00 | 0.9900 | — | — | 2026-11-01T09:42:21Z |
-| KXHIGHTMIN-26NOV01-B64.5 | series:KXHIGHTMIN | Will the maximum temperature be 64-65° on Nov 1, 2026? | 0.0300 | 0.0400 | 206.00 | 0.9600 | 0.9700 | 9.00 | 2026-11-01T09:42:20Z |
-| KXHIGHTMIN-26NOV01-B66.5 | series:KXHIGHTMIN | Will the maximum temperature be 66-67° on Nov 1, 2026? | 0.0800 | 0.0900 | 175.00 | 0.9100 | 0.9200 | 57.00 | 2026-11-01T09:42:20Z |
-| KXHIGHTMIN-26NOV01-B68.5 | series:KXHIGHTMIN | Will the maximum temperature be 68-69° on Nov 1, 2026? | 0.4900 | 0.5000 | 29.00 | 0.5000 | 0.5100 | 42.00 | 2026-11-01T09:42:20Z |
-| KXHIGHTMIN-26NOV01-B70.5 | series:KXHIGHTMIN | Will the maximum temperature be 70-71° on Nov 1, 2026? | 0.3400 | 0.3700 | 29.00 | 0.6300 | 0.6600 | 31.00 | 2026-11-01T09:42:20Z |
-| KXHIGHTMIN-26NOV01-T64 | series:KXHIGHTMIN | Will the maximum temperature be <64° on Nov 1, 2026? | 0.0100 | 0.0200 | 1000.00 | 0.9800 | 0.9900 | 22.00 | 2026-11-01T09:42:20Z |
-| KXHIGHTMIN-26NOV01-T71 | series:KXHIGHTMIN | Will the maximum temperature be >71° on Nov 1, 2026? | 0.0200 | 0.0300 | 165.65 | 0.9700 | 0.9800 | 127.00 | 2026-11-01T09:42:20Z |
-| KXNBA3PT-26NOV01BKNIND-INDANESMITH23-2 | series:KXNBA3PT | Aaron Nesmith: 2+ threes | 0.5200 | 0.5500 | 5.00 | 0.4500 | 0.4800 | 42.00 | 2026-11-01T09:42:16Z |
-| KXNBA3PT-26NOV01LACGSW-GSWDMELTON8-3 | series:KXNBA3PT | De'Anthony Melton: 3+ threes | 0.1200 | 0.2600 | 2.00 | 0.7400 | 0.8800 | 2.00 | 2026-11-01T09:42:16Z |
-| KXNBA3PT-26NOV01LACGSW-GSWYLENDEBORG1-3 | series:KXNBA3PT | Yaxel Lendeborg: 3+ threes | 0.2900 | 0.3300 | 47.00 | 0.6700 | 0.7100 | 2.00 | 2026-11-01T09:42:16Z |
-| KXNBA3PT-26NOV01TORLAL-LALAREAVES15-2 | series:KXNBA3PT | Austin Reaves: 2+ threes | 0.6000 | 0.6200 | 3212.00 | 0.3800 | 0.4000 | 23.00 | 2026-11-01T09:42:16Z |
-| KXNBA3PT-26NOV01TORLAL-LALAREAVES15-3 | series:KXNBA3PT | Austin Reaves: 3+ threes | 0.3500 | 0.3800 | 896.00 | 0.6200 | 0.6500 | 35.00 | 2026-11-01T09:42:16Z |
-| KXNBA3PT-26NOV01TORLAL-LALLDONCIC77-5 | series:KXNBA3PT | Luka Dončić: 5+ threes | 0.4400 | 0.4700 | 467.64 | 0.5300 | 0.5600 | 81.36 | 2026-11-01T09:42:16Z |
-| KXNBA3PT-26NOV01TORLAL-TORRBARRETT9-4 | series:KXNBA3PT | RJ Barrett: 4+ threes | — | 0.1100 | 77.00 | 0.8900 | — | — | 2026-11-01T09:42:16Z |
-| KXNBAAST-26NOV01BKNIND-INDANESMITH23-2 | series:KXNBAAST | Aaron Nesmith: 2+ assists | 0.4200 | 0.4400 | 25.00 | 0.5600 | 0.5800 | 5.00 | 2026-11-01T09:42:16Z |
-| KXNBAAST-26NOV01BOSORL-ORLABLACK0-4 | series:KXNBAAST | Anthony Black: 4+ assists | 0.5500 | 0.5700 | 1647.59 | 0.4300 | 0.4500 | 500.00 | 2026-11-01T09:42:16Z |
-| KXNBAAST-26NOV01BOSORL-ORLABLACK0-6 | series:KXNBAAST | Anthony Black: 6+ assists | 0.2000 | 0.2300 | 26.00 | 0.7700 | 0.8000 | 10.00 | 2026-11-01T09:42:15Z |
-| KXNBAAST-26NOV01BOSORL-ORLDBANE3-4 | series:KXNBAAST | Desmond Bane: 4+ assists | 0.5300 | 0.5400 | 34.00 | 0.4600 | 0.4700 | 27.00 | 2026-11-01T09:42:15Z |
-| KXNBAAST-26NOV01BOSORL-ORLFWAGNER22-6 | series:KXNBAAST | Franz Wagner: 6+ assists | 0.5900 | 0.6100 | 439.00 | 0.3900 | 0.4100 | 253.00 | 2026-11-01T09:42:15Z |
-| KXNBAAST-26NOV01TORLAL-LALLDONCIC77-6 | series:KXNBAAST | Luka Dončić: 6+ assists | 0.6700 | 0.7300 | 15.00 | 0.2700 | 0.3300 | 2.00 | 2026-11-01T09:42:16Z |
-| KXNBAAST-26NOV01TORLAL-LALLDONCIC77-8 | series:KXNBAAST | Luka Dončić: 8+ assists | 0.4400 | 0.4500 | 3892.00 | 0.5500 | 0.5600 | 2.00 | 2026-11-01T09:42:16Z |
-| KXNBAGAME-26NOV01BKNIND-BKN | series:KXNBAGAME | Brooklyn wins | 0.3900 | 0.4000 | 3511.66 | 0.6000 | 0.6100 | 18485.90 | 2026-11-01T09:42:17Z |
-| KXNBAGAME-26NOV01BKNIND-IND | series:KXNBAGAME | Indiana wins | 0.6000 | 0.6100 | 92308.81 | 0.3900 | 0.4000 | 145.57 | 2026-11-01T09:42:17Z |
-| KXNBAGAME-26NOV01BOSORL-BOS | series:KXNBAGAME | Boston wins | 0.6900 | 0.7000 | 1065.41 | 0.3000 | 0.3100 | 9838.43 | 2026-11-01T09:42:16Z |
-| KXNBAGAME-26NOV01BOSORL-ORL | series:KXNBAGAME | Orlando wins | 0.3000 | 0.3100 | 254745.83 | 0.6900 | 0.7000 | 55.97 | 2026-11-01T09:42:17Z |
-| KXNBAGAME-26NOV01LACGSW-GSW | series:KXNBAGAME | Golden State wins | 0.5500 | 0.5600 | 11.00 | 0.4400 | 0.4500 | 16695.16 | 2026-11-01T09:42:16Z |
-| KXNBAGAME-26NOV01LACGSW-LAC | series:KXNBAGAME | Los Angeles C wins | 0.4400 | 0.4500 | 70256.91 | 0.5500 | 0.5600 | 3.00 | 2026-11-01T09:42:16Z |
-| KXNBAGAME-26NOV01TORLAL-LAL | series:KXNBAGAME | Los Angeles L wins | 0.6200 | 0.6300 | 4626.74 | 0.3700 | 0.3800 | 8142.36 | 2026-11-01T09:42:16Z |
-| KXNBAPTS-26NOV01BOSORL-BOSJTATUM0-30 | series:KXNBAPTS | Jayson Tatum: 30+ points | 0.3400 | 0.3600 | 40.00 | 0.6400 | 0.6600 | 1.00 | 2026-11-01T09:42:15Z |
-| KXNBAPTS-26NOV01BOSORL-BOSPGEORGE13-10 | series:KXNBAPTS | Paul George: 10+ points | 0.8200 | 0.8900 | 7.00 | 0.1100 | 0.1800 | 2.00 | 2026-11-01T09:42:15Z |
-| KXNBAPTS-26NOV01LACGSW-GSWYLENDEBORG1-30 | series:KXNBAPTS | Yaxel Lendeborg: 30+ points | 0.0500 | 0.1700 | 2.00 | 0.8300 | 0.9500 | 11.00 | 2026-11-01T09:42:15Z |
-| KXNBAPTS-26NOV01LACGSW-LACRHACHIMURA28-15 | series:KXNBAPTS | Rui Hachimura: 15+ points | 0.5200 | 0.5300 | 343.00 | 0.4700 | 0.4800 | 58.00 | 2026-11-01T09:42:15Z |
-| KXNBAPTS-26NOV01LACGSW-LACRHACHIMURA28-20 | series:KXNBAPTS | Rui Hachimura: 20+ points | 0.1500 | 0.2000 | 27.00 | 0.8000 | 0.8500 | 11.00 | 2026-11-01T09:42:15Z |
-| KXNBAPTS-26NOV01TORLAL-LALLDONCIC77-35 | series:KXNBAPTS | Luka Dončić: 35+ points | 0.4700 | 0.4800 | 32.00 | 0.5200 | 0.5300 | 68.48 | 2026-11-01T09:42:15Z |
-| KXNBAPTS-26NOV01TORLAL-TORSBARNES4-15 | series:KXNBAPTS | Scottie Barnes: 15+ points | 0.7800 | 0.8400 | 2.00 | 0.1600 | 0.2200 | 2.00 | 2026-11-01T09:42:15Z |
-| KXNBAREB-26NOV01BKNIND-BKNJRANDLE30-6 | series:KXNBAREB | Julius Randle: 6+ rebounds | 0.5700 | 0.7100 | 17.00 | 0.2900 | 0.4300 | 7.00 | 2026-11-01T09:42:15Z |
-| KXNBAREB-26NOV01BKNIND-BKNJRANDLE30-8 | series:KXNBAREB | Julius Randle: 8+ rebounds | 0.4200 | 0.4500 | 2297.84 | 0.5500 | 0.5800 | 109.00 | 2026-11-01T09:42:15Z |
-| KXNBAREB-26NOV01BOSORL-BOSJTATUM0-8 | series:KXNBAREB | Jayson Tatum: 8+ rebounds | 0.5000 | 0.5400 | 2.00 | 0.4600 | 0.5000 | 2.00 | 2026-11-01T09:42:15Z |
-| KXNBAREB-26NOV01BOSORL-BOSPGEORGE13-4 | series:KXNBAREB | Paul George: 4+ rebounds | 0.6600 | 0.6800 | 368.00 | 0.3200 | 0.3400 | 37.00 | 2026-11-01T09:42:15Z |
-| KXNBAREB-26NOV01LACGSW-LACRHACHIMURA28-4 | series:KXNBAREB | Rui Hachimura: 4+ rebounds | 0.6000 | 0.6600 | 217.00 | 0.3400 | 0.4000 | 11.00 | 2026-11-01T09:42:15Z |
-| KXNBAREB-26NOV01TORLAL-TORIQUICKLEY5-4 | series:KXNBAREB | Immanuel Quickley: 4+ rebounds | 0.4400 | 0.4500 | 38.00 | 0.5500 | 0.5600 | 22.00 | 2026-11-01T09:42:15Z |
-| KXNBAREB-26NOV01TORLAL-TORRBARRETT9-6 | series:KXNBAREB | RJ Barrett: 6+ rebounds | 0.3900 | 0.4200 | 28.00 | 0.5800 | 0.6100 | 114.00 | 2026-11-01T09:42:15Z |
-| KXNBASPREAD-26NOV01BKNIND-IND4 | series:KXNBASPREAD | Indiana wins by over 3.5 points | 0.4900 | 0.5100 | 2151.90 | 0.4900 | 0.5100 | 2568.00 | 2026-11-01T09:42:18Z |
-| KXNBASPREAD-26NOV01BOSORL-BOS10 | series:KXNBASPREAD | Boston wins by over 9.5 points | 0.3900 | 0.4100 | 1530.00 | 0.5900 | 0.6100 | 843.19 | 2026-11-01T09:42:17Z |
-| KXNBASPREAD-26NOV01BOSORL-BOS25 | series:KXNBASPREAD | Boston wins by over 24.5 points | 0.0800 | 0.0900 | 507.28 | 0.9100 | 0.9200 | 133.40 | 2026-11-01T09:42:18Z |
-| KXNBASPREAD-26NOV01BOSORL-BOS7 | series:KXNBASPREAD | Boston wins by over 6.5 points | 0.5100 | 0.5200 | 5759.34 | 0.4800 | 0.4900 | 363.00 | 2026-11-01T09:42:17Z |
-| KXNBASPREAD-26NOV01LACGSW-GSW3 | series:KXNBASPREAD | Golden State wins by over 2.5 points | 0.4900 | 0.5100 | 1800.89 | 0.4900 | 0.5100 | 511.40 | 2026-11-01T09:42:18Z |
-| KXNBASPREAD-26NOV01TORLAL-LAL4 | series:KXNBASPREAD | Los Angeles L wins by over 3.5 points | 0.5300 | 0.5500 | 1965.58 | 0.4500 | 0.4700 | 1803.00 | 2026-11-01T09:42:18Z |
-| KXNBASPREAD-26NOV01TORLAL-LAL5 | series:KXNBASPREAD | Los Angeles L wins by over 4.5 points | 0.4900 | 0.5000 | 200.00 | 0.5000 | 0.5100 | 409.00 | 2026-11-01T09:42:18Z |
-| KXNBATOTAL-26NOV01BKNIND-231 | series:KXNBATOTAL | Full Game: Over 230.5 points scored | 0.4900 | 0.5000 | 524.00 | 0.5000 | 0.5100 | 364.00 | 2026-11-01T09:42:18Z |
-| KXNBATOTAL-26NOV01BOSORL-199 | series:KXNBATOTAL | Full Game: Over 198.5 points scored | 0.9000 | 0.9400 | 3351.64 | 0.0600 | 0.1000 | 2329.64 | 2026-11-01T09:42:18Z |
-| KXNBATOTAL-26NOV01BOSORL-209 | series:KXNBATOTAL | Full Game: Over 208.5 points scored | 0.7700 | 0.8100 | 3140.65 | 0.1900 | 0.2300 | 488.65 | 2026-11-01T09:42:18Z |
-| KXNBATOTAL-26NOV01BOSORL-223 | series:KXNBATOTAL | Full Game: Over 222.5 points scored | 0.4900 | 0.5000 | 17464.32 | 0.5000 | 0.5100 | 5646.40 | 2026-11-01T09:42:18Z |
-| KXNBATOTAL-26NOV01BOSORL-225 | series:KXNBATOTAL | Full Game: Over 224.5 points scored | 0.4400 | 0.4500 | 13850.00 | 0.5500 | 0.5600 | 5583.62 | 2026-11-01T09:42:18Z |
-| KXNBATOTAL-26NOV01LACGSW-220 | series:KXNBATOTAL | Full Game: Over 219.5 points scored | 0.4800 | 0.5000 | 4595.92 | 0.5000 | 0.5200 | 22897.00 | 2026-11-01T09:42:18Z |
-| KXNBATOTAL-26NOV01TORLAL-228 | series:KXNBATOTAL | Full Game: Over 227.5 points scored | 0.4900 | 0.5000 | 19002.00 | 0.5000 | 0.5100 | 12107.40 | 2026-11-01T09:42:18Z |
-| KXNFLGAME-26NOV01LVNYJ-LV | series:KXNFLGAME | Las Vegas wins | 0.4600 | 0.4700 | 1494425.00 | 0.5300 | 0.5400 | 114120.09 | 2026-11-01T09:42:16Z |
-| KXNFLGAME-26NOV01LVNYJ-NYJ | series:KXNFLGAME | New York J wins | 0.5300 | 0.5400 | 1548920.71 | 0.4600 | 0.4700 | 186753.20 | 2026-11-01T09:42:16Z |
-| KXNFLGAME-26NOV01MINDET-DET | series:KXNFLGAME | Detroit wins | 0.6200 | 0.6300 | 1772910.82 | 0.3700 | 0.3800 | 404121.43 | 2026-11-01T09:42:16Z |
-| KXNFLGAME-26NOV01MINDET-MIN | series:KXNFLGAME | Minnesota wins | 0.3700 | 0.3800 | 1576027.80 | 0.6200 | 0.6300 | 177210.87 | 2026-11-01T09:42:16Z |
-| KXNFLGAME-26NOV01TENCIN-TEN | series:KXNFLGAME | Tennessee wins | 0.1300 | 0.1400 | 1614460.18 | 0.8600 | 0.8700 | 53602.45 | 2026-11-01T09:42:16Z |
-| KXNFLPASSTDS-26NOV01BALBUF-BALLJACKSON8-2 | series:KXNFLPASSTDS | Lamar Jackson: 2+ passing touchdowns | 0.4900 | 0.5000 | 1895.24 | 0.5000 | 0.5100 | 324.60 | 2026-11-01T09:42:14Z |
-| KXNFLPASSTDS-26NOV01BALBUF-BALLJACKSON8-3 | series:KXNFLPASSTDS | Lamar Jackson: 3+ passing touchdowns | 0.2000 | 0.2200 | 1.69 | 0.7800 | 0.8000 | 110.00 | 2026-11-01T09:42:14Z |
-| KXNFLPASSTDS-26NOV01BALBUF-BUFJALLEN17-2 | series:KXNFLPASSTDS | Josh Allen: 2+ passing touchdowns | 0.5400 | 0.5500 | 2018.01 | 0.4500 | 0.4600 | 7.78 | 2026-11-01T09:42:14Z |
-| KXNFLPASSTDS-26NOV01CLEPIT-PITARODGERS8-2 | series:KXNFLPASSTDS | Aaron Rodgers: 2+ passing touchdowns | 0.4100 | 0.4200 | 2098.00 | 0.5800 | 0.5900 | 5669.09 | 2026-11-01T09:42:15Z |
-| KXNFLPASSTDS-26NOV01KCDEN-KCPMAHOMES15-2 | series:KXNFLPASSTDS | Patrick Mahomes: 2+ passing touchdowns | 0.3600 | 0.3700 | 1217.00 | 0.6300 | 0.6400 | 805.00 | 2026-11-01T09:42:14Z |
-| KXNFLPASSTDS-26NOV01NEMIA-NEDMAYE10-2 | series:KXNFLPASSTDS | Drake Maye: 2+ passing touchdowns | 0.5400 | 0.5500 | 7220.00 | 0.4500 | 0.4600 | 761.00 | 2026-11-01T09:42:14Z |
-| KXNFLPASSTDS-26NOV01NEMIA-NEDMAYE10-3 | series:KXNFLPASSTDS | Drake Maye: 3+ passing touchdowns | 0.2300 | 0.2400 | 124.00 | 0.7600 | 0.7700 | 75.00 | 2026-11-01T09:42:15Z |
-| KXNFLPASSYDS-26NOV01ARIDAL-DALDPRESCOTT4-275 | series:KXNFLPASSYDS | Dak Prescott: 275+ passing yards | 0.4500 | 0.4600 | 9746.69 | 0.5400 | 0.5500 | 3363.32 | 2026-11-01T09:42:12Z |
-| KXNFLPASSYDS-26NOV01ATLTB-ATLMPENIX9-225 | series:KXNFLPASSYDS | Michael Penix Jr.: 225+ passing yards | 0.5100 | 0.5200 | 3422.00 | 0.4800 | 0.4900 | 300.30 | 2026-11-01T09:42:13Z |
-| KXNFLPASSYDS-26NOV01LVNYJ-LVKCOUSINS8-225 | series:KXNFLPASSYDS | Kirk Cousins: 225+ passing yards | 0.5500 | 0.5600 | 8255.41 | 0.4400 | 0.4500 | 123.28 | 2026-11-01T09:42:13Z |
-| KXNFLPASSYDS-26NOV01LVNYJ-LVKCOUSINS8-250 | series:KXNFLPASSYDS | Kirk Cousins: 250+ passing yards | 0.3700 | 0.3800 | 11.08 | 0.6200 | 0.6300 | 1268.92 | 2026-11-01T09:42:13Z |
-| KXNFLPASSYDS-26NOV01MINDET-DETJGOFF16-250 | series:KXNFLPASSYDS | Jared Goff: 250+ passing yards | 0.5100 | 0.5200 | 7859.09 | 0.4800 | 0.4900 | 1995.00 | 2026-11-01T09:42:12Z |
-| KXNFLPASSYDS-26NOV01PHIWAS-WASJDANIELS5-250 | series:KXNFLPASSYDS | Jayden Daniels: 250+ passing yards | 0.2200 | 0.2400 | 1381.00 | 0.7600 | 0.7800 | 35.00 | 2026-11-01T09:42:13Z |
-| KXNFLPASSYDS-26NOV01TENCIN-CINJBURROW9-300 | series:KXNFLPASSYDS | Joe Burrow: 300+ passing yards | 0.3600 | 0.3700 | 4083.00 | 0.6300 | 0.6400 | 407.27 | 2026-11-01T09:42:12Z |
-| KXNFLREC-26NOV01ATLTB-ATLZBRANCH17-2 | series:KXNFLREC | Zachariah Branch: 2+ receptions | 0.4000 | 0.4100 | 2524.00 | 0.5900 | 0.6000 | 3327.00 | 2026-11-01T09:42:14Z |
-| KXNFLREC-26NOV01ATLTB-TBTJOHNSON15-3 | series:KXNFLREC | Tez Johnson: 3+ receptions | 0.4200 | 0.4300 | 1981.00 | 0.5700 | 0.5800 | 2553.84 | 2026-11-01T09:42:14Z |
-| KXNFLREC-26NOV01INDJAC-JACTHUNTER12-2 | series:KXNFLREC | Travis Hunter: 2+ receptions | 0.5600 | 0.5700 | 7529.25 | 0.4300 | 0.4400 | 941.03 | 2026-11-01T09:42:14Z |
-| KXNFLREC-26NOV01INDJAC-JACTHUNTER12-3 | series:KXNFLREC | Travis Hunter: 3+ receptions | 0.3200 | 0.3400 | 1.00 | 0.6600 | 0.6800 | 1.00 | 2026-11-01T09:42:14Z |
-| KXNFLREC-26NOV01KCDEN-KCNGRAY83-2 | series:KXNFLREC | Noah Gray: 2+ receptions | 0.4700 | 0.4800 | 385.75 | 0.5200 | 0.5300 | 745.00 | 2026-11-01T09:42:14Z |
-| KXNFLREC-26NOV01PHIWAS-PHIMBROWN0-2 | series:KXNFLREC | Hollywood Brown: 2+ receptions | 0.6000 | 0.6100 | 2989.00 | 0.3900 | 0.4000 | 74.00 | 2026-11-01T09:42:13Z |
-| KXNFLREC-26NOV01TENCIN-TENWROBINSON4-6 | series:KXNFLREC | Wan'Dale Robinson: 6+ receptions | 0.4500 | 0.4600 | 284.00 | 0.5400 | 0.5500 | 696.00 | 2026-11-01T09:42:14Z |
-| KXNFLRECYDS-26NOV01ARIDAL-ARIEHIGGINS84-25 | series:KXNFLRECYDS | Elijah Higgins: 25+ receiving yards | 0.3400 | 0.3700 | 1094.00 | 0.6300 | 0.6600 | 119.00 | 2026-11-01T09:42:13Z |
-| KXNFLRECYDS-26NOV01ATLTB-TBTJOHNSON15-30 | series:KXNFLRECYDS | Tez Johnson: 30+ receiving yards | 0.5200 | 0.5300 | 2542.78 | 0.4700 | 0.4800 | 250.00 | 2026-11-01T09:42:13Z |
-| KXNFLRECYDS-26NOV01INDJAC-INDTWARREN84-40 | series:KXNFLRECYDS | Tyler Warren: 40+ receiving yards | 0.5100 | 0.5200 | 3252.86 | 0.4800 | 0.4900 | 428.92 | 2026-11-01T09:42:13Z |
-| KXNFLRECYDS-26NOV01KCDEN-KCNGRAY83-15 | series:KXNFLRECYDS | Noah Gray: 15+ receiving yards | 0.4900 | 0.5000 | 755.77 | 0.5000 | 0.5100 | 1404.30 | 2026-11-01T09:42:13Z |
-| KXNFLRECYDS-26NOV01MINDET-MINAJONES33-15 | series:KXNFLRECYDS | Aaron Jones Sr.: 15+ receiving yards | 0.3500 | 0.3700 | 349.00 | 0.6300 | 0.6500 | 57.00 | 2026-11-01T09:42:13Z |
-| KXNFLRECYDS-26NOV01PHIWAS-PHIMBROWN0-20 | series:KXNFLRECYDS | Hollywood Brown: 20+ receiving yards | 0.5400 | 0.5700 | 240.46 | 0.4300 | 0.4600 | 104.95 | 2026-11-01T09:42:13Z |
-| KXNFLRECYDS-26NOV01PHIWAS-PHIMBROWN0-25 | series:KXNFLRECYDS | Hollywood Brown: 25+ receiving yards | 0.4500 | 0.4800 | 357.00 | 0.5200 | 0.5500 | 2309.41 | 2026-11-01T09:42:13Z |
-| KXNFLRSHYDS-26NOV01BALBUF-BUFRDAVIS7-25 | series:KXNFLRSHYDS | Ray Davis: 25+ rushing yards | 0.0700 | 0.0900 | 1750.00 | 0.9100 | 0.9300 | 125.00 | 2026-11-01T09:42:13Z |
-| KXNFLRSHYDS-26NOV01CLEPIT-CLEDSAMPSON22-15 | series:KXNFLRSHYDS | Dylan Sampson: 15+ rushing yards | 0.4100 | 0.4200 | 2234.00 | 0.5800 | 0.5900 | 1850.00 | 2026-11-01T09:42:13Z |
-| KXNFLRSHYDS-26NOV01LVNYJ-LVAJEANTY2-50 | series:KXNFLRSHYDS | Ashton Jeanty: 50+ rushing yards | 0.5100 | 0.5200 | 14262.98 | 0.4800 | 0.4900 | 1467.37 | 2026-11-01T09:42:13Z |
-| KXNFLRSHYDS-26NOV01LVNYJ-LVMWASHINGTON4-30 | series:KXNFLRSHYDS | Mike Washington Jr.: 30+ rushing yards | 0.5200 | 0.5300 | 2594.40 | 0.4700 | 0.4800 | 1520.16 | 2026-11-01T09:42:13Z |
-| KXNFLRSHYDS-26NOV01PHIWAS-PHITMCKEE16-10 | series:KXNFLRSHYDS | Tanner McKee: 10+ rushing yards | 0.2100 | 0.2200 | 874.00 | 0.7800 | 0.7900 | 521.23 | 2026-11-01T09:42:13Z |
-| KXNFLRSHYDS-26NOV01TENCIN-TENMCARTER35-20 | series:KXNFLRSHYDS | Michael Carter: 20+ rushing yards | 0.3000 | 0.3200 | 3.00 | 0.6800 | 0.7000 | 157.00 | 2026-11-01T09:42:13Z |
-| KXNFLRSHYDS-26NOV01TENCIN-TENMCARTER35-25 | series:KXNFLRSHYDS | Michael Carter: 25+ rushing yards | 0.2100 | 0.2300 | 90.74 | 0.7700 | 0.7900 | 12.00 | 2026-11-01T09:42:13Z |
-| KXNFLSPREAD-26NOV01ARIDAL-DAL8 | series:KXNFLSPREAD | Dallas wins by over 7.5 points? | 0.4700 | 0.4800 | 999653.98 | 0.5200 | 0.5300 | 1611593.73 | 2026-11-01T09:42:17Z |
-| KXNFLSPREAD-26NOV01BALBUF-BUF11 | series:KXNFLSPREAD | Buffalo wins by over 10.5 points? | 0.2300 | 0.2400 | 12664.00 | 0.7600 | 0.7700 | 100692.77 | 2026-11-01T09:42:17Z |
-| KXNFLSPREAD-26NOV01BALBUF-BUF14 | series:KXNFLSPREAD | Buffalo wins by over 13.5 points? | 0.1800 | 0.1900 | 70.01 | 0.8100 | 0.8200 | 137241.76 | 2026-11-01T09:42:17Z |
-| KXNFLSPREAD-26NOV01INDJAC-JAC10 | series:KXNFLSPREAD | Jacksonville wins by over 9.5 points? | 0.5200 | 0.5300 | 538988.54 | 0.4700 | 0.4800 | 560033.82 | 2026-11-01T09:42:17Z |
-| KXNFLSPREAD-26NOV01LVNYJ-NYJ2 | series:KXNFLSPREAD | New York J wins by over 1.5 points? | 0.5000 | 0.5100 | 1107498.88 | 0.4900 | 0.5000 | 64107.69 | 2026-11-01T09:42:17Z |
-| KXNFLSPREAD-26NOV01MINDET-DET11 | series:KXNFLSPREAD | Detroit wins by over 10.5 points? | 0.2400 | 0.2500 | 6953.61 | 0.7500 | 0.7600 | 353404.38 | 2026-11-01T09:42:17Z |
-| KXNFLSPREAD-26NOV01PHIWAS-WAS6 | series:KXNFLSPREAD | Washington wins by over 5.5 points? | 0.5100 | 0.5200 | 1724703.24 | 0.4800 | 0.4900 | 1562409.53 | 2026-11-01T09:42:17Z |
-| KXNFLTD-26NOV01ARIDAL-ARIEHIGGINS84-1 | series:KXNFLTD | Elijah Higgins: 1+ touchdowns | 0.1300 | 0.1400 | 42794.26 | 0.8600 | 0.8700 | 4.39 | 2026-11-01T09:42:14Z |
-| KXNFLTD-26NOV01BALBUF-BALZFLOWERS4-3 | series:KXNFLTD | Zay Flowers: 3+ touchdowns | 0.0100 | 0.0200 | 8005.00 | 0.9800 | 0.9900 | 3802.00 | 2026-11-01T09:42:14Z |
-| KXNFLTD-26NOV01CLEPIT-CLEJJEUDY3-1 | series:KXNFLTD | Jerry Jeudy: 1+ touchdowns | 0.1000 | 0.1100 | 30679.53 | 0.8900 | 0.9000 | 15067.70 | 2026-11-01T09:42:14Z |
-| KXNFLTD-26NOV01INDJAC-JACCRODRIGUEZ24-1 | series:KXNFLTD | Chris Rodriguez Jr.: 1+ touchdowns | 0.2300 | 0.2400 | 14623.53 | 0.7600 | 0.7700 | 10052.00 | 2026-11-01T09:42:14Z |
-| KXNFLTD-26NOV01LVNYJ-NYJBALLEN0-1 | series:KXNFLTD | Braelon Allen: 1+ touchdowns | 0.4500 | 0.4600 | 56582.59 | 0.5400 | 0.5500 | 650.00 | 2026-11-01T09:42:14Z |
-| KXNFLTD-26NOV01PHIWAS-PHIJBLUE30-1 | series:KXNFLTD | Jaydon Blue: 1+ touchdowns | 0.0800 | 0.0900 | 6364.00 | 0.9100 | 0.9200 | 2107.39 | 2026-11-01T09:42:14Z |
-| KXNFLTD-26NOV01TENCIN-TENCDIKE17-1 | series:KXNFLTD | Chimere Dike: 1+ touchdowns | 0.0700 | 0.0800 | 9431.00 | 0.9200 | 0.9300 | 2328.00 | 2026-11-01T09:42:14Z |
-| KXNFLTOTAL-26NOV01ATLTB-44 | series:KXNFLTOTAL | Full Game: over 43.5 points scored? | 0.4800 | 0.4900 | 209622.81 | 0.5100 | 0.5200 | 249328.28 | 2026-11-01T09:42:17Z |
-| KXNFLTOTAL-26NOV01BALBUF-55 | series:KXNFLTOTAL | Full Game: over 54.5 points scored? | 0.4800 | 0.4900 | 490467.03 | 0.5100 | 0.5200 | 566129.87 | 2026-11-01T09:42:17Z |
-| KXNFLTOTAL-26NOV01KCDEN-42 | series:KXNFLTOTAL | Full Game: over 41.5 points scored? | 0.4800 | 0.4900 | 735379.24 | 0.5100 | 0.5200 | 1133917.61 | 2026-11-01T09:42:17Z |
-| KXNFLTOTAL-26NOV01KCDEN-43 | series:KXNFLTOTAL | Full Game: over 42.5 points scored? | 0.4400 | 0.4500 | 160575.65 | 0.5500 | 0.5600 | 108383.72 | 2026-11-01T09:42:17Z |
-| KXNFLTOTAL-26NOV01KCDEN-51 | series:KXNFLTOTAL | Full Game: over 50.5 points scored? | 0.2200 | 0.2300 | 8918.98 | 0.7700 | 0.7800 | 9.93 | 2026-11-01T09:42:17Z |
-| KXNFLTOTAL-26NOV01LVNYJ-46 | series:KXNFLTOTAL | Full Game: over 45.5 points scored? | 0.5200 | 0.5300 | 1903.09 | 0.4700 | 0.4800 | 208818.81 | 2026-11-01T09:42:17Z |
-| KXNFLTOTAL-26NOV01NEMIA-43 | series:KXNFLTOTAL | Full Game: over 42.5 points scored? | 0.4900 | 0.5000 | 1416337.15 | 0.5000 | 0.5100 | 807969.92 | 2026-11-01T09:42:17Z |
-| KXNHLGAME-26NOV01EDMNYR-EDM | series:KXNHLGAME | Edmonton wins | 0.4500 | 0.4600 | 75438.27 | 0.5400 | 0.5500 | 8422.74 | 2026-11-01T09:42:19Z |
-| KXNHLGAME-26NOV01EDMNYR-NYR | series:KXNHLGAME | New York R wins | 0.5200 | 0.5300 | 949.18 | 0.4700 | 0.4800 | 20572.42 | 2026-11-01T09:42:19Z |
-| KXNHLGAME-26NOV01MINWSH-MIN | series:KXNHLGAME | Minnesota wins | 0.5000 | 0.5100 | 92279.76 | 0.4900 | 0.5000 | 13914.52 | 2026-11-01T09:42:19Z |
-| KXNHLGAME-26NOV01UTAPHI-PHI | series:KXNHLGAME | Philadelphia wins | 0.3900 | 0.4000 | 118636.07 | 0.6000 | 0.6100 | 4284.86 | 2026-11-01T09:42:19Z |
-| KXNHLGAME-26NOV01UTAPHI-UTA | series:KXNHLGAME | Utah wins | 0.6000 | 0.6100 | 23615.51 | 0.3900 | 0.4000 | 21946.71 | 2026-11-01T09:42:19Z |
-| KXNHLGAME-26NOV01WPGCAR-CAR | series:KXNHLGAME | Carolina wins | 0.7200 | 0.7300 | 135576.15 | 0.2700 | 0.2800 | 491.40 | 2026-11-01T09:42:19Z |
-| KXNHLGAME-26NOV01WPGCAR-WPG | series:KXNHLGAME | Winnipeg wins | 0.2700 | 0.2800 | 1719.40 | 0.7200 | 0.7300 | 10126.81 | 2026-11-01T09:42:19Z |
-| KXRT-MON-20 | series:KXRT | The Mongoose Rotten Tomatoes score? | 0.9900 | — | — | — | 0.0100 | 3131.13 | 2026-11-01T09:42:21Z |
-| KXRT-MON-45 | series:KXRT | The Mongoose Rotten Tomatoes score? | 0.0100 | 0.0200 | 30324.83 | 0.9800 | 0.9900 | 25792.85 | 2026-11-01T09:42:21Z |
-| KXRT-MON-50 | series:KXRT | The Mongoose Rotten Tomatoes score? | — | 0.0100 | 3395.15 | 0.9900 | — | — | 2026-11-01T09:42:21Z |
-| KXRT-ONL-95 | series:KXRT | The Only Living Pickpocket in New York Rotten Tomatoes score? | 0.9600 | 0.9700 | 16707.00 | 0.0300 | 0.0400 | 8799.00 | 2026-11-01T09:42:21Z |
-| KXRT-ONL-97 | series:KXRT | The Only Living Pickpocket in New York Rotten Tomatoes score? | 0.0200 | 0.0300 | 7976.40 | 0.9700 | 0.9800 | 17313.89 | 2026-11-01T09:42:21Z |
-| KXRT-WIC-92 | series:KXRT | Wicker Rotten Tomatoes score? | 0.9700 | 0.9800 | 26882.00 | 0.0200 | 0.0300 | 4322.98 | 2026-11-01T09:42:21Z |
-| KXRT-WIC-94 | series:KXRT | Wicker Rotten Tomatoes score? | 0.5400 | 0.5800 | 1.00 | 0.4200 | 0.4600 | 1.00 | 2026-11-01T09:42:21Z |
-| KXTOPALBUM-26NOV07-DAM | series:KXTOPALBUM | Will Damascus Road be #1 on the Billboard 200 during the week of  | — | 0.0400 | 1.00 | 0.9600 | — | — | 2026-11-01T09:42:21Z |
-| KXTOPALBUM-26NOV07-DAN | series:KXTOPALBUM | Will DANDELION be #1 on the Billboard 200 during the week of Nov  | — | 0.0600 | 11.00 | 0.9400 | — | — | 2026-11-01T09:42:21Z |
-| KXTOPALBUM-26NOV07-HUN | series:KXTOPALBUM | Will hungover be #1 on the Billboard 200 during the week of Nov 7 | — | 0.0200 | 403.00 | 0.9800 | — | — | 2026-11-01T09:42:21Z |
-| KXTOPALBUM-26NOV07-ONE | series:KXTOPALBUM | Will One Thing At A Time be #1 on the Billboard 200 during the we | — | 0.0100 | 35.06 | 0.9900 | — | — | 2026-11-01T09:42:21Z |
-| KXTOPALBUM-26NOV07-PAL | series:KXTOPALBUM | Will Palace for the People be #1 on the Billboard 200 during the  | — | 0.0100 | 3.00 | 0.9900 | — | — | 2026-11-01T09:42:21Z |
-| KXTOPALBUM-26NOV07-THR | series:KXTOPALBUM | Will Thriller be #1 on the Billboard 200 during the week of Nov 7 | — | 0.0800 | 11.00 | 0.9200 | — | — | 2026-11-01T09:42:21Z |
-| KXTOPALBUM-26NOV07-YOU | series:KXTOPALBUM | Will you seem pretty sad for a girl so in love be #1 on the Billb | 0.0100 | 0.0500 | 1.00 | 0.9500 | 0.9900 | 1101.50 | 2026-11-01T09:42:21Z |
+| KXNFLGAME-26NOV01BALBUF-BAL | watchlist_event | Baltimore wins | 0.3800 | 0.3900 | 832754.09 | 0.6100 | 0.6200 | 179602.83 | 2026-11-01T10:21:33Z |
+| KXNFLGAME-26NOV01BALBUF-BUF | watchlist_event | Buffalo wins | 0.6100 | 0.6200 | 779640.05 | 0.3800 | 0.3900 | 32828.45 | 2026-11-01T10:21:33Z |
+| KXATPGSPREAD-26NOV01DEALC-ALC2 | series:KXATPGSPREAD | Will Carlos Alcaraz win at least 1.5 more games than Alex de Mina | 0.7300 | 0.7800 | 760.00 | 0.2200 | 0.2700 | 1.00 | 2026-11-01T10:21:37Z |
+| KXATPGSPREAD-26NOV01DEALC-ALC5 | series:KXATPGSPREAD | Will Carlos Alcaraz win at least 4.5 more games than Alex de Mina | 0.4500 | 0.4600 | 576.98 | 0.5400 | 0.5500 | 251.07 | 2026-11-01T10:21:37Z |
+| KXATPGSPREAD-26NOV01HALFER-HAL3 | series:KXATPGSPREAD | Will Quentin Halys win at least 2.5 more games than Arthur Fery? | 0.4400 | 0.4700 | 0.01 | 0.5300 | 0.5600 | 0.02 | 2026-11-01T10:21:38Z |
+| KXATPGSPREAD-26NOV01LEHVAC-LEH3 | series:KXATPGSPREAD | Will Jiri Lehecka win at least 2.5 more games than Valentin Vache | 0.4500 | 0.4700 | 424.12 | 0.5300 | 0.5500 | 5158.48 | 2026-11-01T10:21:37Z |
+| KXATPGSPREAD-26NOV01NAKBER-NAK3 | series:KXATPGSPREAD | Will Brandon Nakashima win at least 2.5 more games than Matteo Be | 0.4100 | 0.4400 | 0.01 | 0.5600 | 0.5900 | 0.02 | 2026-11-01T10:21:37Z |
+| KXATPGSPREAD-26NOV01PAURUN-PAU4 | series:KXATPGSPREAD | Will Tommy Paul win at least 3.5 more games than Holger Rune? | 0.4300 | 0.4900 | 12.00 | 0.5100 | 0.5700 | 1.00 | 2026-11-01T10:21:38Z |
+| KXATPGSPREAD-26NOV01RUBETC-RUB4 | series:KXATPGSPREAD | Will Andrey Rublev win at least 3.5 more games than Tomas Martin  | 0.4300 | 0.4600 | 0.01 | 0.5400 | 0.5700 | 0.02 | 2026-11-01T10:21:37Z |
+| KXF1H2H-MEX26ANTVER-ANT | series:KXF1H2H | Will Andrea Kimi Antonelli beat Max Verstappen in the Mexico City | 0.4200 | 0.4800 | 200.00 | 0.5200 | 0.5800 | 20.00 | 2026-11-01T10:21:36Z |
+| KXF1H2H-MEX26ANTVER-VER | series:KXF1H2H | Will Max Verstappen beat Andrea Kimi Antonelli in the Mexico City | 0.5300 | 0.6000 | 5.00 | 0.4000 | 0.4700 | 6.00 | 2026-11-01T10:21:37Z |
+| KXF1H2H-MEX26GASHUL-GAS | series:KXF1H2H | Will Pierre Gasly beat Nico Hulkenberg in the Mexico City Grand P | 0.5700 | 0.6400 | 10.00 | 0.3600 | 0.4300 | 6.52 | 2026-11-01T10:21:37Z |
+| KXF1H2H-MEX26HAMLEC-LEC | series:KXF1H2H | Will Charles Leclerc beat Lewis Hamilton in the Mexico City Grand | 0.3100 | 0.3600 | 6.00 | 0.6400 | 0.6900 | 5.00 | 2026-11-01T10:21:37Z |
+| KXF1H2H-MEX26LAWLIN-LAW | series:KXF1H2H | Will Liam Lawson beat Arvid Lindblad in the Mexico City Grand Pri | 0.1400 | 0.1800 | 5.00 | 0.8200 | 0.8600 | 6.00 | 2026-11-01T10:21:36Z |
+| KXF1H2H-MEX26PIAGAS-GAS | series:KXF1H2H | Will Pierre Gasly beat Oscar Piastri in the Mexico City Grand Pri | 0.2000 | 0.2800 | 5.00 | 0.7200 | 0.8000 | 200.00 | 2026-11-01T10:21:37Z |
+| KXF1H2H-MEX26VERNOR-VER | series:KXF1H2H | Will Max Verstappen beat Lando Norris in the Mexico City Grand Pr | 0.6300 | 0.7100 | 5.00 | 0.2900 | 0.3700 | 3.97 | 2026-11-01T10:21:37Z |
+| KXF1RACEPODIUM-MEX26-ANT | series:KXF1RACEPODIUM | Main Race: Andrea Kimi Antonelli to finish top 3 | 0.5300 | 0.5500 | 2324.67 | 0.4500 | 0.4700 | 84.46 | 2026-11-01T10:21:36Z |
+| KXF1RACEPODIUM-MEX26-HAM | series:KXF1RACEPODIUM | Main Race: Lewis Hamilton to finish top 3 | 0.6900 | 0.7100 | 6.85 | 0.2900 | 0.3100 | 16.00 | 2026-11-01T10:21:36Z |
+| KXF1RACEPODIUM-MEX26-LEC | series:KXF1RACEPODIUM | Main Race: Charles Leclerc to finish top 3 | 0.5800 | 0.6400 | 5.00 | 0.3600 | 0.4200 | 84.00 | 2026-11-01T10:21:36Z |
+| KXF1RACEPODIUM-MEX26-NOR | series:KXF1RACEPODIUM | Main Race: Lando Norris to finish top 3 | 0.1500 | 0.1700 | 722.58 | 0.8300 | 0.8500 | 96.00 | 2026-11-01T10:21:36Z |
+| KXF1RACEPODIUM-MEX26-PIA | series:KXF1RACEPODIUM | Main Race: Oscar Piastri to finish top 3 | 0.0100 | 0.0400 | 100.00 | 0.9600 | 0.9900 | 2647.00 | 2026-11-01T10:21:36Z |
+| KXF1RACEPODIUM-MEX26-RUS | series:KXF1RACEPODIUM | Main Race: George Russell to finish top 3 | 0.5300 | 0.5500 | 10.60 | 0.4500 | 0.4700 | 85.00 | 2026-11-01T10:21:36Z |
+| KXF1RACEPODIUM-MEX26-VER | series:KXF1RACEPODIUM | Main Race: Max Verstappen to finish top 3 | 0.5100 | 0.5200 | 8.99 | 0.4800 | 0.4900 | 35.01 | 2026-11-01T10:21:36Z |
+| KXHIGHCHI-26NOV01-B64.5 | series:KXHIGHCHI | Will the maximum temperature be 64-65° on Nov 1, 2026? | 0.3900 | 0.4000 | 151.01 | 0.6000 | 0.6100 | 15.00 | 2026-11-01T10:21:38Z |
+| KXHIGHCHI-26NOV01-B66.5 | series:KXHIGHCHI | Will the maximum temperature be 66-67° on Nov 1, 2026? | 0.1600 | 0.1700 | 96.73 | 0.8300 | 0.8400 | 27.30 | 2026-11-01T10:21:38Z |
+| KXHIGHCHI-26NOV01-B68.5 | series:KXHIGHCHI | Will the maximum temperature be 68-69° on Nov 1, 2026? | 0.0200 | 0.0300 | 93.00 | 0.9700 | 0.9800 | 405.00 | 2026-11-01T10:21:38Z |
+| KXHIGHCHI-26NOV01-B70.5 | series:KXHIGHCHI | Will the maximum temperature be 70-71° on Nov 1, 2026? | — | 0.0200 | 950.03 | 0.9800 | — | — | 2026-11-01T10:21:38Z |
+| KXHIGHCHI-26NOV01-T64 | series:KXHIGHCHI | Will the maximum temperature be <64° on Nov 1, 2026? | 0.4100 | 0.4200 | 2.24 | 0.5800 | 0.5900 | 159.00 | 2026-11-01T10:21:38Z |
+| KXHIGHCHI-26NOV01-T71 | series:KXHIGHCHI | Will the maximum temperature be >71° on Nov 1, 2026? | — | 0.0100 | 818.16 | 0.9900 | — | — | 2026-11-01T10:21:38Z |
+| KXHIGHTATL-26NOV01-B64.5 | series:KXHIGHTATL | Will the maximum temperature be 64-65° on Nov 1, 2026? | 0.0300 | 0.0400 | 76.00 | 0.9600 | 0.9700 | 83.28 | 2026-11-01T10:21:38Z |
+| KXHIGHTATL-26NOV01-B66.5 | series:KXHIGHTATL | Will the maximum temperature be 66-67° on Nov 1, 2026? | 0.0100 | 0.0200 | 125.00 | 0.9800 | 0.9900 | 46.95 | 2026-11-01T10:21:38Z |
+| KXHIGHTATL-26NOV01-B68.5 | series:KXHIGHTATL | Will the maximum temperature be 68-69° on Nov 1, 2026? | — | 0.0100 | 158.00 | 0.9900 | — | — | 2026-11-01T10:21:38Z |
+| KXHIGHTATL-26NOV01-B70.5 | series:KXHIGHTATL | Will the maximum temperature be 70-71° on Nov 1, 2026? | — | 0.0100 | 159.00 | 0.9900 | — | — | 2026-11-01T10:21:38Z |
+| KXHIGHTATL-26NOV01-T64 | series:KXHIGHTATL | Will the maximum temperature be <64° on Nov 1, 2026? | 0.9200 | 0.9500 | 200.23 | 0.0500 | 0.0800 | 10.00 | 2026-11-01T10:21:38Z |
+| KXHIGHTATL-26NOV01-T71 | series:KXHIGHTATL | Will the maximum temperature be >71° on Nov 1, 2026? | — | 0.0100 | 3147.00 | 0.9900 | — | — | 2026-11-01T10:21:38Z |
+| KXHIGHTMIN-26NOV01-B64.5 | series:KXHIGHTMIN | Will the maximum temperature be 64-65° on Nov 1, 2026? | 0.0300 | 0.0400 | 206.00 | 0.9600 | 0.9700 | 7.00 | 2026-11-01T10:21:38Z |
+| KXHIGHTMIN-26NOV01-B66.5 | series:KXHIGHTMIN | Will the maximum temperature be 66-67° on Nov 1, 2026? | 0.0800 | 0.1000 | 50.46 | 0.9000 | 0.9200 | 47.50 | 2026-11-01T10:21:38Z |
+| KXHIGHTMIN-26NOV01-B68.5 | series:KXHIGHTMIN | Will the maximum temperature be 68-69° on Nov 1, 2026? | 0.5000 | 0.5200 | 10.00 | 0.4800 | 0.5000 | 44.00 | 2026-11-01T10:21:38Z |
+| KXHIGHTMIN-26NOV01-B70.5 | series:KXHIGHTMIN | Will the maximum temperature be 70-71° on Nov 1, 2026? | 0.3300 | 0.3600 | 94.00 | 0.6400 | 0.6700 | 8.00 | 2026-11-01T10:21:38Z |
+| KXHIGHTMIN-26NOV01-T64 | series:KXHIGHTMIN | Will the maximum temperature be <64° on Nov 1, 2026? | 0.0100 | 0.0200 | 975.00 | 0.9800 | 0.9900 | 17.85 | 2026-11-01T10:21:38Z |
+| KXHIGHTMIN-26NOV01-T71 | series:KXHIGHTMIN | Will the maximum temperature be >71° on Nov 1, 2026? | 0.0200 | 0.0300 | 165.65 | 0.9700 | 0.9800 | 121.00 | 2026-11-01T10:21:38Z |
+| KXNBA3PT-26NOV01BKNIND-INDANESMITH23-2 | series:KXNBA3PT | Aaron Nesmith: 2+ threes | 0.5200 | 0.5500 | 10.00 | 0.4500 | 0.4800 | 510.77 | 2026-11-01T10:21:35Z |
+| KXNBA3PT-26NOV01LACGSW-GSWDMELTON8-3 | series:KXNBA3PT | De'Anthony Melton: 3+ threes | 0.0800 | 0.2600 | 29.00 | 0.7400 | 0.9200 | 2.00 | 2026-11-01T10:21:35Z |
+| KXNBA3PT-26NOV01LACGSW-GSWYLENDEBORG1-3 | series:KXNBA3PT | Yaxel Lendeborg: 3+ threes | 0.2900 | 0.3300 | 47.00 | 0.6700 | 0.7100 | 11.00 | 2026-11-01T10:21:35Z |
+| KXNBA3PT-26NOV01TORLAL-LALAREAVES15-2 | series:KXNBA3PT | Austin Reaves: 2+ threes | 0.6000 | 0.6200 | 3175.00 | 0.3800 | 0.4000 | 23.00 | 2026-11-01T10:21:35Z |
+| KXNBA3PT-26NOV01TORLAL-LALAREAVES15-3 | series:KXNBA3PT | Austin Reaves: 3+ threes | 0.3500 | 0.3800 | 896.00 | 0.6200 | 0.6500 | 35.00 | 2026-11-01T10:21:35Z |
+| KXNBA3PT-26NOV01TORLAL-LALLDONCIC77-5 | series:KXNBA3PT | Luka Dončić: 5+ threes | 0.4400 | 0.4700 | 467.64 | 0.5300 | 0.5600 | 81.36 | 2026-11-01T10:21:35Z |
+| KXNBA3PT-26NOV01TORLAL-TORRBARRETT9-4 | series:KXNBA3PT | RJ Barrett: 4+ threes | — | 0.1100 | 77.00 | 0.8900 | — | — | 2026-11-01T10:21:35Z |
+| KXNBAAST-26NOV01BKNIND-INDANESMITH23-2 | series:KXNBAAST | Aaron Nesmith: 2+ assists | 0.4500 | 0.4900 | 7.00 | 0.5100 | 0.5500 | 12.00 | 2026-11-01T10:21:35Z |
+| KXNBAAST-26NOV01BOSORL-ORLABLACK0-6 | series:KXNBAAST | Anthony Black: 6+ assists | 0.2000 | 0.2300 | 69.82 | 0.7700 | 0.8000 | 10.00 | 2026-11-01T10:21:35Z |
+| KXNBAAST-26NOV01BOSORL-ORLDBANE3-4 | series:KXNBAAST | Desmond Bane: 4+ assists | 0.5400 | 0.5500 | 42.00 | 0.4500 | 0.4600 | 57.00 | 2026-11-01T10:21:35Z |
+| KXNBAAST-26NOV01BOSORL-ORLFWAGNER22-6 | series:KXNBAAST | Franz Wagner: 6+ assists | 0.5900 | 0.6100 | 439.00 | 0.3900 | 0.4100 | 53.00 | 2026-11-01T10:21:35Z |
+| KXNBAAST-26NOV01LACGSW-LACDGARLAND10-8 | series:KXNBAAST | Darius Garland: 8+ assists | 0.4400 | 0.4700 | 213.00 | 0.5300 | 0.5600 | 109.00 | 2026-11-01T10:21:35Z |
+| KXNBAAST-26NOV01TORLAL-LALLDONCIC77-6 | series:KXNBAAST | Luka Dončić: 6+ assists | 0.7000 | 0.7500 | 15.00 | 0.2500 | 0.3000 | 15.00 | 2026-11-01T10:21:35Z |
+| KXNBAAST-26NOV01TORLAL-LALLDONCIC77-8 | series:KXNBAAST | Luka Dončić: 8+ assists | 0.4400 | 0.4500 | 3851.00 | 0.5500 | 0.5600 | 2.00 | 2026-11-01T10:21:35Z |
+| KXNBAGAME-26NOV01BKNIND-BKN | series:KXNBAGAME | Brooklyn wins | 0.3900 | 0.4000 | 5116.41 | 0.6000 | 0.6100 | 14849.45 | 2026-11-01T10:21:35Z |
+| KXNBAGAME-26NOV01BKNIND-IND | series:KXNBAGAME | Indiana wins | 0.6000 | 0.6100 | 53561.33 | 0.3900 | 0.4000 | 149.37 | 2026-11-01T10:21:35Z |
+| KXNBAGAME-26NOV01BOSORL-BOS | series:KXNBAGAME | Boston wins | 0.6900 | 0.7000 | 1803.96 | 0.3000 | 0.3100 | 14047.75 | 2026-11-01T10:21:35Z |
+| KXNBAGAME-26NOV01BOSORL-ORL | series:KXNBAGAME | Orlando wins | 0.3000 | 0.3100 | 266521.44 | 0.6900 | 0.7000 | 588.32 | 2026-11-01T10:21:35Z |
+| KXNBAGAME-26NOV01LACGSW-GSW | series:KXNBAGAME | Golden State wins | 0.5500 | 0.5700 | 60995.66 | 0.4300 | 0.4500 | 15822.00 | 2026-11-01T10:21:35Z |
+| KXNBAGAME-26NOV01LACGSW-LAC | series:KXNBAGAME | Los Angeles C wins | 0.4400 | 0.4500 | 70347.69 | 0.5500 | 0.5600 | 15.97 | 2026-11-01T10:21:35Z |
+| KXNBAGAME-26NOV01TORLAL-LAL | series:KXNBAGAME | Los Angeles L wins | 0.6200 | 0.6300 | 4181.73 | 0.3700 | 0.3800 | 8079.54 | 2026-11-01T10:21:35Z |
+| KXNBAPTS-26NOV01BOSORL-BOSJTATUM0-30 | series:KXNBAPTS | Jayson Tatum: 30+ points | 0.3400 | 0.3600 | 40.00 | 0.6400 | 0.6600 | 1.00 | 2026-11-01T10:21:34Z |
+| KXNBAPTS-26NOV01BOSORL-BOSPGEORGE13-10 | series:KXNBAPTS | Paul George: 10+ points | 0.7900 | 0.8800 | 18.00 | 0.1200 | 0.2100 | 7.00 | 2026-11-01T10:21:34Z |
+| KXNBAPTS-26NOV01LACGSW-GSWYLENDEBORG1-30 | series:KXNBAPTS | Yaxel Lendeborg: 30+ points | 0.0500 | 0.1700 | 2.00 | 0.8300 | 0.9500 | 11.00 | 2026-11-01T10:21:34Z |
+| KXNBAPTS-26NOV01LACGSW-LACRHACHIMURA28-15 | series:KXNBAPTS | Rui Hachimura: 15+ points | 0.5200 | 0.5300 | 368.00 | 0.4700 | 0.4800 | 58.00 | 2026-11-01T10:21:34Z |
+| KXNBAPTS-26NOV01LACGSW-LACRHACHIMURA28-20 | series:KXNBAPTS | Rui Hachimura: 20+ points | 0.1700 | 0.2000 | 25.00 | 0.8000 | 0.8300 | 99.00 | 2026-11-01T10:21:34Z |
+| KXNBAPTS-26NOV01TORLAL-LALLDONCIC77-35 | series:KXNBAPTS | Luka Dončić: 35+ points | 0.4700 | 0.4800 | 32.00 | 0.5200 | 0.5300 | 68.48 | 2026-11-01T10:21:34Z |
+| KXNBAPTS-26NOV01TORLAL-TORSBARNES4-15 | series:KXNBAPTS | Scottie Barnes: 15+ points | 0.7800 | 0.8400 | 2.00 | 0.1600 | 0.2200 | 2.00 | 2026-11-01T10:21:34Z |
+| KXNBAREB-26NOV01BKNIND-BKNJRANDLE30-8 | series:KXNBAREB | Julius Randle: 8+ rebounds | 0.4300 | 0.4500 | 1868.00 | 0.5500 | 0.5700 | 70.16 | 2026-11-01T10:21:35Z |
+| KXNBAREB-26NOV01BOSORL-BOSDWHITE9-2 | series:KXNBAREB | Derrick White: 2+ rebounds | 0.8100 | 0.8600 | 7.00 | 0.1400 | 0.1900 | 7.00 | 2026-11-01T10:21:35Z |
+| KXNBAREB-26NOV01BOSORL-BOSPGEORGE13-4 | series:KXNBAREB | Paul George: 4+ rebounds | 0.6600 | 0.6800 | 226.19 | 0.3200 | 0.3400 | 37.00 | 2026-11-01T10:21:34Z |
+| KXNBAREB-26NOV01LACGSW-LACRHACHIMURA28-4 | series:KXNBAREB | Rui Hachimura: 4+ rebounds | 0.6000 | 0.6600 | 217.00 | 0.3400 | 0.4000 | 11.00 | 2026-11-01T10:21:34Z |
+| KXNBAREB-26NOV01TORLAL-TORIQUICKLEY5-2 | series:KXNBAREB | Immanuel Quickley: 2+ rebounds | 0.7000 | 0.8000 | 2.00 | 0.2000 | 0.3000 | 11.00 | 2026-11-01T10:21:35Z |
+| KXNBAREB-26NOV01TORLAL-TORIQUICKLEY5-4 | series:KXNBAREB | Immanuel Quickley: 4+ rebounds | 0.4400 | 0.4500 | 38.00 | 0.5500 | 0.5600 | 22.00 | 2026-11-01T10:21:35Z |
+| KXNBAREB-26NOV01TORLAL-TORRBARRETT9-6 | series:KXNBAREB | RJ Barrett: 6+ rebounds | 0.3900 | 0.4200 | 28.00 | 0.5800 | 0.6100 | 114.00 | 2026-11-01T10:21:35Z |
+| KXNBASPREAD-26NOV01BKNIND-IND4 | series:KXNBASPREAD | Indiana wins by over 3.5 points | 0.4900 | 0.5100 | 1764.00 | 0.4900 | 0.5100 | 2670.40 | 2026-11-01T10:21:36Z |
+| KXNBASPREAD-26NOV01BOSORL-BOS10 | series:KXNBASPREAD | Boston wins by over 9.5 points | 0.3900 | 0.4100 | 1565.00 | 0.5900 | 0.6100 | 363.00 | 2026-11-01T10:21:36Z |
+| KXNBASPREAD-26NOV01BOSORL-BOS25 | series:KXNBASPREAD | Boston wins by over 24.5 points | 0.0800 | 0.0900 | 5.00 | 0.9100 | 0.9200 | 3072.40 | 2026-11-01T10:21:36Z |
+| KXNBASPREAD-26NOV01BOSORL-BOS7 | series:KXNBASPREAD | Boston wins by over 6.5 points | 0.5000 | 0.5200 | 6080.89 | 0.4800 | 0.5000 | 10277.80 | 2026-11-01T10:21:36Z |
+| KXNBASPREAD-26NOV01LACGSW-GSW3 | series:KXNBASPREAD | Golden State wins by over 2.5 points | 0.4900 | 0.5100 | 1800.89 | 0.4900 | 0.5100 | 466.40 | 2026-11-01T10:21:36Z |
+| KXNBASPREAD-26NOV01TORLAL-LAL4 | series:KXNBASPREAD | Los Angeles L wins by over 3.5 points | 0.5300 | 0.5500 | 1967.35 | 0.4500 | 0.4700 | 1803.00 | 2026-11-01T10:21:36Z |
+| KXNBASPREAD-26NOV01TORLAL-LAL5 | series:KXNBASPREAD | Los Angeles L wins by over 4.5 points | 0.4900 | 0.5100 | 7936.71 | 0.4900 | 0.5100 | 2035.00 | 2026-11-01T10:21:36Z |
+| KXNBATOTAL-26NOV01BKNIND-231 | series:KXNBATOTAL | Full Game: Over 230.5 points scored | 0.4900 | 0.5000 | 524.00 | 0.5000 | 0.5100 | 364.00 | 2026-11-01T10:21:36Z |
+| KXNBATOTAL-26NOV01BOSORL-199 | series:KXNBATOTAL | Full Game: Over 198.5 points scored | 0.9000 | 0.9400 | 2983.00 | 0.0600 | 0.1000 | 2057.00 | 2026-11-01T10:21:36Z |
+| KXNBATOTAL-26NOV01BOSORL-209 | series:KXNBATOTAL | Full Game: Over 208.5 points scored | 0.7700 | 0.8100 | 2255.00 | 0.1900 | 0.2300 | 479.00 | 2026-11-01T10:21:36Z |
+| KXNBATOTAL-26NOV01BOSORL-223 | series:KXNBATOTAL | Full Game: Over 222.5 points scored | 0.4900 | 0.5000 | 17464.32 | 0.5000 | 0.5100 | 5748.40 | 2026-11-01T10:21:36Z |
+| KXNBATOTAL-26NOV01BOSORL-225 | series:KXNBATOTAL | Full Game: Over 224.5 points scored | 0.4400 | 0.4500 | 13850.00 | 0.5500 | 0.5600 | 5424.40 | 2026-11-01T10:21:36Z |
+| KXNBATOTAL-26NOV01LACGSW-220 | series:KXNBATOTAL | Full Game: Over 219.5 points scored | 0.4800 | 0.5000 | 3803.00 | 0.5000 | 0.5200 | 22882.00 | 2026-11-01T10:21:36Z |
+| KXNBATOTAL-26NOV01TORLAL-228 | series:KXNBATOTAL | Full Game: Over 227.5 points scored | 0.4900 | 0.5000 | 18934.37 | 0.5000 | 0.5100 | 3478.37 | 2026-11-01T10:21:36Z |
+| KXNFLGAME-26NOV01LVNYJ-LV | series:KXNFLGAME | Las Vegas wins | 0.4600 | 0.4700 | 1485303.84 | 0.5300 | 0.5400 | 113797.03 | 2026-11-01T10:21:35Z |
+| KXNFLGAME-26NOV01LVNYJ-NYJ | series:KXNFLGAME | New York J wins | 0.5300 | 0.5400 | 1547826.76 | 0.4600 | 0.4700 | 140698.78 | 2026-11-01T10:21:35Z |
+| KXNFLGAME-26NOV01MINDET-DET | series:KXNFLGAME | Detroit wins | 0.6200 | 0.6300 | 1722051.54 | 0.3700 | 0.3800 | 403493.76 | 2026-11-01T10:21:35Z |
+| KXNFLGAME-26NOV01MINDET-MIN | series:KXNFLGAME | Minnesota wins | 0.3700 | 0.3800 | 1614793.63 | 0.6200 | 0.6300 | 163642.28 | 2026-11-01T10:21:35Z |
+| KXNFLGAME-26NOV01TENCIN-TEN | series:KXNFLGAME | Tennessee wins | 0.1300 | 0.1400 | 1476300.59 | 0.8600 | 0.8700 | 58962.45 | 2026-11-01T10:21:35Z |
+| KXNFLPASSTDS-26NOV01BALBUF-BALLJACKSON8-2 | series:KXNFLPASSTDS | Lamar Jackson: 2+ passing touchdowns | 0.4900 | 0.5000 | 1895.24 | 0.5000 | 0.5100 | 310.10 | 2026-11-01T10:21:34Z |
+| KXNFLPASSTDS-26NOV01BALBUF-BALLJACKSON8-3 | series:KXNFLPASSTDS | Lamar Jackson: 3+ passing touchdowns | 0.2000 | 0.2200 | 1.69 | 0.7800 | 0.8000 | 110.00 | 2026-11-01T10:21:34Z |
+| KXNFLPASSTDS-26NOV01BALBUF-BUFJALLEN17-2 | series:KXNFLPASSTDS | Josh Allen: 2+ passing touchdowns | 0.5400 | 0.5500 | 1768.01 | 0.4500 | 0.4600 | 637.16 | 2026-11-01T10:21:34Z |
+| KXNFLPASSTDS-26NOV01CLEPIT-PITARODGERS8-2 | series:KXNFLPASSTDS | Aaron Rodgers: 2+ passing touchdowns | 0.4100 | 0.4200 | 2098.00 | 0.5800 | 0.5900 | 5889.09 | 2026-11-01T10:21:34Z |
+| KXNFLPASSTDS-26NOV01KCDEN-KCPMAHOMES15-2 | series:KXNFLPASSTDS | Patrick Mahomes: 2+ passing touchdowns | 0.3600 | 0.3700 | 147.00 | 0.6300 | 0.6400 | 875.00 | 2026-11-01T10:21:34Z |
+| KXNFLPASSTDS-26NOV01NEMIA-NEDMAYE10-2 | series:KXNFLPASSTDS | Drake Maye: 2+ passing touchdowns | 0.5400 | 0.5500 | 6220.00 | 0.4500 | 0.4600 | 761.00 | 2026-11-01T10:21:34Z |
+| KXNFLPASSTDS-26NOV01NEMIA-NEDMAYE10-3 | series:KXNFLPASSTDS | Drake Maye: 3+ passing touchdowns | 0.2300 | 0.2400 | 67.00 | 0.7600 | 0.7700 | 75.00 | 2026-11-01T10:21:34Z |
+| KXNFLPASSYDS-26NOV01ARIDAL-DALDPRESCOTT4-275 | series:KXNFLPASSYDS | Dak Prescott: 275+ passing yards | 0.4500 | 0.4600 | 9746.65 | 0.5400 | 0.5500 | 3363.32 | 2026-11-01T10:21:33Z |
+| KXNFLPASSYDS-26NOV01ATLTB-ATLMPENIX9-225 | series:KXNFLPASSYDS | Michael Penix Jr.: 225+ passing yards | 0.5100 | 0.5200 | 2922.00 | 0.4800 | 0.4900 | 300.30 | 2026-11-01T10:21:33Z |
+| KXNFLPASSYDS-26NOV01LVNYJ-LVKCOUSINS8-225 | series:KXNFLPASSYDS | Kirk Cousins: 225+ passing yards | 0.5500 | 0.5600 | 8251.09 | 0.4400 | 0.4500 | 123.28 | 2026-11-01T10:21:33Z |
+| KXNFLPASSYDS-26NOV01LVNYJ-LVKCOUSINS8-250 | series:KXNFLPASSYDS | Kirk Cousins: 250+ passing yards | 0.3700 | 0.3800 | 11.08 | 0.6200 | 0.6300 | 1209.92 | 2026-11-01T10:21:33Z |
+| KXNFLPASSYDS-26NOV01MINDET-DETJGOFF16-250 | series:KXNFLPASSYDS | Jared Goff: 250+ passing yards | 0.5100 | 0.5200 | 7859.09 | 0.4800 | 0.4900 | 1995.00 | 2026-11-01T10:21:33Z |
+| KXNFLPASSYDS-26NOV01PHIWAS-WASJDANIELS5-250 | series:KXNFLPASSYDS | Jayden Daniels: 250+ passing yards | 0.2200 | 0.2400 | 1381.00 | 0.7600 | 0.7800 | 35.00 | 2026-11-01T10:21:33Z |
+| KXNFLPASSYDS-26NOV01TENCIN-CINJBURROW9-300 | series:KXNFLPASSYDS | Joe Burrow: 300+ passing yards | 0.3600 | 0.3700 | 4383.00 | 0.6300 | 0.6400 | 407.27 | 2026-11-01T10:21:33Z |
+| KXNFLREC-26NOV01ATLTB-ATLZBRANCH17-2 | series:KXNFLREC | Zachariah Branch: 2+ receptions | 0.4000 | 0.4100 | 2524.00 | 0.5900 | 0.6000 | 3326.00 | 2026-11-01T10:21:34Z |
+| KXNFLREC-26NOV01ATLTB-TBTJOHNSON15-3 | series:KXNFLREC | Tez Johnson: 3+ receptions | 0.4200 | 0.4300 | 1981.00 | 0.5700 | 0.5800 | 2571.34 | 2026-11-01T10:21:34Z |
+| KXNFLREC-26NOV01INDJAC-JACTHUNTER12-2 | series:KXNFLREC | Travis Hunter: 2+ receptions | 0.5600 | 0.5700 | 6529.25 | 0.4300 | 0.4400 | 5610.03 | 2026-11-01T10:21:34Z |
+| KXNFLREC-26NOV01INDJAC-JACTHUNTER12-3 | series:KXNFLREC | Travis Hunter: 3+ receptions | 0.3200 | 0.3500 | 4507.00 | 0.6500 | 0.6800 | 12.28 | 2026-11-01T10:21:34Z |
+| KXNFLREC-26NOV01KCDEN-KCNGRAY83-2 | series:KXNFLREC | Noah Gray: 2+ receptions | 0.4700 | 0.4800 | 385.75 | 0.5200 | 0.5300 | 1245.00 | 2026-11-01T10:21:34Z |
+| KXNFLREC-26NOV01PHIWAS-PHIMBROWN0-2 | series:KXNFLREC | Hollywood Brown: 2+ receptions | 0.6000 | 0.6100 | 2919.00 | 0.3900 | 0.4000 | 144.00 | 2026-11-01T10:21:34Z |
+| KXNFLREC-26NOV01TENCIN-TENWROBINSON4-6 | series:KXNFLREC | Wan'Dale Robinson: 6+ receptions | 0.4500 | 0.4600 | 284.00 | 0.5400 | 0.5500 | 1129.00 | 2026-11-01T10:21:34Z |
+| KXNFLRECYDS-26NOV01ARIDAL-ARIEHIGGINS84-25 | series:KXNFLRECYDS | Elijah Higgins: 25+ receiving yards | 0.3400 | 0.3700 | 1095.00 | 0.6300 | 0.6600 | 309.00 | 2026-11-01T10:21:33Z |
+| KXNFLRECYDS-26NOV01ATLTB-TBTJOHNSON15-30 | series:KXNFLRECYDS | Tez Johnson: 30+ receiving yards | 0.5200 | 0.5300 | 2542.78 | 0.4700 | 0.4800 | 250.00 | 2026-11-01T10:21:33Z |
+| KXNFLRECYDS-26NOV01INDJAC-INDTWARREN84-40 | series:KXNFLRECYDS | Tyler Warren: 40+ receiving yards | 0.5100 | 0.5200 | 3052.86 | 0.4800 | 0.4900 | 428.92 | 2026-11-01T10:21:33Z |
+| KXNFLRECYDS-26NOV01KCDEN-KCNGRAY83-15 | series:KXNFLRECYDS | Noah Gray: 15+ receiving yards | 0.4900 | 0.5000 | 755.77 | 0.5000 | 0.5100 | 1404.30 | 2026-11-01T10:21:33Z |
+| KXNFLRECYDS-26NOV01MINDET-MINAJONES33-15 | series:KXNFLRECYDS | Aaron Jones Sr.: 15+ receiving yards | 0.3500 | 0.3700 | 349.00 | 0.6300 | 0.6500 | 57.00 | 2026-11-01T10:21:34Z |
+| KXNFLRECYDS-26NOV01PHIWAS-PHIMBROWN0-20 | series:KXNFLRECYDS | Hollywood Brown: 20+ receiving yards | 0.5400 | 0.5600 | 116.00 | 0.4400 | 0.4600 | 94.95 | 2026-11-01T10:21:34Z |
+| KXNFLRECYDS-26NOV01PHIWAS-PHIMBROWN0-25 | series:KXNFLRECYDS | Hollywood Brown: 25+ receiving yards | 0.4500 | 0.4800 | 350.00 | 0.5200 | 0.5500 | 2301.41 | 2026-11-01T10:21:33Z |
+| KXNFLRSHYDS-26NOV01BALBUF-BUFRDAVIS7-25 | series:KXNFLRSHYDS | Ray Davis: 25+ rushing yards | 0.0700 | 0.0900 | 1750.00 | 0.9100 | 0.9300 | 125.00 | 2026-11-01T10:21:33Z |
+| KXNFLRSHYDS-26NOV01CLEPIT-CLEDSAMPSON22-15 | series:KXNFLRSHYDS | Dylan Sampson: 15+ rushing yards | 0.4100 | 0.4200 | 2234.00 | 0.5800 | 0.5900 | 1841.00 | 2026-11-01T10:21:33Z |
+| KXNFLRSHYDS-26NOV01LVNYJ-LVAJEANTY2-50 | series:KXNFLRSHYDS | Ashton Jeanty: 50+ rushing yards | 0.5100 | 0.5200 | 14262.98 | 0.4800 | 0.4900 | 1467.37 | 2026-11-01T10:21:33Z |
+| KXNFLRSHYDS-26NOV01LVNYJ-LVMWASHINGTON4-30 | series:KXNFLRSHYDS | Mike Washington Jr.: 30+ rushing yards | 0.5200 | 0.5300 | 2128.00 | 0.4700 | 0.4800 | 1520.16 | 2026-11-01T10:21:33Z |
+| KXNFLRSHYDS-26NOV01PHIWAS-PHITMCKEE16-10 | series:KXNFLRSHYDS | Tanner McKee: 10+ rushing yards | 0.2100 | 0.2200 | 1274.00 | 0.7800 | 0.7900 | 521.23 | 2026-11-01T10:21:33Z |
+| KXNFLRSHYDS-26NOV01TENCIN-TENMCARTER35-20 | series:KXNFLRSHYDS | Michael Carter: 20+ rushing yards | 0.3000 | 0.3200 | 3.00 | 0.6800 | 0.7000 | 157.00 | 2026-11-01T10:21:33Z |
+| KXNFLRSHYDS-26NOV01TENCIN-TENMCARTER35-25 | series:KXNFLRSHYDS | Michael Carter: 25+ rushing yards | 0.2200 | 0.2400 | 57.07 | 0.7600 | 0.7800 | 12.00 | 2026-11-01T10:21:33Z |
+| KXNFLSPREAD-26NOV01ARIDAL-DAL8 | series:KXNFLSPREAD | Dallas wins by over 7.5 points? | 0.4700 | 0.4800 | 1100623.30 | 0.5200 | 0.5300 | 1612691.40 | 2026-11-01T10:21:35Z |
+| KXNFLSPREAD-26NOV01BALBUF-BUF11 | series:KXNFLSPREAD | Buffalo wins by over 10.5 points? | 0.2300 | 0.2400 | 12923.60 | 0.7600 | 0.7700 | 18337.97 | 2026-11-01T10:21:36Z |
+| KXNFLSPREAD-26NOV01BALBUF-BUF14 | series:KXNFLSPREAD | Buffalo wins by over 13.5 points? | 0.1800 | 0.1900 | 3917.00 | 0.8100 | 0.8200 | 24812.60 | 2026-11-01T10:21:36Z |
+| KXNFLSPREAD-26NOV01INDJAC-JAC10 | series:KXNFLSPREAD | Jacksonville wins by over 9.5 points? | 0.5200 | 0.5300 | 544198.93 | 0.4700 | 0.4800 | 46518.34 | 2026-11-01T10:21:35Z |
+| KXNFLSPREAD-26NOV01LVNYJ-NYJ2 | series:KXNFLSPREAD | New York J wins by over 1.5 points? | 0.5000 | 0.5100 | 1102399.04 | 0.4900 | 0.5000 | 55467.59 | 2026-11-01T10:21:35Z |
+| KXNFLSPREAD-26NOV01MINDET-DET11 | series:KXNFLSPREAD | Detroit wins by over 10.5 points? | 0.2400 | 0.2500 | 6178.61 | 0.7500 | 0.7600 | 294246.38 | 2026-11-01T10:21:35Z |
+| KXNFLSPREAD-26NOV01PHIWAS-WAS6 | series:KXNFLSPREAD | Washington wins by over 5.5 points? | 0.5100 | 0.5200 | 1739535.64 | 0.4800 | 0.4900 | 1572331.49 | 2026-11-01T10:21:35Z |
+| KXNFLTD-26NOV01ARIDAL-ARIEHIGGINS84-1 | series:KXNFLTD | Elijah Higgins: 1+ touchdowns | 0.1200 | 0.1300 | 8.62 | 0.8700 | 0.8800 | 4957.00 | 2026-11-01T10:21:34Z |
+| KXNFLTD-26NOV01BALBUF-BALZFLOWERS4-3 | series:KXNFLTD | Zay Flowers: 3+ touchdowns | 0.0100 | 0.0200 | 8177.00 | 0.9800 | 0.9900 | 3802.00 | 2026-11-01T10:21:34Z |
+| KXNFLTD-26NOV01CLEPIT-CLEJJEUDY3-1 | series:KXNFLTD | Jerry Jeudy: 1+ touchdowns | 0.1000 | 0.1100 | 30870.53 | 0.8900 | 0.9000 | 17333.70 | 2026-11-01T10:21:34Z |
+| KXNFLTD-26NOV01INDJAC-JACCRODRIGUEZ24-1 | series:KXNFLTD | Chris Rodriguez Jr.: 1+ touchdowns | 0.2300 | 0.2400 | 14793.53 | 0.7600 | 0.7700 | 10052.00 | 2026-11-01T10:21:34Z |
+| KXNFLTD-26NOV01LVNYJ-NYJBALLEN0-1 | series:KXNFLTD | Braelon Allen: 1+ touchdowns | 0.4500 | 0.4600 | 56582.59 | 0.5400 | 0.5500 | 473.74 | 2026-11-01T10:21:34Z |
+| KXNFLTD-26NOV01PHIWAS-PHIJBLUE30-1 | series:KXNFLTD | Jaydon Blue: 1+ touchdowns | 0.0800 | 0.0900 | 6364.00 | 0.9100 | 0.9200 | 2107.39 | 2026-11-01T10:21:34Z |
+| KXNFLTD-26NOV01TENCIN-TENCDIKE17-1 | series:KXNFLTD | Chimere Dike: 1+ touchdowns | 0.0700 | 0.0800 | 9631.00 | 0.9200 | 0.9300 | 2328.00 | 2026-11-01T10:21:34Z |
+| KXNFLTOTAL-26NOV01ATLTB-44 | series:KXNFLTOTAL | Full Game: over 43.5 points scored? | 0.4800 | 0.4900 | 208401.13 | 0.5100 | 0.5200 | 248520.66 | 2026-11-01T10:21:36Z |
+| KXNFLTOTAL-26NOV01BALBUF-55 | series:KXNFLTOTAL | Full Game: over 54.5 points scored? | 0.4800 | 0.4900 | 494056.21 | 0.5100 | 0.5200 | 579618.25 | 2026-11-01T10:21:36Z |
+| KXNFLTOTAL-26NOV01KCDEN-42 | series:KXNFLTOTAL | Full Game: over 41.5 points scored? | 0.4800 | 0.4900 | 740701.38 | 0.5100 | 0.5200 | 1133782.96 | 2026-11-01T10:21:36Z |
+| KXNFLTOTAL-26NOV01KCDEN-43 | series:KXNFLTOTAL | Full Game: over 42.5 points scored? | 0.4400 | 0.4500 | 160575.65 | 0.5500 | 0.5600 | 108383.72 | 2026-11-01T10:21:36Z |
+| KXNFLTOTAL-26NOV01KCDEN-51 | series:KXNFLTOTAL | Full Game: over 50.5 points scored? | 0.2100 | 0.2300 | 8918.98 | 0.7700 | 0.7900 | 8957.03 | 2026-11-01T10:21:36Z |
+| KXNFLTOTAL-26NOV01LVNYJ-46 | series:KXNFLTOTAL | Full Game: over 45.5 points scored? | 0.5200 | 0.5300 | 10.00 | 0.4700 | 0.4800 | 204359.81 | 2026-11-01T10:21:36Z |
+| KXNFLTOTAL-26NOV01NEMIA-43 | series:KXNFLTOTAL | Full Game: over 42.5 points scored? | 0.4900 | 0.5000 | 1411337.15 | 0.5000 | 0.5100 | 783408.70 | 2026-11-01T10:21:36Z |
+| KXNHLGAME-26NOV01EDMNYR-EDM | series:KXNHLGAME | Edmonton wins | 0.4500 | 0.4600 | 75717.92 | 0.5400 | 0.5500 | 5540.60 | 2026-11-01T10:21:37Z |
+| KXNHLGAME-26NOV01EDMNYR-NYR | series:KXNHLGAME | New York R wins | 0.5200 | 0.5300 | 949.18 | 0.4700 | 0.4800 | 21335.87 | 2026-11-01T10:21:37Z |
+| KXNHLGAME-26NOV01MINWSH-MIN | series:KXNHLGAME | Minnesota wins | 0.5000 | 0.5100 | 92148.51 | 0.4900 | 0.5000 | 13914.52 | 2026-11-01T10:21:37Z |
+| KXNHLGAME-26NOV01UTAPHI-PHI | series:KXNHLGAME | Philadelphia wins | 0.3900 | 0.4000 | 123428.97 | 0.6000 | 0.6100 | 4284.86 | 2026-11-01T10:21:37Z |
+| KXNHLGAME-26NOV01UTAPHI-UTA | series:KXNHLGAME | Utah wins | 0.6000 | 0.6100 | 23110.70 | 0.3900 | 0.4000 | 21946.71 | 2026-11-01T10:21:37Z |
+| KXNHLGAME-26NOV01WPGCAR-CAR | series:KXNHLGAME | Carolina wins | 0.7200 | 0.7300 | 135549.99 | 0.2700 | 0.2800 | 491.40 | 2026-11-01T10:21:37Z |
+| KXNHLGAME-26NOV01WPGCAR-WPG | series:KXNHLGAME | Winnipeg wins | 0.2700 | 0.2800 | 1719.40 | 0.7200 | 0.7300 | 10113.73 | 2026-11-01T10:21:37Z |
+| KXRT-MON-20 | series:KXRT | The Mongoose Rotten Tomatoes score? | 0.9900 | — | — | — | 0.0100 | 3131.13 | 2026-11-01T10:21:39Z |
+| KXRT-MON-45 | series:KXRT | The Mongoose Rotten Tomatoes score? | 0.0100 | 0.0200 | 29831.83 | 0.9800 | 0.9900 | 30079.86 | 2026-11-01T10:21:39Z |
+| KXRT-MON-50 | series:KXRT | The Mongoose Rotten Tomatoes score? | — | 0.0100 | 3395.15 | 0.9900 | — | — | 2026-11-01T10:21:39Z |
+| KXRT-ONL-95 | series:KXRT | The Only Living Pickpocket in New York Rotten Tomatoes score? | 0.9600 | 0.9700 | 15961.00 | 0.0300 | 0.0400 | 9793.00 | 2026-11-01T10:21:39Z |
+| KXRT-ONL-97 | series:KXRT | The Only Living Pickpocket in New York Rotten Tomatoes score? | 0.0200 | 0.0300 | 7461.40 | 0.9700 | 0.9800 | 33999.84 | 2026-11-01T10:21:38Z |
+| KXRT-WIC-92 | series:KXRT | Wicker Rotten Tomatoes score? | 0.9700 | 0.9800 | 30511.00 | 0.0200 | 0.0300 | 3292.98 | 2026-11-01T10:21:38Z |
+| KXRT-WIC-94 | series:KXRT | Wicker Rotten Tomatoes score? | 0.5400 | 0.5600 | 1.00 | 0.4400 | 0.4600 | 23.00 | 2026-11-01T10:21:39Z |
+| KXTOPALBUM-26NOV07-DAM | series:KXTOPALBUM | Will Damascus Road be #1 on the Billboard 200 during the week of  | — | 0.0400 | 1.00 | 0.9600 | — | — | 2026-11-01T10:21:39Z |
+| KXTOPALBUM-26NOV07-DAN | series:KXTOPALBUM | Will DANDELION be #1 on the Billboard 200 during the week of Nov  | — | 0.0600 | 11.00 | 0.9400 | — | — | 2026-11-01T10:21:39Z |
+| KXTOPALBUM-26NOV07-HUN | series:KXTOPALBUM | Will hungover be #1 on the Billboard 200 during the week of Nov 7 | — | 0.0200 | 403.00 | 0.9800 | — | — | 2026-11-01T10:21:39Z |
+| KXTOPALBUM-26NOV07-ONE | series:KXTOPALBUM | Will One Thing At A Time be #1 on the Billboard 200 during the we | — | 0.0100 | 35.06 | 0.9900 | — | — | 2026-11-01T10:21:39Z |
+| KXTOPALBUM-26NOV07-PAL | series:KXTOPALBUM | Will Palace for the People be #1 on the Billboard 200 during the  | — | 0.0100 | 3.00 | 0.9900 | — | — | 2026-11-01T10:21:39Z |
+| KXTOPALBUM-26NOV07-THR | series:KXTOPALBUM | Will Thriller be #1 on the Billboard 200 during the week of Nov 7 | — | 0.0800 | 11.00 | 0.9200 | — | — | 2026-11-01T10:21:39Z |
+| KXTOPALBUM-26NOV07-YOU | series:KXTOPALBUM | Will you seem pretty sad for a girl so in love be #1 on the Billb | 0.0100 | 0.0600 | 91.55 | 0.9400 | 0.9900 | 1101.50 | 2026-11-01T10:21:39Z |
 
 Full machine-readable data: [`latest.json`](latest.json).
