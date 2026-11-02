@@ -1,153 +1,72 @@
 # Kalshi public order-book snapshots (v2)
 
-Updated UTC: **2026-11-02T06:45:05Z** · Books: **141** of **141** selected · Warnings: **0**
+Updated UTC: **2026-11-02T08:11:47Z** · Books: **60** of **60** selected · Warnings: **0**
 
 > Research snapshots only: no live execution guarantee. Recheck market status, fees and settlement rules before placing any order.
 
-**Coverage by series:** CONTROLS: 4, KXBRIANCONF: 2, KXBROWNHUSTEDDEBATE: 1, KXCALLIMPEACHRCONGRESS: 4, KXCANSNAP: 4, KXCFACHICKSAND: 7, KXCFNAI: 7, KXHIGHCHI: 12, KXHIGHTATL: 6, KXHIGHTMIN: 12, KXHIGHTNOLA: 10, KXHIGHTOKC: 10, KXHIGHTPHX: 10, KXHIGHTSAN: 10, KXHIGHTSATX: 10, KXHIGHTSDF: 6, KXHIGHTSEA: 10, KXHIGHTSFO: 10, KXHIGHTTTN: 6
+**Coverage by series:** CONTROLS: 4, KXCOMMISHFDA: 5, KXCONCEALEDRECIPROCITY: 1, KXCONGRESSPAYINCREASE: 4, KXCOWAGE: 1, KXCPI: 10, KXHIGHCHI: 6, KXHIGHTATL: 6, KXHIGHTMIN: 6, KXHURCTOT: 9, KXHURCTOTMAJ: 7, KXHURPATHAL: 1
 
 | Ticker | Reason | Contract | YES bid | YES ask | YES ask size | NO bid | NO ask | NO ask size | Observed UTC |
 |---|---|---|---:|---:|---:|---:|---:|---:|---|
-| CONTROLS-2026-D | series:CONTROLS | Will Democrats win the U.S. Senate in 2026? | 0.7200 | 0.7300 | 57561.51 | 0.2700 | 0.2800 | 57632.43 | 2026-11-02T06:44:59Z |
-| CONTROLS-2026-R | series:CONTROLS | Will Republicans win the U.S. Senate in 2026? | 0.2700 | 0.2800 | 217561.90 | 0.7200 | 0.7300 | 38064.77 | 2026-11-02T06:44:59Z |
-| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.5900 | 0.6100 | 1569.00 | 0.3900 | 0.4100 | 61.47 | 2026-11-02T06:44:59Z |
-| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.3800 | 0.3900 | 4570.74 | 0.6100 | 0.6200 | 5974.36 | 2026-11-02T06:44:59Z |
-| KXBRIANCONF-26JUL08-DEC01 | series:KXBRIANCONF | Will Brian Johnson be confirmed as Director of the Consumer Finan | 0.3000 | 0.3700 | 10.00 | 0.6300 | 0.7000 | 5.00 | 2026-11-02T06:45:01Z |
-| KXBRIANCONF-26JUL08-JAN01 | series:KXBRIANCONF | Will Brian Johnson be confirmed as Director of the Consumer Finan | 0.8800 | 0.9500 | 200.00 | 0.0500 | 0.1200 | 5.00 | 2026-11-02T06:45:01Z |
-| KXBROWNHUSTEDDEBATE-26 | series:KXBROWNHUSTEDDEBATE | Will Sherrod Brown and Jon Husted debate each other before Nov 3, | — | 0.0700 | 1.00 | 0.9300 | — | — | 2026-11-02T06:45:01Z |
-| KXCALLIMPEACHRCONGRESS-26-27 | series:KXCALLIMPEACHRCONGRESS | Will any Republican member of Congress call for Trump's impeachme | 0.0900 | 0.1000 | 10.91 | 0.9000 | 0.9100 | 2831.94 | 2026-11-02T06:45:03Z |
-| KXCALLIMPEACHRCONGRESS-26-27JUL01 | series:KXCALLIMPEACHRCONGRESS | Will any Republican member of Congress call for Trump's impeachme | 0.2600 | 0.3500 | 27.00 | 0.6500 | 0.7400 | 1014.00 | 2026-11-02T06:45:03Z |
-| KXCALLIMPEACHRCONGRESS-26-28 | series:KXCALLIMPEACHRCONGRESS | Will any Republican member of Congress call for Trump's impeachme | 0.4700 | 0.5100 | 1000.00 | 0.4900 | 0.5300 | 5.00 | 2026-11-02T06:45:03Z |
-| KXCALLIMPEACHRCONGRESS-26-29JAN20 | series:KXCALLIMPEACHRCONGRESS | Will any Republican member of Congress call for Trump's impeachme | 0.5200 | 0.6100 | 1334.66 | 0.3900 | 0.4800 | 1000.00 | 2026-11-02T06:45:03Z |
-| KXCANSNAP-28JUL01 | series:KXCANSNAP | Will Canada announce a snap election before Jul 1, 2028? | 0.3500 | 0.4200 | 5.00 | 0.5800 | 0.6500 | 5.00 | 2026-11-02T06:45:04Z |
-| KXCANSNAP-28JUL01-27JAN01 | series:KXCANSNAP | Will Canada announce a snap election before Jan 1, 2027? | 0.0100 | 0.0200 | 4.00 | 0.9800 | 0.9900 | 82.80 | 2026-11-02T06:45:04Z |
-| KXCANSNAP-28JUL01-27JUL01 | series:KXCANSNAP | Will Canada announce a snap election before Jul 1, 2027? | 0.1200 | 0.1900 | 1.00 | 0.8100 | 0.8800 | 5.00 | 2026-11-02T06:45:04Z |
-| KXCANSNAP-28JUL01-28JAN01 | series:KXCANSNAP | Will Canada announce a snap election before Jan 1, 2028? | 0.2200 | 0.3000 | 200.00 | 0.7000 | 0.7800 | 5.00 | 2026-11-02T06:45:04Z |
-| KXCFACHICKSAND-26DEC02-T5.39 | series:KXCFACHICKSAND | Will the average U.S. price of a Chick-fil-A Chicken Sandwich for | 0.0800 | 0.9900 | 240.00 | 0.0100 | 0.9200 | 1.00 | 2026-11-02T06:45:00Z |
-| KXCFACHICKSAND-26DEC02-T5.40 | series:KXCFACHICKSAND | Will the average U.S. price of a Chick-fil-A Chicken Sandwich for | 0.2500 | 0.9900 | 50.00 | 0.0100 | 0.7500 | 250.00 | 2026-11-02T06:45:00Z |
-| KXCFACHICKSAND-26DEC02-T5.41 | series:KXCFACHICKSAND | Will the average U.S. price of a Chick-fil-A Chicken Sandwich for | 0.6700 | 0.7600 | 100.00 | 0.2400 | 0.3300 | 100.00 | 2026-11-02T06:45:00Z |
-| KXCFACHICKSAND-26DEC02-T5.42 | series:KXCFACHICKSAND | Will the average U.S. price of a Chick-fil-A Chicken Sandwich for | 0.5500 | 0.6400 | 100.00 | 0.3600 | 0.4500 | 100.00 | 2026-11-02T06:45:00Z |
-| KXCFACHICKSAND-26DEC02-T5.43 | series:KXCFACHICKSAND | Will the average U.S. price of a Chick-fil-A Chicken Sandwich for | 0.4300 | 0.5100 | 100.00 | 0.4900 | 0.5700 | 100.00 | 2026-11-02T06:45:00Z |
-| KXCFACHICKSAND-26DEC02-T5.44 | series:KXCFACHICKSAND | Will the average U.S. price of a Chick-fil-A Chicken Sandwich for | 0.3100 | 0.4000 | 100.00 | 0.6000 | 0.6900 | 100.00 | 2026-11-02T06:45:00Z |
-| KXCFACHICKSAND-26DEC02-T5.45 | series:KXCFACHICKSAND | Will the average U.S. price of a Chick-fil-A Chicken Sandwich for | 0.2100 | 0.3000 | 100.00 | 0.7000 | 0.7900 | 100.00 | 2026-11-02T06:45:00Z |
-| KXCFNAI-26NOV23-T-0.10 | series:KXCFNAI | Will Chicago Fed National Activity Index for October 2026 be abov | 0.0100 | 0.6800 | 200.00 | 0.3200 | 0.9900 | 100.00 | 2026-11-02T06:45:01Z |
-| KXCFNAI-26NOV23-T-0.20 | series:KXCFNAI | Will Chicago Fed National Activity Index for October 2026 be abov | 0.0100 | 0.9900 | 100.00 | 0.0100 | 0.9900 | 100.00 | 2026-11-02T06:45:01Z |
-| KXCFNAI-26NOV23-T-0.30 | series:KXCFNAI | Will Chicago Fed National Activity Index for October 2026 be abov | 0.0100 | 0.9900 | 100.00 | 0.0100 | 0.9900 | 100.00 | 2026-11-02T06:45:01Z |
-| KXCFNAI-26NOV23-T0.00 | series:KXCFNAI | Will Chicago Fed National Activity Index for October 2026 be abov | 0.0100 | 0.4800 | 200.00 | 0.5200 | 0.9900 | 100.00 | 2026-11-02T06:45:01Z |
-| KXCFNAI-26NOV23-T0.10 | series:KXCFNAI | Will Chicago Fed National Activity Index for October 2026 be abov | 0.0200 | 0.2900 | 200.00 | 0.7100 | 0.9800 | 4.00 | 2026-11-02T06:45:01Z |
-| KXCFNAI-26NOV23-T0.20 | series:KXCFNAI | Will Chicago Fed National Activity Index for October 2026 be abov | 0.0100 | 0.1900 | 200.00 | 0.8100 | 0.9900 | 100.00 | 2026-11-02T06:45:01Z |
-| KXCFNAI-26NOV23-T0.30 | series:KXCFNAI | Will Chicago Fed National Activity Index for October 2026 be abov | 0.0100 | 0.1200 | 200.00 | 0.8800 | 0.9900 | 100.00 | 2026-11-02T06:45:01Z |
-| KXHIGHCHI-26NOV01-B64.5 | series:KXHIGHCHI | Will the maximum temperature be 64-65° on Nov 1, 2026? | — | 0.0100 | 427.21 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV01-B66.5 | series:KXHIGHCHI | Will the maximum temperature be 66-67° on Nov 1, 2026? | — | 0.0100 | 5888.00 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV01-B68.5 | series:KXHIGHCHI | Will the maximum temperature be 68-69° on Nov 1, 2026? | — | 0.0100 | 4650.29 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV01-B70.5 | series:KXHIGHCHI | Will the maximum temperature be 70-71° on Nov 1, 2026? | — | 0.0100 | 4582.40 | 0.9900 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHCHI-26NOV01-T64 | series:KXHIGHCHI | Will the maximum temperature be <64° on Nov 1, 2026? | 0.9900 | — | — | — | 0.0100 | 1258.74 | 2026-11-02T06:44:59Z |
-| KXHIGHCHI-26NOV01-T71 | series:KXHIGHCHI | Will the maximum temperature be >71° on Nov 1, 2026? | — | 0.0100 | 9205.76 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV02-B64.5 | series:KXHIGHCHI | Will the maximum temperature be 64-65° on Nov 2, 2026? | 0.3200 | 0.3300 | 1.04 | 0.6700 | 0.6800 | 31.00 | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV02-B66.5 | series:KXHIGHCHI | Will the maximum temperature be 66-67° on Nov 2, 2026? | 0.0100 | 0.0200 | 30.21 | 0.9800 | 0.9900 | 349.81 | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV02-B68.5 | series:KXHIGHCHI | Will the maximum temperature be 68-69° on Nov 2, 2026? | — | 0.0100 | 26.49 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV02-B70.5 | series:KXHIGHCHI | Will the maximum temperature be 70-71° on Nov 2, 2026? | — | 0.0100 | 120.00 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHCHI-26NOV02-T64 | series:KXHIGHCHI | Will the maximum temperature be <64° on Nov 2, 2026? | 0.6200 | 0.6300 | 32.00 | 0.3700 | 0.3800 | 1.54 | 2026-11-02T06:44:59Z |
-| KXHIGHCHI-26NOV02-T71 | series:KXHIGHCHI | Will the maximum temperature be >71° on Nov 2, 2026? | — | 0.0100 | 5196.00 | 0.9900 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHTATL-26NOV02-B70.5 | series:KXHIGHTATL | Will the maximum temperature be 70-71° on Nov 2, 2026? | 0.2300 | 0.2500 | 78.10 | 0.7500 | 0.7700 | 28.00 | 2026-11-02T06:44:59Z |
-| KXHIGHTATL-26NOV02-B72.5 | series:KXHIGHTATL | Will the maximum temperature be 72-73° on Nov 2, 2026? | 0.5100 | 0.5200 | 120.00 | 0.4800 | 0.4900 | 49.00 | 2026-11-02T06:44:59Z |
-| KXHIGHTATL-26NOV02-B74.5 | series:KXHIGHTATL | Will the maximum temperature be 74-75° on Nov 2, 2026? | 0.2100 | 0.2200 | 23.00 | 0.7800 | 0.7900 | 4.00 | 2026-11-02T06:44:59Z |
-| KXHIGHTATL-26NOV02-B76.5 | series:KXHIGHTATL | Will the maximum temperature be 76-77° on Nov 2, 2026? | — | 0.0200 | 467.18 | 0.9800 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHTATL-26NOV02-T70 | series:KXHIGHTATL | Will the maximum temperature be <70° on Nov 2, 2026? | 0.0300 | 0.0400 | 318.88 | 0.9600 | 0.9700 | 325.86 | 2026-11-02T06:44:59Z |
-| KXHIGHTATL-26NOV02-T77 | series:KXHIGHTATL | Will the maximum temperature be >77° on Nov 2, 2026? | — | 0.0100 | 562.00 | 0.9900 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHTMIN-26NOV01-B64.5 | series:KXHIGHTMIN | Will the maximum temperature be 64-65° on Nov 1, 2026? | — | 0.0100 | 29779.07 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV01-B66.5 | series:KXHIGHTMIN | Will the maximum temperature be 66-67° on Nov 1, 2026? | — | 0.0100 | 29791.15 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV01-B68.5 | series:KXHIGHTMIN | Will the maximum temperature be 68-69° on Nov 1, 2026? | — | 0.0100 | 26965.91 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV01-B70.5 | series:KXHIGHTMIN | Will the maximum temperature be 70-71° on Nov 1, 2026? | 0.9900 | — | — | — | 0.0100 | 1628.73 | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV01-T64 | series:KXHIGHTMIN | Will the maximum temperature be <64° on Nov 1, 2026? | — | 0.0100 | 29777.21 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV01-T71 | series:KXHIGHTMIN | Will the maximum temperature be >71° on Nov 1, 2026? | — | 0.0100 | 130.00 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV02-B60.5 | series:KXHIGHTMIN | Will the maximum temperature be 60-61° on Nov 2, 2026? | 0.0100 | 0.0200 | 35.00 | 0.9800 | 0.9900 | 105.18 | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV02-B62.5 | series:KXHIGHTMIN | Will the maximum temperature be 62-63° on Nov 2, 2026? | 0.0900 | 0.1000 | 20.00 | 0.9000 | 0.9100 | 1.00 | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV02-B64.5 | series:KXHIGHTMIN | Will the maximum temperature be 64-65° on Nov 2, 2026? | 0.6600 | 0.6800 | 111.00 | 0.3200 | 0.3400 | 12.50 | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV02-B66.5 | series:KXHIGHTMIN | Will the maximum temperature be 66-67° on Nov 2, 2026? | 0.2200 | 0.2400 | 28.00 | 0.7600 | 0.7800 | 35.00 | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV02-T60 | series:KXHIGHTMIN | Will the maximum temperature be <60° on Nov 2, 2026? | — | 0.0100 | 24999.00 | 0.9900 | — | — | 2026-11-02T06:44:58Z |
-| KXHIGHTMIN-26NOV02-T67 | series:KXHIGHTMIN | Will the maximum temperature be >67° on Nov 2, 2026? | 0.0200 | 0.0300 | 92.00 | 0.9700 | 0.9800 | 38.00 | 2026-11-02T06:44:58Z |
-| KXHIGHTNOLA-26NOV01-B77.5 | series:KXHIGHTNOLA | Will the maximum temperature be 77-78° on Nov 1, 2026? | — | 0.0100 | 28092.09 | 0.9900 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHTNOLA-26NOV01-B79.5 | series:KXHIGHTNOLA | Will the maximum temperature be 79-80° on Nov 1, 2026? | 0.9900 | — | — | — | 0.0100 | 8432.78 | 2026-11-02T06:44:59Z |
-| KXHIGHTNOLA-26NOV01-B83.5 | series:KXHIGHTNOLA | Will the maximum temperature be 83-84° on Nov 1, 2026? | — | 0.0100 | 2583.88 | 0.9900 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHTNOLA-26NOV01-T77 | series:KXHIGHTNOLA | Will the maximum temperature be <77° on Nov 1, 2026? | — | 0.0100 | 8561.56 | 0.9900 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHTNOLA-26NOV01-T84 | series:KXHIGHTNOLA | Will the maximum temperature be >84° on Nov 1, 2026? | — | 0.0100 | 10026.45 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTNOLA-26NOV02-B78.5 | series:KXHIGHTNOLA | Will the maximum temperature be 78-79° on Nov 2, 2026? | 0.5100 | 0.5200 | 165.00 | 0.4800 | 0.4900 | 0.04 | 2026-11-02T06:44:59Z |
-| KXHIGHTNOLA-26NOV02-B80.5 | series:KXHIGHTNOLA | Will the maximum temperature be 80-81° on Nov 2, 2026? | 0.3400 | 0.3500 | 145.00 | 0.6500 | 0.6600 | 45.00 | 2026-11-02T06:44:59Z |
-| KXHIGHTNOLA-26NOV02-B82.5 | series:KXHIGHTNOLA | Will the maximum temperature be 82-83° on Nov 2, 2026? | 0.0600 | 0.0700 | 222.00 | 0.9300 | 0.9400 | 7.00 | 2026-11-02T06:45:00Z |
-| KXHIGHTNOLA-26NOV02-B84.5 | series:KXHIGHTNOLA | Will the maximum temperature be 84-85° on Nov 2, 2026? | — | 0.0100 | 115.00 | 0.9900 | — | — | 2026-11-02T06:44:59Z |
-| KXHIGHTNOLA-26NOV02-T85 | series:KXHIGHTNOLA | Will the maximum temperature be >85° on Nov 2, 2026? | — | 0.0100 | 643.00 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV01-B72.5 | series:KXHIGHTOKC | Will the maximum temperature be 72-73° on Nov 1, 2026? | 0.9900 | — | — | — | 0.0100 | 7017.20 | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV01-B76.5 | series:KXHIGHTOKC | Will the maximum temperature be 76-77° on Nov 1, 2026? | — | 0.0100 | 2108.00 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV01-B78.5 | series:KXHIGHTOKC | Will the maximum temperature be 78-79° on Nov 1, 2026? | — | 0.0100 | 3977.00 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV01-T72 | series:KXHIGHTOKC | Will the maximum temperature be <72° on Nov 1, 2026? | — | 0.0100 | 26260.87 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV01-T79 | series:KXHIGHTOKC | Will the maximum temperature be >79° on Nov 1, 2026? | — | 0.0100 | 8410.31 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV02-B75.5 | series:KXHIGHTOKC | Will the maximum temperature be 75-76° on Nov 2, 2026? | 0.3400 | 0.4000 | 68.00 | 0.6000 | 0.6600 | 13.00 | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV02-B79.5 | series:KXHIGHTOKC | Will the maximum temperature be 79-80° on Nov 2, 2026? | 0.0300 | 0.0400 | 151.00 | 0.9600 | 0.9700 | 31.00 | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV02-B81.5 | series:KXHIGHTOKC | Will the maximum temperature be 81-82° on Nov 2, 2026? | — | 0.0100 | 113.00 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV02-T75 | series:KXHIGHTOKC | Will the maximum temperature be <75° on Nov 2, 2026? | 0.3900 | 0.4000 | 59.58 | 0.6000 | 0.6100 | 20.00 | 2026-11-02T06:45:00Z |
-| KXHIGHTOKC-26NOV02-T82 | series:KXHIGHTOKC | Will the maximum temperature be >82° on Nov 2, 2026? | — | 0.0100 | 657.00 | 0.9900 | — | — | 2026-11-02T06:45:00Z |
-| KXHIGHTPHX-26NOV01-B70.5 | series:KXHIGHTPHX | Will the maximum temperature be 70-71° on Nov 1, 2026? | — | 0.0100 | 54357.86 | 0.9900 | — | — | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV01-B72.5 | series:KXHIGHTPHX | Will the maximum temperature be 72-73° on Nov 1, 2026? | 0.9900 | — | — | — | 0.0100 | 3851.00 | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV01-B74.5 | series:KXHIGHTPHX | Will the maximum temperature be 74-75° on Nov 1, 2026? | — | 0.0100 | 2219.00 | 0.9900 | — | — | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV01-T68 | series:KXHIGHTPHX | Will the maximum temperature be <68° on Nov 1, 2026? | — | 0.0100 | 20942.97 | 0.9900 | — | — | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV01-T75 | series:KXHIGHTPHX | Will the maximum temperature be >75° on Nov 1, 2026? | — | 0.0100 | 2350.20 | 0.9900 | — | — | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV02-B70.5 | series:KXHIGHTPHX | Will the maximum temperature be 70-71° on Nov 2, 2026? | 0.0500 | 0.0600 | 86.00 | 0.9400 | 0.9500 | 45.00 | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV02-B72.5 | series:KXHIGHTPHX | Will the maximum temperature be 72-73° on Nov 2, 2026? | 0.5200 | 0.5300 | 0.35 | 0.4700 | 0.4800 | 121.00 | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV02-B74.5 | series:KXHIGHTPHX | Will the maximum temperature be 74-75° on Nov 2, 2026? | 0.3900 | 0.4000 | 35.00 | 0.6000 | 0.6100 | 10.00 | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV02-B76.5 | series:KXHIGHTPHX | Will the maximum temperature be 76-77° on Nov 2, 2026? | 0.0200 | 0.0300 | 199.00 | 0.9700 | 0.9800 | 62.00 | 2026-11-02T06:45:01Z |
-| KXHIGHTPHX-26NOV02-T77 | series:KXHIGHTPHX | Will the maximum temperature be >77° on Nov 2, 2026? | — | 0.0100 | 176.00 | 0.9900 | — | — | 2026-11-02T06:45:01Z |
-| KXHIGHTSAN-26NOV01-B67.5 | series:KXHIGHTSAN | Will the maximum temperature be 67-68° on Nov 1, 2026? | — | 0.0100 | 14147.42 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSAN-26NOV01-B71.5 | series:KXHIGHTSAN | Will the maximum temperature be 71-72° on Nov 1, 2026? | 0.9900 | — | — | — | 0.0100 | 2543.65 | 2026-11-02T06:45:01Z |
-| KXHIGHTSAN-26NOV01-B73.5 | series:KXHIGHTSAN | Will the maximum temperature be 73-74° on Nov 1, 2026? | — | 0.0100 | 899.96 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSAN-26NOV01-T67 | series:KXHIGHTSAN | Will the maximum temperature be <67° on Nov 1, 2026? | — | 0.0100 | 14242.08 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSAN-26NOV01-T74 | series:KXHIGHTSAN | Will the maximum temperature be >74° on Nov 1, 2026? | — | 0.0100 | 340.36 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSAN-26NOV02-B70.5 | series:KXHIGHTSAN | Will the maximum temperature be 70-71° on Nov 2, 2026? | 0.0100 | 0.0200 | 80.00 | 0.9800 | 0.9900 | 92.00 | 2026-11-02T06:45:02Z |
-| KXHIGHTSAN-26NOV02-B74.5 | series:KXHIGHTSAN | Will the maximum temperature be 74-75° on Nov 2, 2026? | 0.5100 | 0.5300 | 56.00 | 0.4700 | 0.4900 | 20.04 | 2026-11-02T06:45:02Z |
-| KXHIGHTSAN-26NOV02-B76.5 | series:KXHIGHTSAN | Will the maximum temperature be 76-77° on Nov 2, 2026? | 0.0100 | 0.0300 | 1.00 | 0.9700 | 0.9900 | 56.00 | 2026-11-02T06:45:02Z |
-| KXHIGHTSAN-26NOV02-T70 | series:KXHIGHTSAN | Will the maximum temperature be <70° on Nov 2, 2026? | 0.0100 | 0.0200 | 114.00 | 0.9800 | 0.9900 | 20.00 | 2026-11-02T06:45:02Z |
-| KXHIGHTSAN-26NOV02-T77 | series:KXHIGHTSAN | Will the maximum temperature be >77° on Nov 2, 2026? | — | 0.0100 | 56.00 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV01-B80.5 | series:KXHIGHTSATX | Will the maximum temperature be 80-81° on Nov 1, 2026? | — | 0.0100 | 12784.49 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV01-B84.5 | series:KXHIGHTSATX | Will the maximum temperature be 84-85° on Nov 1, 2026? | — | 0.0100 | 3039.63 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV01-B86.5 | series:KXHIGHTSATX | Will the maximum temperature be 86-87° on Nov 1, 2026? | — | 0.0100 | 2305.05 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV01-T80 | series:KXHIGHTSATX | Will the maximum temperature be <80° on Nov 1, 2026? | — | 0.0100 | 6659.54 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV01-T87 | series:KXHIGHTSATX | Will the maximum temperature be >87° on Nov 1, 2026? | — | 0.0100 | 12406.96 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV02-B82.5 | series:KXHIGHTSATX | Will the maximum temperature be 82-83° on Nov 2, 2026? | 0.2800 | 0.3000 | 1.00 | 0.7000 | 0.7200 | 1.00 | 2026-11-02T06:45:03Z |
-| KXHIGHTSATX-26NOV02-B84.5 | series:KXHIGHTSATX | Will the maximum temperature be 84-85° on Nov 2, 2026? | 0.5300 | 0.5400 | 12.00 | 0.4600 | 0.4700 | 5.00 | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV02-B88.5 | series:KXHIGHTSATX | Will the maximum temperature be 88-89° on Nov 2, 2026? | — | 0.0100 | 16.00 | 0.9900 | — | — | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV02-T82 | series:KXHIGHTSATX | Will the maximum temperature be <82° on Nov 2, 2026? | 0.0600 | 0.0700 | 39.00 | 0.9300 | 0.9400 | 14.00 | 2026-11-02T06:45:02Z |
-| KXHIGHTSATX-26NOV02-T89 | series:KXHIGHTSATX | Will the maximum temperature be >89° on Nov 2, 2026? | — | 0.0100 | 228.00 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSDF-26NOV02-B67.5 | series:KXHIGHTSDF | Will the maximum temperature be 67-68° on Nov 2, 2026? | 0.0200 | 0.1500 | 13.00 | 0.8500 | 0.9800 | 34.00 | 2026-11-02T06:45:03Z |
-| KXHIGHTSDF-26NOV02-B69.5 | series:KXHIGHTSDF | Will the maximum temperature be 69-70° on Nov 2, 2026? | 0.0300 | 0.0400 | 106.05 | 0.9600 | 0.9700 | 33.00 | 2026-11-02T06:45:03Z |
-| KXHIGHTSDF-26NOV02-B71.5 | series:KXHIGHTSDF | Will the maximum temperature be 71-72° on Nov 2, 2026? | 0.0100 | 0.0200 | 2.00 | 0.9800 | 0.9900 | 5.00 | 2026-11-02T06:45:03Z |
-| KXHIGHTSDF-26NOV02-B73.5 | series:KXHIGHTSDF | Will the maximum temperature be 73-74° on Nov 2, 2026? | — | 0.0100 | 3.00 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSDF-26NOV02-T67 | series:KXHIGHTSDF | Will the maximum temperature be <67° on Nov 2, 2026? | 0.7500 | 0.8700 | 105.00 | 0.1300 | 0.2500 | 0.04 | 2026-11-02T06:45:03Z |
-| KXHIGHTSDF-26NOV02-T74 | series:KXHIGHTSDF | Will the maximum temperature be >74° on Nov 2, 2026? | — | 0.0100 | 287.00 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV01-B52.5 | series:KXHIGHTSEA | Will the maximum temperature be 52-53° on Nov 1, 2026? | — | 0.0100 | 2652.81 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV01-B54.5 | series:KXHIGHTSEA | Will the maximum temperature be 54-55° on Nov 1, 2026? | — | 0.0100 | 2199.71 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV01-B56.5 | series:KXHIGHTSEA | Will the maximum temperature be 56-57° on Nov 1, 2026? | — | 0.0100 | 2481.63 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV01-B58.5 | series:KXHIGHTSEA | Will the maximum temperature be 58-59° on Nov 1, 2026? | — | 0.0100 | 3113.30 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV01-T59 | series:KXHIGHTSEA | Will the maximum temperature be >59° on Nov 1, 2026? | — | 0.0100 | 7817.12 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV02-B52.5 | series:KXHIGHTSEA | Will the maximum temperature be 52-53° on Nov 2, 2026? | 0.5100 | 0.5200 | 103.00 | 0.4800 | 0.4900 | 34.04 | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV02-B54.5 | series:KXHIGHTSEA | Will the maximum temperature be 54-55° on Nov 2, 2026? | 0.2100 | 0.2200 | 100.00 | 0.7800 | 0.7900 | 50.00 | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV02-B56.5 | series:KXHIGHTSEA | Will the maximum temperature be 56-57° on Nov 2, 2026? | 0.0200 | 0.0400 | 119.00 | 0.9600 | 0.9800 | 146.00 | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV02-B58.5 | series:KXHIGHTSEA | Will the maximum temperature be 58-59° on Nov 2, 2026? | — | 0.0100 | 108.00 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSEA-26NOV02-T59 | series:KXHIGHTSEA | Will the maximum temperature be >59° on Nov 2, 2026? | — | 0.0100 | 254.00 | 0.9900 | — | — | 2026-11-02T06:45:03Z |
-| KXHIGHTSFO-26NOV01-B60.5 | series:KXHIGHTSFO | Will the maximum temperature be 60-61° on Nov 1, 2026? | — | 0.0100 | 59059.80 | 0.9900 | — | — | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV01-B62.5 | series:KXHIGHTSFO | Will the maximum temperature be 62-63° on Nov 1, 2026? | — | 0.0100 | 54382.03 | 0.9900 | — | — | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV01-B64.5 | series:KXHIGHTSFO | Will the maximum temperature be 64-65° on Nov 1, 2026? | 0.9900 | — | — | — | 0.0100 | 1635.92 | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV01-T60 | series:KXHIGHTSFO | Will the maximum temperature be <60° on Nov 1, 2026? | — | 0.0100 | 55128.46 | 0.9900 | — | — | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV01-T67 | series:KXHIGHTSFO | Will the maximum temperature be >67° on Nov 1, 2026? | — | 0.0100 | 2122.00 | 0.9900 | — | — | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV02-B64.5 | series:KXHIGHTSFO | Will the maximum temperature be 64-65° on Nov 2, 2026? | 0.4100 | 0.4200 | 25.28 | 0.5800 | 0.5900 | 100.00 | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV02-B66.5 | series:KXHIGHTSFO | Will the maximum temperature be 66-67° on Nov 2, 2026? | 0.4400 | 0.4500 | 55.00 | 0.5500 | 0.5600 | 11.00 | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV02-B68.5 | series:KXHIGHTSFO | Will the maximum temperature be 68-69° on Nov 2, 2026? | 0.0700 | 0.0900 | 4.00 | 0.9100 | 0.9300 | 1.29 | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV02-B70.5 | series:KXHIGHTSFO | Will the maximum temperature be 70-71° on Nov 2, 2026? | — | 0.0100 | 154.00 | 0.9900 | — | — | 2026-11-02T06:45:04Z |
-| KXHIGHTSFO-26NOV02-T71 | series:KXHIGHTSFO | Will the maximum temperature be >71° on Nov 2, 2026? | — | 0.0100 | 473.00 | 0.9900 | — | — | 2026-11-02T06:45:04Z |
-| KXHIGHTTTN-26NOV02-B64.5 | series:KXHIGHTTTN | Will the maximum temperature be 64-65° on Nov 2, 2026? | 0.3100 | 0.3500 | 100.00 | 0.6500 | 0.6900 | 38.00 | 2026-11-02T06:45:04Z |
-| KXHIGHTTTN-26NOV02-B66.5 | series:KXHIGHTTTN | Will the maximum temperature be 66-67° on Nov 2, 2026? | 0.6200 | 0.6400 | 120.00 | 0.3600 | 0.3800 | 2.00 | 2026-11-02T06:45:05Z |
-| KXHIGHTTTN-26NOV02-B68.5 | series:KXHIGHTTTN | Will the maximum temperature be 68-69° on Nov 2, 2026? | 0.0300 | 0.0500 | 25.00 | 0.9500 | 0.9700 | 23.00 | 2026-11-02T06:45:04Z |
-| KXHIGHTTTN-26NOV02-B70.5 | series:KXHIGHTTTN | Will the maximum temperature be 70-71° on Nov 2, 2026? | 0.0100 | 0.0200 | 227.50 | 0.9800 | 0.9900 | 3.59 | 2026-11-02T06:45:04Z |
-| KXHIGHTTTN-26NOV02-T64 | series:KXHIGHTTTN | Will the maximum temperature be <64° on Nov 2, 2026? | 0.0100 | 0.0300 | 3.02 | 0.9700 | 0.9900 | 59.01 | 2026-11-02T06:45:04Z |
-| KXHIGHTTTN-26NOV02-T71 | series:KXHIGHTTTN | Will the maximum temperature be >71° on Nov 2, 2026? | — | 0.0100 | 387.88 | 0.9900 | — | — | 2026-11-02T06:45:04Z |
+| CONTROLS-2026-D | series:CONTROLS | Will Democrats win the U.S. Senate in 2026? | 0.7200 | 0.7300 | 5736.23 | 0.2700 | 0.2800 | 45590.33 | 2026-11-02T08:11:44Z |
+| CONTROLS-2026-R | series:CONTROLS | Will Republicans win the U.S. Senate in 2026? | 0.2700 | 0.2800 | 200148.30 | 0.7200 | 0.7300 | 37694.88 | 2026-11-02T08:11:45Z |
+| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.5900 | 0.6100 | 1569.00 | 0.3900 | 0.4100 | 61.47 | 2026-11-02T08:11:44Z |
+| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.3800 | 0.3900 | 4814.74 | 0.6100 | 0.6200 | 6294.36 | 2026-11-02T08:11:45Z |
+| KXCOMMISHFDA-26AUG20-APR01 | series:KXCOMMISHFDA | Will Heidi Overton be confirmed as Commissioner of the Food and D | 0.3100 | 0.3900 | 200.00 | 0.6100 | 0.6900 | 5.00 | 2026-11-02T08:11:46Z |
+| KXCOMMISHFDA-26AUG20-AUG01 | series:KXCOMMISHFDA | Will Heidi Overton be confirmed as Commissioner of the Food and D | 0.3600 | 0.3800 | 5.00 | 0.6200 | 0.6400 | 123.00 | 2026-11-02T08:11:46Z |
+| KXCOMMISHFDA-26AUG20-DEC01 | series:KXCOMMISHFDA | Will Heidi Overton be confirmed as Commissioner of the Food and D | 0.0300 | 0.0900 | 20.00 | 0.9100 | 0.9700 | 200.00 | 2026-11-02T08:11:46Z |
+| KXCOMMISHFDA-26AUG20-FEB01 | series:KXCOMMISHFDA | Will Heidi Overton be confirmed as Commissioner of the Food and D | 0.3300 | 0.4000 | 5.00 | 0.6000 | 0.6700 | 205.00 | 2026-11-02T08:11:46Z |
+| KXCOMMISHFDA-26AUG20-JAN01 | series:KXCOMMISHFDA | Will Heidi Overton be confirmed as Commissioner of the Food and D | 0.3100 | 0.3600 | 200.86 | 0.6400 | 0.6900 | 113.78 | 2026-11-02T08:11:46Z |
+| KXCONCEALEDRECIPROCITY-27-JAN04 | series:KXCONCEALEDRECIPROCITY | Will establishing nationwide concealed carry reciprocity becomes  | 0.0330 | 0.0450 | 5.00 | 0.9550 | 0.9670 | 993.92 | 2026-11-02T08:11:46Z |
+| KXCONGRESSPAYINCREASE-30-27JAN01 | series:KXCONGRESSPAYINCREASE | Will it be reported by any of the Source Agencies that the annual | 0.0700 | 0.1400 | 6.00 | 0.8600 | 0.9300 | 5.00 | 2026-11-02T08:11:46Z |
+| KXCONGRESSPAYINCREASE-30-28JAN01 | series:KXCONGRESSPAYINCREASE | Will it be reported by any of the Source Agencies that the annual | 0.2700 | 0.3400 | 2.00 | 0.6600 | 0.7300 | 5.00 | 2026-11-02T08:11:46Z |
+| KXCONGRESSPAYINCREASE-30-29JAN01 | series:KXCONGRESSPAYINCREASE | Will it be reported by any of the Source Agencies that the annual | 0.3600 | 0.4400 | 200.00 | 0.5600 | 0.6400 | 5.00 | 2026-11-02T08:11:46Z |
+| KXCONGRESSPAYINCREASE-30-30JAN01 | series:KXCONGRESSPAYINCREASE | Will it be reported by any of the Source Agencies that the annual | 0.4600 | 0.5300 | 5.15 | 0.4700 | 0.5400 | 5.00 | 2026-11-02T08:11:47Z |
+| KXCOWAGE-2027-T400 | series:KXCOWAGE | Colombia wage growth minus inflation above 4.00 pp in 2027? | 0.1000 | 0.1500 | 10.35 | 0.8500 | 0.9000 | 20.86 | 2026-11-02T08:11:45Z |
+| KXCPI-26DEC-T-0.1 | series:KXCPI | Will CPI rise more than -0.1% in December 2026? | 0.9400 | 0.9500 | 5290.03 | 0.0500 | 0.0600 | 1538.00 | 2026-11-02T08:11:46Z |
+| KXCPI-26DEC-T0.4 | series:KXCPI | Will CPI rise more than 0.4% in December 2026? | 0.1900 | 0.2600 | 14.00 | 0.7400 | 0.8100 | 529.11 | 2026-11-02T08:11:45Z |
+| KXCPI-26DEC-T0.5 | series:KXCPI | Will CPI rise more than 0.5% in December 2026? | 0.0900 | 0.1700 | 2827.16 | 0.8300 | 0.9100 | 14.00 | 2026-11-02T08:11:46Z |
+| KXCPI-26NOV-T-0.1 | series:KXCPI | Will CPI rise more than -0.1% in November 2026? | 0.9100 | 0.9300 | 419.53 | 0.0700 | 0.0900 | 630.00 | 2026-11-02T08:11:46Z |
+| KXCPI-26NOV-T0.0 | series:KXCPI | Will CPI rise more than 0.0% in November 2026? | 0.8400 | 0.8600 | 1232.50 | 0.1400 | 0.1600 | 91.00 | 2026-11-02T08:11:45Z |
+| KXCPI-26NOV-T0.3 | series:KXCPI | Will CPI rise more than 0.3% in November 2026? | 0.2500 | 0.3200 | 8.11 | 0.6800 | 0.7500 | 24.56 | 2026-11-02T08:11:46Z |
+| KXCPI-26NOV-T0.4 | series:KXCPI | Will CPI rise more than 0.4% in November 2026? | 0.1500 | 0.1600 | 44.00 | 0.8400 | 0.8500 | 653.00 | 2026-11-02T08:11:45Z |
+| KXCPI-26OCT-T0.0 | series:KXCPI | Will CPI rise more than 0.0% in October 2026? | 0.9800 | 0.9900 | 27565.98 | 0.0100 | 0.0200 | 1719.03 | 2026-11-02T08:11:45Z |
+| KXCPI-26OCT-T0.4 | series:KXCPI | Will CPI rise more than 0.4% in October 2026? | 0.0700 | 0.1200 | 26.00 | 0.8800 | 0.9300 | 52.00 | 2026-11-02T08:11:45Z |
+| KXCPI-26OCT-T0.9 | series:KXCPI | Will CPI rise more than 0.9% in October 2026? | — | 0.0100 | 5222.00 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHIGHCHI-26NOV02-B64.5 | series:KXHIGHCHI | Will the maximum temperature be 64-65° on Nov 2, 2026? | 0.3200 | 0.3300 | 3.14 | 0.6700 | 0.6800 | 66.00 | 2026-11-02T08:11:44Z |
+| KXHIGHCHI-26NOV02-B66.5 | series:KXHIGHCHI | Will the maximum temperature be 66-67° on Nov 2, 2026? | 0.0100 | 0.0200 | 6.00 | 0.9800 | 0.9900 | 353.81 | 2026-11-02T08:11:44Z |
+| KXHIGHCHI-26NOV02-B68.5 | series:KXHIGHCHI | Will the maximum temperature be 68-69° on Nov 2, 2026? | — | 0.0100 | 608.21 | 0.9900 | — | — | 2026-11-02T08:11:44Z |
+| KXHIGHCHI-26NOV02-B70.5 | series:KXHIGHCHI | Will the maximum temperature be 70-71° on Nov 2, 2026? | — | 0.0100 | 701.72 | 0.9900 | — | — | 2026-11-02T08:11:44Z |
+| KXHIGHCHI-26NOV02-T64 | series:KXHIGHCHI | Will the maximum temperature be <64° on Nov 2, 2026? | 0.6200 | 0.6300 | 155.00 | 0.3700 | 0.3800 | 41.04 | 2026-11-02T08:11:44Z |
+| KXHIGHCHI-26NOV02-T71 | series:KXHIGHCHI | Will the maximum temperature be >71° on Nov 2, 2026? | — | 0.0100 | 5780.72 | 0.9900 | — | — | 2026-11-02T08:11:44Z |
+| KXHIGHTATL-26NOV02-B70.5 | series:KXHIGHTATL | Will the maximum temperature be 70-71° on Nov 2, 2026? | 0.1100 | 0.1200 | 3.00 | 0.8800 | 0.8900 | 19.00 | 2026-11-02T08:11:44Z |
+| KXHIGHTATL-26NOV02-B72.5 | series:KXHIGHTATL | Will the maximum temperature be 72-73° on Nov 2, 2026? | 0.4300 | 0.4400 | 30.13 | 0.5600 | 0.5700 | 1.00 | 2026-11-02T08:11:44Z |
+| KXHIGHTATL-26NOV02-B74.5 | series:KXHIGHTATL | Will the maximum temperature be 74-75° on Nov 2, 2026? | 0.3300 | 0.3400 | 114.00 | 0.6600 | 0.6700 | 83.00 | 2026-11-02T08:11:44Z |
+| KXHIGHTATL-26NOV02-B76.5 | series:KXHIGHTATL | Will the maximum temperature be 76-77° on Nov 2, 2026? | 0.0300 | 0.0400 | 140.00 | 0.9600 | 0.9700 | 302.00 | 2026-11-02T08:11:44Z |
+| KXHIGHTATL-26NOV02-T70 | series:KXHIGHTATL | Will the maximum temperature be <70° on Nov 2, 2026? | 0.0200 | 0.0300 | 242.00 | 0.9700 | 0.9800 | 63.00 | 2026-11-02T08:11:44Z |
+| KXHIGHTATL-26NOV02-T77 | series:KXHIGHTATL | Will the maximum temperature be >77° on Nov 2, 2026? | — | 0.0100 | 904.71 | 0.9900 | — | — | 2026-11-02T08:11:44Z |
+| KXHIGHTMIN-26NOV02-B60.5 | series:KXHIGHTMIN | Will the maximum temperature be 60-61° on Nov 2, 2026? | 0.0100 | 0.0200 | 35.00 | 0.9800 | 0.9900 | 105.18 | 2026-11-02T08:11:44Z |
+| KXHIGHTMIN-26NOV02-B62.5 | series:KXHIGHTMIN | Will the maximum temperature be 62-63° on Nov 2, 2026? | 0.0900 | 0.1000 | 15.27 | 0.9000 | 0.9100 | 136.70 | 2026-11-02T08:11:44Z |
+| KXHIGHTMIN-26NOV02-B64.5 | series:KXHIGHTMIN | Will the maximum temperature be 64-65° on Nov 2, 2026? | 0.6700 | 0.6800 | 136.00 | 0.3200 | 0.3300 | 7.50 | 2026-11-02T08:11:44Z |
+| KXHIGHTMIN-26NOV02-B66.5 | series:KXHIGHTMIN | Will the maximum temperature be 66-67° on Nov 2, 2026? | 0.2200 | 0.2400 | 101.00 | 0.7600 | 0.7800 | 29.00 | 2026-11-02T08:11:44Z |
+| KXHIGHTMIN-26NOV02-T60 | series:KXHIGHTMIN | Will the maximum temperature be <60° on Nov 2, 2026? | — | 0.0100 | 24862.91 | 0.9900 | — | — | 2026-11-02T08:11:44Z |
+| KXHIGHTMIN-26NOV02-T67 | series:KXHIGHTMIN | Will the maximum temperature be >67° on Nov 2, 2026? | — | 0.0100 | 248.61 | 0.9900 | — | — | 2026-11-02T08:11:44Z |
+| KXHURCTOT-26DEC01-T10 | series:KXHURCTOT | Will there be more than 10  Atlantic hurricanes in 2026? | — | 0.0100 | 45.41 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURCTOT-26DEC01-T12 | series:KXHURCTOT | Will there be more than 12  Atlantic hurricanes in 2026? | — | 0.0100 | 391.00 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURCTOT-26DEC01-T15 | series:KXHURCTOT | Will there be more than 15  Atlantic hurricanes in 2026? | — | 0.0100 | 886.52 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURCTOT-26DEC01-T4 | series:KXHURCTOT | Will there be more than 4  Atlantic hurricanes in 2026? | 0.0300 | 0.0400 | 81.69 | 0.9600 | 0.9700 | 655.48 | 2026-11-02T08:11:45Z |
+| KXHURCTOT-26DEC01-T5 | series:KXHURCTOT | Will there be more than 5  Atlantic hurricanes in 2026? | 0.0300 | 0.0400 | 65.68 | 0.9600 | 0.9700 | 528.98 | 2026-11-02T08:11:45Z |
+| KXHURCTOT-26DEC01-T6 | series:KXHURCTOT | Will there be more than 6  Atlantic hurricanes in 2026? | 0.0200 | 0.0500 | 11.00 | 0.9500 | 0.9800 | 15.63 | 2026-11-02T08:11:45Z |
+| KXHURCTOT-26DEC01-T7 | series:KXHURCTOT | Will there be more than 7  Atlantic hurricanes in 2026? | — | 0.0100 | 263.63 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURCTOT-26DEC01-T8 | series:KXHURCTOT | Will there be more than 8  Atlantic hurricanes in 2026? | — | 0.0100 | 391.54 | 0.9900 | — | — | 2026-11-02T08:11:44Z |
+| KXHURCTOT-26DEC01-T9 | series:KXHURCTOT | Will there be more than 9  Atlantic hurricanes in 2026? | — | 0.0100 | 351.58 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURCTOTMAJ-26DEC01-T1 | series:KXHURCTOTMAJ | Will there be more than 1 major Atlantic hurricanes in 2026? | 0.1100 | 0.1400 | 82.00 | 0.8600 | 0.8900 | 30.59 | 2026-11-02T08:11:45Z |
+| KXHURCTOTMAJ-26DEC01-T2 | series:KXHURCTOTMAJ | Will there be more than 2 major Atlantic hurricanes in 2026? | 0.0300 | 0.0400 | 69.46 | 0.9600 | 0.9700 | 506.04 | 2026-11-02T08:11:45Z |
+| KXHURCTOTMAJ-26DEC01-T3 | series:KXHURCTOTMAJ | Will there be more than 3 major Atlantic hurricanes in 2026? | 0.0100 | 0.0200 | 92.78 | 0.9800 | 0.9900 | 2064.85 | 2026-11-02T08:11:45Z |
+| KXHURCTOTMAJ-26DEC01-T4 | series:KXHURCTOTMAJ | Will there be more than 4 major Atlantic hurricanes in 2026? | — | 0.0100 | 476.00 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURCTOTMAJ-26DEC01-T5 | series:KXHURCTOTMAJ | Will there be more than 5 major Atlantic hurricanes in 2026? | — | 0.0100 | 100.00 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURCTOTMAJ-26DEC01-T6 | series:KXHURCTOTMAJ | Will there be more than 6 major Atlantic hurricanes in 2026? | — | 0.0100 | 144.85 | 0.9900 | — | — | 2026-11-02T08:11:46Z |
+| KXHURCTOTMAJ-26DEC01-T7 | series:KXHURCTOTMAJ | Will there be more than 7 major Atlantic hurricanes in 2026? | — | 0.0100 | 114.00 | 0.9900 | — | — | 2026-11-02T08:11:45Z |
+| KXHURPATHAL-31DEC26ISAIAS-YES | series:KXHURPATHAL | Will Hurricane Isaias cross Alabama before Dec 31, 2026? | 0.0200 | 0.0500 | 63.21 | 0.9500 | 0.9800 | 238.96 | 2026-11-02T08:11:47Z |
 
 Full machine-readable data: [`latest.json`](latest.json).
