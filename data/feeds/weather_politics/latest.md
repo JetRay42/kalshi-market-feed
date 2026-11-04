@@ -1,59 +1,84 @@
 # Kalshi public order-book snapshots (v2)
 
-Updated UTC: **2026-11-04T08:56:09Z** · Books: **47** of **47** selected · Warnings: **0**
+Updated UTC: **2026-11-04T10:00:14Z** · Books: **72** of **72** selected · Warnings: **0**
 
 > Research snapshots only: no live execution guarantee. Recheck market status, fees and settlement rules before placing any order.
 
-**Coverage by series:** CONTROLS: 2, KXAFDSTATEGOV: 5, KXAIBILL: 1, KXAIBIOSECURITY: 3, KXAIDUTYOFCARE: 3, KXAIINCIDENTREPORT: 3, KXAIKILLSWITCH: 3, KXAILEGISLATION: 2, KXAISAFETYAUDIT: 3, KXALBERTASNAP: 3, KXHIGHCHI: 6, KXHIGHTATL: 6, KXHIGHTMIN: 6, KXTNTRANSEMP: 1
+**Coverage by series:** CONTROLS: 2, KXBILLS: 10, KXBLACKBURNSEAT: 10, KXBLUESLIP: 3, KXDCSNOWM: 6, KXDENSNOWM: 6, KXDETSNOWM: 6, KXHIGHCHI: 6, KXHIGHTATL: 6, KXHIGHTMIN: 6, KXUE: 10, KXUKEAINFL: 1
 
 | Ticker | Reason | Contract | YES bid | YES ask | YES ask size | NO bid | NO ask | NO ask size | Observed UTC |
 |---|---|---|---:|---:|---:|---:|---:|---:|---|
-| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.9000 | 0.9100 | 1634.99 | 0.0900 | 0.1000 | 66.02 | 2026-11-04T08:56:07Z |
-| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.1100 | 0.1300 | 84.96 | 0.8700 | 0.8900 | 3786.65 | 2026-11-04T08:56:07Z |
-| KXAFDSTATEGOV-27 | series:KXAFDSTATEGOV | Will it be reported by any of the Source Agencies that the Altern | 0.4000 | 0.4400 | 200.00 | 0.5600 | 0.6000 | 14.78 | 2026-11-04T08:56:07Z |
-| KXAFDSTATEGOV-27-27JUL01 | series:KXAFDSTATEGOV | Will it be reported by any of the Source Agencies that the Altern | 0.6000 | 0.6800 | 200.00 | 0.3200 | 0.4000 | 5.00 | 2026-11-04T08:56:07Z |
-| KXAFDSTATEGOV-27-28JAN01 | series:KXAFDSTATEGOV | Will it be reported by any of the Source Agencies that the Altern | 0.7500 | 0.8300 | 200.00 | 0.1700 | 0.2500 | 5.00 | 2026-11-04T08:56:07Z |
-| KXAFDSTATEGOV-27-29JAN01 | series:KXAFDSTATEGOV | Will it be reported by any of the Source Agencies that the Altern | 0.8700 | 0.9500 | 200.00 | 0.0500 | 0.1300 | 5.00 | 2026-11-04T08:56:07Z |
-| KXAFDSTATEGOV-27-30JAN01 | series:KXAFDSTATEGOV | Will it be reported by any of the Source Agencies that the Altern | 0.9200 | 0.9800 | 200.00 | 0.0200 | 0.0800 | 5.00 | 2026-11-04T08:56:07Z |
-| KXAIBILL-26JUN-27JAN01 | series:KXAIBILL | Will legislation that establishes a multi-issue federal framework | 0.0200 | 0.0400 | 333.00 | 0.9600 | 0.9800 | 500.00 | 2026-11-04T08:56:07Z |
-| KXAIBIOSECURITY-26SEP-27JAN01 | series:KXAIBIOSECURITY | Will AI biosecurity safeguards become U.S. law before Jan 1, 2027 | 0.3300 | 0.4000 | 15.00 | 0.6000 | 0.6700 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIBIOSECURITY-26SEP-27JUL01 | series:KXAIBIOSECURITY | Will AI biosecurity safeguards become U.S. law before Jul 1, 2027 | 0.4700 | 0.5300 | 3.28 | 0.4700 | 0.5300 | 2.00 | 2026-11-04T08:56:08Z |
-| KXAIBIOSECURITY-26SEP-28JAN01 | series:KXAIBIOSECURITY | Will AI biosecurity safeguards become U.S. law before Jan 1, 2028 | 0.6900 | 0.7700 | 100.00 | 0.2300 | 0.3100 | 5.00 | 2026-11-04T08:56:07Z |
-| KXAIDUTYOFCARE-26SEP-27JAN01 | series:KXAIDUTYOFCARE | Will an AI catastrophic-risk duty of care become U.S. law before  | 0.0300 | 0.1100 | 200.00 | 0.8900 | 0.9700 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIDUTYOFCARE-26SEP-27JUL01 | series:KXAIDUTYOFCARE | Will an AI catastrophic-risk duty of care become U.S. law before  | 0.2200 | 0.3000 | 200.00 | 0.7000 | 0.7800 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIDUTYOFCARE-26SEP-28JAN01 | series:KXAIDUTYOFCARE | Will an AI catastrophic-risk duty of care become U.S. law before  | 0.4000 | 0.4800 | 200.00 | 0.5200 | 0.6000 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIINCIDENTREPORT-26SEP-27JAN01 | series:KXAIINCIDENTREPORT | Will serious AI-incident reporting become U.S. law before Jan 1,  | 0.1600 | 0.2300 | 100.00 | 0.7700 | 0.8400 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIINCIDENTREPORT-26SEP-27JUL01 | series:KXAIINCIDENTREPORT | Will serious AI-incident reporting become U.S. law before Jul 1,  | 0.4000 | 0.4700 | 100.00 | 0.5300 | 0.6000 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIINCIDENTREPORT-26SEP-28JAN01 | series:KXAIINCIDENTREPORT | Will serious AI-incident reporting become U.S. law before Jan 1,  | 0.6000 | 0.6700 | 100.00 | 0.3300 | 0.4000 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIKILLSWITCH-26SEP-27JAN01 | series:KXAIKILLSWITCH | Will the U.S. enact an AI kill switch law before Jan 1, 2027? | 0.0800 | 0.1400 | 200.00 | 0.8600 | 0.9200 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAIKILLSWITCH-26SEP-27JUL01 | series:KXAIKILLSWITCH | Will the U.S. enact an AI kill switch law before Jul 1, 2027? | 0.2800 | 0.3600 | 201.00 | 0.6400 | 0.7200 | 10.00 | 2026-11-04T08:56:08Z |
-| KXAIKILLSWITCH-26SEP-28JAN01 | series:KXAIKILLSWITCH | Will the U.S. enact an AI kill switch law before Jan 1, 2028? | 0.4600 | 0.4800 | 176.55 | 0.5200 | 0.5400 | 200.00 | 2026-11-04T08:56:08Z |
-| KXAILEGISLATION-27-28JAN01 | series:KXAILEGISLATION | AI regulation by 2028? | 0.2600 | 0.3500 | 520.00 | 0.6500 | 0.7400 | 5.00 | 2026-11-04T08:56:08Z |
-| KXAILEGISLATION-27-JAN01 | series:KXAILEGISLATION | AI regulation by 2027? | 0.0220 | 0.1100 | 500.00 | 0.8900 | 0.9780 | 98.00 | 2026-11-04T08:56:08Z |
-| KXAISAFETYAUDIT-26SEP-27JAN01 | series:KXAISAFETYAUDIT | Will independent AI safety audits become U.S. law before Jan 1, 2 | 0.0700 | 0.1500 | 200.00 | 0.8500 | 0.9300 | 10.00 | 2026-11-04T08:56:08Z |
-| KXAISAFETYAUDIT-26SEP-27JUL01 | series:KXAISAFETYAUDIT | Will independent AI safety audits become U.S. law before Jul 1, 2 | 0.2900 | 0.3700 | 200.00 | 0.6300 | 0.7100 | 200.00 | 2026-11-04T08:56:08Z |
-| KXAISAFETYAUDIT-26SEP-28JAN01 | series:KXAISAFETYAUDIT | Will independent AI safety audits become U.S. law before Jan 1, 2 | 0.4200 | 0.5100 | 200.00 | 0.4900 | 0.5800 | 200.00 | 2026-11-04T08:56:08Z |
-| KXALBERTASNAP-27-27APR01 | series:KXALBERTASNAP | Will it be reported by any of the Source Agencies that a snap gen | 0.2000 | 0.2600 | 60.00 | 0.7400 | 0.8000 | 5.00 | 2026-11-04T08:56:08Z |
-| KXALBERTASNAP-27-27JAN01 | series:KXALBERTASNAP | Will it be reported by any of the Source Agencies that a snap gen | 0.0600 | 0.1300 | 200.00 | 0.8700 | 0.9400 | 5.00 | 2026-11-04T08:56:08Z |
-| KXALBERTASNAP-27-27JUL01 | series:KXALBERTASNAP | Will it be reported by any of the Source Agencies that a snap gen | 0.3000 | 0.3800 | 200.00 | 0.6200 | 0.7000 | 5.00 | 2026-11-04T08:56:09Z |
-| KXHIGHCHI-26NOV04-B63.5 | series:KXHIGHCHI | Will the maximum temperature be 63-64° on Nov 4, 2026? | — | 0.0100 | 356083.65 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHCHI-26NOV04-B65.5 | series:KXHIGHCHI | Will the maximum temperature be 65-66° on Nov 4, 2026? | — | 0.0100 | 334987.06 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHCHI-26NOV04-B67.5 | series:KXHIGHCHI | Will the maximum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 90739.39 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHCHI-26NOV04-B69.5 | series:KXHIGHCHI | Will the maximum temperature be 69-70° on Nov 4, 2026? | 0.9500 | 0.9800 | 148.37 | 0.0200 | 0.0500 | 19.00 | 2026-11-04T08:56:07Z |
-| KXHIGHCHI-26NOV04-T63 | series:KXHIGHCHI | Will the maximum temperature be <63° on Nov 4, 2026? | — | 0.0100 | 348473.30 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHCHI-26NOV04-T70 | series:KXHIGHCHI | Will the maximum temperature be >70° on Nov 4, 2026? | 0.0100 | 0.0300 | 43.93 | 0.9700 | 0.9900 | 206.07 | 2026-11-04T08:56:07Z |
-| KXHIGHTATL-26NOV04-B71.5 | series:KXHIGHTATL | Will the maximum temperature be 71-72° on Nov 4, 2026? | 0.4500 | 0.4900 | 0.01 | 0.5100 | 0.5500 | 4.08 | 2026-11-04T08:56:07Z |
-| KXHIGHTATL-26NOV04-B73.5 | series:KXHIGHTATL | Will the maximum temperature be 73-74° on Nov 4, 2026? | 0.0700 | 0.0800 | 120.00 | 0.9200 | 0.9300 | 51.00 | 2026-11-04T08:56:07Z |
-| KXHIGHTATL-26NOV04-B75.5 | series:KXHIGHTATL | Will the maximum temperature be 75-76° on Nov 4, 2026? | 0.0100 | 0.0200 | 613.02 | 0.9800 | 0.9900 | 57.44 | 2026-11-04T08:56:07Z |
-| KXHIGHTATL-26NOV04-B77.5 | series:KXHIGHTATL | Will the maximum temperature be 77-78° on Nov 4, 2026? | — | 0.0100 | 433.69 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHTATL-26NOV04-T71 | series:KXHIGHTATL | Will the maximum temperature be <71° on Nov 4, 2026? | 0.4300 | 0.4500 | 43.00 | 0.5500 | 0.5700 | 39.00 | 2026-11-04T08:56:07Z |
-| KXHIGHTATL-26NOV04-T78 | series:KXHIGHTATL | Will the maximum temperature be >78° on Nov 4, 2026? | — | 0.0100 | 866.69 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHTMIN-26NOV04-B53.5 | series:KXHIGHTMIN | Will the maximum temperature be 53-54° on Nov 4, 2026? | 0.5400 | 0.5600 | 23.50 | 0.4400 | 0.4600 | 5.00 | 2026-11-04T08:56:07Z |
-| KXHIGHTMIN-26NOV04-B55.5 | series:KXHIGHTMIN | Will the maximum temperature be 55-56° on Nov 4, 2026? | 0.3400 | 0.4500 | 28.00 | 0.5500 | 0.6600 | 7.00 | 2026-11-04T08:56:07Z |
-| KXHIGHTMIN-26NOV04-B57.5 | series:KXHIGHTMIN | Will the maximum temperature be 57-58° on Nov 4, 2026? | 0.0300 | 0.0500 | 6.00 | 0.9500 | 0.9700 | 135.00 | 2026-11-04T08:56:07Z |
-| KXHIGHTMIN-26NOV04-B59.5 | series:KXHIGHTMIN | Will the maximum temperature be 59-60° on Nov 4, 2026? | — | 0.0100 | 3.47 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHTMIN-26NOV04-T53 | series:KXHIGHTMIN | Will the maximum temperature be <53° on Nov 4, 2026? | — | 0.0100 | 25315.42 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXHIGHTMIN-26NOV04-T60 | series:KXHIGHTMIN | Will the maximum temperature be >60° on Nov 4, 2026? | — | 0.0100 | 425.47 | 0.9900 | — | — | 2026-11-04T08:56:07Z |
-| KXTNTRANSEMP-27APR30-T69700 | series:KXTNTRANSEMP | Will Tennessee’s annual-average employment in Transportation Equi | 0.4600 | 0.4700 | 4269.01 | 0.5300 | 0.5400 | 1647.17 | 2026-11-04T08:56:07Z |
+| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.8900 | 0.9000 | 77.55 | 0.1000 | 0.1100 | 403.66 | 2026-11-04T10:00:11Z |
+| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.1100 | 0.1300 | 3245.70 | 0.8700 | 0.8900 | 1368.99 | 2026-11-04T10:00:11Z |
+| KXBILLS-250C | series:KXBILLS | Will legislation that would require Treasury to mint and issue $2 | 0.0610 | 0.1000 | 36.50 | 0.9000 | 0.9390 | 29.35 | 2026-11-04T10:00:12Z |
+| KXBILLS-CCR | series:KXBILLS | Will legislation that requires two unaffiliated networks for proc | 0.0710 | 0.1000 | 10.00 | 0.9000 | 0.9290 | 10.00 | 2026-11-04T10:00:12Z |
+| KXBILLS-CHIP | series:KXBILLS | Will legislation that requires location-verification security mec | 0.3900 | 0.4400 | 500.00 | 0.5600 | 0.6100 | 45.75 | 2026-11-04T10:00:13Z |
+| KXBILLS-DATA | series:KXBILLS | Will legislation that prohibits data center power usage from incr | 0.1800 | 0.2300 | 23.21 | 0.7700 | 0.8200 | 5.00 | 2026-11-04T10:00:13Z |
+| KXBILLS-DEFY | series:KXBILLS | Will legislation that creates a federal civil lawsuit right for v | 0.0400 | 0.0490 | 2.00 | 0.9510 | 0.9600 | 14.00 | 2026-11-04T10:00:12Z |
+| KXBILLS-DIGNITY | series:KXBILLS | Will legislation that pairs enhanced border security and mandator | 0.0400 | 0.0700 | 3.00 | 0.9300 | 0.9600 | 7.64 | 2026-11-04T10:00:13Z |
+| KXBILLS-DRIVE | series:KXBILLS | Will legislation that preempts state and local autonomous vehicle | 0.0120 | 0.0380 | 17.28 | 0.9620 | 0.9880 | 13.85 | 2026-11-04T10:00:13Z |
+| KXBILLS-E15 | series:KXBILLS | Will legislation that allows year-round nationwide sale of E15 fu | 0.1100 | 0.1500 | 2.00 | 0.8500 | 0.8900 | 16.19 | 2026-11-04T10:00:12Z |
+| KXBILLS-NIL | series:KXBILLS | Will legislation principally aimed at establishing a federal fram | 0.1800 | 0.2100 | 37.66 | 0.7900 | 0.8200 | 13.00 | 2026-11-04T10:00:12Z |
+| KXBILLS-SHOW | series:KXBILLS | Will legislation that redefines “showerhead” for DOE rules to all | 0.0210 | 0.0420 | 13.37 | 0.9580 | 0.9790 | 9.77 | 2026-11-04T10:00:12Z |
+| KXBLACKBURNSEAT-27FEB01-AOGL | series:KXBLACKBURNSEAT | Will Andy Ogles be United States Senator from Tennessee, Class I  | 0.0100 | 0.0600 | 200.00 | 0.9400 | 0.9900 | 39.54 | 2026-11-04T10:00:14Z |
+| KXBLACKBURNSEAT-27FEB01-CSEX | series:KXBLACKBURNSEAT | Will Cameron Sexton be United States Senator from Tennessee, Clas | 0.0100 | 0.0600 | 200.00 | 0.9400 | 0.9900 | 39.54 | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-DHAR | series:KXBLACKBURNSEAT | Will Diana Harshbarger be United States Senator from Tennessee, C | 0.0100 | 0.0600 | 200.00 | 0.9400 | 0.9900 | 39.54 | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-DHIN | series:KXBLACKBURNSEAT | Will Damon Hininger be United States Senator from Tennessee, Clas | 0.0100 | 0.1100 | 200.00 | 0.8900 | 0.9900 | 244.54 | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-GJAC | series:KXBLACKBURNSEAT | Will Glenn Jacobs be United States Senator from Tennessee, Class  | 0.2100 | 0.2800 | 200.00 | 0.7200 | 0.7900 | 2.04 | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-MBLA | series:KXBLACKBURNSEAT | Will Marsha Blackburn be United States Senator from Tennessee, Cl | — | 0.0100 | 1787.47 | 0.9900 | — | — | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-NOONE | series:KXBLACKBURNSEAT | Will no one be United States Senator from Tennessee, Class I on F | 0.0100 | 0.0600 | 200.00 | 0.9400 | 0.9900 | 39.54 | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-PHEG | series:KXBLACKBURNSEAT | Will Pete Hegseth be United States Senator from Tennessee, Class  | 0.1300 | 0.2100 | 14.00 | 0.7900 | 0.8700 | 2.00 | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-SMCW | series:KXBLACKBURNSEAT | Will Stuart McWhorter be United States Senator from Tennessee, Cl | 0.0100 | 0.0600 | 200.00 | 0.9400 | 0.9900 | 39.54 | 2026-11-04T10:00:13Z |
+| KXBLACKBURNSEAT-27FEB01-TBUR | series:KXBLACKBURNSEAT | Will Tim Burchett be United States Senator from Tennessee, Class  | 0.3300 | 0.4100 | 0.44 | 0.5900 | 0.6700 | 32.00 | 2026-11-04T10:00:14Z |
+| KXBLUESLIP-26-27JAN01 | series:KXBLUESLIP | Will it be reported by any of the Source Agencies that the Senate | 0.1800 | 0.2500 | 200.00 | 0.7500 | 0.8200 | 5.00 | 2026-11-04T10:00:13Z |
+| KXBLUESLIP-26-28JAN01 | series:KXBLUESLIP | Will it be reported by any of the Source Agencies that the Senate | 0.3300 | 0.3400 | 10.00 | 0.6600 | 0.6700 | 5.00 | 2026-11-04T10:00:14Z |
+| KXBLUESLIP-26-29JAN01 | series:KXBLUESLIP | Will it be reported by any of the Source Agencies that the Senate | 0.4100 | 0.4900 | 200.00 | 0.5100 | 0.5900 | 5.00 | 2026-11-04T10:00:14Z |
+| KXDCSNOWM-26DEC-10 | series:KXDCSNOWM | Snow in Washington DC in Dec 2026? | 0.0100 | 0.0600 | 10.00 | 0.9400 | 0.9900 | 311.00 | 2026-11-04T10:00:11Z |
+| KXDCSNOWM-26DEC-12 | series:KXDCSNOWM | Snow in Washington DC in Dec 2026? | 0.0200 | 0.0700 | 13.00 | 0.9300 | 0.9800 | 86.90 | 2026-11-04T10:00:12Z |
+| KXDCSNOWM-26DEC-2 | series:KXDCSNOWM | Snow in Washington DC in Dec 2026? | 0.2200 | 0.3100 | 13.00 | 0.6900 | 0.7800 | 16.00 | 2026-11-04T10:00:11Z |
+| KXDCSNOWM-26DEC-4 | series:KXDCSNOWM | Snow in Washington DC in Dec 2026? | 0.0500 | 0.1800 | 13.00 | 0.8200 | 0.9500 | 100.00 | 2026-11-04T10:00:12Z |
+| KXDCSNOWM-26DEC-6 | series:KXDCSNOWM | Snow in Washington DC in Dec 2026? | 0.0300 | 0.1600 | 25.00 | 0.8400 | 0.9700 | 100.00 | 2026-11-04T10:00:11Z |
+| KXDCSNOWM-26DEC-8 | series:KXDCSNOWM | Snow in Washington DC in Dec 2026? | 0.0300 | 0.0900 | 50.00 | 0.9100 | 0.9700 | 100.00 | 2026-11-04T10:00:11Z |
+| KXDENSNOWM-26DEC-10 | series:KXDENSNOWM | Snow in Denver in Dec 2026? | 0.2600 | 0.4000 | 25.00 | 0.6000 | 0.7400 | 25.00 | 2026-11-04T10:00:12Z |
+| KXDENSNOWM-26DEC-12 | series:KXDENSNOWM | Snow in Denver in Dec 2026? | 0.1600 | 0.3300 | 25.00 | 0.6700 | 0.8400 | 1.00 | 2026-11-04T10:00:12Z |
+| KXDENSNOWM-26DEC-2 | series:KXDENSNOWM | Snow in Denver in Dec 2026? | 0.7300 | 0.8600 | 25.00 | 0.1400 | 0.2700 | 3.00 | 2026-11-04T10:00:12Z |
+| KXDENSNOWM-26DEC-4 | series:KXDENSNOWM | Snow in Denver in Dec 2026? | 0.5000 | 0.6900 | 2.00 | 0.3100 | 0.5000 | 25.00 | 2026-11-04T10:00:12Z |
+| KXDENSNOWM-26DEC-6 | series:KXDENSNOWM | Snow in Denver in Dec 2026? | 0.4200 | 0.6100 | 25.00 | 0.3900 | 0.5800 | 2.00 | 2026-11-04T10:00:12Z |
+| KXDENSNOWM-26DEC-8 | series:KXDENSNOWM | Snow in Denver in Dec 2026? | 0.3200 | 0.4800 | 13.00 | 0.5200 | 0.6800 | 13.00 | 2026-11-04T10:00:12Z |
+| KXDETSNOWM-26DEC-10 | series:KXDETSNOWM | Snow in Detroit in Dec 2026? | 0.2600 | 0.3800 | 28.00 | 0.6200 | 0.7400 | 1.00 | 2026-11-04T10:00:13Z |
+| KXDETSNOWM-26DEC-12 | series:KXDETSNOWM | Snow in Detroit in Dec 2026? | 0.1500 | 0.1800 | 50.77 | 0.8200 | 0.8500 | 13.00 | 2026-11-04T10:00:13Z |
+| KXDETSNOWM-26DEC-2 | series:KXDETSNOWM | Snow in Detroit in Dec 2026? | 0.6200 | 0.7200 | 4.00 | 0.2800 | 0.3800 | 13.00 | 2026-11-04T10:00:13Z |
+| KXDETSNOWM-26DEC-4 | series:KXDETSNOWM | Snow in Detroit in Dec 2026? | 0.5000 | 0.6200 | 1.00 | 0.3800 | 0.5000 | 13.00 | 2026-11-04T10:00:13Z |
+| KXDETSNOWM-26DEC-6 | series:KXDETSNOWM | Snow in Detroit in Dec 2026? | 0.4000 | 0.5400 | 13.00 | 0.4600 | 0.6000 | 3.00 | 2026-11-04T10:00:13Z |
+| KXDETSNOWM-26DEC-8 | series:KXDETSNOWM | Snow in Detroit in Dec 2026? | 0.3200 | 0.4300 | 24.00 | 0.5700 | 0.6800 | 17.36 | 2026-11-04T10:00:13Z |
+| KXHIGHCHI-26NOV04-B63.5 | series:KXHIGHCHI | Will the maximum temperature be 63-64° on Nov 4, 2026? | — | 0.0100 | 355369.88 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHCHI-26NOV04-B65.5 | series:KXHIGHCHI | Will the maximum temperature be 65-66° on Nov 4, 2026? | — | 0.0100 | 334604.99 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHCHI-26NOV04-B67.5 | series:KXHIGHCHI | Will the maximum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 89234.37 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHCHI-26NOV04-B69.5 | series:KXHIGHCHI | Will the maximum temperature be 69-70° on Nov 4, 2026? | 0.9400 | 0.9800 | 214.61 | 0.0200 | 0.0600 | 26.00 | 2026-11-04T10:00:11Z |
+| KXHIGHCHI-26NOV04-T63 | series:KXHIGHCHI | Will the maximum temperature be <63° on Nov 4, 2026? | — | 0.0100 | 348035.71 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHCHI-26NOV04-T70 | series:KXHIGHCHI | Will the maximum temperature be >70° on Nov 4, 2026? | 0.0300 | 0.0400 | 30.00 | 0.9600 | 0.9700 | 39.00 | 2026-11-04T10:00:11Z |
+| KXHIGHTATL-26NOV04-B71.5 | series:KXHIGHTATL | Will the maximum temperature be 71-72° on Nov 4, 2026? | 0.4500 | 0.4900 | 25.01 | 0.5100 | 0.5500 | 4.08 | 2026-11-04T10:00:11Z |
+| KXHIGHTATL-26NOV04-B73.5 | series:KXHIGHTATL | Will the maximum temperature be 73-74° on Nov 4, 2026? | 0.0700 | 0.0800 | 164.00 | 0.9200 | 0.9300 | 465.00 | 2026-11-04T10:00:11Z |
+| KXHIGHTATL-26NOV04-B75.5 | series:KXHIGHTATL | Will the maximum temperature be 75-76° on Nov 4, 2026? | 0.0100 | 0.0200 | 613.02 | 0.9800 | 0.9900 | 57.44 | 2026-11-04T10:00:11Z |
+| KXHIGHTATL-26NOV04-B77.5 | series:KXHIGHTATL | Will the maximum temperature be 77-78° on Nov 4, 2026? | — | 0.0100 | 433.69 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHTATL-26NOV04-T71 | series:KXHIGHTATL | Will the maximum temperature be <71° on Nov 4, 2026? | 0.4400 | 0.4500 | 33.00 | 0.5500 | 0.5600 | 8.00 | 2026-11-04T10:00:11Z |
+| KXHIGHTATL-26NOV04-T78 | series:KXHIGHTATL | Will the maximum temperature be >78° on Nov 4, 2026? | — | 0.0100 | 866.69 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHTMIN-26NOV04-B53.5 | series:KXHIGHTMIN | Will the maximum temperature be 53-54° on Nov 4, 2026? | 0.5700 | 0.6600 | 71.65 | 0.3400 | 0.4300 | 28.00 | 2026-11-04T10:00:11Z |
+| KXHIGHTMIN-26NOV04-B55.5 | series:KXHIGHTMIN | Will the maximum temperature be 55-56° on Nov 4, 2026? | 0.3200 | 0.3300 | 28.00 | 0.6700 | 0.6800 | 9.85 | 2026-11-04T10:00:11Z |
+| KXHIGHTMIN-26NOV04-B57.5 | series:KXHIGHTMIN | Will the maximum temperature be 57-58° on Nov 4, 2026? | 0.0500 | 0.0700 | 41.00 | 0.9300 | 0.9500 | 31.00 | 2026-11-04T10:00:11Z |
+| KXHIGHTMIN-26NOV04-B59.5 | series:KXHIGHTMIN | Will the maximum temperature be 59-60° on Nov 4, 2026? | — | 0.0200 | 46.02 | 0.9800 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHTMIN-26NOV04-T53 | series:KXHIGHTMIN | Will the maximum temperature be <53° on Nov 4, 2026? | — | 0.0100 | 23887.47 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXHIGHTMIN-26NOV04-T60 | series:KXHIGHTMIN | Will the maximum temperature be >60° on Nov 4, 2026? | — | 0.0100 | 737.47 | 0.9900 | — | — | 2026-11-04T10:00:11Z |
+| KXUE-AUS26OCT-5.1 | series:KXUE | Australia unemployment rate in October 2026? | 0.0100 | 0.0500 | 200.00 | 0.9500 | 0.9900 | 100.00 | 2026-11-04T10:00:12Z |
+| KXUE-AUS26OCT-5.2 | series:KXUE | Australia unemployment rate in October 2026? | 0.0100 | 0.0500 | 200.00 | 0.9500 | 0.9900 | 100.00 | 2026-11-04T10:00:12Z |
+| KXUE-BR26OCTB-5.5 | series:KXUE | Brazil unemployment rate in October 2026? | 0.0300 | 0.1300 | 200.00 | 0.8700 | 0.9700 | 200.00 | 2026-11-04T10:00:12Z |
+| KXUE-BR26OCTB-5.6 | series:KXUE | Brazil unemployment rate in October 2026? | — | 0.0900 | 200.00 | 0.9100 | — | — | 2026-11-04T10:00:12Z |
+| KXUE-CAN26OCT-6.7 | series:KXUE | Canada unemployment rate in October 2026? | 0.0600 | 0.1600 | 200.00 | 0.8400 | 0.9400 | 200.00 | 2026-11-04T10:00:12Z |
+| KXUE-CHN26OCT-4.9 | series:KXUE | China unemployment rate in October 2026? | 0.2100 | 0.9900 | 200.00 | 0.0100 | 0.7900 | 29.52 | 2026-11-04T10:00:12Z |
+| KXUE-GER26NOV-6.7 | series:KXUE | Germany unemployment rate in November 2026? | — | 0.0500 | 200.00 | 0.9500 | — | — | 2026-11-04T10:00:12Z |
+| KXUE-MEX26OCT-2.7 | series:KXUE | Mexico unemployment rate in October 2026? | 0.2800 | 0.4900 | 9.60 | 0.5100 | 0.7200 | 517.82 | 2026-11-04T10:00:12Z |
+| KXUE-RUS26NOV-2.1 | series:KXUE | Russia unemployment rate in October 2026? | 0.7900 | 0.8900 | 200.00 | 0.1100 | 0.2100 | 200.00 | 2026-11-04T10:00:12Z |
+| KXUE-SAF26Q3-31.5 | series:KXUE | South Africa unemployment rate in Q3 2026? | 0.9100 | 0.9900 | 50.00 | 0.0100 | 0.0900 | 165.00 | 2026-11-04T10:00:12Z |
+| KXUKEAINFL-26NOV18-UKVEA | series:KXUKEAINFL | Will United Kingdom Inflation Rate YoY exceed Euro Area Inflation | 0.1100 | 0.1900 | 200.00 | 0.8100 | 0.8900 | 200.00 | 2026-11-04T10:00:12Z |
 
 Full machine-readable data: [`latest.json`](latest.json).
