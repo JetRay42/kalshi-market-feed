@@ -1,107 +1,78 @@
 # Kalshi public order-book snapshots (v2)
 
-Updated UTC: **2026-11-05T02:37:11Z** · Books: **95** of **95** selected · Warnings: **0**
+Updated UTC: **2026-11-05T03:32:19Z** · Books: **66** of **66** selected · Warnings: **0**
 
 > Research snapshots only: no live execution guarantee. Recheck market status, fees and settlement rules before placing any order.
 
-**Coverage by series:** CHINAUSGDP: 1, CONTROLS: 2, KXCHICKENWINGM: 10, KXCHIPBURRITO: 6, KXHIGHCHI: 12, KXHIGHTATL: 12, KXHIGHTEWR: 10, KXHIGHTHOU: 10, KXHIGHTLV: 10, KXHIGHTMIN: 12, KXHIGHTNOLA: 10
+**Coverage by series:** CONTROLS: 2, KXCOWAGE: 1, KXCPI: 10, KXEFTA2SIGS: 1, KXELECTFRAUD: 1, KXELECTIONBILL: 4, KXELECTIONEMERGENCY: 1, KXHIGHCHI: 12, KXHIGHTATL: 12, KXHIGHTMIN: 12, KXHMONTHRANGE: 10
 
 | Ticker | Reason | Contract | YES bid | YES ask | YES ask size | NO bid | NO ask | NO ask size | Observed UTC |
 |---|---|---|---:|---:|---:|---:|---:|---:|---|
-| CHINAUSGDP-30 | series:KXCHINAUSGDP | Will China overtake US GDP by 2030? | 0.1800 | 0.2000 | 185.07 | 0.8000 | 0.8200 | 18.26 | 2026-11-05T02:37:09Z |
-| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.8900 | 0.9000 | 3918.09 | 0.1000 | 0.1100 | 2315.79 | 2026-11-05T02:37:08Z |
-| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.1100 | 0.1200 | 2517.87 | 0.8800 | 0.8900 | 28.00 | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T100 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | 0.5600 | 0.6500 | 200.00 | 0.3500 | 0.4400 | 200.00 | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T110 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | 0.1200 | 0.2100 | 200.00 | 0.7900 | 0.8800 | 200.00 | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T115 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | 0.0300 | 0.1200 | 200.00 | 0.8800 | 0.9700 | 200.00 | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T120 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | — | 0.0800 | 200.00 | 0.9200 | — | — | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T125 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | — | 0.0700 | 200.00 | 0.9300 | — | — | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T130 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | — | 0.0600 | 200.00 | 0.9400 | — | — | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T135 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | — | 0.0600 | 200.00 | 0.9400 | — | — | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T85 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | 0.9200 | — | — | — | 0.0800 | 200.00 | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T90 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | 0.8800 | 0.9700 | 200.00 | 0.0300 | 0.1200 | 200.00 | 2026-11-05T02:37:08Z |
-| KXCHICKENWINGM-26NOV27-T95 | series:KXCHICKENWINGM | Will the average U.S. wholesale price of whole chicken wings in N | 0.8100 | 0.8800 | 200.00 | 0.1200 | 0.1900 | 1.00 | 2026-11-05T02:37:08Z |
-| KXCHIPBURRITO-26DEC02-T9.84 | series:KXCHIPBURRITO | Will the average U.S. price of a Chipotle Chicken Burrito for Nov | 0.9400 | 0.9900 | 441.00 | 0.0100 | 0.0600 | 15.00 | 2026-11-05T02:37:10Z |
-| KXCHIPBURRITO-26DEC02-T9.85 | series:KXCHIPBURRITO | Will the average U.S. price of a Chipotle Chicken Burrito for Nov | 0.7900 | 0.8700 | 100.00 | 0.1300 | 0.2100 | 100.00 | 2026-11-05T02:37:09Z |
-| KXCHIPBURRITO-26DEC02-T9.86 | series:KXCHIPBURRITO | Will the average U.S. price of a Chipotle Chicken Burrito for Nov | 0.6300 | 0.7100 | 100.00 | 0.2900 | 0.3700 | 100.00 | 2026-11-05T02:37:09Z |
-| KXCHIPBURRITO-26DEC02-T9.87 | series:KXCHIPBURRITO | Will the average U.S. price of a Chipotle Chicken Burrito for Nov | 0.4700 | 0.5600 | 100.00 | 0.4400 | 0.5300 | 100.00 | 2026-11-05T02:37:09Z |
-| KXCHIPBURRITO-26DEC02-T9.88 | series:KXCHIPBURRITO | Will the average U.S. price of a Chipotle Chicken Burrito for Nov | 0.3400 | 0.4300 | 100.00 | 0.5700 | 0.6600 | 100.00 | 2026-11-05T02:37:09Z |
-| KXCHIPBURRITO-26DEC02-T9.89 | series:KXCHIPBURRITO | Will the average U.S. price of a Chipotle Chicken Burrito for Nov | 0.2400 | 0.3200 | 100.00 | 0.6800 | 0.7600 | 15.00 | 2026-11-05T02:37:09Z |
-| KXHIGHCHI-26NOV04-B63.5 | series:KXHIGHCHI | Will the maximum temperature be 63-64° on Nov 4, 2026? | — | 0.0100 | 336050.31 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV04-B65.5 | series:KXHIGHCHI | Will the maximum temperature be 65-66° on Nov 4, 2026? | — | 0.0100 | 325616.29 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV04-B67.5 | series:KXHIGHCHI | Will the maximum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 183663.93 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV04-B69.5 | series:KXHIGHCHI | Will the maximum temperature be 69-70° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 56441.81 | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV04-T63 | series:KXHIGHCHI | Will the maximum temperature be <63° on Nov 4, 2026? | — | 0.0100 | 341489.04 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV04-T70 | series:KXHIGHCHI | Will the maximum temperature be >70° on Nov 4, 2026? | — | 0.0100 | 43337.00 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV05-B55.5 | series:KXHIGHCHI | Will the maximum temperature be 55-56° on Nov 5, 2026? | 0.1800 | 0.1900 | 257.00 | 0.8100 | 0.8200 | 5.62 | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV05-B57.5 | series:KXHIGHCHI | Will the maximum temperature be 57-58° on Nov 5, 2026? | 0.0100 | 0.0200 | 86.00 | 0.9800 | 0.9900 | 394.66 | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV05-B59.5 | series:KXHIGHCHI | Will the maximum temperature be 59-60° on Nov 5, 2026? | 0.0100 | 0.0200 | 512.00 | 0.9800 | 0.9900 | 1.00 | 2026-11-05T02:37:08Z |
-| KXHIGHCHI-26NOV05-B61.5 | series:KXHIGHCHI | Will the maximum temperature be 61-62° on Nov 5, 2026? | — | 0.0100 | 184.00 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV05-T55 | series:KXHIGHCHI | Will the maximum temperature be <55° on Nov 5, 2026? | 0.8200 | 0.8300 | 166.31 | 0.1700 | 0.1800 | 7.00 | 2026-11-05T02:37:07Z |
-| KXHIGHCHI-26NOV05-T62 | series:KXHIGHCHI | Will the maximum temperature be >62° on Nov 5, 2026? | — | 0.0100 | 167.00 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHTATL-26NOV04-B71.5 | series:KXHIGHTATL | Will the maximum temperature be 71-72° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 1560.99 | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV04-B73.5 | series:KXHIGHTATL | Will the maximum temperature be 73-74° on Nov 4, 2026? | — | 0.0100 | 2219.54 | 0.9900 | — | — | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV04-B75.5 | series:KXHIGHTATL | Will the maximum temperature be 75-76° on Nov 4, 2026? | — | 0.0100 | 1864.00 | 0.9900 | — | — | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV04-B77.5 | series:KXHIGHTATL | Will the maximum temperature be 77-78° on Nov 4, 2026? | — | 0.0100 | 18609.77 | 0.9900 | — | — | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV04-T71 | series:KXHIGHTATL | Will the maximum temperature be <71° on Nov 4, 2026? | — | 0.0100 | 141283.58 | 0.9900 | — | — | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV04-T78 | series:KXHIGHTATL | Will the maximum temperature be >78° on Nov 4, 2026? | — | 0.0100 | 14815.03 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHTATL-26NOV05-B74.5 | series:KXHIGHTATL | Will the maximum temperature be 74-75° on Nov 5, 2026? | 0.2500 | 0.2900 | 115.00 | 0.7100 | 0.7500 | 28.00 | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV05-B76.5 | series:KXHIGHTATL | Will the maximum temperature be 76-77° on Nov 5, 2026? | 0.4500 | 0.4600 | 85.00 | 0.5400 | 0.5500 | 53.00 | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV05-B78.5 | series:KXHIGHTATL | Will the maximum temperature be 78-79° on Nov 5, 2026? | 0.1900 | 0.2200 | 75.00 | 0.7800 | 0.8100 | 38.00 | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV05-B80.5 | series:KXHIGHTATL | Will the maximum temperature be 80-81° on Nov 5, 2026? | 0.0100 | 0.0200 | 298.00 | 0.9800 | 0.9900 | 175.00 | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV05-T74 | series:KXHIGHTATL | Will the maximum temperature be <74° on Nov 5, 2026? | 0.0500 | 0.0600 | 79.00 | 0.9400 | 0.9500 | 40.00 | 2026-11-05T02:37:08Z |
-| KXHIGHTATL-26NOV05-T81 | series:KXHIGHTATL | Will the maximum temperature be >81° on Nov 5, 2026? | — | 0.0100 | 302.00 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHTEWR-26NOV04-B73.5 | series:KXHIGHTEWR | Will the maximum temperature be 73-74° on Nov 4, 2026? | — | 0.0100 | 16828.09 | 0.9900 | — | — | 2026-11-05T02:37:09Z |
-| KXHIGHTEWR-26NOV04-B75.5 | series:KXHIGHTEWR | Will the maximum temperature be 75-76° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 3987.06 | 2026-11-05T02:37:09Z |
-| KXHIGHTEWR-26NOV04-B77.5 | series:KXHIGHTEWR | Will the maximum temperature be 77-78° on Nov 4, 2026? | — | 0.0100 | 2894.58 | 0.9900 | — | — | 2026-11-05T02:37:09Z |
-| KXHIGHTEWR-26NOV04-T73 | series:KXHIGHTEWR | Will the maximum temperature be <73° on Nov 4, 2026? | — | 0.0100 | 17204.50 | 0.9900 | — | — | 2026-11-05T02:37:09Z |
-| KXHIGHTEWR-26NOV04-T80 | series:KXHIGHTEWR | Will the maximum temperature be >80° on Nov 4, 2026? | — | 0.0100 | 10679.02 | 0.9900 | — | — | 2026-11-05T02:37:08Z |
-| KXHIGHTEWR-26NOV05-B73.5 | series:KXHIGHTEWR | Will the maximum temperature be 73-74° on Nov 5, 2026? | 0.3000 | 0.4000 | 4.00 | 0.6000 | 0.7000 | 17.00 | 2026-11-05T02:37:09Z |
-| KXHIGHTEWR-26NOV05-B75.5 | series:KXHIGHTEWR | Will the maximum temperature be 75-76° on Nov 5, 2026? | 0.0900 | 0.1700 | 32.00 | 0.8300 | 0.9100 | 23.00 | 2026-11-05T02:37:09Z |
-| KXHIGHTEWR-26NOV05-B77.5 | series:KXHIGHTEWR | Will the maximum temperature be 77-78° on Nov 5, 2026? | 0.0100 | 0.0300 | 5.00 | 0.9700 | 0.9900 | 106.78 | 2026-11-05T02:37:09Z |
-| KXHIGHTEWR-26NOV05-T71 | series:KXHIGHTEWR | Will the maximum temperature be <71° on Nov 5, 2026? | 0.1000 | 0.1700 | 12.00 | 0.8300 | 0.9000 | 3.00 | 2026-11-05T02:37:08Z |
-| KXHIGHTEWR-26NOV05-T78 | series:KXHIGHTEWR | Will the maximum temperature be >78° on Nov 5, 2026? | — | 0.0300 | 63.00 | 0.9700 | — | — | 2026-11-05T02:37:08Z |
-| KXHIGHTHOU-26NOV04-B75.5 | series:KXHIGHTHOU | Will the maximum temperature be 75-76° on Nov 4, 2026? | — | 0.0100 | 20820.18 | 0.9900 | — | — | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV04-B77.5 | series:KXHIGHTHOU | Will the maximum temperature be 77-78° on Nov 4, 2026? | — | 0.0100 | 20268.32 | 0.9900 | — | — | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV04-B79.5 | series:KXHIGHTHOU | Will the maximum temperature be 79-80° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 10081.60 | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV04-B81.5 | series:KXHIGHTHOU | Will the maximum temperature be 81-82° on Nov 4, 2026? | — | 0.0100 | 7380.00 | 0.9900 | — | — | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV04-T75 | series:KXHIGHTHOU | Will the maximum temperature be <75° on Nov 4, 2026? | — | 0.0100 | 22802.49 | 0.9900 | — | — | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV05-B79.5 | series:KXHIGHTHOU | Will the maximum temperature be 79-80° on Nov 5, 2026? | 0.0400 | 0.0600 | 62.00 | 0.9400 | 0.9600 | 41.00 | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV05-B81.5 | series:KXHIGHTHOU | Will the maximum temperature be 81-82° on Nov 5, 2026? | 0.6100 | 0.6200 | 38.00 | 0.3800 | 0.3900 | 9.00 | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV05-B83.5 | series:KXHIGHTHOU | Will the maximum temperature be 83-84° on Nov 5, 2026? | 0.3200 | 0.3500 | 17.00 | 0.6500 | 0.6800 | 15.00 | 2026-11-05T02:37:09Z |
-| KXHIGHTHOU-26NOV05-T77 | series:KXHIGHTHOU | Will the maximum temperature be <77° on Nov 5, 2026? | 0.0100 | 0.0200 | 270.00 | 0.9800 | 0.9900 | 37.72 | 2026-11-05T02:37:10Z |
-| KXHIGHTHOU-26NOV05-T84 | series:KXHIGHTHOU | Will the maximum temperature be >84° on Nov 5, 2026? | 0.0100 | 0.0200 | 247.00 | 0.9800 | 0.9900 | 635.00 | 2026-11-05T02:37:09Z |
-| KXHIGHTLV-26NOV04-B67.5 | series:KXHIGHTLV | Will the maximum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 60051.69 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV04-B69.5 | series:KXHIGHTLV | Will the maximum temperature be 69-70° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 24775.48 | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV04-B71.5 | series:KXHIGHTLV | Will the maximum temperature be 71-72° on Nov 4, 2026? | — | 0.0100 | 25609.71 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV04-B73.5 | series:KXHIGHTLV | Will the maximum temperature be 73-74° on Nov 4, 2026? | — | 0.0100 | 22304.74 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV04-T67 | series:KXHIGHTLV | Will the maximum temperature be <67° on Nov 4, 2026? | — | 0.0100 | 39043.94 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV05-B67.5 | series:KXHIGHTLV | Will the maximum temperature be 67-68° on Nov 5, 2026? | 0.0900 | 0.1000 | 62.00 | 0.9000 | 0.9100 | 119.00 | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV05-B69.5 | series:KXHIGHTLV | Will the maximum temperature be 69-70° on Nov 5, 2026? | 0.7700 | 0.7800 | 70.67 | 0.2200 | 0.2300 | 2.00 | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV05-B71.5 | series:KXHIGHTLV | Will the maximum temperature be 71-72° on Nov 5, 2026? | 0.0700 | 0.1100 | 25.00 | 0.8900 | 0.9300 | 46.00 | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV05-T67 | series:KXHIGHTLV | Will the maximum temperature be <67° on Nov 5, 2026? | — | 0.0100 | 174.00 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTLV-26NOV05-T74 | series:KXHIGHTLV | Will the maximum temperature be >74° on Nov 5, 2026? | — | 0.0100 | 118.00 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTMIN-26NOV04-B53.5 | series:KXHIGHTMIN | Will the maximum temperature be 53-54° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 1172.53 | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV04-B55.5 | series:KXHIGHTMIN | Will the maximum temperature be 55-56° on Nov 4, 2026? | — | 0.0100 | 757.41 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV04-B57.5 | series:KXHIGHTMIN | Will the maximum temperature be 57-58° on Nov 4, 2026? | — | 0.0100 | 932.00 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV04-B59.5 | series:KXHIGHTMIN | Will the maximum temperature be 59-60° on Nov 4, 2026? | — | 0.0100 | 8226.40 | 0.9900 | — | — | 2026-11-05T02:37:06Z |
-| KXHIGHTMIN-26NOV04-T53 | series:KXHIGHTMIN | Will the maximum temperature be <53° on Nov 4, 2026? | — | 0.0100 | 52228.88 | 0.9900 | — | — | 2026-11-05T02:37:06Z |
-| KXHIGHTMIN-26NOV04-T60 | series:KXHIGHTMIN | Will the maximum temperature be >60° on Nov 4, 2026? | — | 0.0100 | 8523.17 | 0.9900 | — | — | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV05-B48.5 | series:KXHIGHTMIN | Will the maximum temperature be 48-49° on Nov 5, 2026? | 0.2700 | 0.3000 | 38.00 | 0.7000 | 0.7300 | 100.00 | 2026-11-05T02:37:06Z |
-| KXHIGHTMIN-26NOV05-B50.5 | series:KXHIGHTMIN | Will the maximum temperature be 50-51° on Nov 5, 2026? | 0.6100 | 0.6300 | 120.50 | 0.3700 | 0.3900 | 60.00 | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV05-B52.5 | series:KXHIGHTMIN | Will the maximum temperature be 52-53° on Nov 5, 2026? | 0.0600 | 0.0800 | 42.00 | 0.9200 | 0.9400 | 6.00 | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV05-B54.5 | series:KXHIGHTMIN | Will the maximum temperature be 54-55° on Nov 5, 2026? | 0.0100 | 0.0200 | 341.56 | 0.9800 | 0.9900 | 116.00 | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV05-T48 | series:KXHIGHTMIN | Will the maximum temperature be <48° on Nov 5, 2026? | 0.0200 | 0.0400 | 164.00 | 0.9600 | 0.9800 | 102.00 | 2026-11-05T02:37:07Z |
-| KXHIGHTMIN-26NOV05-T55 | series:KXHIGHTMIN | Will the maximum temperature be >55° on Nov 5, 2026? | — | 0.0100 | 135.00 | 0.9900 | — | — | 2026-11-05T02:37:06Z |
-| KXHIGHTNOLA-26NOV04-B79.5 | series:KXHIGHTNOLA | Will the maximum temperature be 79-80° on Nov 4, 2026? | — | 0.0100 | 28376.88 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTNOLA-26NOV04-B81.5 | series:KXHIGHTNOLA | Will the maximum temperature be 81-82° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 5211.14 | 2026-11-05T02:37:11Z |
-| KXHIGHTNOLA-26NOV04-B83.5 | series:KXHIGHTNOLA | Will the maximum temperature be 83-84° on Nov 4, 2026? | — | 0.0100 | 3214.32 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTNOLA-26NOV04-B85.5 | series:KXHIGHTNOLA | Will the maximum temperature be 85-86° on Nov 4, 2026? | — | 0.0100 | 2063.30 | 0.9900 | — | — | 2026-11-05T02:37:11Z |
-| KXHIGHTNOLA-26NOV04-T86 | series:KXHIGHTNOLA | Will the maximum temperature be >86° on Nov 4, 2026? | — | 0.0100 | 9772.80 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
-| KXHIGHTNOLA-26NOV05-B78.5 | series:KXHIGHTNOLA | Will the maximum temperature be 78-79° on Nov 5, 2026? | 0.5900 | 0.6000 | 124.00 | 0.4000 | 0.4100 | 32.00 | 2026-11-05T02:37:10Z |
-| KXHIGHTNOLA-26NOV05-B80.5 | series:KXHIGHTNOLA | Will the maximum temperature be 80-81° on Nov 5, 2026? | 0.3400 | 0.3500 | 45.00 | 0.6500 | 0.6600 | 98.00 | 2026-11-05T02:37:10Z |
-| KXHIGHTNOLA-26NOV05-B82.5 | series:KXHIGHTNOLA | Will the maximum temperature be 82-83° on Nov 5, 2026? | 0.0300 | 0.0400 | 64.00 | 0.9600 | 0.9700 | 115.00 | 2026-11-05T02:37:10Z |
-| KXHIGHTNOLA-26NOV05-B84.5 | series:KXHIGHTNOLA | Will the maximum temperature be 84-85° on Nov 5, 2026? | 0.0100 | 0.0200 | 156.00 | 0.9800 | 0.9900 | 74.93 | 2026-11-05T02:37:10Z |
-| KXHIGHTNOLA-26NOV05-T85 | series:KXHIGHTNOLA | Will the maximum temperature be >85° on Nov 5, 2026? | — | 0.0100 | 110.00 | 0.9900 | — | — | 2026-11-05T02:37:10Z |
+| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.8900 | 0.9000 | 2452.32 | 0.1000 | 0.1100 | 323.34 | 2026-11-05T03:32:17Z |
+| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.1100 | 0.1200 | 2162.87 | 0.8800 | 0.8900 | 28.00 | 2026-11-05T03:32:17Z |
+| KXCOWAGE-2027-T400 | series:KXCOWAGE | Colombia wage growth minus inflation above 4.00 pp in 2027? | 0.1300 | 0.1700 | 52.42 | 0.8300 | 0.8700 | 10.00 | 2026-11-05T03:32:17Z |
+| KXCPI-26DEC-T-0.1 | series:KXCPI | Will CPI rise more than -0.1% in December 2026? | 0.9600 | 0.9800 | 28.60 | 0.0200 | 0.0400 | 7.00 | 2026-11-05T03:32:17Z |
+| KXCPI-26DEC-T0.6 | series:KXCPI | Will CPI rise more than 0.6% in December 2026? | 0.0500 | 0.0900 | 2708.01 | 0.9100 | 0.9500 | 6651.00 | 2026-11-05T03:32:17Z |
+| KXCPI-26DEC-T0.9 | series:KXCPI | Will CPI rise more than 0.9% in December 2026? | 0.0200 | 0.0400 | 31.00 | 0.9600 | 0.9800 | 14.00 | 2026-11-05T03:32:17Z |
+| KXCPI-26NOV-T-0.1 | series:KXCPI | Will CPI rise more than -0.1% in November 2026? | 0.8200 | 0.9200 | 43.52 | 0.0800 | 0.1800 | 93.51 | 2026-11-05T03:32:17Z |
+| KXCPI-26NOV-T0.0 | series:KXCPI | Will CPI rise more than 0.0% in November 2026? | 0.5600 | 0.6000 | 80.53 | 0.4000 | 0.4400 | 89.91 | 2026-11-05T03:32:18Z |
+| KXCPI-26NOV-T0.1 | series:KXCPI | Will CPI rise more than 0.1% in November 2026? | 0.4200 | 0.4300 | 11566.26 | 0.5700 | 0.5800 | 1.00 | 2026-11-05T03:32:18Z |
+| KXCPI-26NOV-T0.3 | series:KXCPI | Will CPI rise more than 0.3% in November 2026? | 0.1300 | 0.1400 | 33.00 | 0.8600 | 0.8700 | 172.21 | 2026-11-05T03:32:18Z |
+| KXCPI-26OCT-T0.6 | series:KXCPI | Will CPI rise more than 0.6% in October 2026? | — | 0.0100 | 1090.41 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXCPI-26OCT-T0.8 | series:KXCPI | Will CPI rise more than 0.8% in October 2026? | — | 0.0100 | 4934.03 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXCPI-26OCT-T1.0 | series:KXCPI | Will CPI rise more than 1.0% in October 2026? | — | 0.0100 | 7000.00 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXEFTA2SIGS-27JAN03-AL218 | series:KXEFTA2SIGS | Will Discharge Petition No. 27's highest official signature count | 0.5000 | 0.5800 | 200.00 | 0.4200 | 0.5000 | 1.00 | 2026-11-05T03:32:18Z |
+| KXELECTFRAUD-27 | series:KXELECTFRAUD | Will Any Court rule that the 2024 USA Federal Election was Fraudu | 0.0240 | 0.0970 | 567.00 | 0.9030 | 0.9760 | 5.00 | 2026-11-05T03:32:18Z |
+| KXELECTIONBILL-26DEC01 | series:KXELECTIONBILL | Will legislation that requires proof of U.S. citizenship as a con | — | 0.0200 | 15791.72 | 0.9800 | — | — | 2026-11-05T03:32:19Z |
+| KXELECTIONBILL-27JAN01 | series:KXELECTIONBILL | Will legislation that requires proof of U.S. citizenship as a con | 0.0120 | 0.0140 | 10.00 | 0.9860 | 0.9880 | 13880.66 | 2026-11-05T03:32:18Z |
+| KXELECTIONBILL-27JUL01 | series:KXELECTIONBILL | Will legislation that requires proof of U.S. citizenship as a con | 0.0100 | 0.0600 | 14.00 | 0.9400 | 0.9900 | 1100.00 | 2026-11-05T03:32:19Z |
+| KXELECTIONBILL-28JAN01 | series:KXELECTIONBILL | Will legislation that requires proof of U.S. citizenship as a con | 0.0800 | 0.1000 | 2.77 | 0.9000 | 0.9200 | 20.43 | 2026-11-05T03:32:18Z |
+| KXELECTIONEMERGENCY-27JAN01 | series:KXELECTIONEMERGENCY | Will Donald Trump issue any executive action on declaring a natio | 0.0700 | 0.0900 | 39.27 | 0.9100 | 0.9300 | 72.93 | 2026-11-05T03:32:18Z |
+| KXHIGHCHI-26NOV04-B63.5 | series:KXHIGHCHI | Will the maximum temperature be 63-64° on Nov 4, 2026? | — | 0.0100 | 335514.31 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV04-B65.5 | series:KXHIGHCHI | Will the maximum temperature be 65-66° on Nov 4, 2026? | — | 0.0100 | 325309.29 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV04-B67.5 | series:KXHIGHCHI | Will the maximum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 183356.93 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV04-B69.5 | series:KXHIGHCHI | Will the maximum temperature be 69-70° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 52761.43 | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV04-T63 | series:KXHIGHCHI | Will the maximum temperature be <63° on Nov 4, 2026? | — | 0.0100 | 341468.29 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV04-T70 | series:KXHIGHCHI | Will the maximum temperature be >70° on Nov 4, 2026? | — | 0.0100 | 43338.00 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV05-B55.5 | series:KXHIGHCHI | Will the maximum temperature be 55-56° on Nov 5, 2026? | 0.1800 | 0.1900 | 31.00 | 0.8100 | 0.8200 | 5.94 | 2026-11-05T03:32:17Z |
+| KXHIGHCHI-26NOV05-B57.5 | series:KXHIGHCHI | Will the maximum temperature be 57-58° on Nov 5, 2026? | 0.0100 | 0.0200 | 29.00 | 0.9800 | 0.9900 | 346.60 | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV05-B59.5 | series:KXHIGHCHI | Will the maximum temperature be 59-60° on Nov 5, 2026? | 0.0100 | 0.0200 | 293.00 | 0.9800 | 0.9900 | 1.00 | 2026-11-05T03:32:17Z |
+| KXHIGHCHI-26NOV05-B61.5 | series:KXHIGHCHI | Will the maximum temperature be 61-62° on Nov 5, 2026? | — | 0.0100 | 184.00 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV05-T55 | series:KXHIGHCHI | Will the maximum temperature be <55° on Nov 5, 2026? | 0.7900 | 0.8000 | 5.31 | 0.2000 | 0.2100 | 60.04 | 2026-11-05T03:32:16Z |
+| KXHIGHCHI-26NOV05-T62 | series:KXHIGHCHI | Will the maximum temperature be >62° on Nov 5, 2026? | — | 0.0100 | 184.00 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHTATL-26NOV04-B71.5 | series:KXHIGHTATL | Will the maximum temperature be 71-72° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 1558.52 | 2026-11-05T03:32:16Z |
+| KXHIGHTATL-26NOV04-B73.5 | series:KXHIGHTATL | Will the maximum temperature be 73-74° on Nov 4, 2026? | — | 0.0100 | 2032.51 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV04-B75.5 | series:KXHIGHTATL | Will the maximum temperature be 75-76° on Nov 4, 2026? | — | 0.0100 | 1864.00 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV04-B77.5 | series:KXHIGHTATL | Will the maximum temperature be 77-78° on Nov 4, 2026? | — | 0.0100 | 18709.77 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV04-T71 | series:KXHIGHTATL | Will the maximum temperature be <71° on Nov 4, 2026? | — | 0.0100 | 141308.58 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV04-T78 | series:KXHIGHTATL | Will the maximum temperature be >78° on Nov 4, 2026? | — | 0.0100 | 14906.03 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV05-B74.5 | series:KXHIGHTATL | Will the maximum temperature be 74-75° on Nov 5, 2026? | 0.2700 | 0.2900 | 76.72 | 0.7100 | 0.7300 | 11.00 | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV05-B76.5 | series:KXHIGHTATL | Will the maximum temperature be 76-77° on Nov 5, 2026? | 0.4500 | 0.4600 | 49.32 | 0.5400 | 0.5500 | 51.00 | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV05-B78.5 | series:KXHIGHTATL | Will the maximum temperature be 78-79° on Nov 5, 2026? | 0.1900 | 0.2200 | 48.00 | 0.7800 | 0.8100 | 110.00 | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV05-B80.5 | series:KXHIGHTATL | Will the maximum temperature be 80-81° on Nov 5, 2026? | 0.0100 | 0.0200 | 288.00 | 0.9800 | 0.9900 | 125.00 | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV05-T74 | series:KXHIGHTATL | Will the maximum temperature be <74° on Nov 5, 2026? | 0.0500 | 0.0600 | 48.00 | 0.9400 | 0.9500 | 48.00 | 2026-11-05T03:32:17Z |
+| KXHIGHTATL-26NOV05-T81 | series:KXHIGHTATL | Will the maximum temperature be >81° on Nov 5, 2026? | — | 0.0100 | 302.00 | 0.9900 | — | — | 2026-11-05T03:32:17Z |
+| KXHIGHTMIN-26NOV04-B53.5 | series:KXHIGHTMIN | Will the maximum temperature be 53-54° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 1173.53 | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV04-B55.5 | series:KXHIGHTMIN | Will the maximum temperature be 55-56° on Nov 4, 2026? | — | 0.0100 | 757.41 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV04-B57.5 | series:KXHIGHTMIN | Will the maximum temperature be 57-58° on Nov 4, 2026? | — | 0.0100 | 932.00 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV04-B59.5 | series:KXHIGHTMIN | Will the maximum temperature be 59-60° on Nov 4, 2026? | — | 0.0100 | 8226.40 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV04-T53 | series:KXHIGHTMIN | Will the maximum temperature be <53° on Nov 4, 2026? | — | 0.0100 | 52228.88 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV04-T60 | series:KXHIGHTMIN | Will the maximum temperature be >60° on Nov 4, 2026? | — | 0.0100 | 8524.17 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV05-B48.5 | series:KXHIGHTMIN | Will the maximum temperature be 48-49° on Nov 5, 2026? | 0.1800 | 0.2200 | 44.00 | 0.7800 | 0.8200 | 36.00 | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV05-B50.5 | series:KXHIGHTMIN | Will the maximum temperature be 50-51° on Nov 5, 2026? | 0.6600 | 0.7200 | 19.00 | 0.2800 | 0.3400 | 41.22 | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV05-B52.5 | series:KXHIGHTMIN | Will the maximum temperature be 52-53° on Nov 5, 2026? | 0.0600 | 0.1000 | 6.00 | 0.9000 | 0.9400 | 26.00 | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV05-B54.5 | series:KXHIGHTMIN | Will the maximum temperature be 54-55° on Nov 5, 2026? | 0.0100 | 0.0200 | 344.56 | 0.9800 | 0.9900 | 127.00 | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV05-T48 | series:KXHIGHTMIN | Will the maximum temperature be <48° on Nov 5, 2026? | — | 0.0100 | 106.00 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHIGHTMIN-26NOV05-T55 | series:KXHIGHTMIN | Will the maximum temperature be >55° on Nov 5, 2026? | — | 0.0100 | 126.00 | 0.9900 | — | — | 2026-11-05T03:32:16Z |
+| KXHMONTHRANGE-26NOV-B1.060 | series:KXHMONTHRANGE | Nov 2026 temperature increase? | — | 0.0400 | 3000.00 | 0.9600 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26NOV-B1.130 | series:KXHMONTHRANGE | Nov 2026 temperature increase? | — | 0.0400 | 3000.00 | 0.9600 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26NOV-B1.200 | series:KXHMONTHRANGE | Nov 2026 temperature increase? | — | 0.0500 | 3000.00 | 0.9500 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26NOV-B1.270 | series:KXHMONTHRANGE | Nov 2026 temperature increase? | — | 0.0800 | 50.00 | 0.9200 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26NOV-T1.03 | series:KXHMONTHRANGE | Nov 2026 temperature increase? | — | 0.0400 | 3000.00 | 0.9600 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26OCT-B1.060 | series:KXHMONTHRANGE | Oct 2026 temperature increase? | — | 0.0200 | 889.75 | 0.9800 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26OCT-B1.130 | series:KXHMONTHRANGE | Oct 2026 temperature increase? | — | 0.0100 | 590.75 | 0.9900 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26OCT-B1.200 | series:KXHMONTHRANGE | Oct 2026 temperature increase? | — | 0.0100 | 587.19 | 0.9900 | — | — | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26OCT-B1.270 | series:KXHMONTHRANGE | Oct 2026 temperature increase? | 0.0300 | 0.0600 | 23.18 | 0.9400 | 0.9700 | 47.12 | 2026-11-05T03:32:18Z |
+| KXHMONTHRANGE-26OCT-T1.03 | series:KXHMONTHRANGE | Oct 2026 temperature increase? | — | 0.0100 | 1467.93 | 0.9900 | — | — | 2026-11-05T03:32:18Z |
 
 Full machine-readable data: [`latest.json`](latest.json).
