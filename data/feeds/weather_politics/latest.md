@@ -1,111 +1,160 @@
 # Kalshi public order-book snapshots (v2)
 
-Updated UTC: **2026-11-05T05:36:12Z** · Books: **99** of **99** selected · Warnings: **0**
+Updated UTC: **2026-11-05T06:42:28Z** · Books: **148** of **148** selected · Warnings: **0**
 
 > Research snapshots only: no live execution guarantee. Recheck market status, fees and settlement rules before placing any order.
 
-**Coverage by series:** CONTROLS: 2, KXCPINDEX: 10, KXHIGHCHI: 12, KXHIGHTATL: 12, KXHIGHTMIN: 12, KXISRAELCONF: 5, KXISRDEFMIN: 10, KXISRFINMIN: 10, KXISRFIRSTMANDATE: 7, KXISRFORMIN: 10, KXKEYSTONESNOW: 9
+**Coverage by series:** CONTROLS: 2, KXDDCOLDBREW: 5, KXDECREDITJOBS: 1, KXHIGHCHI: 12, KXHIGHTATL: 6, KXHIGHTMIN: 12, KXLAIOUT: 3, KXLAKECONF: 2, KXLAMEDUCKCONF: 6, KXLEAVECONGRESS: 1, KXLOWTLAX: 10, KXLOWTLV: 10, KXLOWTMIA: 6, KXLOWTMIN: 10, KXLOWTNOLA: 10, KXLOWTNYC: 6, KXLOWTOKC: 10, KXLOWTPHIL: 6, KXLOWTPHX: 10, KXLOWTSAN: 10, KXLOWTSATX: 10
 
 | Ticker | Reason | Contract | YES bid | YES ask | YES ask size | NO bid | NO ask | NO ask size | Observed UTC |
 |---|---|---|---:|---:|---:|---:|---:|---:|---|
-| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.8600 | 0.8700 | 3304.68 | 0.1300 | 0.1400 | 17395.72 | 2026-11-05T05:36:09Z |
-| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.1300 | 0.1400 | 59.86 | 0.8600 | 0.8700 | 6632.35 | 2026-11-05T05:36:09Z |
-| KXCPINDEX-26NOV10-T335.000 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.9500 | — | — | — | 0.0500 | 2.04 | 2026-11-05T05:36:09Z |
-| KXCPINDEX-26NOV10-T335.100 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.9500 | — | — | — | 0.0500 | 2.04 | 2026-11-05T05:36:10Z |
-| KXCPINDEX-26NOV10-T335.200 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.9500 | — | — | — | 0.0500 | 2.04 | 2026-11-05T05:36:09Z |
-| KXCPINDEX-26NOV10-T335.300 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.9500 | 0.9900 | 40.00 | 0.0100 | 0.0500 | 27.00 | 2026-11-05T05:36:09Z |
-| KXCPINDEX-26NOV10-T335.900 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.8500 | — | — | — | 0.1500 | 3.18 | 2026-11-05T05:36:10Z |
-| KXCPINDEX-26NOV10-T336.300 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.9000 | — | — | — | 0.1000 | 498.91 | 2026-11-05T05:36:09Z |
-| KXCPINDEX-26NOV10-T336.400 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.8600 | — | — | — | 0.1400 | 2.20 | 2026-11-05T05:36:10Z |
-| KXCPINDEX-26NOV10-T336.500 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.8200 | — | — | — | 0.1800 | 3.30 | 2026-11-05T05:36:10Z |
-| KXCPINDEX-26NOV10-T336.600 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.8500 | 0.9600 | 2.00 | 0.0400 | 0.1500 | 40.00 | 2026-11-05T05:36:09Z |
-| KXCPINDEX-26NOV10-T337.600 | series:KXCPINDEX | Will Consumer Price Index for All Urban Consumers: U.S. city aver | 0.0200 | 0.2700 | 21.19 | 0.7300 | 0.9800 | 2.09 | 2026-11-05T05:36:09Z |
-| KXHIGHCHI-26NOV04-B63.5 | series:KXHIGHCHI | Will the maximum temperature be 63-64° on Nov 4, 2026? | — | 0.0100 | 332018.15 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV04-B65.5 | series:KXHIGHCHI | Will the maximum temperature be 65-66° on Nov 4, 2026? | — | 0.0100 | 324679.29 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV04-B67.5 | series:KXHIGHCHI | Will the maximum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 182593.93 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV04-B69.5 | series:KXHIGHCHI | Will the maximum temperature be 69-70° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 49276.65 | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV04-T63 | series:KXHIGHCHI | Will the maximum temperature be <63° on Nov 4, 2026? | — | 0.0100 | 341191.47 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV04-T70 | series:KXHIGHCHI | Will the maximum temperature be >70° on Nov 4, 2026? | — | 0.0100 | 43023.76 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHCHI-26NOV05-B55.5 | series:KXHIGHCHI | Will the maximum temperature be 55-56° on Nov 5, 2026? | 0.1800 | 0.1900 | 128.00 | 0.8100 | 0.8200 | 46.00 | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV05-B57.5 | series:KXHIGHCHI | Will the maximum temperature be 57-58° on Nov 5, 2026? | 0.0100 | 0.0200 | 71.01 | 0.9800 | 0.9900 | 324.60 | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV05-B59.5 | series:KXHIGHCHI | Will the maximum temperature be 59-60° on Nov 5, 2026? | 0.0100 | 0.0200 | 330.00 | 0.9800 | 0.9900 | 1.00 | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV05-B61.5 | series:KXHIGHCHI | Will the maximum temperature be 61-62° on Nov 5, 2026? | — | 0.0100 | 184.00 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHCHI-26NOV05-T55 | series:KXHIGHCHI | Will the maximum temperature be <55° on Nov 5, 2026? | 0.8100 | 0.8200 | 31.00 | 0.1800 | 0.1900 | 5.03 | 2026-11-05T05:36:08Z |
-| KXHIGHCHI-26NOV05-T62 | series:KXHIGHCHI | Will the maximum temperature be >62° on Nov 5, 2026? | — | 0.0100 | 5184.00 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV04-B71.5 | series:KXHIGHTATL | Will the maximum temperature be 71-72° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 816.11 | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV04-B73.5 | series:KXHIGHTATL | Will the maximum temperature be 73-74° on Nov 4, 2026? | — | 0.0100 | 1954.51 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV04-B75.5 | series:KXHIGHTATL | Will the maximum temperature be 75-76° on Nov 4, 2026? | — | 0.0100 | 1810.00 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV04-B77.5 | series:KXHIGHTATL | Will the maximum temperature be 77-78° on Nov 4, 2026? | — | 0.0100 | 18255.77 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV04-T71 | series:KXHIGHTATL | Will the maximum temperature be <71° on Nov 4, 2026? | — | 0.0100 | 140545.58 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV04-T78 | series:KXHIGHTATL | Will the maximum temperature be >78° on Nov 4, 2026? | — | 0.0100 | 14367.03 | 0.9900 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV05-B74.5 | series:KXHIGHTATL | Will the maximum temperature be 74-75° on Nov 5, 2026? | 0.2500 | 0.2800 | 41.00 | 0.7200 | 0.7500 | 40.00 | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV05-B76.5 | series:KXHIGHTATL | Will the maximum temperature be 76-77° on Nov 5, 2026? | 0.4500 | 0.4800 | 183.86 | 0.5200 | 0.5500 | 27.00 | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV05-B78.5 | series:KXHIGHTATL | Will the maximum temperature be 78-79° on Nov 5, 2026? | 0.2000 | 0.2100 | 23.00 | 0.7900 | 0.8000 | 5.01 | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV05-B80.5 | series:KXHIGHTATL | Will the maximum temperature be 80-81° on Nov 5, 2026? | 0.0100 | 0.0200 | 35.00 | 0.9800 | 0.9900 | 148.00 | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV05-T74 | series:KXHIGHTATL | Will the maximum temperature be <74° on Nov 5, 2026? | 0.0500 | 0.0600 | 322.90 | 0.9400 | 0.9500 | 111.00 | 2026-11-05T05:36:09Z |
-| KXHIGHTATL-26NOV05-T81 | series:KXHIGHTATL | Will the maximum temperature be >81° on Nov 5, 2026? | — | 0.0200 | 1042.53 | 0.9800 | — | — | 2026-11-05T05:36:09Z |
-| KXHIGHTMIN-26NOV04-B53.5 | series:KXHIGHTMIN | Will the maximum temperature be 53-54° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 676.94 | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV04-B55.5 | series:KXHIGHTMIN | Will the maximum temperature be 55-56° on Nov 4, 2026? | — | 0.0100 | 467.00 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV04-B57.5 | series:KXHIGHTMIN | Will the maximum temperature be 57-58° on Nov 4, 2026? | — | 0.0100 | 1032.00 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV04-B59.5 | series:KXHIGHTMIN | Will the maximum temperature be 59-60° on Nov 4, 2026? | — | 0.0100 | 8326.40 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV04-T53 | series:KXHIGHTMIN | Will the maximum temperature be <53° on Nov 4, 2026? | — | 0.0100 | 21294.69 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV04-T60 | series:KXHIGHTMIN | Will the maximum temperature be >60° on Nov 4, 2026? | — | 0.0100 | 8535.17 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV05-B48.5 | series:KXHIGHTMIN | Will the maximum temperature be 48-49° on Nov 5, 2026? | 0.1400 | 0.1600 | 93.00 | 0.8400 | 0.8600 | 53.00 | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV05-B50.5 | series:KXHIGHTMIN | Will the maximum temperature be 50-51° on Nov 5, 2026? | 0.7300 | 0.7500 | 25.32 | 0.2500 | 0.2700 | 100.00 | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV05-B52.5 | series:KXHIGHTMIN | Will the maximum temperature be 52-53° on Nov 5, 2026? | 0.0600 | 0.1000 | 35.00 | 0.9000 | 0.9400 | 51.00 | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV05-B54.5 | series:KXHIGHTMIN | Will the maximum temperature be 54-55° on Nov 5, 2026? | 0.0100 | 0.0200 | 226.56 | 0.9800 | 0.9900 | 127.00 | 2026-11-05T05:36:09Z |
-| KXHIGHTMIN-26NOV05-T48 | series:KXHIGHTMIN | Will the maximum temperature be <48° on Nov 5, 2026? | — | 0.0100 | 106.00 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXHIGHTMIN-26NOV05-T55 | series:KXHIGHTMIN | Will the maximum temperature be >55° on Nov 5, 2026? | — | 0.0100 | 126.00 | 0.9900 | — | — | 2026-11-05T05:36:08Z |
-| KXISRAELCONF-27FEB03-26DEC23 | series:KXISRAELCONF | Will Israel agree to or announce a Knesset vote of confidence in  | 0.0800 | 0.1800 | 200.00 | 0.8200 | 0.9200 | 205.00 | 2026-11-05T05:36:10Z |
-| KXISRAELCONF-27FEB03-27FEB03 | series:KXISRAELCONF | Will Israel agree to or announce a Knesset vote of confidence in  | 0.4100 | 0.4700 | 200.00 | 0.5300 | 0.5900 | 2.00 | 2026-11-05T05:36:10Z |
-| KXISRAELCONF-27FEB03-27JAN01 | series:KXISRAELCONF | Will Israel agree to or announce a Knesset vote of confidence in  | 0.1600 | 0.2300 | 200.00 | 0.7700 | 0.8400 | 5.00 | 2026-11-05T05:36:10Z |
-| KXISRAELCONF-27FEB03-27JAN20 | series:KXISRAELCONF | Will Israel agree to or announce a Knesset vote of confidence in  | 0.2500 | 0.3300 | 200.00 | 0.6700 | 0.7500 | 5.00 | 2026-11-05T05:36:10Z |
-| KXISRAELCONF-27FEB03-27MAR15 | series:KXISRAELCONF | Will Israel agree to or announce a Knesset vote of confidence in  | 0.4800 | 0.5300 | 200.00 | 0.4700 | 0.5200 | 2.50 | 2026-11-05T05:36:10Z |
-| KXISRDEFMIN-30-ALIE | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Avigdor Lieberman | 0.0200 | 0.3500 | 4.00 | 0.6500 | 0.9800 | 3.93 | 2026-11-05T05:36:11Z |
-| KXISRDEFMIN-30-BGAN | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Benny Gantz is th | — | 0.7700 | 5.43 | 0.2300 | — | — | 2026-11-05T05:36:10Z |
-| KXISRDEFMIN-30-BNET | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Benjamin Netanyah | — | 0.8400 | 7.81 | 0.1600 | — | — | 2026-11-05T05:36:10Z |
-| KXISRDEFMIN-30-GEIS | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Gadi Eisenkot is  | 0.1500 | 0.8800 | 5.00 | 0.1200 | 0.8500 | 10.00 | 2026-11-05T05:36:10Z |
-| KXISRDEFMIN-30-IBEN | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Itamar Ben-Gvir i | — | 0.1200 | 36.18 | 0.8800 | — | — | 2026-11-05T05:36:10Z |
-| KXISRDEFMIN-30-IKAT | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Israel Katz is th | 0.1000 | 0.6000 | 6.56 | 0.4000 | 0.9000 | 5.00 | 2026-11-05T05:36:11Z |
-| KXISRDEFMIN-30-NBEN | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Naftali Bennett i | — | 0.1000 | 50.00 | 0.9000 | — | — | 2026-11-05T05:36:11Z |
-| KXISRDEFMIN-30-OWIN | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Ofer Winter is th | — | 0.2500 | 1.00 | 0.7500 | — | — | 2026-11-05T05:36:11Z |
-| KXISRDEFMIN-30-YGAL | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Yoav Gallant is t | 0.0200 | 0.7200 | 4.00 | 0.2800 | 0.9800 | 4.44 | 2026-11-05T05:36:11Z |
-| KXISRDEFMIN-30-YGOL | series:KXISRDEFMIN | Will it be reported by The Times of Israel that Yair Golan is the | 0.0200 | 0.7500 | 4.00 | 0.2500 | 0.9800 | 4.44 | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-ALIE | series:KXISRFINMIN | Will Avigdor Lieberman be Minister of Finance as a result of the  | 0.0600 | 0.1300 | 102.00 | 0.8700 | 0.9400 | 227.00 | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-BNET | series:KXISRFINMIN | Will Benjamin Netanyahu be Minister of Finance as a result of the | — | 0.0200 | 1215.21 | 0.9800 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-BSMO | series:KXISRFINMIN | Will Bezalel Smotrich be Minister of Finance as a result of the g | — | 0.0800 | 748.00 | 0.9200 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-GEIS | series:KXISRFINMIN | Will Gadi Eisenkot be Minister of Finance as a result of the gove | — | 0.0500 | 603.42 | 0.9500 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-MFEI | series:KXISRFINMIN | Will Moshe Feiglin be Minister of Finance as a result of the gove | — | 0.0200 | 688.41 | 0.9800 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-NBEN | series:KXISRFINMIN | Will Naftali Bennett be Minister of Finance as a result of the go | — | 0.0500 | 1.00 | 0.9500 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-NLAZ | series:KXISRFINMIN | Will Naama Lazimi be Minister of Finance as a result of the gover | — | 0.0200 | 1006.00 | 0.9800 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-OFAR | series:KXISRFINMIN | Will Orit Farkash-Hacohen be Minister of Finance as a result of t | — | 0.0200 | 656.00 | 0.9800 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-SMER | series:KXISRFINMIN | Will Shaul Meridor be Minister of Finance as a result of the gove | 0.0200 | 0.0800 | 174.00 | 0.9200 | 0.9800 | 200.00 | 2026-11-05T05:36:11Z |
-| KXISRFINMIN-26OCT27-YGOL | series:KXISRFINMIN | Will Yair Golan be Minister of Finance as a result of the governm | — | 0.0100 | 1248.33 | 0.9900 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFIRSTMANDATE-27-ALIE | series:KXISRFIRSTMANDATE | Will it be reported by The Times of Israel that the President of  | — | 0.0100 | 2448.36 | 0.9900 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFIRSTMANDATE-27-AOHA | series:KXISRFIRSTMANDATE | Will it be reported by The Times of Israel that the President of  | — | 0.0100 | 4170.95 | 0.9900 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFIRSTMANDATE-27-BNET | series:KXISRFIRSTMANDATE | Will it be reported by The Times of Israel that the President of  | 0.0200 | 0.0300 | 381.02 | 0.9700 | 0.9800 | 921.56 | 2026-11-05T05:36:11Z |
-| KXISRFIRSTMANDATE-27-GEIS | series:KXISRFIRSTMANDATE | Will it be reported by The Times of Israel that the President of  | 0.9600 | 0.9700 | 651.59 | 0.0300 | 0.0400 | 8024.07 | 2026-11-05T05:36:12Z |
-| KXISRFIRSTMANDATE-27-NBEN | series:KXISRFIRSTMANDATE | Will it be reported by The Times of Israel that the President of  | — | 0.0100 | 3307.61 | 0.9900 | — | — | 2026-11-05T05:36:12Z |
-| KXISRFIRSTMANDATE-27-YGOL | series:KXISRFIRSTMANDATE | Will it be reported by The Times of Israel that the President of  | — | 0.0100 | 4170.95 | 0.9900 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFIRSTMANDATE-27-YLAP | series:KXISRFIRSTMANDATE | Will it be reported by The Times of Israel that the President of  | — | 0.0100 | 4077.44 | 0.9900 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFORMIN-26OCT27-ALIE | series:KXISRFORMIN | Will Avigdor Lieberman be Minister of Foreign Affairs as a result | — | 0.0600 | 4.00 | 0.9400 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFORMIN-26OCT27-AOHA | series:KXISRFORMIN | Will Amir Ohana be Minister of Foreign Affairs as a result of the | — | 0.0400 | 1.00 | 0.9600 | — | — | 2026-11-05T05:36:12Z |
-| KXISRFORMIN-26OCT27-BGAN | series:KXISRFORMIN | Will Benny Gantz be Minister of Foreign Affairs as a result of th | — | 0.0300 | 1.00 | 0.9700 | — | — | 2026-11-05T05:36:12Z |
-| KXISRFORMIN-26OCT27-BNET | series:KXISRFORMIN | Will Benjamin Netanyahu be Minister of Foreign Affairs as a resul | 0.1100 | 0.1500 | 1.46 | 0.8500 | 0.8900 | 13.00 | 2026-11-05T05:36:12Z |
-| KXISRFORMIN-26OCT27-ECOH | series:KXISRFORMIN | Will Eli Cohen be Minister of Foreign Affairs as a result of the  | — | 0.0300 | 4.00 | 0.9700 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFORMIN-26OCT27-GEIS | series:KXISRFORMIN | Will Gadi Eisenkot be Minister of Foreign Affairs as a result of  | — | 0.0800 | 280.00 | 0.9200 | — | — | 2026-11-05T05:36:12Z |
-| KXISRFORMIN-26OCT27-GSAA | series:KXISRFORMIN | Will Gideon Sa'ar be Minister of Foreign Affairs as a result of t | — | 0.0600 | 200.00 | 0.9400 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFORMIN-26OCT27-IKAT | series:KXISRFORMIN | Will Israel Katz be Minister of Foreign Affairs as a result of th | — | 0.0400 | 4.00 | 0.9600 | — | — | 2026-11-05T05:36:11Z |
-| KXISRFORMIN-26OCT27-NBEN | series:KXISRFORMIN | Will Naftali Bennett be Minister of Foreign Affairs as a result o | 0.0200 | 0.0800 | 14.00 | 0.9200 | 0.9800 | 80.00 | 2026-11-05T05:36:12Z |
-| KXISRFORMIN-26OCT27-YLAP | series:KXISRFORMIN | Will Yair Lapid be Minister of Foreign Affairs as a result of the | 0.2200 | 0.2600 | 0.54 | 0.7400 | 0.7800 | 13.00 | 2026-11-05T05:36:11Z |
-| KXKEYSTONESNOW-24DEC26-GT105 | series:KXKEYSTONESNOW | Above 105 inches | — | 0.9900 | 29.00 | 0.0100 | — | — | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT55 | series:KXKEYSTONESNOW | Above 55 inches | 0.0100 | 0.9900 | 29.00 | 0.0100 | 0.9900 | 29.00 | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT60 | series:KXKEYSTONESNOW | Above 60 inches | 0.0900 | 0.9900 | 29.00 | 0.0100 | 0.9100 | 18.00 | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT65 | series:KXKEYSTONESNOW | Above 65 inches | — | — | — | — | — | — | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT70 | series:KXKEYSTONESNOW | Above 70 inches | — | — | — | — | — | — | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT75 | series:KXKEYSTONESNOW | Above 75 inches | 0.1200 | — | — | — | 0.8800 | 18.00 | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT80 | series:KXKEYSTONESNOW | Above 80 inches | — | 0.9900 | 29.00 | 0.0100 | — | — | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT85 | series:KXKEYSTONESNOW | Above 85 inches | — | 0.9900 | 29.00 | 0.0100 | — | — | 2026-11-05T05:36:10Z |
-| KXKEYSTONESNOW-24DEC26-GT90 | series:KXKEYSTONESNOW | Above 90 inches | — | 0.9900 | 29.00 | 0.0100 | — | — | 2026-11-05T05:36:10Z |
+| CONTROLS-2028-D | series:CONTROLS | Will the Democratic party win the Senate in 2028? | 0.8600 | 0.8700 | 5551.57 | 0.1300 | 0.1400 | 17361.19 | 2026-11-05T06:42:23Z |
+| CONTROLS-2028-R | series:CONTROLS | Will the Republican party win the Senate in 2028? | 0.1400 | 0.1500 | 16023.92 | 0.8500 | 0.8600 | 28.00 | 2026-11-05T06:42:23Z |
+| KXDDCOLDBREW-26DEC02-T4.46 | series:KXDDCOLDBREW | Will the average U.S. price of a Dunkin' medium cold brew for Nov | 0.9500 | 0.9900 | 816.00 | 0.0100 | 0.0500 | 6.00 | 2026-11-05T06:42:23Z |
+| KXDDCOLDBREW-26DEC02-T4.47 | series:KXDDCOLDBREW | Will the average U.S. price of a Dunkin' medium cold brew for Nov | 0.7100 | 0.8000 | 100.00 | 0.2000 | 0.2900 | 100.00 | 2026-11-05T06:42:23Z |
+| KXDDCOLDBREW-26DEC02-T4.48 | series:KXDDCOLDBREW | Will the average U.S. price of a Dunkin' medium cold brew for Nov | 0.4500 | 0.5400 | 100.00 | 0.4600 | 0.5500 | 100.00 | 2026-11-05T06:42:23Z |
+| KXDDCOLDBREW-26DEC02-T4.49 | series:KXDDCOLDBREW | Will the average U.S. price of a Dunkin' medium cold brew for Nov | 0.2000 | 0.2900 | 100.00 | 0.7100 | 0.8000 | 100.00 | 2026-11-05T06:42:23Z |
+| KXDDCOLDBREW-26DEC02-T4.50 | series:KXDDCOLDBREW | Will the average U.S. price of a Dunkin' medium cold brew for Nov | 0.0100 | 0.0600 | 100.00 | 0.9400 | 0.9900 | 665.00 | 2026-11-05T06:42:23Z |
+| KXDECREDITJOBS-27APR30-T26.0 | series:KXDECREDITJOBS | Will the annual average credit-intermediation employment level fo | 0.1700 | 0.1800 | 7513.00 | 0.8200 | 0.8300 | 517.00 | 2026-11-05T06:42:24Z |
+| KXHIGHCHI-26NOV04-B63.5 | series:KXHIGHCHI | Will the maximum temperature be 63-64° on Nov 4, 2026? | — | 0.0100 | 331942.15 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV04-B65.5 | series:KXHIGHCHI | Will the maximum temperature be 65-66° on Nov 4, 2026? | — | 0.0100 | 324693.29 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV04-B67.5 | series:KXHIGHCHI | Will the maximum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 182518.93 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV04-B69.5 | series:KXHIGHCHI | Will the maximum temperature be 69-70° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 49321.65 | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV04-T63 | series:KXHIGHCHI | Will the maximum temperature be <63° on Nov 4, 2026? | — | 0.0100 | 341121.47 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV04-T70 | series:KXHIGHCHI | Will the maximum temperature be >70° on Nov 4, 2026? | — | 0.0100 | 42970.76 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV05-B55.5 | series:KXHIGHCHI | Will the maximum temperature be 55-56° on Nov 5, 2026? | 0.1500 | 0.1800 | 40.00 | 0.8200 | 0.8500 | 25.00 | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV05-B57.5 | series:KXHIGHCHI | Will the maximum temperature be 57-58° on Nov 5, 2026? | 0.0100 | 0.0200 | 157.00 | 0.9800 | 0.9900 | 465.71 | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV05-B59.5 | series:KXHIGHCHI | Will the maximum temperature be 59-60° on Nov 5, 2026? | 0.0100 | 0.0200 | 343.00 | 0.9800 | 0.9900 | 173.11 | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV05-B61.5 | series:KXHIGHCHI | Will the maximum temperature be 61-62° on Nov 5, 2026? | — | 0.0100 | 220.50 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV05-T55 | series:KXHIGHCHI | Will the maximum temperature be <55° on Nov 5, 2026? | 0.8100 | 0.8400 | 21.00 | 0.1600 | 0.1900 | 100.00 | 2026-11-05T06:42:22Z |
+| KXHIGHCHI-26NOV05-T62 | series:KXHIGHCHI | Will the maximum temperature be >62° on Nov 5, 2026? | — | 0.0100 | 5252.50 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTATL-26NOV05-B74.5 | series:KXHIGHTATL | Will the maximum temperature be 74-75° on Nov 5, 2026? | 0.2700 | 0.2800 | 8.61 | 0.7200 | 0.7300 | 42.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTATL-26NOV05-B76.5 | series:KXHIGHTATL | Will the maximum temperature be 76-77° on Nov 5, 2026? | 0.4400 | 0.4700 | 30.00 | 0.5300 | 0.5600 | 25.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTATL-26NOV05-B78.5 | series:KXHIGHTATL | Will the maximum temperature be 78-79° on Nov 5, 2026? | 0.2000 | 0.2100 | 52.00 | 0.7900 | 0.8000 | 122.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTATL-26NOV05-B80.5 | series:KXHIGHTATL | Will the maximum temperature be 80-81° on Nov 5, 2026? | 0.0100 | 0.0200 | 58.00 | 0.9800 | 0.9900 | 82.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTATL-26NOV05-T74 | series:KXHIGHTATL | Will the maximum temperature be <74° on Nov 5, 2026? | 0.0500 | 0.0600 | 396.27 | 0.9400 | 0.9500 | 27.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTATL-26NOV05-T81 | series:KXHIGHTATL | Will the maximum temperature be >81° on Nov 5, 2026? | — | 0.0100 | 133.00 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV04-B53.5 | series:KXHIGHTMIN | Will the maximum temperature be 53-54° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 2558.34 | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV04-B55.5 | series:KXHIGHTMIN | Will the maximum temperature be 55-56° on Nov 4, 2026? | — | 0.0100 | 2400.00 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV04-B57.5 | series:KXHIGHTMIN | Will the maximum temperature be 57-58° on Nov 4, 2026? | — | 0.0100 | 1829.00 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV04-B59.5 | series:KXHIGHTMIN | Will the maximum temperature be 59-60° on Nov 4, 2026? | — | 0.0100 | 9224.40 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV04-T53 | series:KXHIGHTMIN | Will the maximum temperature be <53° on Nov 4, 2026? | — | 0.0100 | 21201.69 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV04-T60 | series:KXHIGHTMIN | Will the maximum temperature be >60° on Nov 4, 2026? | — | 0.0100 | 8458.17 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV05-B48.5 | series:KXHIGHTMIN | Will the maximum temperature be 48-49° on Nov 5, 2026? | — | 0.0100 | 24759.31 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV05-B50.5 | series:KXHIGHTMIN | Will the maximum temperature be 50-51° on Nov 5, 2026? | 0.9100 | 0.9200 | 78.00 | 0.0800 | 0.0900 | 64.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV05-B52.5 | series:KXHIGHTMIN | Will the maximum temperature be 52-53° on Nov 5, 2026? | 0.0600 | 0.0900 | 36.00 | 0.9100 | 0.9400 | 2.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV05-B54.5 | series:KXHIGHTMIN | Will the maximum temperature be 54-55° on Nov 5, 2026? | 0.0100 | 0.0200 | 266.56 | 0.9800 | 0.9900 | 100.00 | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV05-T48 | series:KXHIGHTMIN | Will the maximum temperature be <48° on Nov 5, 2026? | — | 0.0100 | 26808.81 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXHIGHTMIN-26NOV05-T55 | series:KXHIGHTMIN | Will the maximum temperature be >55° on Nov 5, 2026? | — | 0.0100 | 166.00 | 0.9900 | — | — | 2026-11-05T06:42:22Z |
+| KXLAIOUT-LCHI-27JAN01 | series:KXLAIOUT | Will Lai Ching-te leave office before January 1, 2027? | 0.0090 | 0.0630 | 200.00 | 0.9370 | 0.9910 | 31.85 | 2026-11-05T06:42:23Z |
+| KXLAIOUT-LCHI-27JUL01 | series:KXLAIOUT | Will Lai Ching-te leave office before July 1, 2027? | 0.0730 | 0.1400 | 8.83 | 0.8600 | 0.9270 | 18.32 | 2026-11-05T06:42:23Z |
+| KXLAIOUT-LCHI-28JAN01 | series:KXLAIOUT | Will Lai Ching-te leave office before January 1, 2028? | 0.2500 | 0.3100 | 43.08 | 0.6900 | 0.7500 | 23.38 | 2026-11-05T06:42:23Z |
+| KXLAKECONF-26MAY12-APR01 | series:KXLAKECONF | Will Kari Lake be confirmed as Ambassador to Jamaica before Apr 1 | 0.3500 | 0.3900 | 25.13 | 0.6100 | 0.6500 | 2.00 | 2026-11-05T06:42:24Z |
+| KXLAKECONF-26MAY12-JAN01 | series:KXLAKECONF | Will Kari Lake be confirmed as Ambassador to Jamaica before Jan 1 | 0.3300 | 0.3600 | 4.48 | 0.6400 | 0.6700 | 2.00 | 2026-11-05T06:42:23Z |
+| KXLAMEDUCKCONF-27JAN03-AL10 | series:KXLAMEDUCKCONF | Will the number of civilian nominees confirmed by the Senate be a | 0.8800 | 0.9000 | 3372.60 | 0.1000 | 0.1200 | 2941.01 | 2026-11-05T06:42:24Z |
+| KXLAMEDUCKCONF-27JAN03-AL100 | series:KXLAMEDUCKCONF | Will the number of civilian nominees confirmed by the Senate be a | 0.6100 | 0.7100 | 1571.00 | 0.2900 | 0.3900 | 794.01 | 2026-11-05T06:42:24Z |
+| KXLAMEDUCKCONF-27JAN03-AL125 | series:KXLAMEDUCKCONF | Will the number of civilian nominees confirmed by the Senate be a | 0.6100 | 0.6600 | 23.99 | 0.3400 | 0.3900 | 28.00 | 2026-11-05T06:42:24Z |
+| KXLAMEDUCKCONF-27JAN03-AL25 | series:KXLAMEDUCKCONF | Will the number of civilian nominees confirmed by the Senate be a | 0.8400 | 0.8900 | 10.00 | 0.1100 | 0.1600 | 544.01 | 2026-11-05T06:42:25Z |
+| KXLAMEDUCKCONF-27JAN03-AL50 | series:KXLAMEDUCKCONF | Will the number of civilian nominees confirmed by the Senate be a | 0.8400 | 0.8500 | 2461.80 | 0.1500 | 0.1600 | 461.24 | 2026-11-05T06:42:25Z |
+| KXLAMEDUCKCONF-27JAN03-AL75 | series:KXLAMEDUCKCONF | Will the number of civilian nominees confirmed by the Senate be a | 0.7200 | 0.7700 | 1471.00 | 0.2300 | 0.2800 | 649.01 | 2026-11-05T06:42:25Z |
+| KXLEAVECONGRESS-26NOV | series:KXLEAVECONGRESS | Will any member of Congress be out as any member of Congress in N | 0.1400 | 0.2300 | 200.00 | 0.7700 | 0.8600 | 13.00 | 2026-11-05T06:42:27Z |
+| KXLOWTLAX-26NOV04-B51.5 | series:KXLOWTLAX | Will the minimum temperature be 51-52° on Nov 4, 2026? | — | 0.0100 | 419.02 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV04-B53.5 | series:KXLOWTLAX | Will the minimum temperature be 53-54° on Nov 4, 2026? | — | 0.0100 | 69.47 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV04-B55.5 | series:KXLOWTLAX | Will the minimum temperature be 55-56° on Nov 4, 2026? | — | 0.0100 | 10.00 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV04-B57.5 | series:KXLOWTLAX | Will the minimum temperature be 57-58° on Nov 4, 2026? | 0.9700 | — | — | — | 0.0300 | 265.00 | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV04-T51 | series:KXLOWTLAX | Will the minimum temperature be <51° on Nov 4, 2026? | — | 0.0100 | 523.03 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV05-B52.5 | series:KXLOWTLAX | Will the minimum temperature be 52-53° on Nov 5, 2026? | — | 0.0100 | 50.00 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV05-B54.5 | series:KXLOWTLAX | Will the minimum temperature be 54-55° on Nov 5, 2026? | 0.0100 | 0.0200 | 66.00 | 0.9800 | 0.9900 | 110.00 | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV05-B56.5 | series:KXLOWTLAX | Will the minimum temperature be 56-57° on Nov 5, 2026? | 0.0600 | 0.1100 | 11.00 | 0.8900 | 0.9400 | 41.00 | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV05-B58.5 | series:KXLOWTLAX | Will the minimum temperature be 58-59° on Nov 5, 2026? | 0.4100 | 0.4300 | 10.00 | 0.5700 | 0.5900 | 6.00 | 2026-11-05T06:42:23Z |
+| KXLOWTLAX-26NOV05-T52 | series:KXLOWTLAX | Will the minimum temperature be <52° on Nov 5, 2026? | — | 0.0100 | 6.00 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV04-B43.5 | series:KXLOWTLV | Will the minimum temperature be 43-44° on Nov 4, 2026? | 0.0100 | 0.0200 | 262.68 | 0.9800 | 0.9900 | 10.00 | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV04-B45.5 | series:KXLOWTLV | Will the minimum temperature be 45-46° on Nov 4, 2026? | — | 0.0100 | 94.00 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV04-B47.5 | series:KXLOWTLV | Will the minimum temperature be 47-48° on Nov 4, 2026? | 0.0100 | 0.0200 | 167.00 | 0.9800 | 0.9900 | 65.70 | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV04-B49.5 | series:KXLOWTLV | Will the minimum temperature be 49-50° on Nov 4, 2026? | 0.9800 | 0.9900 | 186.88 | 0.0100 | 0.0200 | 167.00 | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV04-T43 | series:KXLOWTLV | Will the minimum temperature be <43° on Nov 4, 2026? | — | 0.0100 | 691.00 | 0.9900 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV05-B45.5 | series:KXLOWTLV | Will the minimum temperature be 45-46° on Nov 5, 2026? | — | 0.0200 | 107.00 | 0.9800 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV05-B47.5 | series:KXLOWTLV | Will the minimum temperature be 47-48° on Nov 5, 2026? | 0.0100 | 0.0200 | 93.18 | 0.9800 | 0.9900 | 26.07 | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV05-B49.5 | series:KXLOWTLV | Will the minimum temperature be 49-50° on Nov 5, 2026? | 0.0100 | 0.0200 | 1.00 | 0.9800 | 0.9900 | 146.00 | 2026-11-05T06:42:24Z |
+| KXLOWTLV-26NOV05-T45 | series:KXLOWTLV | Will the minimum temperature be <45° on Nov 5, 2026? | — | 0.0200 | 103.00 | 0.9800 | — | — | 2026-11-05T06:42:23Z |
+| KXLOWTLV-26NOV05-T52 | series:KXLOWTLV | Will the minimum temperature be >52° on Nov 5, 2026? | 0.3400 | 0.3600 | 29.00 | 0.6400 | 0.6600 | 24.00 | 2026-11-05T06:42:23Z |
+| KXLOWTMIA-26NOV05-B69.5 | series:KXLOWTMIA | Will the minimum temperature be 69-70° on Nov 5, 2026? | — | 0.0100 | 11.00 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIA-26NOV05-B71.5 | series:KXLOWTMIA | Will the minimum temperature be 71-72° on Nov 5, 2026? | 0.0200 | 0.0800 | 7.00 | 0.9200 | 0.9800 | 24.00 | 2026-11-05T06:42:24Z |
+| KXLOWTMIA-26NOV05-B73.5 | series:KXLOWTMIA | Will the minimum temperature be 73-74° on Nov 5, 2026? | 0.5100 | 0.6200 | 1.00 | 0.3800 | 0.4900 | 6.00 | 2026-11-05T06:42:24Z |
+| KXLOWTMIA-26NOV05-B75.5 | series:KXLOWTMIA | Will the minimum temperature be 75-76° on Nov 5, 2026? | 0.2300 | 0.4200 | 0.01 | 0.5800 | 0.7700 | 2.00 | 2026-11-05T06:42:24Z |
+| KXLOWTMIA-26NOV05-T69 | series:KXLOWTMIA | Will the minimum temperature be <69° on Nov 5, 2026? | — | 0.0100 | 42.00 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIA-26NOV05-T76 | series:KXLOWTMIA | Will the minimum temperature be >76° on Nov 5, 2026? | — | 0.0100 | 25398.00 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV04-B44.5 | series:KXLOWTMIN | Will the minimum temperature be 44-45° on Nov 4, 2026? | — | 0.0100 | 1528.41 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV04-B48.5 | series:KXLOWTMIN | Will the minimum temperature be 48-49° on Nov 4, 2026? | — | 0.0100 | 10377.42 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV04-B50.5 | series:KXLOWTMIN | Will the minimum temperature be 50-51° on Nov 4, 2026? | — | 0.0100 | 11486.82 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV04-T44 | series:KXLOWTMIN | Will the minimum temperature be <44° on Nov 4, 2026? | — | 0.0100 | 1000.00 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV04-T51 | series:KXLOWTMIN | Will the minimum temperature be >51° on Nov 4, 2026? | — | 0.0100 | 9637.33 | 0.9900 | — | — | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV05-B37.5 | series:KXLOWTMIN | Will the minimum temperature be 37-38° on Nov 5, 2026? | 0.4300 | 0.4900 | 2.00 | 0.5100 | 0.5700 | 3.00 | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV05-B39.5 | series:KXLOWTMIN | Will the minimum temperature be 39-40° on Nov 5, 2026? | 0.2200 | 0.2600 | 5.00 | 0.7400 | 0.7800 | 4.00 | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV05-B41.5 | series:KXLOWTMIN | Will the minimum temperature be 41-42° on Nov 5, 2026? | 0.0200 | 0.0400 | 1.00 | 0.9600 | 0.9800 | 19.00 | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV05-T35 | series:KXLOWTMIN | Will the minimum temperature be <35° on Nov 5, 2026? | 0.0400 | 0.0500 | 1.00 | 0.9500 | 0.9600 | 733.00 | 2026-11-05T06:42:24Z |
+| KXLOWTMIN-26NOV05-T42 | series:KXLOWTMIN | Will the minimum temperature be >42° on Nov 5, 2026? | — | 0.0100 | 1.00 | 0.9900 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV04-B63.5 | series:KXLOWTNOLA | Will the minimum temperature be 63-64° on Nov 4, 2026? | — | 0.0100 | 3500.00 | 0.9900 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV04-B65.5 | series:KXLOWTNOLA | Will the minimum temperature be 65-66° on Nov 4, 2026? | — | 0.0100 | 3501.00 | 0.9900 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV04-B67.5 | series:KXLOWTNOLA | Will the minimum temperature be 67-68° on Nov 4, 2026? | — | 0.0100 | 3909.90 | 0.9900 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV04-T63 | series:KXLOWTNOLA | Will the minimum temperature be <63° on Nov 4, 2026? | — | 0.0100 | 3500.00 | 0.9900 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV04-T70 | series:KXLOWTNOLA | Will the minimum temperature be >70° on Nov 4, 2026? | — | 0.0100 | 18012.11 | 0.9900 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV05-B57.5 | series:KXLOWTNOLA | Will the minimum temperature be 57-58° on Nov 5, 2026? | — | 0.0200 | 21.18 | 0.9800 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV05-B59.5 | series:KXLOWTNOLA | Will the minimum temperature be 59-60° on Nov 5, 2026? | 0.0300 | 0.0500 | 15.00 | 0.9500 | 0.9700 | 14.00 | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV05-B61.5 | series:KXLOWTNOLA | Will the minimum temperature be 61-62° on Nov 5, 2026? | 0.1100 | 0.3600 | 3.00 | 0.6400 | 0.8900 | 2.00 | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV05-B63.5 | series:KXLOWTNOLA | Will the minimum temperature be 63-64° on Nov 5, 2026? | 0.4200 | 0.6500 | 2.00 | 0.3500 | 0.5800 | 0.01 | 2026-11-05T06:42:25Z |
+| KXLOWTNOLA-26NOV05-T57 | series:KXLOWTNOLA | Will the minimum temperature be <57° on Nov 5, 2026? | — | 0.0200 | 80.00 | 0.9800 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTNYC-26NOV05-B55.5 | series:KXLOWTNYC | Will the minimum temperature be 55-56° on Nov 5, 2026? | 0.0100 | 0.0200 | 71.00 | 0.9800 | 0.9900 | 94.00 | 2026-11-05T06:42:26Z |
+| KXLOWTNYC-26NOV05-B57.5 | series:KXLOWTNYC | Will the minimum temperature be 57-58° on Nov 5, 2026? | 0.0100 | 0.1200 | 6.00 | 0.8800 | 0.9900 | 142.00 | 2026-11-05T06:42:25Z |
+| KXLOWTNYC-26NOV05-B59.5 | series:KXLOWTNYC | Will the minimum temperature be 59-60° on Nov 5, 2026? | 0.2500 | 0.4600 | 18.64 | 0.5400 | 0.7500 | 0.01 | 2026-11-05T06:42:26Z |
+| KXLOWTNYC-26NOV05-B61.5 | series:KXLOWTNYC | Will the minimum temperature be 61-62° on Nov 5, 2026? | 0.5100 | 0.7500 | 4.00 | 0.2500 | 0.4900 | 6.00 | 2026-11-05T06:42:25Z |
+| KXLOWTNYC-26NOV05-T55 | series:KXLOWTNYC | Will the minimum temperature be <55° on Nov 5, 2026? | — | 0.0100 | 4.00 | 0.9900 | — | — | 2026-11-05T06:42:26Z |
+| KXLOWTNYC-26NOV05-T62 | series:KXLOWTNYC | Will the minimum temperature be >62° on Nov 5, 2026? | — | 0.0100 | 8491.92 | 0.9900 | — | — | 2026-11-05T06:42:25Z |
+| KXLOWTOKC-26NOV04-B41.5 | series:KXLOWTOKC | Will the minimum temperature be 41-42° on Nov 4, 2026? | — | 0.0100 | 2025.00 | 0.9900 | — | — | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV04-B43.5 | series:KXLOWTOKC | Will the minimum temperature be 43-44° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 2025.00 | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV04-B47.5 | series:KXLOWTOKC | Will the minimum temperature be 47-48° on Nov 4, 2026? | — | 0.0100 | 17582.94 | 0.9900 | — | — | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV04-T41 | series:KXLOWTOKC | Will the minimum temperature be <41° on Nov 4, 2026? | — | 0.0100 | 2227.00 | 0.9900 | — | — | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV04-T48 | series:KXLOWTOKC | Will the minimum temperature be >48° on Nov 4, 2026? | — | 0.0100 | 18013.81 | 0.9900 | — | — | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV05-B43.5 | series:KXLOWTOKC | Will the minimum temperature be 43-44° on Nov 5, 2026? | 0.0700 | 0.0800 | 3.00 | 0.9200 | 0.9300 | 2.00 | 2026-11-05T06:42:27Z |
+| KXLOWTOKC-26NOV05-B45.5 | series:KXLOWTOKC | Will the minimum temperature be 45-46° on Nov 5, 2026? | 0.2600 | 0.3700 | 1.00 | 0.6300 | 0.7400 | 10.00 | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV05-B47.5 | series:KXLOWTOKC | Will the minimum temperature be 47-48° on Nov 5, 2026? | 0.3100 | 0.4300 | 1.00 | 0.5700 | 0.6900 | 10.00 | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV05-B49.5 | series:KXLOWTOKC | Will the minimum temperature be 49-50° on Nov 5, 2026? | 0.1000 | 0.2100 | 18.00 | 0.7900 | 0.9000 | 25.00 | 2026-11-05T06:42:26Z |
+| KXLOWTOKC-26NOV05-T43 | series:KXLOWTOKC | Will the minimum temperature be <43° on Nov 5, 2026? | 0.0100 | 0.0200 | 26.00 | 0.9800 | 0.9900 | 20.00 | 2026-11-05T06:42:26Z |
+| KXLOWTPHIL-26NOV05-B55.5 | series:KXLOWTPHIL | Will the minimum temperature be 55-56° on Nov 5, 2026? | 0.0100 | 0.0200 | 52.00 | 0.9800 | 0.9900 | 54.59 | 2026-11-05T06:42:26Z |
+| KXLOWTPHIL-26NOV05-B57.5 | series:KXLOWTPHIL | Will the minimum temperature be 57-58° on Nov 5, 2026? | 0.0100 | 0.0200 | 1.00 | 0.9800 | 0.9900 | 140.00 | 2026-11-05T06:42:26Z |
+| KXLOWTPHIL-26NOV05-B59.5 | series:KXLOWTPHIL | Will the minimum temperature be 59-60° on Nov 5, 2026? | 0.0700 | 0.1400 | 5.00 | 0.8600 | 0.9300 | 2.00 | 2026-11-05T06:42:26Z |
+| KXLOWTPHIL-26NOV05-B61.5 | series:KXLOWTPHIL | Will the minimum temperature be 61-62° on Nov 5, 2026? | 0.1100 | 0.1900 | 4.00 | 0.8100 | 0.8900 | 1.00 | 2026-11-05T06:42:26Z |
+| KXLOWTPHIL-26NOV05-T55 | series:KXLOWTPHIL | Will the minimum temperature be <55° on Nov 5, 2026? | — | 0.0100 | 42.00 | 0.9900 | — | — | 2026-11-05T06:42:26Z |
+| KXLOWTPHIL-26NOV05-T62 | series:KXLOWTPHIL | Will the minimum temperature be >62° on Nov 5, 2026? | 0.5200 | 0.7800 | 15.00 | 0.2200 | 0.4800 | 5.00 | 2026-11-05T06:42:26Z |
+| KXLOWTPHX-26NOV04-B50.5 | series:KXLOWTPHX | Will the minimum temperature be 50-51° on Nov 4, 2026? | — | 0.0100 | 1500.00 | 0.9900 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV04-B52.5 | series:KXLOWTPHX | Will the minimum temperature be 52-53° on Nov 4, 2026? | — | 0.0100 | 1577.00 | 0.9900 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV04-B54.5 | series:KXLOWTPHX | Will the minimum temperature be 54-55° on Nov 4, 2026? | — | 0.0100 | 2000.00 | 0.9900 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV04-B56.5 | series:KXLOWTPHX | Will the minimum temperature be 56-57° on Nov 4, 2026? | — | 0.0100 | 2021.00 | 0.9900 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV04-T50 | series:KXLOWTPHX | Will the minimum temperature be <50° on Nov 4, 2026? | — | 0.0100 | 1079.00 | 0.9900 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV05-B50.5 | series:KXLOWTPHX | Will the minimum temperature be 50-51° on Nov 5, 2026? | — | 0.0200 | 86.00 | 0.9800 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV05-B52.5 | series:KXLOWTPHX | Will the minimum temperature be 52-53° on Nov 5, 2026? | 0.0100 | 0.0200 | 84.00 | 0.9800 | 0.9900 | 93.05 | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV05-B54.5 | series:KXLOWTPHX | Will the minimum temperature be 54-55° on Nov 5, 2026? | 0.0100 | 0.0300 | 27.39 | 0.9700 | 0.9900 | 130.00 | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV05-B56.5 | series:KXLOWTPHX | Will the minimum temperature be 56-57° on Nov 5, 2026? | 0.3200 | 0.4100 | 36.00 | 0.5900 | 0.6800 | 22.00 | 2026-11-05T06:42:27Z |
+| KXLOWTPHX-26NOV05-T50 | series:KXLOWTPHX | Will the minimum temperature be <50° on Nov 5, 2026? | — | 0.0200 | 107.00 | 0.9800 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV04-B56.5 | series:KXLOWTSAN | Will the minimum temperature be 56-57° on Nov 4, 2026? | 0.0100 | 0.0200 | 113.00 | 0.9800 | 0.9900 | 54.91 | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV04-B58.5 | series:KXLOWTSAN | Will the minimum temperature be 58-59° on Nov 4, 2026? | 0.0100 | 0.0300 | 55.00 | 0.9700 | 0.9900 | 140.00 | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV04-B60.5 | series:KXLOWTSAN | Will the minimum temperature be 60-61° on Nov 4, 2026? | 0.0200 | 0.2900 | 4.00 | 0.7100 | 0.9800 | 15.00 | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV04-T56 | series:KXLOWTSAN | Will the minimum temperature be <56° on Nov 4, 2026? | — | 0.0200 | 382.00 | 0.9800 | — | — | 2026-11-05T06:42:28Z |
+| KXLOWTSAN-26NOV04-T63 | series:KXLOWTSAN | Will the minimum temperature be >63° on Nov 4, 2026? | — | 0.0100 | 4706.25 | 0.9900 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV05-B53.5 | series:KXLOWTSAN | Will the minimum temperature be 53-54° on Nov 5, 2026? | 0.0100 | 0.0600 | 10.00 | 0.9400 | 0.9900 | 140.00 | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV05-B57.5 | series:KXLOWTSAN | Will the minimum temperature be 57-58° on Nov 5, 2026? | 0.3600 | 0.4500 | 4.00 | 0.5500 | 0.6400 | 5.00 | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV05-B59.5 | series:KXLOWTSAN | Will the minimum temperature be 59-60° on Nov 5, 2026? | 0.3300 | 0.4300 | 10.00 | 0.5700 | 0.6700 | 5.00 | 2026-11-05T06:42:27Z |
+| KXLOWTSAN-26NOV05-T53 | series:KXLOWTSAN | Will the minimum temperature be <53° on Nov 5, 2026? | 0.0200 | 0.0300 | 37.00 | 0.9700 | 0.9800 | 3.00 | 2026-11-05T06:42:28Z |
+| KXLOWTSAN-26NOV05-T60 | series:KXLOWTSAN | Will the minimum temperature be >60° on Nov 5, 2026? | 0.0400 | 0.1400 | 5.00 | 0.8600 | 0.9600 | 10.00 | 2026-11-05T06:42:27Z |
+| KXLOWTSATX-26NOV04-B49.5 | series:KXLOWTSATX | Will the minimum temperature be 49-50° on Nov 4, 2026? | — | 0.0100 | 2439.62 | 0.9900 | — | — | 2026-11-05T06:42:28Z |
+| KXLOWTSATX-26NOV04-B53.5 | series:KXLOWTSATX | Will the minimum temperature be 53-54° on Nov 4, 2026? | 0.9900 | — | — | — | 0.0100 | 2025.00 | 2026-11-05T06:42:27Z |
+| KXLOWTSATX-26NOV04-B55.5 | series:KXLOWTSATX | Will the minimum temperature be 55-56° on Nov 4, 2026? | — | 0.0100 | 12871.88 | 0.9900 | — | — | 2026-11-05T06:42:28Z |
+| KXLOWTSATX-26NOV04-T49 | series:KXLOWTSATX | Will the minimum temperature be <49° on Nov 4, 2026? | — | 0.0100 | 2527.00 | 0.9900 | — | — | 2026-11-05T06:42:28Z |
+| KXLOWTSATX-26NOV04-T56 | series:KXLOWTSATX | Will the minimum temperature be >56° on Nov 4, 2026? | — | 0.0100 | 11949.65 | 0.9900 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTSATX-26NOV05-B48.5 | series:KXLOWTSATX | Will the minimum temperature be 48-49° on Nov 5, 2026? | — | 0.0200 | 142.00 | 0.9800 | — | — | 2026-11-05T06:42:27Z |
+| KXLOWTSATX-26NOV05-B50.5 | series:KXLOWTSATX | Will the minimum temperature be 50-51° on Nov 5, 2026? | 0.0100 | 0.0200 | 27.00 | 0.9800 | 0.9900 | 91.11 | 2026-11-05T06:42:28Z |
+| KXLOWTSATX-26NOV05-B52.5 | series:KXLOWTSATX | Will the minimum temperature be 52-53° on Nov 5, 2026? | 0.0100 | 0.0300 | 1.00 | 0.9700 | 0.9900 | 155.11 | 2026-11-05T06:42:28Z |
+| KXLOWTSATX-26NOV05-B54.5 | series:KXLOWTSATX | Will the minimum temperature be 54-55° on Nov 5, 2026? | 0.2100 | 0.3200 | 6.00 | 0.6800 | 0.7900 | 10.00 | 2026-11-05T06:42:28Z |
+| KXLOWTSATX-26NOV05-T48 | series:KXLOWTSATX | Will the minimum temperature be <48° on Nov 5, 2026? | — | 0.0200 | 96.00 | 0.9800 | — | — | 2026-11-05T06:42:28Z |
 
 Full machine-readable data: [`latest.json`](latest.json).
