@@ -1,7 +1,7 @@
 {
   "shared": {
     "parallel_books": 4,
-    "sampling_note": "Rotates event groups and thresholds every 30 minutes; does not imply real-time executability."
+    "sampling_note": "Events and strikes rotate by observation window; new research_queue.json ranks liquid, near-term research targets. Queue is NOT EV."
   },
   "profiles": {
     "sports": {
@@ -28,7 +28,10 @@
         "KXF1RACEPODIUM",
         "KXF1H2H",
         "KXNHLGAME",
-        "KXATPGSPREAD"
+        "KXATPGSPREAD",
+        "KXATPWTA",
+        "KXNFLLADDERREC",
+        "KXNFLLADDERRECYDS"
       ],
       "discovery": [
         {
@@ -88,17 +91,33 @@
         "KXNBAAST": 14,
         "KXNBA3PT": 14,
         "KXNFLGAME": 7,
-        "KXNBAGAME": 7
-      }
+        "KXNBAGAME": 7,
+        "KXATPGSPREAD": 8,
+        "KXF1RACEPODIUM": 8,
+        "KXF1H2H": 8,
+        "KXATPWTA": 7,
+        "KXNFLLADDERREC": 7,
+        "KXNFLLADDERRECYDS": 7
+      },
+      "discovery_probe_multiplier": 2,
+      "max_dynamic_series_attempts": 16
     },
     "pop_culture": {
       "max_orderbooks": 140,
-      "per_series": 16,
+      "per_series": 9,
       "max_pages": 3,
       "base_series": [
         "KXRT",
         "KXTOPALBUM",
-        "KXSTEAMTOPSELLER"
+        "KXSTEAMTOPSELLER",
+        "KXTOPSONGSPOTIFYUSA",
+        "KXTOPSONGSPOTIFY",
+        "KXTOPSONGSPOTIFYRUNNERUP",
+        "KXTOPSONGRUNNERUPUSA",
+        "KXPERFORMSUPERBOWL",
+        "KXOSCARNOMSPLAY",
+        "KXPS6",
+        "KXRANKLISTSONGTOP10"
       ],
       "discovery": [
         {
@@ -113,16 +132,24 @@
             "film",
             "rotten tomatoes",
             "television",
-            "tv",
             "streaming",
             "steam",
-            "games",
             "awards",
             "oscars",
             "grammy",
             "emmy",
             "celebrity",
-            "reality show"
+            "reality show",
+            "spotify",
+            "top selling",
+            "billboard 200",
+            "top song",
+            "top album",
+            "box office weekend",
+            "metacritic",
+            "review score",
+            "podcast guest",
+            "super bowl halftime"
           ],
           "exclude": [],
           "max_series": 16
@@ -133,17 +160,39 @@
         "event_tickers": [],
         "series_tickers": []
       },
-      "dynamic_per_series": 10
+      "dynamic_per_series": 7,
+      "discovery_probe_multiplier": 3,
+      "max_dynamic_series_attempts": 25,
+      "per_series_overrides": {
+        "KXRT": 14,
+        "KXTOPALBUM": 14,
+        "KXSTEAMTOPSELLER": 12,
+        "KXTOPSONGSPOTIFYUSA": 10,
+        "KXTOPSONGSPOTIFY": 10,
+        "KXTOPSONGSPOTIFYRUNNERUP": 7,
+        "KXTOPSONGRUNNERUPUSA": 7,
+        "KXPERFORMSUPERBOWL": 6,
+        "KXOSCARNOMSPLAY": 6,
+        "KXPS6": 3,
+        "KXRANKLISTSONGTOP10": 7
+      }
     },
     "weather_politics": {
       "max_orderbooks": 170,
-      "per_series": 15,
+      "per_series": 10,
       "max_pages": 3,
       "base_series": [
         "KXHIGHTMIN",
         "KXHIGHCHI",
         "KXHIGHTATL",
-        "CONTROLS"
+        "CONTROLS",
+        "KXRAINWKND",
+        "KXRAIN",
+        "KXLOWTDEN",
+        "KXLOWTCHI",
+        "KXUSCPIYEAR",
+        "KXFEDGOVNOM",
+        "KXFEDDC"
       ],
       "discovery": [
         {
@@ -205,7 +254,22 @@
         "event_tickers": [],
         "series_tickers": []
       },
-      "dynamic_per_series": 10
+      "dynamic_per_series": 7,
+      "discovery_probe_multiplier": 2,
+      "max_dynamic_series_attempts": 25,
+      "per_series_overrides": {
+        "KXHIGHTMIN": 10,
+        "KXHIGHCHI": 10,
+        "KXHIGHTATL": 10,
+        "CONTROLS": 4,
+        "KXRAINWKND": 8,
+        "KXRAIN": 8,
+        "KXLOWTDEN": 6,
+        "KXLOWTCHI": 6,
+        "KXUSCPIYEAR": 7,
+        "KXFEDGOVNOM": 5,
+        "KXFEDDC": 5
+      }
     }
   }
 }
