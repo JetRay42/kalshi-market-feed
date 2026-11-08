@@ -1,20 +1,20 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-08T21:25:34Z
+Feed generated (UTC): 2026-11-08T22:10:56Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-HOWT-65` | 17 | 24 / 25 | 75 / 76 |
+| 1 | `KXRT-GOD-88` | 18 | 96 / 98 | 2 / 4 |
 | 2 | `KXPS6-26-DEC31` | 14 | 2 / 3 | 97 / 98 |
-| 3 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
-| 4 | `KXOSCARNOMSPLAY-27-FOR` | 7 | 1 / 5 | 95 / 99 |
-| 5 | `KXPERFORMSUPERBOWL-27B-CHR` | 4 | 5 / 14 | 86 / 95 |
-| 6 | `KXRT-EBE-75` | 16 | 5 / 6 | 94 / 95 |
-| 7 | `KXTOPSONGSPOTIFYUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
-| 8 | `KXOSCARNOMSPLAY-27-BEH` | 6 | 13 / 17 | 83 / 87 |
-| 9 | `KXPERFORMSUPERBOWL-27B-GUN` | 4 | 1 / 14 | 86 / 99 |
-| 10 | `KXRT-FOC-40` | 15 | 81 / 82 | 18 / 19 |
-| 11 | `KXRT-HEX-80` | 14 | 21 / 22 | 78 / 79 |
+| 3 | `KXOSCARNOMSPLAY-27-OBS` | 10 | 57 / 62 | 38 / 43 |
+| 4 | `KXTOPSONGSPOTIFYUSA-26-DTMF` | 10 | 1 / 3 | 97 / 99 |
+| 5 | `KXPERFORMSUPERBOWL-27B-CHRI` | 4 | 8 / 15 | 85 / 92 |
+| 6 | `KXRT-HOWT-75` | 17 | 9 / 10 | 90 / 91 |
+| 7 | `KXOSCARNOMSPLAY-27-ELS` | 8 | 34 / 42 | 58 / 66 |
+| 8 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
+| 9 | `KXPERFORMSUPERBOWL-27B-BAB` | 1 | 5 / 13 | 87 / 95 |
+| 10 | `KXRT-EBE-45` | 16 | 38 / 39 | 61 / 62 |
+| 11 | `KXRT-FOC-70` | 14 | 19 / 20 | 80 / 81 |
 | 12 | `KXRT-HUN-90` | 14 | 7 / 8 | 92 / 93 |
