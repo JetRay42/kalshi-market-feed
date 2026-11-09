@@ -1,24 +1,25 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-09T01:00:32Z
+Feed generated (UTC): 2026-11-09T02:09:53Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXSTEAMTOPSELLER-26NOV10-CAL` | 17 | 98 / 99 | 1 / 2 |
-| 2 | `KXRT-EBE-85` | 15 | 3 / 4 | 96 / 97 |
+| 1 | `KXRT-CAT-50` | 18 | 2 / 3 | 97 / 98 |
+| 2 | `KXSTEAMTOPSELLER-26NOV10-CAL` | 17 | 98 / 99 | 1 / 2 |
 | 3 | `KXPS6-26-DEC31` | 14 | 2 / 3 | 97 / 98 |
-| 4 | `KXOSCARNOMSPLAY-27-CLU` | 10 | 55 / 59 | 41 / 45 |
-| 5 | `KXTOPSONGSPOTIFYUSA-26-DTMF` | 10 | 1 / 3 | 97 / 99 |
-| 6 | `KXTOPSONGSPOTIFYRUNNERUP-26-BAB` | 9 | 74 / 79 | 21 / 26 |
-| 7 | `KXRANKLISTSONGTOP10-26NOV14-HAT` | 7 | 50 / 96 | 4 / 50 |
-| 8 | `KXPERFORMSUPERBOWL-27B-OLI` | 4 | 10 / 18 | 82 / 90 |
-| 9 | `KXRT-AVE-50` | 14 | 93 / 94 | 6 / 7 |
-| 10 | `KXOSCARNOMSPLAY-27-BLA` | 9 | 4 / 9 | 91 / 96 |
-| 11 | `KXTOPSONGSPOTIFYUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
-| 12 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 6 | 12 / 17 | 83 / 88 |
-| 13 | `KXPERFORMSUPERBOWL-27B-USH` | 4 | 1 / 22 | 78 / 99 |
-| 14 | `KXRT-FOC-30` | 14 | 94 / 95 | 5 / 6 |
-| 15 | `KXRT-IPL-60` | 13 | 98 / 99 | 1 / 2 |
-| 16 | `KXRT-HOWT-90` | 13 | 1 / 2 | 98 / 99 |
+| 4 | `KXTOPSONGSPOTIFYRUNNERUP-26-BAB` | 13 | 75 / 77 | 23 / 25 |
+| 5 | `KXTOPSONGSPOTIFY-26-END` | 12 | 79 / 83 | 17 / 21 |
+| 6 | `KXOSCARNOMSPLAY-27-DIG` | 11 | 19 / 20 | 80 / 81 |
+| 7 | `KXTOPSONGSPOTIFYUSA-26-DTMF` | 10 | 1 / 3 | 97 / 99 |
+| 8 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 7 | 66 / 72 | 28 / 34 |
+| 9 | `KXPERFORMSUPERBOWL-27B-OLI` | 4 | 10 / 18 | 82 / 90 |
+| 10 | `KXRT-HOWT-50` | 17 | 59 / 60 | 40 / 41 |
+| 11 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 8 | 13 / 17 | 83 / 87 |
+| 12 | `KXOSCARNOMSPLAY-27-DRA` | 9 | 5 / 8 | 92 / 95 |
+| 13 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 7 | 26 / 30 | 70 / 74 |
+| 14 | `KXPERFORMSUPERBOWL-27B-USH` | 4 | 1 / 22 | 78 / 99 |
+| 15 | `KXRT-EBE-40` | 17 | 45 / 46 | 54 / 55 |
+| 16 | `KXRT-HEX-90` | 15 | 10 / 11 | 89 / 90 |
+| 17 | `KXRT-FOC-85` | 15 | 6 / 7 | 93 / 94 |
