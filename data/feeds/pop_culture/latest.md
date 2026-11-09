@@ -1,6 +1,6 @@
 # Kalshi public order-book snapshots (v2)
 
-Updated UTC: **2026-11-09T17:05:33Z** · Books: **115** of **115** selected · Warnings: **0**
+Updated UTC: **2026-11-09T18:00:57Z** · Books: **115** of **115** selected · Warnings: **0**
 
 > Research snapshots only: no live execution guarantee. Recheck market status, fees and settlement rules before placing any order.
 
@@ -8,120 +8,120 @@ Updated UTC: **2026-11-09T17:05:33Z** · Books: **115** of **115** selected · W
 
 | Ticker | Reason | Contract | YES bid | YES ask | YES ask size | NO bid | NO ask | NO ask size | Observed UTC |
 |---|---|---|---:|---:|---:|---:|---:|---:|---|
-| KXBILLBOARDRUNNERUPALBUM-26NOV21-DAN | series:KXBILLBOARDRUNNERUPALBUM | Will DANDELION be #2 on the Billboard 200 during the week of Nov  | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T17:05:33Z |
-| KXBILLBOARDRUNNERUPALBUM-26NOV21-THEA | series:KXBILLBOARDRUNNERUPALBUM | Will The Art of Loving be #2 on the Billboard 200 during the week | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPALBUM-26NOV21-THEG | series:KXBILLBOARDRUNNERUPALBUM | Will The Great Divide be #2 on the Billboard 200 during the week  | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPALBUM-26NOV21-THEL | series:KXBILLBOARDRUNNERUPALBUM | Will The Life of a Showgirl be #2 on the Billboard 200 during the | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPALBUM-26NOV21-THR | series:KXBILLBOARDRUNNERUPALBUM | Will Thriller be #2 on the Billboard 200 during the week of Nov 2 | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPALBUM-26NOV21-YOU | series:KXBILLBOARDRUNNERUPALBUM | Will you seem pretty sad for a girl so in love be #2 on the Billb | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPALBUM-26NOV21-YOUN | series:KXBILLBOARDRUNNERUPALBUM | Will Young Manhood and Other Donatable Organs be #2 on the Billbo | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPSONG-26NOV21-CHO | series:KXBILLBOARDRUNNERUPSONG | Will Choosin' Texas be #2 on the Billboard Hot 100 during the wee | 0.0100 | 0.1200 | 970.00 | 0.8800 | 0.9900 | 50.00 | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPSONG-26NOV21-LOV | series:KXBILLBOARDRUNNERUPSONG | Will LOVING LIFE AGAIN be #2 on the Billboard Hot 100 during the  | — | 0.0100 | 800.00 | 0.9900 | — | — | 2026-11-09T17:05:33Z |
-| KXBILLBOARDRUNNERUPSONG-26NOV21-MID | series:KXBILLBOARDRUNNERUPSONG | Will Midnight Sun be #2 on the Billboard Hot 100 during the week  | — | 0.0100 | 800.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPSONG-26NOV21-NIC | series:KXBILLBOARDRUNNERUPSONG | Will Nicole Kidman be #2 on the Billboard Hot 100 during the week | — | 0.0100 | 750.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPSONG-26NOV21-RIS | series:KXBILLBOARDRUNNERUPSONG | Will Risk It All be #2 on the Billboard Hot 100 during the week o | — | 0.0100 | 800.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPSONG-26NOV21-STU | series:KXBILLBOARDRUNNERUPSONG | Will stupid song be #2 on the Billboard Hot 100 during the week o | — | 0.0100 | 800.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXBILLBOARDRUNNERUPSONG-26NOV21-THR | series:KXBILLBOARDRUNNERUPSONG | Will Thriller be #2 on the Billboard Hot 100 during the week of N | — | 0.0100 | 400.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXOSCARNOMSPLAY-27-CLU | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.5800 | 0.6100 | 102.09 | 0.3900 | 0.4200 | 1.00 | 2026-11-09T17:05:32Z |
-| KXOSCARNOMSPLAY-27-DRA | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.0300 | 0.0700 | 2.00 | 0.9300 | 0.9700 | 214.00 | 2026-11-09T17:05:31Z |
-| KXOSCARNOMSPLAY-27-ELS | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.3500 | 0.4100 | 5.00 | 0.5900 | 0.6500 | 12.00 | 2026-11-09T17:05:31Z |
-| KXOSCARNOMSPLAY-27-FJO | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.4700 | 0.4800 | 294.76 | 0.5200 | 0.5300 | 14.00 | 2026-11-09T17:05:32Z |
-| KXOSCARNOMSPLAY-27-FOR | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.0100 | 0.0500 | 200.00 | 0.9500 | 0.9900 | 150.00 | 2026-11-09T17:05:31Z |
-| KXOSCARNOMSPLAY-27-JOS | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.1300 | 0.1700 | 5.00 | 0.8300 | 0.8700 | 2.00 | 2026-11-09T17:05:31Z |
-| KXPERFORMSUPERBOWL-27-CAMR | series:KXPERFORMSUPERBOWL | Will Cam'ron perform at the 2027 Pro Football Championship Halfti | 0.0100 | 0.2600 | 227.00 | 0.7400 | 0.9900 | 1000.00 | 2026-11-09T17:05:32Z |
-| KXPERFORMSUPERBOWL-27-DRE | series:KXPERFORMSUPERBOWL | Will The-Dream perform at the 2027 Pro Football Championship Half | 0.0100 | 0.2700 | 227.00 | 0.7300 | 0.9900 | 1000.00 | 2026-11-09T17:05:31Z |
-| KXPERFORMSUPERBOWL-27B-ALE | series:KXPERFORMSUPERBOWL | Who will perform at the 2027 Pro Football Championship Halftime S | — | 0.1500 | 222.00 | 0.8500 | — | — | 2026-11-09T17:05:31Z |
-| KXPERFORMSUPERBOWL-27B-JOJ | series:KXPERFORMSUPERBOWL | Who will perform at the 2027 Pro Football Championship Halftime S | — | 0.1700 | 4.45 | 0.8300 | — | — | 2026-11-09T17:05:31Z |
-| KXPERFORMSUPERBOWL-27B-KEN | series:KXPERFORMSUPERBOWL | Who will perform at the 2027 Pro Football Championship Halftime S | 0.0300 | 0.2200 | 5.00 | 0.7800 | 0.9700 | 5.00 | 2026-11-09T17:05:31Z |
-| KXPERFORMSUPERBOWL-27B-WEE | series:KXPERFORMSUPERBOWL | Who will perform at the 2027 Pro Football Championship Halftime S | 0.0800 | 0.2500 | 5.01 | 0.7500 | 0.9200 | 3.00 | 2026-11-09T17:05:31Z |
-| KXPS6-26-DEC31 | series:KXPS6 | PS6 announced by 2026? | 0.0200 | 0.0300 | 53.18 | 0.9700 | 0.9800 | 5173.78 | 2026-11-09T17:05:31Z |
-| KXRANKLISTSONGTOP10-26NOV21-HAT | series:KXRANKLISTSONGTOP10 | Will hate that i made you love me be Top 10 on the Billboard Hot  | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T17:05:31Z |
-| KXRANKLISTSONGTOP10-26NOV21-IJU | series:KXRANKLISTSONGTOP10 | Will I Just Might be Top 10 on the Billboard Hot 100 during the w | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T17:05:31Z |
-| KXRANKLISTSONGTOP10-26NOV21-JAD | series:KXRANKLISTSONGTOP10 | Will JADED be Top 10 on the Billboard Hot 100 during the week of  | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T17:05:32Z |
-| KXRANKLISTSONGTOP10-26NOV21-LIE | series:KXRANKLISTSONGTOP10 | Will Lies be Top 10 on the Billboard Hot 100 during the week of N | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T17:05:32Z |
-| KXRANKLISTSONGTOP10-26NOV21-LOV | series:KXRANKLISTSONGTOP10 | Will LOVING LIFE AGAIN be Top 10 on the Billboard Hot 100 during  | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T17:05:32Z |
-| KXRANKLISTSONGTOP10-26NOV21-MID | series:KXRANKLISTSONGTOP10 | Will Midnight Sun be Top 10 on the Billboard Hot 100 during the w | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T17:05:32Z |
-| KXRANKLISTSONGTOP10-26NOV21-NIC | series:KXRANKLISTSONGTOP10 | Will Nicole Kidman be Top 10 on the Billboard Hot 100 during the  | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T17:05:32Z |
-| KXRT-ANG-75 | series:KXRT | The Angry Birds Movie 3 Rotten Tomatoes score? | 0.0800 | 0.0900 | 218560.01 | 0.9100 | 0.9200 | 80916.01 | 2026-11-09T17:05:29Z |
-| KXRT-AVE-50 | series:KXRT | Avengers: Doomsday Rotten Tomatoes score? | 0.9200 | 0.9300 | 33744.44 | 0.0700 | 0.0800 | 2340.77 | 2026-11-09T17:05:29Z |
-| KXRT-DUNE-80 | series:KXRT | Dune: Part Three Rotten Tomatoes score? | 0.8000 | 0.8100 | 63785.18 | 0.1900 | 0.2000 | 30413.28 | 2026-11-09T17:05:29Z |
-| KXRT-EBE-60 | series:KXRT | Ebenezer Rotten Tomatoes score? | 0.2100 | 0.2200 | 0.01 | 0.7800 | 0.7900 | 0.01 | 2026-11-09T17:05:29Z |
-| KXRT-EBE-90 | series:KXRT | Ebenezer Rotten Tomatoes score? | — | 0.0100 | 34007.01 | 0.9900 | — | — | 2026-11-09T17:05:29Z |
-| KXRT-FOC-55 | series:KXRT | Focker-In-Law Rotten Tomatoes score? | 0.5900 | 0.6000 | 14.80 | 0.4000 | 0.4100 | 22.55 | 2026-11-09T17:05:29Z |
-| KXRT-HEX-50 | series:KXRT | Hexed Rotten Tomatoes score? | 0.7300 | 0.7400 | 24430.73 | 0.2600 | 0.2700 | 2306.01 | 2026-11-09T17:05:29Z |
-| KXRT-HOWT-60 | series:KXRT | How to Rob a Bank Rotten Tomatoes score? | 0.2700 | 0.2800 | 1184.28 | 0.7200 | 0.7300 | 36.01 | 2026-11-09T17:05:29Z |
-| KXRT-HOWT-90 | series:KXRT | How to Rob a Bank Rotten Tomatoes score? | 0.0100 | 0.0200 | 278356.40 | 0.9800 | 0.9900 | 129502.00 | 2026-11-09T17:05:29Z |
-| KXRT-HUN-77 | series:KXRT | The Hunger Games: Sunrise on the Reaping Rotten Tomatoes score? | 0.3900 | 0.4100 | 1.01 | 0.5900 | 0.6100 | 0.01 | 2026-11-09T17:05:29Z |
-| KXRT-IPL-77 | series:KXRT | I Play Rocky Rotten Tomatoes score? | 0.9700 | 0.9800 | 101401.00 | 0.0200 | 0.0300 | 14608.48 | 2026-11-09T17:05:29Z |
-| KXRT-JUM-75 | series:KXRT | Jumanji: Open World Rotten Tomatoes score? | 0.2400 | 0.2500 | 115244.00 | 0.7500 | 0.7600 | 74624.00 | 2026-11-09T17:05:29Z |
-| KXRT-VIO-70 | series:KXRT | Violent Night 2 Rotten Tomatoes score? | 0.3600 | 0.3700 | 22079.49 | 0.6300 | 0.6400 | 75874.01 | 2026-11-09T17:05:29Z |
-| KXRT-WER-85 | series:KXRT | Werwulf Rotten Tomatoes score? | 0.5400 | 0.5500 | 81177.35 | 0.4500 | 0.4600 | 22546.64 | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-ANI | series:KXSTEAMTOPSELLER | Will Aniimo be #1 on Steam's Weekly Top Sellers - Top 100 product | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-CRI | series:KXSTEAMTOPSELLER | Will Crimson Desert Enhanced be #1 on Steam's Weekly Top Sellers  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-CRIM | series:KXSTEAMTOPSELLER | Will Crimson Desert Enhanced: Charting the Unknown be #1 on Steam | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-DEA | series:KXSTEAMTOPSELLER | Will Dead by Daylight be #1 on Steam's Weekly Top Sellers - Top 1 | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-ENS | series:KXSTEAMTOPSELLER | Will Enshrouded be #1 on Steam's Weekly Top Sellers - Top 100 pro | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-FIN | series:KXSTEAMTOPSELLER | Will FINAL FANTASY RESONANCE be #1 on Steam's Weekly Top Sellers  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-MAP | series:KXSTEAMTOPSELLER | Will MapleStory be #1 on Steam's Weekly Top Sellers - Top 100 pro | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-MAR | series:KXSTEAMTOPSELLER | Will Marvel Rivals be #1 on Steam's Weekly Top Sellers - Top 100  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-MOO | series:KXSTEAMTOPSELLER | Will Moon Sweepers be #1 on Steam's Weekly Top Sellers - Top 100  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-PRO | series:KXSTEAMTOPSELLER | Will Probably Stolen - Cyberpunk Shopkeeper Sim be #1 on Steam's  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-RUS | series:KXSTEAMTOPSELLER | Will Rust be #1 on Steam's Weekly Top Sellers - Top 100 products  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:29Z |
-| KXSTEAMTOPSELLER-26NOV10-WAR | series:KXSTEAMTOPSELLER | Will Warframe be #1 on Steam's Weekly Top Sellers - Top 100 produ | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPALBUM-26NOV21-DAN | series:KXTOPALBUM | Will DANDELION be #1 on the Billboard 200 during the week of Nov  | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-HAB | series:KXTOPALBUM | Will HABIBTI be #1 on the Billboard 200 during the week of Nov 21 | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-HEA | series:KXTOPALBUM | Will Heavy Is The Crown be #1 on the Billboard 200 during the wee | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-ICE | series:KXTOPALBUM | Will ICEMAN be #1 on the Billboard 200 during the week of Nov 21, | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-IMT | series:KXTOPALBUM | Will I'm The Problem be #1 on the Billboard 200 during the week o | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-ONE | series:KXTOPALBUM | Will One Thing At A Time be #1 on the Billboard 200 during the we | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-SOS | series:KXTOPALBUM | Will SOS be #1 on the Billboard 200 during the week of Nov 21, 20 | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-STI | series:KXTOPALBUM | Will Stick Season be #1 on the Billboard 200 during the week of N | — | — | — | — | — | — | 2026-11-09T17:05:30Z |
-| KXTOPALBUM-26NOV21-THE | series:KXTOPALBUM | Will The Black Parade be #1 on the Billboard 200 during the week  | — | 0.0300 | 100.00 | 0.9700 | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-THEG | series:KXTOPALBUM | Will The Great Divide be #1 on the Billboard 200 during the week  | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-THEL | series:KXTOPALBUM | Will The Life of a Showgirl be #1 on the Billboard 200 during the | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-THR | series:KXTOPALBUM | Will Thriller be #1 on the Billboard 200 during the week of Nov 2 | — | 0.1500 | 100.00 | 0.8500 | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-YOU | series:KXTOPALBUM | Will you seem pretty sad for a girl so in love be #1 on the Billb | — | — | — | — | — | — | 2026-11-09T17:05:29Z |
-| KXTOPALBUM-26NOV21-YOUN | series:KXTOPALBUM | Will Young Manhood and Other Donatable Organs be #1 on the Billbo | — | 0.8300 | 1000.00 | 0.1700 | — | — | 2026-11-09T17:05:29Z |
-| KXTOPSONG-26NOV21-BAB | series:KXTOPSONG | Will Babydoll be #1 on the Billboard Hot 100 during the week of N | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXTOPSONG-26NOV21-BBY | series:KXTOPSONG | Will BbY WOW be #1 on the Billboard Hot 100 during the week of No | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXTOPSONG-26NOV21-CHO | series:KXTOPSONG | Will Choosin' Texas be #1 on the Billboard Hot 100 during the wee | 0.9000 | 0.9400 | 9.72 | 0.0600 | 0.1000 | 887.00 | 2026-11-09T17:05:32Z |
-| KXTOPSONG-26NOV21-EXP | series:KXTOPSONG | Will expectations be #1 on the Billboard Hot 100 during the week  | — | 0.0100 | 766.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXTOPSONG-26NOV21-NIC | series:KXTOPSONG | Will Nicole Kidman be #1 on the Billboard Hot 100 during the week | — | 0.0100 | 716.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXTOPSONG-26NOV21-RIS | series:KXTOPSONG | Will Risk It All be #1 on the Billboard Hot 100 during the week o | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXTOPSONG-26NOV21-THR | series:KXTOPSONG | Will Thriller be #1 on the Billboard Hot 100 during the week of N | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T17:05:32Z |
-| KXTOPSONGRUNNERUPUSA-26-BAC | series:KXTOPSONGRUNNERUPUSA | Will back to friends be the #2 most streamed Song on the  2026 Sp | — | 0.0100 | 1622.00 | 0.9900 | — | — | 2026-11-09T17:05:31Z |
-| KXTOPSONGRUNNERUPUSA-26-DIE | series:KXTOPSONGRUNNERUPUSA | Will Die With A Smile be the #2 most streamed Song on the  2026 S | — | 0.0100 | 1622.00 | 0.9900 | — | — | 2026-11-09T17:05:31Z |
-| KXTOPSONGRUNNERUPUSA-26-DTMF | series:KXTOPSONGRUNNERUPUSA | Will DtMF be the #2 most streamed Song on the  2026 Spotify Wrapp | — | 0.0100 | 755.41 | 0.9900 | — | — | 2026-11-09T17:05:31Z |
-| KXTOPSONGRUNNERUPUSA-26-END | series:KXTOPSONGRUNNERUPUSA | Will End of Beginning be the #2 most streamed Song on the  2026 S | — | 0.0100 | 1617.00 | 0.9900 | — | — | 2026-11-09T17:05:31Z |
-| KXTOPSONGRUNNERUPUSA-26-GOL | series:KXTOPSONGRUNNERUPUSA | Will Golden be the #2 most streamed Song on the  2026 Spotify Wra | — | 0.0100 | 1524.49 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGRUNNERUPUSA-26-SOD | series:KXTOPSONGRUNNERUPUSA | Will Soda Pop be the #2 most streamed Song on the  2026 Spotify W | — | 0.0100 | 1728.00 | 0.9900 | — | — | 2026-11-09T17:05:31Z |
-| KXTOPSONGRUNNERUPUSA-26-YOU | series:KXTOPSONGRUNNERUPUSA | Will Your Idol be the #2 most streamed Song on the  2026 Spotify  | — | 0.0100 | 1622.00 | 0.9900 | — | — | 2026-11-09T17:05:31Z |
-| KXTOPSONGSPOTIFY-26-CUR | series:KXTOPSONGSPOTIFY | Will the cure be the #1 most streamed Song on the 2026 Spotify Wr | — | 0.0100 | 17203.36 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-DOM | series:KXTOPSONGSPOTIFY | Will Babydoll be the #1 most streamed Song on the  2026 Spotify W | 0.0900 | 0.1100 | 17.39 | 0.8900 | 0.9100 | 24.00 | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-DON | series:KXTOPSONGSPOTIFY | Will Don’t Say You Love Me be the #1 most streamed Song on the  2 | — | 0.0100 | 3230.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-END | series:KXTOPSONGSPOTIFY | Will End of Beginning be the #1 most streamed Song on the  2026 S | 0.8000 | 0.8400 | 90.00 | 0.1600 | 0.2000 | 17.54 | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-HAR | series:KXTOPSONGSPOTIFY | Will American Girls be the #1 most streamed Song on the  2026 Spo | — | 0.0100 | 3195.14 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-KEN | series:KXTOPSONGSPOTIFY | Will luther (with sza) be the #1 most streamed Song on the  2026  | — | 0.0100 | 3083.49 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-RAI | series:KXTOPSONGSPOTIFY | Will Raindance (Feat. Tems) be the #1 most streamed Song on the   | — | 0.0100 | 1899.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-SOD | series:KXTOPSONGSPOTIFY | Will Soda Pop be the #1 most streamed Song on the  2026 Spotify W | — | 0.0100 | 3367.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-SWI | series:KXTOPSONGSPOTIFY | Will SWIM be the #1 most streamed Song on the  2026 Spotify Wrapp | — | 0.0200 | 128.42 | 0.9800 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFY-26-YOU | series:KXTOPSONGSPOTIFY | Will Your Idol be the #1 most streamed Song on the  2026 Spotify  | — | 0.0100 | 3397.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYRUNNERUP-26-BAC | series:KXTOPSONGSPOTIFYRUNNERUP | Will back to friends be the #2 most streamed Song on the  2026 Sp | — | 0.0100 | 128.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYRUNNERUP-26-BEA | series:KXTOPSONGSPOTIFYRUNNERUP | Will Beauty and a Beat be the #2 most streamed Song on the  2026  | — | 0.0100 | 435.53 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYRUNNERUP-26-BIL | series:KXTOPSONGSPOTIFYRUNNERUP | Will Billie Jean be the #2 most streamed Song on the 2026 Spotify | — | 0.0100 | 629.53 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYRUNNERUP-26-BIR | series:KXTOPSONGSPOTIFYRUNNERUP | Will BIRDS OF A FEATHER be the #2 most streamed Song on the  2026 | — | 0.0100 | 1453.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYRUNNERUP-26-DTMF | series:KXTOPSONGSPOTIFYRUNNERUP | Will DtMF be the #2 most streamed Song on the  2026 Spotify Wrapp | — | 0.0100 | 975.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYRUNNERUP-26-GOL | series:KXTOPSONGSPOTIFYRUNNERUP | Will Golden be the #2 most streamed Song on the  2026 Spotify Wra | — | 0.0100 | 1265.00 | 0.9900 | — | — | 2026-11-09T17:05:31Z |
-| KXTOPSONGSPOTIFYRUNNERUP-26-MAN | series:KXTOPSONGSPOTIFYRUNNERUP | Will Manchild be the #2 most streamed Song on the  2026 Spotify W | — | 0.0100 | 1283.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-BAC | series:KXTOPSONGSPOTIFYUSA | Will back to friends be the #1 most streamed Song on the  2026 Sp | — | 0.0100 | 3686.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-BIR | series:KXTOPSONGSPOTIFYUSA | Will BIRDS OF A FEATHER be the #1 most streamed Song on the  2026 | — | 0.0100 | 3655.25 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-BRU | series:KXTOPSONGSPOTIFYUSA | Will I Just Might be the #1 most streamed Song on the  2026 Spoti | — | 0.0100 | 3638.01 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-DIE | series:KXTOPSONGSPOTIFYUSA | Will Die With A Smile be the #1 most streamed Song on the  2026 S | — | 0.0100 | 3327.17 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-DON | series:KXTOPSONGSPOTIFYUSA | Will Don’t Say You Love Me be the #1 most streamed Song on the  2 | — | 0.0100 | 4008.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-HARR | series:KXTOPSONGSPOTIFYUSA | Will American Girls be the #1 most streamed Song on the  2026 Spo | — | 0.0100 | 3889.65 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-LUT | series:KXTOPSONGSPOTIFYUSA | Will luther (with sza) be the #1 most streamed Song on the  2026  | — | 0.0100 | 2803.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-MAN | series:KXTOPSONGSPOTIFYUSA | Will Manchild be the #1 most streamed Song on the  2026 Spotify W | — | 0.0100 | 3945.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-MANI | series:KXTOPSONGSPOTIFYUSA | Will Man I Need be the #1 most streamed Song on the  2026 Spotify | — | 0.0100 | 2261.92 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
-| KXTOPSONGSPOTIFYUSA-26-SOD | series:KXTOPSONGSPOTIFYUSA | Will Soda Pop be the #1 most streamed Song on the  2026 Spotify W | — | 0.0100 | 3322.00 | 0.9900 | — | — | 2026-11-09T17:05:30Z |
+| KXBILLBOARDRUNNERUPALBUM-26NOV21-DAN | series:KXBILLBOARDRUNNERUPALBUM | Will DANDELION be #2 on the Billboard 200 during the week of Nov  | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPALBUM-26NOV21-HAB | series:KXBILLBOARDRUNNERUPALBUM | Will HABIBTI be #2 on the Billboard 200 during the week of Nov 21 | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPALBUM-26NOV21-HEA | series:KXBILLBOARDRUNNERUPALBUM | Will Heavy Is The Crown be #2 on the Billboard 200 during the wee | — | 0.0500 | 50.00 | 0.9500 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPALBUM-26NOV21-THEL | series:KXBILLBOARDRUNNERUPALBUM | Will The Life of a Showgirl be #2 on the Billboard 200 during the | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPALBUM-26NOV21-THR | series:KXBILLBOARDRUNNERUPALBUM | Will Thriller be #2 on the Billboard 200 during the week of Nov 2 | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPALBUM-26NOV21-YOU | series:KXBILLBOARDRUNNERUPALBUM | Will you seem pretty sad for a girl so in love be #2 on the Billb | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPALBUM-26NOV21-YOUN | series:KXBILLBOARDRUNNERUPALBUM | Will Young Manhood and Other Donatable Organs be #2 on the Billbo | — | 0.6000 | 10.00 | 0.4000 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPSONG-26NOV21-BAB | series:KXBILLBOARDRUNNERUPSONG | Will Babydoll be #2 on the Billboard Hot 100 during the week of N | — | 0.0100 | 750.00 | 0.9900 | — | — | 2026-11-09T18:00:57Z |
+| KXBILLBOARDRUNNERUPSONG-26NOV21-BOS | series:KXBILLBOARDRUNNERUPSONG | Will Boston be #2 on the Billboard Hot 100 during the week of Nov | 0.0200 | 0.9600 | 5.00 | 0.0400 | 0.9800 | 364.00 | 2026-11-09T18:00:57Z |
+| KXBILLBOARDRUNNERUPSONG-26NOV21-CHO | series:KXBILLBOARDRUNNERUPSONG | Will Choosin' Texas be #2 on the Billboard Hot 100 during the wee | 0.0100 | 0.1100 | 109.00 | 0.8900 | 0.9900 | 50.00 | 2026-11-09T18:00:57Z |
+| KXBILLBOARDRUNNERUPSONG-26NOV21-NIC | series:KXBILLBOARDRUNNERUPSONG | Will Nicole Kidman be #2 on the Billboard Hot 100 during the week | — | 0.0100 | 750.00 | 0.9900 | — | — | 2026-11-09T18:00:56Z |
+| KXBILLBOARDRUNNERUPSONG-26NOV21-RIS | series:KXBILLBOARDRUNNERUPSONG | Will Risk It All be #2 on the Billboard Hot 100 during the week o | — | 0.0100 | 800.00 | 0.9900 | — | — | 2026-11-09T18:00:57Z |
+| KXBILLBOARDRUNNERUPSONG-26NOV21-STU | series:KXBILLBOARDRUNNERUPSONG | Will stupid song be #2 on the Billboard Hot 100 during the week o | — | 0.0100 | 800.00 | 0.9900 | — | — | 2026-11-09T18:00:57Z |
+| KXBILLBOARDRUNNERUPSONG-26NOV21-THR | series:KXBILLBOARDRUNNERUPSONG | Will Thriller be #2 on the Billboard Hot 100 during the week of N | — | 0.0100 | 400.00 | 0.9900 | — | — | 2026-11-09T18:00:57Z |
+| KXOSCARNOMSPLAY-27-CLU | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.5800 | 0.6100 | 102.09 | 0.3900 | 0.4200 | 1.00 | 2026-11-09T18:00:55Z |
+| KXOSCARNOMSPLAY-27-DIG | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.1900 | 0.2000 | 10.62 | 0.8000 | 0.8100 | 117.85 | 2026-11-09T18:00:55Z |
+| KXOSCARNOMSPLAY-27-DRA | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.0300 | 0.0800 | 189.14 | 0.9200 | 0.9700 | 214.00 | 2026-11-09T18:00:55Z |
+| KXOSCARNOMSPLAY-27-ELS | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.3500 | 0.4100 | 5.00 | 0.5900 | 0.6500 | 5.00 | 2026-11-09T18:00:55Z |
+| KXOSCARNOMSPLAY-27-FJO | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.4700 | 0.4800 | 294.76 | 0.5200 | 0.5300 | 14.00 | 2026-11-09T18:00:55Z |
+| KXOSCARNOMSPLAY-27-INV | series:KXOSCARNOMSPLAY | 2027 Best Original Screenplay Oscar nominations? | 0.0300 | 0.0700 | 2.00 | 0.9300 | 0.9700 | 14.00 | 2026-11-09T18:00:55Z |
+| KXPERFORMSUPERBOWL-27-CAMR | series:KXPERFORMSUPERBOWL | Will Cam'ron perform at the 2027 Pro Football Championship Halfti | 0.0100 | 0.2600 | 227.00 | 0.7400 | 0.9900 | 1000.00 | 2026-11-09T18:00:55Z |
+| KXPERFORMSUPERBOWL-27-DRE | series:KXPERFORMSUPERBOWL | Will The-Dream perform at the 2027 Pro Football Championship Half | 0.0100 | 0.2700 | 227.00 | 0.7300 | 0.9900 | 1000.00 | 2026-11-09T18:00:55Z |
+| KXPERFORMSUPERBOWL-27-JAD | series:KXPERFORMSUPERBOWL | Will Jadakiss perform at the 2027 Pro Football Championship Halft | — | 0.3400 | 222.00 | 0.6600 | — | — | 2026-11-09T18:00:55Z |
+| KXPERFORMSUPERBOWL-27B-JOJ | series:KXPERFORMSUPERBOWL | Who will perform at the 2027 Pro Football Championship Halftime S | — | 0.1700 | 4.45 | 0.8300 | — | — | 2026-11-09T18:00:55Z |
+| KXPERFORMSUPERBOWL-27B-KEN | series:KXPERFORMSUPERBOWL | Who will perform at the 2027 Pro Football Championship Halftime S | 0.0300 | 0.2200 | 5.00 | 0.7800 | 0.9700 | 5.00 | 2026-11-09T18:00:55Z |
+| KXPERFORMSUPERBOWL-27B-YOU | series:KXPERFORMSUPERBOWL | Who will perform at the 2027 Pro Football Championship Halftime S | — | 0.1400 | 222.00 | 0.8600 | — | — | 2026-11-09T18:00:55Z |
+| KXPS6-26-DEC31 | series:KXPS6 | PS6 announced by 2026? | 0.0200 | 0.0300 | 52.25 | 0.9700 | 0.9800 | 5173.78 | 2026-11-09T18:00:55Z |
+| KXRANKLISTSONGTOP10-26NOV21-JAD | series:KXRANKLISTSONGTOP10 | Will JADED be Top 10 on the Billboard Hot 100 during the week of  | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T18:00:55Z |
+| KXRANKLISTSONGTOP10-26NOV21-LIE | series:KXRANKLISTSONGTOP10 | Will Lies be Top 10 on the Billboard Hot 100 during the week of N | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T18:00:55Z |
+| KXRANKLISTSONGTOP10-26NOV21-LOV | series:KXRANKLISTSONGTOP10 | Will LOVING LIFE AGAIN be Top 10 on the Billboard Hot 100 during  | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T18:00:55Z |
+| KXRANKLISTSONGTOP10-26NOV21-MID | series:KXRANKLISTSONGTOP10 | Will Midnight Sun be Top 10 on the Billboard Hot 100 during the w | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T18:00:56Z |
+| KXRANKLISTSONGTOP10-26NOV21-NIC | series:KXRANKLISTSONGTOP10 | Will Nicole Kidman be Top 10 on the Billboard Hot 100 during the  | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T18:00:56Z |
+| KXRANKLISTSONGTOP10-26NOV21-PAT | series:KXRANKLISTSONGTOP10 | Will Patient Zero be Top 10 on the Billboard Hot 100 during the w | — | 0.9700 | 5.00 | 0.0300 | — | — | 2026-11-09T18:00:56Z |
+| KXRANKLISTSONGTOP10-26NOV21-RIS | series:KXRANKLISTSONGTOP10 | Will Risk It All be Top 10 on the Billboard Hot 100 during the we | — | 0.2500 | 100.00 | 0.7500 | — | — | 2026-11-09T18:00:56Z |
+| KXRT-ANG-90 | series:KXRT | The Angry Birds Movie 3 Rotten Tomatoes score? | 0.0200 | 0.0300 | 312089.78 | 0.9700 | 0.9800 | 797627.00 | 2026-11-09T18:00:51Z |
+| KXRT-AVE-95 | series:KXRT | Avengers: Doomsday Rotten Tomatoes score? | 0.0800 | 0.0900 | 30333.42 | 0.9100 | 0.9200 | 67647.72 | 2026-11-09T18:00:51Z |
+| KXRT-DUNE-65 | series:KXRT | Dune: Part Three Rotten Tomatoes score? | 0.9700 | 0.9800 | 1106090.69 | 0.0200 | 0.0300 | 175626.00 | 2026-11-09T18:00:51Z |
+| KXRT-EBE-70 | series:KXRT | Ebenezer Rotten Tomatoes score? | 0.0700 | 0.0800 | 4424.00 | 0.9200 | 0.9300 | 14808.00 | 2026-11-09T18:00:51Z |
+| KXRT-EBE-80 | series:KXRT | Ebenezer Rotten Tomatoes score? | 0.0300 | 0.0400 | 6956.00 | 0.9600 | 0.9700 | 7762.00 | 2026-11-09T18:00:51Z |
+| KXRT-FOC-50 | series:KXRT | Focker-In-Law Rotten Tomatoes score? | 0.7300 | 0.7400 | 550.00 | 0.2600 | 0.2700 | 55.00 | 2026-11-09T18:00:51Z |
+| KXRT-HEX-60 | series:KXRT | Hexed Rotten Tomatoes score? | 0.5800 | 0.5900 | 38887.66 | 0.4100 | 0.4200 | 415.42 | 2026-11-09T18:00:51Z |
+| KXRT-HOWT-45 | series:KXRT | How to Rob a Bank Rotten Tomatoes score? | 0.7100 | 0.7300 | 5566.56 | 0.2700 | 0.2900 | 39.00 | 2026-11-09T18:00:51Z |
+| KXRT-HOWT-65 | series:KXRT | How to Rob a Bank Rotten Tomatoes score? | 0.2100 | 0.2200 | 19.00 | 0.7800 | 0.7900 | 728.00 | 2026-11-09T18:00:51Z |
+| KXRT-HUN-75 | series:KXRT | The Hunger Games: Sunrise on the Reaping Rotten Tomatoes score? | 0.6000 | 0.6200 | 1626.50 | 0.3800 | 0.4000 | 8917.38 | 2026-11-09T18:00:51Z |
+| KXRT-IPL-55 | series:KXRT | I Play Rocky Rotten Tomatoes score? | 0.9900 | — | — | — | 0.0100 | 89218.00 | 2026-11-09T18:00:51Z |
+| KXRT-JUM-90 | series:KXRT | Jumanji: Open World Rotten Tomatoes score? | 0.0300 | 0.0400 | 295601.84 | 0.9600 | 0.9700 | 625134.00 | 2026-11-09T18:00:51Z |
+| KXRT-VIO-90 | series:KXRT | Violent Night 2 Rotten Tomatoes score? | 0.0400 | 0.0500 | 30190.17 | 0.9500 | 0.9600 | 574872.00 | 2026-11-09T18:00:51Z |
+| KXRT-WER-45 | series:KXRT | Werwulf Rotten Tomatoes score? | 0.9700 | 0.9800 | 1358333.00 | 0.0200 | 0.0300 | 277553.00 | 2026-11-09T18:00:51Z |
+| KXSTEAMTOPSELLER-26NOV10-CRIM | series:KXSTEAMTOPSELLER | Will Crimson Desert Enhanced: Charting the Unknown be #1 on Steam | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:52Z |
+| KXSTEAMTOPSELLER-26NOV10-DEA | series:KXSTEAMTOPSELLER | Will Dead by Daylight be #1 on Steam's Weekly Top Sellers - Top 1 | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:52Z |
+| KXSTEAMTOPSELLER-26NOV10-ENS | series:KXSTEAMTOPSELLER | Will Enshrouded be #1 on Steam's Weekly Top Sellers - Top 100 pro | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:52Z |
+| KXSTEAMTOPSELLER-26NOV10-FIN | series:KXSTEAMTOPSELLER | Will FINAL FANTASY RESONANCE be #1 on Steam's Weekly Top Sellers  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:52Z |
+| KXSTEAMTOPSELLER-26NOV10-MAP | series:KXSTEAMTOPSELLER | Will MapleStory be #1 on Steam's Weekly Top Sellers - Top 100 pro | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:52Z |
+| KXSTEAMTOPSELLER-26NOV10-MAR | series:KXSTEAMTOPSELLER | Will Marvel Rivals be #1 on Steam's Weekly Top Sellers - Top 100  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:52Z |
+| KXSTEAMTOPSELLER-26NOV10-MOO | series:KXSTEAMTOPSELLER | Will Moon Sweepers be #1 on Steam's Weekly Top Sellers - Top 100  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:53Z |
+| KXSTEAMTOPSELLER-26NOV10-PRO | series:KXSTEAMTOPSELLER | Will Probably Stolen - Cyberpunk Shopkeeper Sim be #1 on Steam's  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:53Z |
+| KXSTEAMTOPSELLER-26NOV10-RUS | series:KXSTEAMTOPSELLER | Will Rust be #1 on Steam's Weekly Top Sellers - Top 100 products  | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:53Z |
+| KXSTEAMTOPSELLER-26NOV10-WAR | series:KXSTEAMTOPSELLER | Will Warframe be #1 on Steam's Weekly Top Sellers - Top 100 produ | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:53Z |
+| KXSTEAMTOPSELLER-26NOV10-WARD | series:KXSTEAMTOPSELLER | Will WARDOGS be #1 on Steam's Weekly Top Sellers - Top 100 produc | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:53Z |
+| KXSTEAMTOPSELLER-26NOV10-WART | series:KXSTEAMTOPSELLER | Will War Thunder be #1 on Steam's Weekly Top Sellers - Top 100 pr | — | 0.0500 | 100.00 | 0.9500 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPALBUM-26NOV21-DAN | series:KXTOPALBUM | Will DANDELION be #1 on the Billboard 200 during the week of Nov  | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-HAB | series:KXTOPALBUM | Will HABIBTI be #1 on the Billboard 200 during the week of Nov 21 | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-HEA | series:KXTOPALBUM | Will Heavy Is The Crown be #1 on the Billboard 200 during the wee | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-ICE | series:KXTOPALBUM | Will ICEMAN be #1 on the Billboard 200 during the week of Nov 21, | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-IMT | series:KXTOPALBUM | Will I'm The Problem be #1 on the Billboard 200 during the week o | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-ONE | series:KXTOPALBUM | Will One Thing At A Time be #1 on the Billboard 200 during the we | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-SOS | series:KXTOPALBUM | Will SOS be #1 on the Billboard 200 during the week of Nov 21, 20 | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-STI | series:KXTOPALBUM | Will Stick Season be #1 on the Billboard 200 during the week of N | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-THE | series:KXTOPALBUM | Will The Black Parade be #1 on the Billboard 200 during the week  | — | 0.0300 | 100.00 | 0.9700 | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-THEA | series:KXTOPALBUM | Will The Art of Loving be #1 on the Billboard 200 during the week | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-THEG | series:KXTOPALBUM | Will The Great Divide be #1 on the Billboard 200 during the week  | — | — | — | — | — | — | 2026-11-09T18:00:52Z |
+| KXTOPALBUM-26NOV21-THR | series:KXTOPALBUM | Will Thriller be #1 on the Billboard 200 during the week of Nov 2 | — | 0.1500 | 100.00 | 0.8500 | — | — | 2026-11-09T18:00:51Z |
+| KXTOPALBUM-26NOV21-YOU | series:KXTOPALBUM | Will you seem pretty sad for a girl so in love be #1 on the Billb | — | — | — | — | — | — | 2026-11-09T18:00:51Z |
+| KXTOPALBUM-26NOV21-YOUN | series:KXTOPALBUM | Will Young Manhood and Other Donatable Organs be #1 on the Billbo | — | 0.8300 | 1000.00 | 0.1700 | — | — | 2026-11-09T18:00:52Z |
+| KXTOPSONG-26NOV21-BAB | series:KXTOPSONG | Will Babydoll be #1 on the Billboard Hot 100 during the week of N | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T18:00:56Z |
+| KXTOPSONG-26NOV21-BBY | series:KXTOPSONG | Will BbY WOW be #1 on the Billboard Hot 100 during the week of No | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T18:00:56Z |
+| KXTOPSONG-26NOV21-BEE | series:KXTOPSONG | Will Been By Now be #1 on the Billboard Hot 100 during the week o | — | 0.0100 | 716.00 | 0.9900 | — | — | 2026-11-09T18:00:56Z |
+| KXTOPSONG-26NOV21-CHO | series:KXTOPSONG | Will Choosin' Texas be #1 on the Billboard Hot 100 during the wee | 0.9100 | 0.9600 | 34.00 | 0.0400 | 0.0900 | 104.28 | 2026-11-09T18:00:56Z |
+| KXTOPSONG-26NOV21-EXP | series:KXTOPSONG | Will expectations be #1 on the Billboard Hot 100 during the week  | — | 0.0100 | 766.00 | 0.9900 | — | — | 2026-11-09T18:00:56Z |
+| KXTOPSONG-26NOV21-HAT | series:KXTOPSONG | Will hate that i made you love me be #1 on the Billboard Hot 100  | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T18:00:56Z |
+| KXTOPSONG-26NOV21-THR | series:KXTOPSONG | Will Thriller be #1 on the Billboard Hot 100 during the week of N | — | 0.0100 | 816.00 | 0.9900 | — | — | 2026-11-09T18:00:56Z |
+| KXTOPSONGRUNNERUPUSA-26-APT | series:KXTOPSONGRUNNERUPUSA | Will APT. be the #2 most streamed Song on the  2026 Spotify Wrapp | — | 0.0100 | 1773.00 | 0.9900 | — | — | 2026-11-09T18:00:55Z |
+| KXTOPSONGRUNNERUPUSA-26-BAC | series:KXTOPSONGRUNNERUPUSA | Will back to friends be the #2 most streamed Song on the  2026 Sp | — | 0.0100 | 1622.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGRUNNERUPUSA-26-DIE | series:KXTOPSONGRUNNERUPUSA | Will Die With A Smile be the #2 most streamed Song on the  2026 S | — | 0.0100 | 1622.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGRUNNERUPUSA-26-END | series:KXTOPSONGRUNNERUPUSA | Will End of Beginning be the #2 most streamed Song on the  2026 S | — | 0.0100 | 1617.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGRUNNERUPUSA-26-MAN | series:KXTOPSONGRUNNERUPUSA | Will Manchild be the #2 most streamed Song on the  2026 Spotify W | — | 0.0100 | 1622.00 | 0.9900 | — | — | 2026-11-09T18:00:55Z |
+| KXTOPSONGRUNNERUPUSA-26-SOD | series:KXTOPSONGRUNNERUPUSA | Will Soda Pop be the #2 most streamed Song on the  2026 Spotify W | — | 0.0100 | 1728.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGRUNNERUPUSA-26-YOU | series:KXTOPSONGRUNNERUPUSA | Will Your Idol be the #2 most streamed Song on the  2026 Spotify  | — | 0.0100 | 1622.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-BEA | series:KXTOPSONGSPOTIFY | Will Beauty and a Beat be the #1 most streamed Song on the  2026  | — | 0.0100 | 600.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-DOM | series:KXTOPSONGSPOTIFY | Will Babydoll be the #1 most streamed Song on the  2026 Spotify W | 0.0900 | 0.1100 | 17.39 | 0.8900 | 0.9100 | 24.00 | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-DON | series:KXTOPSONGSPOTIFY | Will Don’t Say You Love Me be the #1 most streamed Song on the  2 | — | 0.0100 | 3230.00 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFY-26-DTMF | series:KXTOPSONGSPOTIFY | Will DtMF be the #1 most streamed Song on the  2026 Spotify Wrapp | — | 0.0100 | 923.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-END | series:KXTOPSONGSPOTIFY | Will End of Beginning be the #1 most streamed Song on the  2026 S | 0.8000 | 0.8400 | 102.68 | 0.1600 | 0.2000 | 17.54 | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-HAR | series:KXTOPSONGSPOTIFY | Will American Girls be the #1 most streamed Song on the  2026 Spo | — | 0.0100 | 3195.14 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFY-26-RAI | series:KXTOPSONGSPOTIFY | Will Raindance (Feat. Tems) be the #1 most streamed Song on the   | — | 0.0100 | 1899.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-SOD | series:KXTOPSONGSPOTIFY | Will Soda Pop be the #1 most streamed Song on the  2026 Spotify W | — | 0.0100 | 3367.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-SWI | series:KXTOPSONGSPOTIFY | Will SWIM be the #1 most streamed Song on the  2026 Spotify Wrapp | — | 0.0200 | 128.42 | 0.9800 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFY-26-YOU | series:KXTOPSONGSPOTIFY | Will Your Idol be the #1 most streamed Song on the  2026 Spotify  | — | 0.0100 | 3397.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYRUNNERUP-26-BAC | series:KXTOPSONGSPOTIFYRUNNERUP | Will back to friends be the #2 most streamed Song on the  2026 Sp | — | 0.0100 | 128.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYRUNNERUP-26-BIR | series:KXTOPSONGSPOTIFYRUNNERUP | Will BIRDS OF A FEATHER be the #2 most streamed Song on the  2026 | — | 0.0100 | 1453.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYRUNNERUP-26-DIE | series:KXTOPSONGSPOTIFYRUNNERUP | Will Die With A Smile be the #2 most streamed Song on the  2026 S | — | 0.0100 | 1291.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYRUNNERUP-26-DTMF | series:KXTOPSONGSPOTIFYRUNNERUP | Will DtMF be the #2 most streamed Song on the  2026 Spotify Wrapp | — | 0.0100 | 975.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYRUNNERUP-26-GOL | series:KXTOPSONGSPOTIFYRUNNERUP | Will Golden be the #2 most streamed Song on the  2026 Spotify Wra | — | 0.0100 | 1265.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYRUNNERUP-26-MAN | series:KXTOPSONGSPOTIFYRUNNERUP | Will Manchild be the #2 most streamed Song on the  2026 Spotify W | — | 0.0100 | 1283.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYRUNNERUP-26-ORD | series:KXTOPSONGSPOTIFYRUNNERUP | Will Ordinary be the #2 most streamed Song on the  2026 Spotify W | — | 0.0100 | 1275.00 | 0.9900 | — | — | 2026-11-09T18:00:54Z |
+| KXTOPSONGSPOTIFYUSA-26-APT | series:KXTOPSONGSPOTIFYUSA | Will APT. be the #1 most streamed Song on the  2026 Spotify Wrapp | — | 0.0100 | 4599.17 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-BAC | series:KXTOPSONGSPOTIFYUSA | Will back to friends be the #1 most streamed Song on the  2026 Sp | — | 0.0100 | 3686.00 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-BIR | series:KXTOPSONGSPOTIFYUSA | Will BIRDS OF A FEATHER be the #1 most streamed Song on the  2026 | — | 0.0100 | 3655.25 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-BRU | series:KXTOPSONGSPOTIFYUSA | Will I Just Might be the #1 most streamed Song on the  2026 Spoti | — | 0.0100 | 3638.00 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-DOM | series:KXTOPSONGSPOTIFYUSA | Will Babydoll be the #1 most streamed Song on the  2026 Spotify W | — | 0.0100 | 4184.00 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-DON | series:KXTOPSONGSPOTIFYUSA | Will Don’t Say You Love Me be the #1 most streamed Song on the  2 | — | 0.0100 | 4008.00 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-HARR | series:KXTOPSONGSPOTIFYUSA | Will American Girls be the #1 most streamed Song on the  2026 Spo | — | 0.0100 | 3889.65 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-MAN | series:KXTOPSONGSPOTIFYUSA | Will Manchild be the #1 most streamed Song on the  2026 Spotify W | — | 0.0100 | 3945.00 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-MANI | series:KXTOPSONGSPOTIFYUSA | Will Man I Need be the #1 most streamed Song on the  2026 Spotify | — | 0.0100 | 2261.92 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
+| KXTOPSONGSPOTIFYUSA-26-SOD | series:KXTOPSONGSPOTIFYUSA | Will Soda Pop be the #1 most streamed Song on the  2026 Spotify W | — | 0.0100 | 3322.00 | 0.9900 | — | — | 2026-11-09T18:00:53Z |
 
 Full machine-readable data: [`latest.json`](latest.json).
