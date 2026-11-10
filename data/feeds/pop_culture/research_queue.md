@@ -1,26 +1,23 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-10T22:17:09Z
+Feed generated (UTC): 2026-11-10T23:01:15Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-HOWT-65` | 16 | 11 / 12 | 88 / 89 |
+| 1 | `KXRT-HUN-77` | 15 | 40 / 42 | 58 / 60 |
 | 2 | `KXPS6-26-DEC31` | 14 | 3 / 4 | 96 / 97 |
-| 3 | `KXOSCARNOMSPLAY-27-TEE` | 12 | 5 / 6 | 94 / 95 |
-| 4 | `KXTOPSONGSPOTIFY-26-END` | 11 | 82 / 85 | 15 / 18 |
-| 5 | `KXTOPSONGSPOTIFYUSA-26-ELL` | 11 | 94 / 97 | 3 / 6 |
-| 6 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
-| 7 | `KXBILLBOARDRUNNERUPSONG-26NOV21-BOS` | 8 | 36 / 95 | 5 / 64 |
-| 8 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 8 | 10 / 95 | 5 / 90 |
-| 9 | `KXPERFORMSUPERBOWL-27B-TRA` | 4 | 1 / 27 | 73 / 99 |
-| 10 | `KXRT-EBE-25` | 15 | 89 / 92 | 8 / 11 |
-| 11 | `KXOSCARNOMSPLAY-27-DEB` | 9 | 91 / 95 | 5 / 9 |
-| 12 | `KXTOPSONGSPOTIFY-26-DOM` | 9 | 10 / 12 | 88 / 90 |
-| 13 | `KXTOPSONGSPOTIFYUSA-26-DTMF` | 10 | 1 / 3 | 97 / 99 |
-| 14 | `KXBILLBOARDRUNNERUPSONG-26NOV21-ROC` | 6 | 1 / 69 | 31 / 99 |
-| 15 | `KXSTEAMTOPSELLER-26NOV17-COU` | 8 | 1 / 90 | 10 / 99 |
-| 16 | `KXRT-AVE-90` | 13 | 28 / 29 | 71 / 72 |
-| 17 | `KXRT-FOC-25` | 13 | 97 / 98 | 2 / 3 |
-| 18 | `KXRT-HEX-45` | 11 | 80 / 81 | 19 / 20 |
+| 3 | `KXPERFORMSUPERBOWL-27B-ELL` | 12 | 9 / 10 | 90 / 91 |
+| 4 | `KXOSCARNOMSPLAY-27-DIG` | 11 | 19 / 20 | 80 / 81 |
+| 5 | `KXTOPSONGSPOTIFY-26-END` | 11 | 82 / 85 | 15 / 18 |
+| 6 | `KXTOPSONGSPOTIFYUSA-26-ELL` | 11 | 94 / 97 | 3 / 6 |
+| 7 | `KXSTEAMTOPSELLER-26NOV17-COU` | 8 | 1 / 90 | 10 / 99 |
+| 8 | `KXRT-FOC-90` | 15 | 2 / 3 | 97 / 98 |
+| 9 | `KXPERFORMSUPERBOWL-27-SWI` | 5 | 28 / 58 | 42 / 72 |
+| 10 | `KXOSCARNOMSPLAY-27-DEB` | 9 | 92 / 96 | 4 / 8 |
+| 11 | `KXTOPSONGSPOTIFY-26-DOM` | 9 | 11 / 12 | 88 / 89 |
+| 12 | `KXTOPSONGSPOTIFYUSA-26-DTMF` | 10 | 1 / 3 | 97 / 99 |
+| 13 | `KXRT-HOWT-45` | 15 | 69 / 72 | 28 / 31 |
+| 14 | `KXRT-VIO-80` | 15 | 13 / 14 | 86 / 87 |
+| 15 | `KXRT-IPL-85` | 13 | 57 / 59 | 41 / 43 |
