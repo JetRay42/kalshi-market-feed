@@ -1,28 +1,26 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-12T21:25:18Z
+Feed generated (UTC): 2026-11-12T22:19:49Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-EBE-35` | 17 | 96 / 97 | 3 / 4 |
+| 1 | `KXRT-FOC-50` | 15 | 80 / 81 | 19 / 20 |
 | 2 | `KXSTEAMTOPSELLER-26NOV17-AIO` | 15 | 1 / 3 | 97 / 99 |
 | 3 | `KXPS6-26-DEC31` | 14 | 2 / 3 | 97 / 98 |
-| 4 | `KXOSCARNOMSPLAY-27-TEE` | 11 | 4 / 6 | 94 / 96 |
-| 5 | `KXTOPALBUM-26NOV21-FRE` | 11 | 86 / 91 | 9 / 14 |
-| 6 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 11 | 82 / 86 | 14 / 18 |
-| 7 | `KXTOPSONGSPOTIFYUSA-26-ELL` | 11 | 95 / 97 | 3 / 5 |
-| 8 | `KXTOPSONGSPOTIFY-26-SWI` | 10 | 1 / 2 | 98 / 99 |
-| 9 | `KXTOPSONG-26NOV28-CHO` | 8 | 71 / 98 | 2 / 29 |
-| 10 | `KXPERFORMSUPERBOWL-27-DRE` | 5 | 8 / 17 | 83 / 92 |
-| 11 | `KXRT-HOWT-40` | 17 | 27 / 28 | 72 / 73 |
-| 12 | `KXSTEAMTOPSELLER-26NOV17-BOD` | 14 | 2 / 5 | 95 / 98 |
-| 13 | `KXOSCARNOMSPLAY-27-DIG` | 11 | 24 / 25 | 75 / 76 |
-| 14 | `KXTOPALBUM-26NOV21-YOU` | 7 | 1 / 15 | 85 / 99 |
-| 15 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
-| 16 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
-| 17 | `KXPERFORMSUPERBOWL-27-JAD` | 5 | 2 / 11 | 89 / 98 |
-| 18 | `KXRT-FOC-50` | 15 | 80 / 81 | 19 / 20 |
-| 19 | `KXRT-HUN-87` | 15 | 8 / 9 | 91 / 92 |
-| 20 | `KXRT-HEX-65` | 15 | 25 / 26 | 74 / 75 |
+| 4 | `KXTOPALBUM-26NOV21-FRE` | 11 | 86 / 91 | 9 / 14 |
+| 5 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 11 | 82 / 86 | 14 / 18 |
+| 6 | `KXTOPSONGSPOTIFYUSA-26-ELL` | 10 | 95 / 97 | 3 / 5 |
+| 7 | `KXOSCARNOMSPLAY-27-CLU` | 8 | 57 / 61 | 39 / 43 |
+| 8 | `KXTOPSONG-26NOV28-CHO` | 8 | 71 / 98 | 2 / 29 |
+| 9 | `KXPERFORMSUPERBOWL-27-JAD` | 5 | 2 / 11 | 89 / 98 |
+| 10 | `KXRT-HUN-80` | 15 | 32 / 33 | 67 / 68 |
+| 11 | `KXSTEAMTOPSELLER-26NOV17-BOD` | 14 | 1 / 5 | 95 / 99 |
+| 12 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
+| 13 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
+| 14 | `KXOSCARNOMSPLAY-27-DEB` | 8 | 91 / 93 | 7 / 9 |
+| 15 | `KXPERFORMSUPERBOWL-27-MAL` | 5 | 2 / 11 | 89 / 98 |
+| 16 | `KXRT-VIO-60` | 15 | 52 / 53 | 47 / 48 |
+| 17 | `KXRT-HOWT-35` | 14 | 75 / 78 | 22 / 25 |
+| 18 | `KXRT-ANG-80` | 14 | 5 / 6 | 94 / 95 |
