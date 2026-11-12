@@ -1,22 +1,26 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-12T06:24:07Z
+Feed generated (UTC): 2026-11-12T07:51:25Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-HOWT-45` | 17 | 6 / 7 | 93 / 94 |
+| 1 | `KXRT-HOWT-55` | 17 | 1 / 2 | 98 / 99 |
 | 2 | `KXPS6-26-DEC31` | 14 | 3 / 4 | 96 / 97 |
-| 3 | `KXTOPALBUM-26NOV21-YOU` | 11 | 1 / 6 | 94 / 99 |
-| 4 | `KXOSCARNOMSPLAY-27-BEH` | 9 | 16 / 17 | 83 / 84 |
-| 5 | `KXBILLBOARDRUNNERUPSONG-26NOV28-PAT` | 8 | 1 / 84 | 16 / 99 |
-| 6 | `KXTOPSONG-26NOV28-NIC` | 8 | 1 / 88 | 12 / 99 |
-| 7 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 8 | 13 / 16 | 84 / 87 |
-| 8 | `KXRT-EBE-20` | 17 | 97 / 99 | 1 / 3 |
-| 9 | `KXOSCARNOMSPLAY-27-FJO` | 7 | 45 / 48 | 52 / 55 |
-| 10 | `KXBILLBOARDRUNNERUPSONG-26NOV28-BBY` | 6 | 2 / 86 | 14 / 98 |
-| 11 | `KXTOPSONG-26NOV28-LOV` | 5 | 2 / 88 | 12 / 98 |
-| 12 | `KXRT-FOC-35` | 15 | 94 / 95 | 5 / 6 |
-| 13 | `KXRT-HUN-77` | 15 | 37 / 38 | 62 / 63 |
-| 14 | `KXRT-AVE-95` | 14 | 8 / 9 | 91 / 92 |
+| 3 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 14 | 71 / 75 | 25 / 29 |
+| 4 | `KXOSCARNOMSPLAY-27-DIG` | 12 | 24 / 25 | 75 / 76 |
+| 5 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
+| 6 | `KXTOPALBUM-26NOV21-FRE` | 8 | 81 / 91 | 9 / 19 |
+| 7 | `KXTOPSONG-26NOV28-BOS` | 8 | 1 / 87 | 13 / 99 |
+| 8 | `KXBILLBOARDRUNNERUPSONG-26NOV28-BEE` | 6 | 2 / 86 | 14 / 98 |
+| 9 | `KXPERFORMSUPERBOWL-27B-CHAP` | 4 | 2 / 17 | 83 / 98 |
+| 10 | `KXRT-FOC-30` | 15 | 96 / 97 | 3 / 4 |
+| 11 | `KXOSCARNOMSPLAY-27-FOR` | 10 | 4 / 9 | 91 / 96 |
+| 12 | `KXTOPALBUM-26NOV21-YOU` | 8 | 1 / 6 | 94 / 99 |
+| 13 | `KXTOPSONG-26NOV28-JAD` | 8 | 1 / 87 | 13 / 99 |
+| 14 | `KXBILLBOARDRUNNERUPSONG-26NOV28-BOS` | 6 | 2 / 88 | 12 / 98 |
+| 15 | `KXPERFORMSUPERBOWL-27B-KEN` | 3 | 4 / 20 | 80 / 96 |
+| 16 | `KXRT-HUN-85` | 15 | 12 / 13 | 87 / 88 |
+| 17 | `KXRT-EBE-35` | 14 | 72 / 74 | 26 / 28 |
+| 18 | `KXRT-FUR-90` | 14 | 15 / 16 | 84 / 85 |
