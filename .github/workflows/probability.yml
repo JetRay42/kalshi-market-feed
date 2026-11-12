@@ -1,0 +1,41 @@
+name: Research independent sports and weather probabilities
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Refresh Kalshi public market quotes"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kalshi-probability-research
+  cancel-in-progress: false
+
+jobs:
+  model:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run read-only probability research
+        env:
+          THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
+        run: python probability_engine.py --config probability_config.json --data-root data --sports-evidence sports_benchmarks.json
+      - name: Publish estimates and calibration caches
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/probabilities/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh independent probability research estimates'
+            git pull --rebase origin main
+            git push origin main
+          fi
