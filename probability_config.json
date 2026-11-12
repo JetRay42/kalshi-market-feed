@@ -1,0 +1,60 @@
+{
+  "max_bookmaker_age_minutes": 45,
+  "min_independent_bookmakers": 2,
+  "weather_calibration_days": 100,
+  "weather_locations": [
+    {
+      "code": "MSP",
+      "name": "Minneapolis (MSP)",
+      "settlement_code": "CLIMSP",
+      "lat": 44.8848,
+      "lon": -93.2223,
+      "timezone": "America/Chicago"
+    },
+    {
+      "code": "MDW",
+      "name": "Chicago Midway",
+      "settlement_code": "CLIMDW",
+      "lat": 41.7868,
+      "lon": -87.7522,
+      "timezone": "America/Chicago"
+    },
+    {
+      "code": "ATL",
+      "name": "Atlanta (ATL)",
+      "settlement_code": "CLIATL",
+      "lat": 33.6407,
+      "lon": -84.4277,
+      "timezone": "America/New_York"
+    },
+    {
+      "code": "DEN",
+      "name": "Denver (DEN)",
+      "settlement_code": "CLIDEN",
+      "lat": 39.8561,
+      "lon": -104.6737,
+      "timezone": "America/Denver"
+    },
+    {
+      "code": "PHX",
+      "name": "Phoenix (PHX)",
+      "settlement_code": "CLIPHX",
+      "lat": 33.4342,
+      "lon": -112.0116,
+      "timezone": "America/Phoenix"
+    },
+    {
+      "code": "DTW",
+      "name": "Detroit (DTW)",
+      "settlement_code": "CLIDTW",
+      "lat": 42.2124,
+      "lon": -83.3534,
+      "timezone": "America/Detroit"
+    }
+  ],
+  "max_odds_api_requests_per_month": 120,
+  "enable_paid_player_props": false,
+  "max_prop_events_per_sport": 2,
+  "max_odds_api_requests_per_day": 4,
+  "min_odds_refresh_hours": 12
+}
