@@ -1,26 +1,27 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-12T07:51:25Z
+Feed generated (UTC): 2026-11-12T08:47:54Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-HOWT-55` | 17 | 1 / 2 | 98 / 99 |
+| 1 | `KXRT-HUN-83` | 15 | 17 / 18 | 82 / 83 |
 | 2 | `KXPS6-26-DEC31` | 14 | 3 / 4 | 96 / 97 |
-| 3 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 14 | 71 / 75 | 25 / 29 |
-| 4 | `KXOSCARNOMSPLAY-27-DIG` | 12 | 24 / 25 | 75 / 76 |
-| 5 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
-| 6 | `KXTOPALBUM-26NOV21-FRE` | 8 | 81 / 91 | 9 / 19 |
-| 7 | `KXTOPSONG-26NOV28-BOS` | 8 | 1 / 87 | 13 / 99 |
-| 8 | `KXBILLBOARDRUNNERUPSONG-26NOV28-BEE` | 6 | 2 / 86 | 14 / 98 |
-| 9 | `KXPERFORMSUPERBOWL-27B-CHAP` | 4 | 2 / 17 | 83 / 98 |
-| 10 | `KXRT-FOC-30` | 15 | 96 / 97 | 3 / 4 |
-| 11 | `KXOSCARNOMSPLAY-27-FOR` | 10 | 4 / 9 | 91 / 96 |
-| 12 | `KXTOPALBUM-26NOV21-YOU` | 8 | 1 / 6 | 94 / 99 |
-| 13 | `KXTOPSONG-26NOV28-JAD` | 8 | 1 / 87 | 13 / 99 |
-| 14 | `KXBILLBOARDRUNNERUPSONG-26NOV28-BOS` | 6 | 2 / 88 | 12 / 98 |
-| 15 | `KXPERFORMSUPERBOWL-27B-KEN` | 3 | 4 / 20 | 80 / 96 |
-| 16 | `KXRT-HUN-85` | 15 | 12 / 13 | 87 / 88 |
-| 17 | `KXRT-EBE-35` | 14 | 72 / 74 | 26 / 28 |
-| 18 | `KXRT-FUR-90` | 14 | 15 / 16 | 84 / 85 |
+| 3 | `KXTOPSONGSPOTIFYUSA-26-ELL` | 13 | 94 / 96 | 4 / 6 |
+| 4 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 10 | 71 / 92 | 8 / 29 |
+| 5 | `KXTOPALBUM-26NOV21-FRE` | 9 | 50 / 96 | 4 / 50 |
+| 6 | `KXOSCARNOMSPLAY-27-FOR` | 8 | 1 / 9 | 91 / 99 |
+| 7 | `KXTOPSONG-26NOV28-STU` | 8 | 1 / 90 | 10 / 99 |
+| 8 | `KXBILLBOARDRUNNERUPSONG-26NOV28-CHO` | 6 | 1 / 97 | 3 / 99 |
+| 9 | `KXPERFORMSUPERBOWL-27B-CHAP` | 3 | 1 / 17 | 83 / 99 |
+| 10 | `KXRT-HOWT-40` | 14 | 49 / 51 | 49 / 51 |
+| 11 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
+| 12 | `KXTOPALBUM-26NOV21-YOU` | 8 | 1 / 93 | 7 / 99 |
+| 13 | `KXOSCARNOMSPLAY-27-OBS` | 7 | 52 / 60 | 40 / 48 |
+| 14 | `KXTOPSONG-26NOV28-BBY` | 8 | 1 / 90 | 10 / 99 |
+| 15 | `KXBILLBOARDRUNNERUPSONG-26NOV28-JAD` | 6 | 1 / 97 | 3 / 99 |
+| 16 | `KXPERFORMSUPERBOWL-27B-KEN` | 3 | 4 / 21 | 79 / 96 |
+| 17 | `KXRT-EBE-55` | 12 | 11 / 22 | 78 / 89 |
+| 18 | `KXRT-FOC-65` | 12 | 41 / 44 | 56 / 59 |
+| 19 | `KXRT-AVE-65` | 12 | 82 / 83 | 17 / 18 |
