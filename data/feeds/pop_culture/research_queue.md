@@ -1,26 +1,28 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-13T17:50:04Z
+Feed generated (UTC): 2026-11-13T18:32:30Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 16 | 75 / 76 | 24 / 25 |
-| 2 | `KXRT-HEX-60` | 15 | 43 / 44 | 56 / 57 |
+| 1 | `KXRT-HUN-75` | 17 | 43 / 44 | 56 / 57 |
+| 2 | `KXTOPSONGSPOTIFY-26-END` | 14 | 81 / 82 | 18 / 19 |
 | 3 | `KXPS6-26-DEC31` | 13 | 2 / 3 | 97 / 98 |
-| 4 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 12 | 12 / 13 | 87 / 88 |
-| 5 | `KXTOPSONGSPOTIFYRUNNERUP-26-BAB` | 12 | 81 / 83 | 17 / 19 |
-| 6 | `KXOSCARNOMSPLAY-27-BEH` | 9 | 17 / 18 | 82 / 83 |
-| 7 | `KXRANKLISTSONGTOP10-26NOV21-NIC` | 9 | 60 / 99 | 1 / 40 |
-| 8 | `KXPERFORMSUPERBOWL-27B-PIN` | 3 | 1 / 4 | 96 / 99 |
-| 9 | `KXSTEAMTOPSELLER-26NOV17-AIO` | 11 | 1 / 4 | 96 / 99 |
-| 10 | `KXRT-FUR-45` | 15 | 93 / 94 | 6 / 7 |
-| 11 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 10 | 86 / 89 | 11 / 14 |
-| 12 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 10 | 11 / 13 | 87 / 89 |
-| 13 | `KXOSCARNOMSPLAY-27-DIG` | 9 | 24 / 25 | 75 / 76 |
-| 14 | `KXRANKLISTSONGTOP10-26NOV21-PAT` | 7 | 6 / 96 | 4 / 94 |
-| 15 | `KXPERFORMSUPERBOWL-27B-QUA` | 3 | 1 / 4 | 96 / 99 |
-| 16 | `KXRT-HUN-83` | 15 | 19 / 20 | 80 / 81 |
-| 17 | `KXRT-VIO-70` | 13 | 27 / 28 | 72 / 73 |
-| 18 | `KXRT-JUM-80` | 12 | 9 / 12 | 88 / 91 |
+| 4 | `KXSTEAMTOPSELLER-26NOV17-FIN` | 13 | 1 / 2 | 98 / 99 |
+| 5 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 12 | 12 / 13 | 87 / 88 |
+| 6 | `KXTOPSONGSPOTIFYRUNNERUP-26-BAB` | 12 | 81 / 83 | 17 / 19 |
+| 7 | `KXOSCARNOMSPLAY-27-DEB` | 10 | 91 / 96 | 4 / 9 |
+| 8 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
+| 9 | `KXPERFORMSUPERBOWL-27B-QUA` | 7 | 1 / 5 | 95 / 99 |
+| 10 | `KXRANKLISTSONGTOP10-26NOV21-PAT` | 7 | 6 / 96 | 4 / 94 |
+| 11 | `KXRT-FOC-45` | 15 | 81 / 83 | 17 / 19 |
+| 12 | `KXTOPSONGSPOTIFY-26-DOM` | 13 | 13 / 14 | 86 / 87 |
+| 13 | `KXSTEAMTOPSELLER-26NOV17-FINA` | 13 | 1 / 2 | 98 / 99 |
+| 14 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
+| 15 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 10 | 11 / 13 | 87 / 89 |
+| 16 | `KXOSCARNOMSPLAY-27-BEH` | 8 | 17 / 18 | 82 / 83 |
+| 17 | `KXRANKLISTSONGTOP10-26NOV21-STO` | 7 | 6 / 96 | 4 / 94 |
+| 18 | `KXRT-JUM-55` | 14 | 57 / 58 | 42 / 43 |
+| 19 | `KXRT-FUR-65` | 14 | 67 / 68 | 32 / 33 |
+| 20 | `KXRT-HEX-70` | 14 | 25 / 26 | 74 / 75 |
