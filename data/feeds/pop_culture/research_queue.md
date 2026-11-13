@@ -1,25 +1,24 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-13T06:42:39Z
+Feed generated (UTC): 2026-11-13T08:00:01Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-EBE-65` | 17 | 1 / 2 | 98 / 99 |
+| 1 | `KXRT-IPL-87` | 15 | 8 / 9 | 91 / 92 |
 | 2 | `KXPS6-26-DEC31` | 14 | 2 / 3 | 97 / 98 |
 | 3 | `KXSTEAMTOPSELLER-26NOV17-BOD` | 14 | 1 / 5 | 95 / 99 |
 | 4 | `KXTOPSONGSPOTIFY-26-SWI` | 13 | 1 / 2 | 98 / 99 |
-| 5 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 12 | 10 / 12 | 88 / 90 |
-| 6 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 11 | 83 / 86 | 14 / 17 |
-| 7 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
-| 8 | `KXOSCARNOMSPLAY-27-TEE` | 9 | 4 / 7 | 93 / 96 |
-| 9 | `KXRT-HOWT-45` | 17 | 1 / 2 | 98 / 99 |
-| 10 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 14 | 86 / 88 | 12 / 14 |
-| 11 | `KXTOPSONGSPOTIFY-26-END` | 11 | 81 / 84 | 16 / 19 |
-| 12 | `KXTOPSONGSPOTIFYRUNNERUP-26-BAB` | 11 | 80 / 84 | 16 / 20 |
-| 13 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 8 | 14 / 16 | 84 / 86 |
-| 14 | `KXOSCARNOMSPLAY-27-FJO` | 9 | 43 / 48 | 52 / 57 |
-| 15 | `KXRT-HEX-45` | 15 | 73 / 74 | 26 / 27 |
-| 16 | `KXRT-VIO-90` | 15 | 2 / 3 | 97 / 98 |
-| 17 | `KXRT-FOC-40` | 15 | 90 / 91 | 9 / 10 |
+| 5 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 11 | 83 / 86 | 14 / 17 |
+| 6 | `KXTOPSONGSPOTIFYUSA-26-EAR` | 10 | 1 / 2 | 98 / 99 |
+| 7 | `KXOSCARNOMSPLAY-27-CLU` | 9 | 58 / 61 | 39 / 42 |
+| 8 | `KXRANKLISTSONGTOP10-26NOV21-NIC` | 7 | 60 / 96 | 4 / 40 |
+| 9 | `KXRT-VIO-50` | 15 | 66 / 67 | 33 / 34 |
+| 10 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 12 | 81 / 90 | 10 / 19 |
+| 11 | `KXTOPSONGSPOTIFY-26-END` | 12 | 80 / 85 | 15 / 20 |
+| 12 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
+| 13 | `KXOSCARNOMSPLAY-27-BEH` | 9 | 16 / 17 | 83 / 84 |
+| 14 | `KXRT-FUR-70` | 15 | 58 / 59 | 41 / 42 |
+| 15 | `KXRT-HUN-72` | 14 | 62 / 63 | 37 / 38 |
+| 16 | `KXRT-ANG-45` | 14 | 68 / 69 | 31 / 32 |
