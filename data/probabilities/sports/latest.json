@@ -1,16 +1,29 @@
 {
-  "schema_version": 1,
-  "generated_at_utc": "2026-11-14T15:16:04Z",
+  "schema_version": 2,
+  "generated_at_utc": "2026-11-14T15:18:26Z",
   "input_feed_generated_at_utc": "2026-11-14T15:15:21Z",
-  "source_type": "independent bookmaker odds; not Kalshi price",
+  "source_type": "exact-matched public sportsbook consensus; research only",
   "research_only": true,
-  "warnings": [
-    "Exact market settlement and bookmaker lines must match; single-provider consensus is not a validated predictive model.",
-    "Fee calculation uses general one-share taker approximation; actual Kalshi fee quote may vary."
-  ],
   "estimated_contracts": 0,
   "evaluations": [],
+  "historical_evaluations": [],
+  "last_fresh_estimates_generated_at_utc": null,
+  "last_fresh_estimate_count": 0,
+  "odds_cache_generated_at_utc": null,
+  "refreshed_sports": [],
   "errors": [
-    "Sports odds refresh limited by spacing or request budget; no stale odds promoted to current probability"
+    "odds refresh on cooldown; using timestamped cached evidence if available"
+  ],
+  "budget": {
+    "month": "2026-11",
+    "requests": 10,
+    "approx_credits_used": 30,
+    "day": "2026-11-14",
+    "day_calls": 2,
+    "last_batch_at_utc": "2026-11-14T06:10:00Z"
+  },
+  "warnings": [
+    "Cached bookmaker estimates must NEVER be treated as current prices or a verified trade edge.",
+    "One-share general Kalshi fees are approximate; check actual contract fees and rules."
   ]
 }
