@@ -1,25 +1,22 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-15T02:19:25Z
+Feed generated (UTC): 2026-11-15T03:11:21Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-IPL-82` | 17 | 94 / 95 | 5 / 6 |
-| 2 | `KXSTEAMTOPSELLER-26NOV17-AIO` | 17 | 1 / 2 | 98 / 99 |
+| 1 | `KXRT-IPL-90` | 17 | 1 / 2 | 98 / 99 |
+| 2 | `KXSTEAMTOPSELLER-26NOV17-APE` | 17 | 1 / 2 | 98 / 99 |
 | 3 | `KXPS6-26-DEC31` | 13 | 2 / 3 | 97 / 98 |
 | 4 | `KXTOPSONGSPOTIFY-26-SWI` | 13 | 1 / 2 | 98 / 99 |
-| 5 | `KXOSCARNOMSPLAY-27-TEE` | 11 | 3 / 4 | 96 / 97 |
-| 6 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
-| 7 | `KXTOPSONGSPOTIFYUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
-| 8 | `KXBILLBOARDRUNNERUPSONG-26NOV28-CHO` | 8 | 1 / 6 | 94 / 99 |
-| 9 | `KXPERFORMSUPERBOWL-27-FAT` | 8 | 17 / 18 | 82 / 83 |
-| 10 | `KXRT-HUN-60` | 17 | 93 / 94 | 6 / 7 |
-| 11 | `KXSTEAMTOPSELLER-26NOV17-COU` | 17 | 2 / 3 | 97 / 98 |
-| 12 | `KXTOPSONGSPOTIFY-26-END` | 12 | 81 / 84 | 16 / 19 |
-| 13 | `KXOSCARNOMSPLAY-27-INV` | 9 | 3 / 7 | 93 / 97 |
-| 14 | `KXPERFORMSUPERBOWL-27B-BAB` | 7 | 1 / 5 | 95 / 99 |
-| 15 | `KXRT-FOC-75` | 15 | 17 / 18 | 82 / 83 |
-| 16 | `KXRT-DUNE-87` | 13 | 64 / 66 | 34 / 36 |
-| 17 | `KXRT-HEX-65` | 13 | 39 / 41 | 59 / 61 |
+| 5 | `KXPERFORMSUPERBOWL-27-FAT` | 8 | 17 / 18 | 82 / 83 |
+| 6 | `KXOSCARNOMSPLAY-27-BLA` | 7 | 4 / 7 | 93 / 96 |
+| 7 | `KXRT-HUN-80` | 17 | 30 / 31 | 69 / 70 |
+| 8 | `KXSTEAMTOPSELLER-26NOV17-PHA` | 17 | 1 / 2 | 98 / 99 |
+| 9 | `KXTOPSONGSPOTIFY-26-DOM` | 10 | 12 / 13 | 87 / 88 |
+| 10 | `KXPERFORMSUPERBOWL-27B-CHRI` | 7 | 4 / 8 | 92 / 96 |
+| 11 | `KXOSCARNOMSPLAY-27-FJO` | 7 | 42 / 47 | 53 / 58 |
+| 12 | `KXRT-FUR-70` | 15 | 80 / 81 | 19 / 20 |
+| 13 | `KXRT-HEX-85` | 15 | 7 / 8 | 92 / 93 |
+| 14 | `KXRT-JUM-80` | 14 | 11 / 12 | 88 / 89 |
