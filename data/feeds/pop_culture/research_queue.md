@@ -1,23 +1,24 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-16T04:23:47Z
+Feed generated (UTC): 2026-11-16T05:49:12Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-HUN-85` | 16 | 10 / 11 | 89 / 90 |
+| 1 | `KXRT-IPL-87` | 17 | 21 / 22 | 78 / 79 |
 | 2 | `KXPS6-26-DEC31` | 14 | 3 / 4 | 96 / 97 |
-| 3 | `KXTOPSONGSPOTIFY-26-END` | 14 | 82 / 83 | 17 / 18 |
-| 4 | `KXSTEAMTOPSELLER-26NOV17-BOD` | 11 | 12 / 24 | 76 / 88 |
-| 5 | `KXBILLBOARDRUNNERUPSONG-26NOV28-CHO` | 10 | 1 / 3 | 97 / 99 |
-| 6 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 10 | 14 / 15 | 85 / 86 |
-| 7 | `KXOSCARNOMSPLAY-27-WIL` | 9 | 90 / 94 | 6 / 10 |
-| 8 | `KXRT-FUR-90` | 15 | 7 / 8 | 92 / 93 |
-| 9 | `KXTOPSONGSPOTIFY-26-SWI` | 12 | 2 / 3 | 97 / 98 |
-| 10 | `KXSTEAMTOPSELLER-26NOV17-AIO` | 11 | 2 / 16 | 84 / 98 |
-| 11 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 10 | 85 / 87 | 13 / 15 |
-| 12 | `KXOSCARNOMSPLAY-27-CLU` | 9 | 57 / 61 | 39 / 43 |
-| 13 | `KXRT-HEX-50` | 15 | 74 / 75 | 25 / 26 |
-| 14 | `KXRT-ZER-50` | 15 | 67 / 69 | 31 / 33 |
-| 15 | `KXRT-WER-90` | 14 | 38 / 39 | 61 / 62 |
+| 3 | `KXSTEAMTOPSELLER-26NOV17-AIO` | 14 | 2 / 5 | 95 / 98 |
+| 4 | `KXTOPSONGSPOTIFY-26-END` | 14 | 82 / 83 | 17 / 18 |
+| 5 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 10 | 14 / 15 | 85 / 86 |
+| 6 | `KXOSCARNOMSPLAY-27-CLU` | 9 | 57 / 61 | 39 / 43 |
+| 7 | `KXRANKLISTSONGTOP10-26NOV28-BBY` | 7 | 20 / 97 | 3 / 80 |
+| 8 | `KXRT-FUR-55` | 15 | 96 / 97 | 3 / 4 |
+| 9 | `KXSTEAMTOPSELLER-26NOV17-CAL` | 12 | 68 / 86 | 14 / 32 |
+| 10 | `KXTOPSONGSPOTIFY-26-SWI` | 12 | 2 / 3 | 97 / 98 |
+| 11 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
+| 12 | `KXOSCARNOMSPLAY-27-INV` | 8 | 4 / 5 | 95 / 96 |
+| 13 | `KXRANKLISTSONGTOP10-26NOV28-CHO` | 5 | 5 / 97 | 3 / 95 |
+| 14 | `KXRT-HEX-45` | 14 | 82 / 83 | 17 / 18 |
+| 15 | `KXRT-WER-80` | 13 | 72 / 73 | 27 / 28 |
+| 16 | `KXRT-VIO-70` | 13 | 27 / 28 | 72 / 73 |
