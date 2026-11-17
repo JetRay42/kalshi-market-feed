@@ -1,21 +1,19 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-17T03:12:11Z
+Feed generated (UTC): 2026-11-17T04:09:04Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-IPL-90` | 17 | 1 / 2 | 98 / 99 |
+| 1 | `KXRT-IPL-80` | 17 | 98 / 99 | 1 / 2 |
 | 2 | `KXPS6-26-DEC31` | 14 | 2 / 3 | 97 / 98 |
-| 3 | `KXPERFORMSUPERBOWL-27B-KAN` | 13 | 15 / 16 | 84 / 85 |
-| 4 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
-| 5 | `KXOSCARNOMSPLAY-27-FAT` | 7 | 2 / 7 | 93 / 98 |
-| 6 | `KXBILLBOARDRUNNERUPSONG-26NOV28-ALL` | 6 | 7 / 21 | 79 / 93 |
-| 7 | `KXRT-IPL-85` | 17 | 67 / 69 | 31 / 33 |
-| 8 | `KXPERFORMSUPERBOWL-27B-BEY` | 12 | 70 / 71 | 29 / 30 |
-| 9 | `KXTOPSONGRUNNERUPUSA-26-BAB` | 8 | 1 / 4 | 96 / 99 |
-| 10 | `KXOSCARNOMSPLAY-27-TEE` | 7 | 4 / 7 | 93 / 96 |
-| 11 | `KXRT-HUN-87` | 17 | 7 / 8 | 92 / 93 |
-| 12 | `KXRT-VIO-55` | 15 | 65 / 66 | 34 / 35 |
-| 13 | `KXRT-HUN-72` | 15 | 53 / 58 | 42 / 47 |
+| 3 | `KXPERFORMSUPERBOWL-27B-LAD` | 12 | 7 / 8 | 92 / 93 |
+| 4 | `KXOSCARNOMSPLAY-27-BLA` | 10 | 1 / 5 | 95 / 99 |
+| 5 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 10 | 1 / 2 | 98 / 99 |
+| 6 | `KXRT-HUN-50` | 16 | 97 / 99 | 1 / 3 |
+| 7 | `KXPERFORMSUPERBOWL-27B-ELL` | 10 | 9 / 11 | 89 / 91 |
+| 8 | `KXOSCARNOMSPLAY-27-INV` | 10 | 3 / 5 | 95 / 97 |
+| 9 | `KXRT-VIO-85` | 15 | 7 / 8 | 92 / 93 |
+| 10 | `KXRT-HUN-83` | 15 | 10 / 12 | 88 / 90 |
+| 11 | `KXRT-FUR-55` | 13 | 96 / 97 | 3 / 4 |
