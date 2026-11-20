@@ -1,25 +1,24 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-20T08:48:48Z
+Feed generated (UTC): 2026-11-20T09:44:40Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXSTEAMTOPSELLER-26NOV24-MAP` | 16 | 1 / 2 | 98 / 99 |
-| 2 | `KXRT-HEX-45` | 15 | 87 / 88 | 12 / 13 |
+| 1 | `KXRT-HUN-72` | 17 | 1 / 2 | 98 / 99 |
+| 2 | `KXSTEAMTOPSELLER-26NOV24-GTA` | 16 | 1 / 2 | 98 / 99 |
 | 3 | `KXPS6-26-DEC31` | 13 | 2 / 3 | 97 / 98 |
-| 4 | `KXPERFORMSUPERBOWL-27B-PHA` | 12 | 43 / 44 | 56 / 57 |
+| 4 | `KXPERFORMSUPERBOWL-27B-ELL` | 12 | 9 / 10 | 90 / 91 |
 | 5 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 12 | 1 / 2 | 98 / 99 |
-| 6 | `KXTOPSONGSPOTIFY-26-SWI` | 12 | 4 / 5 | 95 / 96 |
-| 7 | `KXTOPSONGSPOTIFYUSA-26-ELL` | 12 | 95 / 97 | 3 / 5 |
-| 8 | `KXOSCARNOMSPLAY-27-CLU` | 8 | 58 / 61 | 39 / 42 |
-| 9 | `KXSTEAMTOPSELLER-26NOV24-CAL` | 16 | 1 / 2 | 98 / 99 |
-| 10 | `KXRT-VIO-55` | 15 | 81 / 82 | 18 / 19 |
-| 11 | `KXPERFORMSUPERBOWL-27B-RIH` | 12 | 30 / 31 | 69 / 70 |
-| 12 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 9 | 27 / 31 | 69 / 73 |
-| 13 | `KXTOPSONGSPOTIFY-26-DOM` | 11 | 9 / 11 | 89 / 91 |
-| 14 | `KXOSCARNOMSPLAY-27-BEH` | 8 | 9 / 10 | 90 / 91 |
-| 15 | `KXRT-AVE-75` | 14 | 67 / 69 | 31 / 33 |
-| 16 | `KXRT-WER-80` | 14 | 69 / 70 | 30 / 31 |
-| 17 | `KXRT-DUNE-90` | 13 | 50 / 51 | 49 / 50 |
+| 6 | `KXTOPSONGSPOTIFYUSA-26-ELL` | 12 | 95 / 97 | 3 / 5 |
+| 7 | `KXTOPSONGSPOTIFY-26-END` | 11 | 85 / 88 | 12 / 15 |
+| 8 | `KXOSCARNOMSPLAY-27-BLA` | 7 | 2 / 5 | 95 / 98 |
+| 9 | `KXRT-HUN-70` | 15 | 3 / 5 | 95 / 97 |
+| 10 | `KXSTEAMTOPSELLER-26NOV24-AIO` | 13 | 1 / 2 | 98 / 99 |
+| 11 | `KXPERFORMSUPERBOWL-27-BLU` | 10 | 36 / 38 | 62 / 64 |
+| 12 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 11 | 67 / 71 | 29 / 33 |
+| 13 | `KXOSCARNOMSPLAY-27-OBS` | 7 | 53 / 58 | 42 / 47 |
+| 14 | `KXRT-FOC-80` | 15 | 5 / 7 | 93 / 95 |
+| 15 | `KXRT-AVE-60` | 13 | 87 / 88 | 12 / 13 |
+| 16 | `KXRT-DUNE-87` | 13 | 63 / 64 | 36 / 37 |
