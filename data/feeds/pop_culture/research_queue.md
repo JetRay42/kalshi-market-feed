@@ -1,28 +1,24 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-21T05:21:28Z
+Feed generated (UTC): 2026-11-21T06:20:51Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-HEX-90` | 17 | 3 / 4 | 96 / 97 |
-| 2 | `KXSTEAMTOPSELLER-26NOV24-CAL` | 15 | 1 / 2 | 98 / 99 |
+| 1 | `KXRT-FOC-70` | 17 | 10 / 11 | 89 / 90 |
+| 2 | `KXSTEAMTOPSELLER-26NOV24-MAR` | 16 | 10 / 11 | 89 / 90 |
 | 3 | `KXPS6-26-DEC31` | 13 | 2 / 3 | 97 / 98 |
-| 4 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 10 | 69 / 72 | 28 / 31 |
+| 4 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 10 | 67 / 72 | 28 / 33 |
 | 5 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 10 | 11 / 12 | 88 / 89 |
-| 6 | `KXOSCARNOMSPLAY-27-BEH` | 9 | 9 / 10 | 90 / 91 |
-| 7 | `KXBILLBOARDRUNNERUPSONG-26DEC05-LAS` | 8 | 11 / 32 | 68 / 89 |
-| 8 | `KXPERFORMSUPERBOWL-27B-PIN` | 8 | 1 / 5 | 95 / 99 |
-| 9 | `KXRANKLISTSONGTOP10-26NOV28-BBY` | 7 | 62 / 98 | 2 / 38 |
-| 10 | `KXTOPSONG-26DEC05-LAS` | 6 | 1 / 14 | 86 / 99 |
-| 11 | `KXRT-IPL-87` | 15 | 95 / 99 | 1 / 5 |
-| 12 | `KXSTEAMTOPSELLER-26NOV24-MAR` | 14 | 10 / 14 | 86 / 90 |
-| 13 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 10 | 25 / 30 | 70 / 75 |
-| 14 | `KXTOPSONGSPOTIFYRUNNERUP-26-BAB` | 8 | 86 / 91 | 9 / 14 |
-| 15 | `KXOSCARNOMSPLAY-27-TEE` | 7 | 1 / 4 | 96 / 99 |
-| 16 | `KXBILLBOARDRUNNERUPSONG-26DEC05-ALL` | 6 | 50 / 71 | 29 / 50 |
-| 17 | `KXPERFORMSUPERBOWL-27B-QUA` | 8 | 1 / 5 | 95 / 99 |
-| 18 | `KXRT-HEX-75` | 15 | 22 / 25 | 75 / 78 |
-| 19 | `KXRT-VIO-75` | 15 | 18 / 19 | 81 / 82 |
-| 20 | `KXRT-AVE-80` | 14 | 56 / 57 | 43 / 44 |
+| 6 | `KXBILLBOARDRUNNERUPSONG-26DEC05-LAS` | 8 | 11 / 32 | 68 / 89 |
+| 7 | `KXPERFORMSUPERBOWL-27B-PIN` | 8 | 1 / 5 | 95 / 99 |
+| 8 | `KXOSCARNOMSPLAY-27-APL` | 7 | 1 / 5 | 95 / 99 |
+| 9 | `KXRT-HEX-45` | 16 | 87 / 88 | 12 / 13 |
+| 10 | `KXSTEAMTOPSELLER-26NOV24-BOD` | 16 | 3 / 4 | 96 / 97 |
+| 11 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 10 | 25 / 30 | 70 / 75 |
+| 12 | `KXPERFORMSUPERBOWL-27B-QUA` | 8 | 1 / 5 | 95 / 99 |
+| 13 | `KXOSCARNOMSPLAY-27-FOR` | 7 | 1 / 6 | 94 / 99 |
+| 14 | `KXRT-FUR-80` | 15 | 64 / 69 | 31 / 36 |
+| 15 | `KXRT-AVE-95` | 14 | 6 / 7 | 93 / 94 |
+| 16 | `KXRT-DUNE-87` | 13 | 63 / 64 | 36 / 37 |
