@@ -1,412 +1,265 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-21T11:10:28Z",
-  "input_feed_generated_at_utc": "2026-11-21T11:09:47Z",
+  "generated_at_utc": "2026-11-21T11:55:43Z",
+  "input_feed_generated_at_utc": "2026-11-21T11:55:03Z",
   "source_type": "exact-matched public sportsbook consensus; research only",
   "research_only": true,
   "estimated_contracts": 0,
   "evaluations": [],
   "historical_evaluations": [
     {
-      "ticker": "KXNBAGAME-26NOV21LACDAL-LAC",
-      "title": "Los Angeles C wins",
-      "event_ticker": "KXNBAGAME-26NOV21LACDAL",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
+      "ticker": "KXNBASPREAD-26NOV21NOPSAS-SAS17",
+      "title": "San Antonio wins by over 16.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV21NOPSAS",
+      "kalshi_observed_at_utc": "2026-11-21T11:55:00Z",
       "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
       "model": "exact-outcome matched bookmaker no-vig consensus",
       "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.3565,
-      "p_lower": 0.3265,
-      "p_upper": 0.3865,
-      "bookmaker_count": 4,
+      "fair_probability_mid": 0.5105,
+      "p_lower": 0.4805,
+      "p_upper": 0.5405,
+      "bookmaker_count": 7,
       "cross_book_range": [
-        0.3525,
-        0.3671
+        0.4974,
+        0.5116
       ],
       "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
       "sources": [
         {
           "bookmaker": "FanDuel",
-          "no_vig_probability": 0.36715,
+          "no_vig_probability": 0.50785,
           "observed_at_utc": "2026-11-21T02:30:09Z",
-          "decimal_yes": 2.62,
-          "decimal_no": 1.52
-        },
-        {
-          "bookmaker": "DraftKings",
-          "no_vig_probability": 0.35885,
-          "observed_at_utc": "2026-11-21T02:29:35Z",
-          "decimal_yes": 2.68,
-          "decimal_no": 1.5
+          "decimal_yes": 1.88,
+          "decimal_no": 1.94
         },
         {
           "bookmaker": "BetRivers",
-          "no_vig_probability": 0.35252,
+          "no_vig_probability": 0.49737,
           "observed_at_utc": "2026-11-21T02:29:35Z",
-          "decimal_yes": 2.7,
-          "decimal_no": 1.47
+          "decimal_yes": 1.91,
+          "decimal_no": 1.89
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "no_vig_probability": 0.51047,
+          "observed_at_utc": "2026-11-21T02:29:35Z",
+          "decimal_yes": 1.87,
+          "decimal_no": 1.95
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "no_vig_probability": 0.51157,
+          "observed_at_utc": "2026-11-21T02:29:36Z",
+          "decimal_yes": 1.9,
+          "decimal_no": 1.99
+        },
+        {
+          "bookmaker": "DraftKings",
+          "no_vig_probability": 0.5,
+          "observed_at_utc": "2026-11-21T02:29:35Z",
+          "decimal_yes": 1.91,
+          "decimal_no": 1.91
         },
         {
           "bookmaker": "BetMGM",
-          "no_vig_probability": 0.35407,
-          "observed_at_utc": "2026-11-21T02:29:50Z",
-          "decimal_yes": 2.7,
-          "decimal_no": 1.48
+          "no_vig_probability": 0.51047,
+          "observed_at_utc": "2026-11-21T02:29:51Z",
+          "decimal_yes": 1.87,
+          "decimal_no": 1.95
+        },
+        {
+          "bookmaker": "BetUS",
+          "no_vig_probability": 0.51047,
+          "observed_at_utc": "2026-11-21T02:29:36Z",
+          "decimal_yes": 1.87,
+          "decimal_no": 1.95
         }
       ],
       "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
     },
     {
-      "ticker": "KXNFLGAME-26NOV22BALCAR-BAL",
-      "title": "Baltimore wins",
-      "event_ticker": "KXNFLGAME-26NOV22BALCAR",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
+      "ticker": "KXNFLGAME-26NOV22ARIKC-KC",
+      "title": "Kansas City wins",
+      "event_ticker": "KXNFLGAME-26NOV22ARIKC",
+      "kalshi_observed_at_utc": "2026-11-21T11:54:59Z",
       "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
       "model": "exact-outcome matched bookmaker no-vig consensus",
       "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.4231,
-      "p_lower": 0.3931,
-      "p_upper": 0.4531,
+      "fair_probability_mid": 0.9042,
+      "p_lower": 0.8742,
+      "p_upper": 0.9342,
       "bookmaker_count": 9,
       "cross_book_range": [
-        0.4135,
-        0.4289
+        0.8937,
+        0.9075
       ],
       "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
       "sources": [
         {
           "bookmaker": "DraftKings",
-          "no_vig_probability": 0.42386,
+          "no_vig_probability": 0.90669,
           "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 2.27,
-          "decimal_no": 1.67
+          "decimal_yes": 1.06,
+          "decimal_no": 10.3
         },
         {
           "bookmaker": "BetUS",
-          "no_vig_probability": 0.41353,
+          "no_vig_probability": 0.90416,
           "observed_at_utc": "2026-11-21T02:29:56Z",
-          "decimal_yes": 2.34,
-          "decimal_no": 1.65
+          "decimal_yes": 1.06,
+          "decimal_no": 10.0
         },
         {
           "bookmaker": "FanDuel",
-          "no_vig_probability": 0.4264,
+          "no_vig_probability": 0.90416,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 2.26,
-          "decimal_no": 1.68
+          "decimal_yes": 1.06,
+          "decimal_no": 10.0
         },
         {
           "bookmaker": "LowVig.ag",
-          "no_vig_probability": 0.41457,
+          "no_vig_probability": 0.90502,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 2.33,
-          "decimal_no": 1.65
+          "decimal_yes": 1.06,
+          "decimal_no": 10.1
         },
         {
           "bookmaker": "BetOnline.ag",
-          "no_vig_probability": 0.41457,
+          "no_vig_probability": 0.90502,
           "observed_at_utc": "2026-11-21T02:29:25Z",
-          "decimal_yes": 2.33,
-          "decimal_no": 1.65
+          "decimal_yes": 1.06,
+          "decimal_no": 10.1
         },
         {
           "bookmaker": "BetRivers",
-          "no_vig_probability": 0.41837,
+          "no_vig_probability": 0.90416,
           "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 2.28,
-          "decimal_no": 1.64
+          "decimal_yes": 1.06,
+          "decimal_no": 10.0
         },
         {
           "bookmaker": "MyBookie.ag",
-          "no_vig_probability": 0.42308,
+          "no_vig_probability": 0.89962,
           "observed_at_utc": "2026-11-21T02:28:36Z",
-          "decimal_yes": 2.25,
-          "decimal_no": 1.65
+          "decimal_yes": 1.06,
+          "decimal_no": 9.5
         },
         {
           "bookmaker": "BetMGM",
-          "no_vig_probability": 0.42893,
+          "no_vig_probability": 0.90752,
           "observed_at_utc": "2026-11-21T02:30:14Z",
-          "decimal_yes": 2.25,
-          "decimal_no": 1.69
+          "decimal_yes": 1.07,
+          "decimal_no": 10.5
         },
         {
           "bookmaker": "Bovada",
-          "no_vig_probability": 0.42532,
+          "no_vig_probability": 0.89374,
           "observed_at_utc": "2026-11-21T02:29:42Z",
-          "decimal_yes": 2.27,
-          "decimal_no": 1.68
+          "decimal_yes": 1.07,
+          "decimal_no": 9.0
         }
       ],
       "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
     },
     {
-      "ticker": "KXNFLGAME-26NOV22JACNYG-JAC",
-      "title": "Jacksonville wins",
-      "event_ticker": "KXNFLGAME-26NOV22JACNYG",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
+      "ticker": "KXNFLGAME-26NOV22NOCHI-NO",
+      "title": "New Orleans wins",
+      "event_ticker": "KXNFLGAME-26NOV22NOCHI",
+      "kalshi_observed_at_utc": "2026-11-21T11:54:59Z",
       "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
       "model": "exact-outcome matched bookmaker no-vig consensus",
       "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.6951,
-      "p_lower": 0.6651,
-      "p_upper": 0.7251,
+      "fair_probability_mid": 0.1716,
+      "p_lower": 0.1416,
+      "p_upper": 0.2016,
       "bookmaker_count": 9,
       "cross_book_range": [
-        0.6869,
-        0.7006
+        0.1553,
+        0.1794
       ],
       "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
       "sources": [
         {
           "bookmaker": "DraftKings",
-          "no_vig_probability": 0.6882,
+          "no_vig_probability": 0.177,
           "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 1.4,
-          "decimal_no": 3.09
-        },
-        {
-          "bookmaker": "FanDuel",
-          "no_vig_probability": 0.69042,
-          "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 1.39,
-          "decimal_no": 3.1
-        },
-        {
-          "bookmaker": "BetUS",
-          "no_vig_probability": 0.70065,
-          "observed_at_utc": "2026-11-21T02:29:56Z",
-          "decimal_yes": 1.38,
-          "decimal_no": 3.23
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "no_vig_probability": 0.69803,
-          "observed_at_utc": "2026-11-21T02:29:25Z",
-          "decimal_yes": 1.38,
-          "decimal_no": 3.19
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "no_vig_probability": 0.69803,
-          "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 1.38,
-          "decimal_no": 3.19
-        },
-        {
-          "bookmaker": "BetRivers",
-          "no_vig_probability": 0.69196,
-          "observed_at_utc": "2026-11-21T02:29:39Z",
-          "decimal_yes": 1.38,
-          "decimal_no": 3.1
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "no_vig_probability": 0.68694,
-          "observed_at_utc": "2026-11-21T02:28:36Z",
-          "decimal_yes": 1.39,
-          "decimal_no": 3.05
-        },
-        {
-          "bookmaker": "BetMGM",
-          "no_vig_probability": 0.69507,
-          "observed_at_utc": "2026-11-21T02:30:15Z",
-          "decimal_yes": 1.36,
-          "decimal_no": 3.1
-        },
-        {
-          "bookmaker": "Bovada",
-          "no_vig_probability": 0.69536,
-          "observed_at_utc": "2026-11-21T02:29:43Z",
-          "decimal_yes": 1.38,
-          "decimal_no": 3.15
-        }
-      ],
-      "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
-    },
-    {
-      "ticker": "KXNFLGAME-26NOV22LVDEN-LV",
-      "title": "Las Vegas wins",
-      "event_ticker": "KXNFLGAME-26NOV22LVDEN",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
-      "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
-      "model": "exact-outcome matched bookmaker no-vig consensus",
-      "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.1822,
-      "p_lower": 0.1522,
-      "p_upper": 0.2122,
-      "bookmaker_count": 9,
-      "cross_book_range": [
-        0.1729,
-        0.1864
-      ],
-      "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
-      "sources": [
-        {
-          "bookmaker": "DraftKings",
-          "no_vig_probability": 0.17972,
-          "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 5.34,
+          "decimal_yes": 5.44,
           "decimal_no": 1.17
         },
         {
           "bookmaker": "FanDuel",
-          "no_vig_probability": 0.17541,
+          "no_vig_probability": 0.15531,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 5.5,
-          "decimal_no": 1.17
+          "decimal_yes": 6.2,
+          "decimal_no": 1.14
         },
         {
           "bookmaker": "BetUS",
-          "no_vig_probability": 0.18351,
+          "no_vig_probability": 0.1716,
           "observed_at_utc": "2026-11-21T02:29:56Z",
-          "decimal_yes": 5.25,
-          "decimal_no": 1.18
+          "decimal_yes": 5.6,
+          "decimal_no": 1.16
         },
         {
           "bookmaker": "LowVig.ag",
-          "no_vig_probability": 0.18641,
+          "no_vig_probability": 0.17211,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 5.15,
-          "decimal_no": 1.18
+          "decimal_yes": 5.58,
+          "decimal_no": 1.16
         },
         {
           "bookmaker": "BetOnline.ag",
-          "no_vig_probability": 0.18641,
+          "no_vig_probability": 0.17211,
           "observed_at_utc": "2026-11-21T02:29:25Z",
-          "decimal_yes": 5.15,
-          "decimal_no": 1.18
+          "decimal_yes": 5.58,
+          "decimal_no": 1.16
         },
         {
           "bookmaker": "BetRivers",
-          "no_vig_probability": 0.17293,
+          "no_vig_probability": 0.16667,
           "observed_at_utc": "2026-11-21T02:29:39Z",
-          "decimal_yes": 5.5,
+          "decimal_yes": 5.75,
           "decimal_no": 1.15
         },
         {
           "bookmaker": "MyBookie.ag",
-          "no_vig_probability": 0.18367,
+          "no_vig_probability": 0.16667,
           "observed_at_utc": "2026-11-21T02:28:37Z",
-          "decimal_yes": 5.2,
-          "decimal_no": 1.17
+          "decimal_yes": 5.7,
+          "decimal_no": 1.14
         },
         {
           "bookmaker": "BetMGM",
-          "no_vig_probability": 0.17541,
-          "observed_at_utc": "2026-11-21T02:30:15Z",
-          "decimal_yes": 5.5,
-          "decimal_no": 1.17
-        },
-        {
-          "bookmaker": "Bovada",
-          "no_vig_probability": 0.18224,
-          "observed_at_utc": "2026-11-21T02:29:43Z",
-          "decimal_yes": 5.25,
-          "decimal_no": 1.17
-        }
-      ],
-      "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
-    },
-    {
-      "ticker": "KXNFLGAME-26NOV22MIABUF-MIA",
-      "title": "Miami wins",
-      "event_ticker": "KXNFLGAME-26NOV22MIABUF",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
-      "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
-      "model": "exact-outcome matched bookmaker no-vig consensus",
-      "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.095,
-      "p_lower": 0.065,
-      "p_upper": 0.125,
-      "bookmaker_count": 9,
-      "cross_book_range": [
-        0.0901,
-        0.1023
-      ],
-      "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
-      "sources": [
-        {
-          "bookmaker": "DraftKings",
-          "no_vig_probability": 0.09414,
-          "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 10.2,
-          "decimal_no": 1.06
-        },
-        {
-          "bookmaker": "FanDuel",
-          "no_vig_probability": 0.09584,
-          "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 10.0,
-          "decimal_no": 1.06
-        },
-        {
-          "bookmaker": "BetUS",
-          "no_vig_probability": 0.09584,
-          "observed_at_utc": "2026-11-21T02:29:56Z",
-          "decimal_yes": 10.0,
-          "decimal_no": 1.06
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "no_vig_probability": 0.09498,
-          "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 10.1,
-          "decimal_no": 1.06
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "no_vig_probability": 0.09498,
-          "observed_at_utc": "2026-11-21T02:29:25Z",
-          "decimal_yes": 10.1,
-          "decimal_no": 1.06
-        },
-        {
-          "bookmaker": "BetRivers",
-          "no_vig_probability": 0.09012,
-          "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 10.5,
-          "decimal_no": 1.04
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "no_vig_probability": 0.10232,
-          "observed_at_utc": "2026-11-21T02:28:37Z",
-          "decimal_yes": 9.3,
-          "decimal_no": 1.06
-        },
-        {
-          "bookmaker": "BetMGM",
-          "no_vig_probability": 0.09248,
+          "no_vig_probability": 0.16787,
           "observed_at_utc": "2026-11-21T02:30:14Z",
-          "decimal_yes": 10.5,
-          "decimal_no": 1.07
+          "decimal_yes": 5.75,
+          "decimal_no": 1.16
         },
         {
           "bookmaker": "Bovada",
-          "no_vig_probability": 0.10123,
+          "no_vig_probability": 0.17945,
           "observed_at_utc": "2026-11-21T02:29:42Z",
-          "decimal_yes": 9.5,
-          "decimal_no": 1.07
+          "decimal_yes": 5.35,
+          "decimal_no": 1.17
         }
       ],
       "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
     },
     {
-      "ticker": "KXNFLGAME-26NOV22MINSF-MIN",
-      "title": "Minnesota wins",
-      "event_ticker": "KXNFLGAME-26NOV22MINSF",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
+      "ticker": "KXNFLGAME-26NOV22NYJLAC-NYJ",
+      "title": "New York J wins",
+      "event_ticker": "KXNFLGAME-26NOV22NYJLAC",
+      "kalshi_observed_at_utc": "2026-11-21T11:54:59Z",
       "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
       "model": "exact-outcome matched bookmaker no-vig consensus",
       "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.3906,
-      "p_lower": 0.3606,
-      "p_upper": 0.4205,
+      "fair_probability_mid": 0.393,
+      "p_lower": 0.363,
+      "p_upper": 0.423,
       "bookmaker_count": 9,
       "cross_book_range": [
-        0.3829,
-        0.402
+        0.3857,
+        0.4055
       ],
       "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
       "sources": [
@@ -419,52 +272,52 @@
         },
         {
           "bookmaker": "FanDuel",
-          "no_vig_probability": 0.39801,
+          "no_vig_probability": 0.40554,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 2.42,
-          "decimal_no": 1.6
-        },
-        {
-          "bookmaker": "BetMGM",
-          "no_vig_probability": 0.39055,
-          "observed_at_utc": "2026-11-21T02:30:15Z",
-          "decimal_yes": 2.45,
-          "decimal_no": 1.57
+          "decimal_yes": 2.36,
+          "decimal_no": 1.61
         },
         {
           "bookmaker": "BetUS",
-          "no_vig_probability": 0.38575,
+          "no_vig_probability": 0.39259,
           "observed_at_utc": "2026-11-21T02:29:56Z",
-          "decimal_yes": 2.5,
-          "decimal_no": 1.57
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "no_vig_probability": 0.3925,
-          "observed_at_utc": "2026-11-21T02:28:36Z",
-          "decimal_yes": 2.43,
-          "decimal_no": 1.57
+          "decimal_yes": 2.46,
+          "decimal_no": 1.59
         },
         {
           "bookmaker": "LowVig.ag",
-          "no_vig_probability": 0.38293,
+          "no_vig_probability": 0.38631,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 2.53,
-          "decimal_no": 1.57
+          "decimal_yes": 2.51,
+          "decimal_no": 1.58
         },
         {
           "bookmaker": "BetOnline.ag",
-          "no_vig_probability": 0.38293,
+          "no_vig_probability": 0.38631,
           "observed_at_utc": "2026-11-21T02:29:25Z",
-          "decimal_yes": 2.53,
-          "decimal_no": 1.57
+          "decimal_yes": 2.51,
+          "decimal_no": 1.58
         },
         {
           "bookmaker": "BetRivers",
-          "no_vig_probability": 0.40201,
+          "no_vig_probability": 0.39747,
           "observed_at_utc": "2026-11-21T02:29:39Z",
           "decimal_yes": 2.38,
-          "decimal_no": 1.6
+          "decimal_no": 1.57
+        },
+        {
+          "bookmaker": "MyBookie.ag",
+          "no_vig_probability": 0.39698,
+          "observed_at_utc": "2026-11-21T02:28:36Z",
+          "decimal_yes": 2.4,
+          "decimal_no": 1.58
+        },
+        {
+          "bookmaker": "BetMGM",
+          "no_vig_probability": 0.4015,
+          "observed_at_utc": "2026-11-21T02:30:15Z",
+          "decimal_yes": 2.4,
+          "decimal_no": 1.61
         },
         {
           "bookmaker": "Bovada",
@@ -477,169 +330,337 @@
       "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
     },
     {
-      "ticker": "KXNFLGAME-26NOV22PITPHI-PHI",
-      "title": "Philadelphia wins",
+      "ticker": "KXNFLGAME-26NOV22PITPHI-PIT",
+      "title": "Pittsburgh wins",
       "event_ticker": "KXNFLGAME-26NOV22PITPHI",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
+      "kalshi_observed_at_utc": "2026-11-21T11:54:59Z",
       "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
       "model": "exact-outcome matched bookmaker no-vig consensus",
       "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.3608,
-      "p_lower": 0.3308,
-      "p_upper": 0.3908,
+      "fair_probability_mid": 0.6392,
+      "p_lower": 0.6092,
+      "p_upper": 0.6692,
       "bookmaker_count": 9,
       "cross_book_range": [
-        0.3541,
-        0.363
+        0.637,
+        0.6459
       ],
       "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
       "sources": [
         {
           "bookmaker": "DraftKings",
-          "no_vig_probability": 0.36298,
+          "no_vig_probability": 0.63702,
           "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 2.65,
-          "decimal_no": 1.51
+          "decimal_yes": 1.51,
+          "decimal_no": 2.65
         },
         {
           "bookmaker": "BetUS",
-          "no_vig_probability": 0.36124,
+          "no_vig_probability": 0.63876,
           "observed_at_utc": "2026-11-21T02:29:56Z",
-          "decimal_yes": 2.67,
-          "decimal_no": 1.51
+          "decimal_yes": 1.51,
+          "decimal_no": 2.67
         },
         {
           "bookmaker": "FanDuel",
-          "no_vig_probability": 0.36211,
+          "no_vig_probability": 0.63789,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 2.66,
-          "decimal_no": 1.51
+          "decimal_yes": 1.51,
+          "decimal_no": 2.66
         },
         {
           "bookmaker": "LowVig.ag",
-          "no_vig_probability": 0.35867,
+          "no_vig_probability": 0.64133,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 2.7,
-          "decimal_no": 1.51
+          "decimal_yes": 1.51,
+          "decimal_no": 2.7
         },
         {
           "bookmaker": "BetOnline.ag",
-          "no_vig_probability": 0.35867,
+          "no_vig_probability": 0.64133,
           "observed_at_utc": "2026-11-21T02:29:25Z",
-          "decimal_yes": 2.7,
-          "decimal_no": 1.51
+          "decimal_yes": 1.51,
+          "decimal_no": 2.7
         },
         {
           "bookmaker": "BetRivers",
-          "no_vig_probability": 0.35407,
+          "no_vig_probability": 0.64593,
           "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 2.7,
-          "decimal_no": 1.48
+          "decimal_yes": 1.48,
+          "decimal_no": 2.7
         },
         {
           "bookmaker": "MyBookie.ag",
-          "no_vig_probability": 0.36077,
+          "no_vig_probability": 0.63923,
           "observed_at_utc": "2026-11-21T02:28:37Z",
-          "decimal_yes": 2.64,
-          "decimal_no": 1.49
+          "decimal_yes": 1.49,
+          "decimal_no": 2.64
         },
         {
           "bookmaker": "BetMGM",
-          "no_vig_probability": 0.36145,
+          "no_vig_probability": 0.63855,
           "observed_at_utc": "2026-11-21T02:30:14Z",
-          "decimal_yes": 2.65,
-          "decimal_no": 1.5
+          "decimal_yes": 1.5,
+          "decimal_no": 2.65
         },
         {
           "bookmaker": "Bovada",
-          "no_vig_probability": 0.35714,
+          "no_vig_probability": 0.64286,
           "observed_at_utc": "2026-11-21T02:29:42Z",
-          "decimal_yes": 2.7,
-          "decimal_no": 1.5
+          "decimal_yes": 1.5,
+          "decimal_no": 2.7
         }
       ],
       "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
     },
     {
-      "ticker": "KXNFLGAME-26NOV23CINWAS-WAS",
-      "title": "Washington wins",
-      "event_ticker": "KXNFLGAME-26NOV23CINWAS",
-      "kalshi_observed_at_utc": "2026-11-21T11:09:43Z",
+      "ticker": "KXNFLGAME-26NOV22TBDET-TB",
+      "title": "Tampa Bay wins",
+      "event_ticker": "KXNFLGAME-26NOV22TBDET",
+      "kalshi_observed_at_utc": "2026-11-21T11:54:59Z",
       "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
       "model": "exact-outcome matched bookmaker no-vig consensus",
       "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
-      "fair_probability_mid": 0.2845,
-      "p_lower": 0.2545,
-      "p_upper": 0.3145,
+      "fair_probability_mid": 0.3242,
+      "p_lower": 0.2942,
+      "p_upper": 0.3542,
       "bookmaker_count": 9,
       "cross_book_range": [
-        0.2827,
-        0.2888
+        0.3146,
+        0.338
       ],
       "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
       "sources": [
         {
           "bookmaker": "DraftKings",
-          "no_vig_probability": 0.2833,
+          "no_vig_probability": 0.3242,
           "observed_at_utc": "2026-11-21T02:29:38Z",
-          "decimal_yes": 3.39,
-          "decimal_no": 1.34
-        },
-        {
-          "bookmaker": "BetUS",
-          "no_vig_probability": 0.28541,
-          "observed_at_utc": "2026-11-21T02:29:56Z",
-          "decimal_yes": 3.38,
-          "decimal_no": 1.35
+          "decimal_yes": 2.96,
+          "decimal_no": 1.42
         },
         {
           "bookmaker": "FanDuel",
-          "no_vig_probability": 0.28571,
+          "no_vig_probability": 0.32723,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 3.35,
-          "decimal_no": 1.34
+          "decimal_yes": 2.94,
+          "decimal_no": 1.43
         },
         {
-          "bookmaker": "BetOnline.ag",
-          "no_vig_probability": 0.2845,
-          "observed_at_utc": "2026-11-21T02:29:25Z",
-          "decimal_yes": 3.37,
-          "decimal_no": 1.34
+          "bookmaker": "BetUS",
+          "no_vig_probability": 0.3191,
+          "observed_at_utc": "2026-11-21T02:29:56Z",
+          "decimal_yes": 3.03,
+          "decimal_no": 1.42
         },
         {
           "bookmaker": "LowVig.ag",
-          "no_vig_probability": 0.2845,
+          "no_vig_probability": 0.32127,
           "observed_at_utc": "2026-11-21T02:30:13Z",
-          "decimal_yes": 3.37,
-          "decimal_no": 1.34
+          "decimal_yes": 3.0,
+          "decimal_no": 1.42
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "no_vig_probability": 0.32127,
+          "observed_at_utc": "2026-11-21T02:29:25Z",
+          "decimal_yes": 3.0,
+          "decimal_no": 1.42
         },
         {
           "bookmaker": "BetRivers",
-          "no_vig_probability": 0.28571,
-          "observed_at_utc": "2026-11-21T02:29:39Z",
-          "decimal_yes": 3.35,
-          "decimal_no": 1.34
+          "no_vig_probability": 0.31461,
+          "observed_at_utc": "2026-11-21T02:29:38Z",
+          "decimal_yes": 3.05,
+          "decimal_no": 1.4
         },
         {
           "bookmaker": "MyBookie.ag",
-          "no_vig_probability": 0.28879,
-          "observed_at_utc": "2026-11-21T02:28:36Z",
-          "decimal_yes": 3.3,
-          "decimal_no": 1.34
+          "no_vig_probability": 0.33803,
+          "observed_at_utc": "2026-11-21T02:28:37Z",
+          "decimal_yes": 2.82,
+          "decimal_no": 1.44
         },
         {
           "bookmaker": "BetMGM",
-          "no_vig_probability": 0.2827,
-          "observed_at_utc": "2026-11-21T02:30:15Z",
-          "decimal_yes": 3.4,
-          "decimal_no": 1.34
+          "no_vig_probability": 0.32648,
+          "observed_at_utc": "2026-11-21T02:30:14Z",
+          "decimal_yes": 2.95,
+          "decimal_no": 1.43
         },
         {
           "bookmaker": "Bovada",
-          "no_vig_probability": 0.2827,
+          "no_vig_probability": 0.32648,
           "observed_at_utc": "2026-11-21T02:29:43Z",
-          "decimal_yes": 3.4,
-          "decimal_no": 1.34
+          "decimal_yes": 2.95,
+          "decimal_no": 1.43
+        }
+      ],
+      "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
+    },
+    {
+      "ticker": "KXNFLGAME-26NOV22TENDAL-TEN",
+      "title": "Tennessee wins",
+      "event_ticker": "KXNFLGAME-26NOV22TENDAL",
+      "kalshi_observed_at_utc": "2026-11-21T11:54:59Z",
+      "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
+      "model": "exact-outcome matched bookmaker no-vig consensus",
+      "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
+      "fair_probability_mid": 0.2336,
+      "p_lower": 0.2036,
+      "p_upper": 0.2636,
+      "bookmaker_count": 9,
+      "cross_book_range": [
+        0.2294,
+        0.2418
+      ],
+      "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
+      "sources": [
+        {
+          "bookmaker": "DraftKings",
+          "no_vig_probability": 0.23774,
+          "observed_at_utc": "2026-11-21T02:29:38Z",
+          "decimal_yes": 4.04,
+          "decimal_no": 1.26
+        },
+        {
+          "bookmaker": "FanDuel",
+          "no_vig_probability": 0.22936,
+          "observed_at_utc": "2026-11-21T02:30:13Z",
+          "decimal_yes": 4.2,
+          "decimal_no": 1.25
+        },
+        {
+          "bookmaker": "BetUS",
+          "no_vig_probability": 0.22936,
+          "observed_at_utc": "2026-11-21T02:29:56Z",
+          "decimal_yes": 4.2,
+          "decimal_no": 1.25
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "no_vig_probability": 0.23105,
+          "observed_at_utc": "2026-11-21T02:29:25Z",
+          "decimal_yes": 4.16,
+          "decimal_no": 1.25
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "no_vig_probability": 0.23507,
+          "observed_at_utc": "2026-11-21T02:30:13Z",
+          "decimal_yes": 4.1,
+          "decimal_no": 1.26
+        },
+        {
+          "bookmaker": "BetRivers",
+          "no_vig_probability": 0.2381,
+          "observed_at_utc": "2026-11-21T02:29:38Z",
+          "decimal_yes": 4.0,
+          "decimal_no": 1.25
+        },
+        {
+          "bookmaker": "MyBookie.ag",
+          "no_vig_probability": 0.24184,
+          "observed_at_utc": "2026-11-21T02:28:37Z",
+          "decimal_yes": 3.95,
+          "decimal_no": 1.26
+        },
+        {
+          "bookmaker": "BetMGM",
+          "no_vig_probability": 0.22936,
+          "observed_at_utc": "2026-11-21T02:30:15Z",
+          "decimal_yes": 4.2,
+          "decimal_no": 1.25
+        },
+        {
+          "bookmaker": "Bovada",
+          "no_vig_probability": 0.23364,
+          "observed_at_utc": "2026-11-21T02:29:43Z",
+          "decimal_yes": 4.1,
+          "decimal_no": 1.25
+        }
+      ],
+      "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
+    },
+    {
+      "ticker": "KXNFLGAME-26NOV23CINWAS-CIN",
+      "title": "Cincinnati wins",
+      "event_ticker": "KXNFLGAME-26NOV23CINWAS",
+      "kalshi_observed_at_utc": "2026-11-21T11:54:59Z",
+      "bookmaker_cache_generated_at_utc": "2026-11-21T02:30:26Z",
+      "model": "exact-outcome matched bookmaker no-vig consensus",
+      "model_status": "HISTORICAL / WATCH ONLY; no actionable entry",
+      "fair_probability_mid": 0.7155,
+      "p_lower": 0.6855,
+      "p_upper": 0.7455,
+      "bookmaker_count": 9,
+      "cross_book_range": [
+        0.7112,
+        0.7173
+      ],
+      "uncertainty_note": "Heuristic conservative range from bookmaker disagreement and minimum ±3pp; not statistically validated.",
+      "sources": [
+        {
+          "bookmaker": "DraftKings",
+          "no_vig_probability": 0.7167,
+          "observed_at_utc": "2026-11-21T02:29:38Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.39
+        },
+        {
+          "bookmaker": "BetUS",
+          "no_vig_probability": 0.71459,
+          "observed_at_utc": "2026-11-21T02:29:56Z",
+          "decimal_yes": 1.35,
+          "decimal_no": 3.38
+        },
+        {
+          "bookmaker": "FanDuel",
+          "no_vig_probability": 0.71429,
+          "observed_at_utc": "2026-11-21T02:30:13Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.35
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "no_vig_probability": 0.7155,
+          "observed_at_utc": "2026-11-21T02:29:25Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.37
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "no_vig_probability": 0.7155,
+          "observed_at_utc": "2026-11-21T02:30:13Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.37
+        },
+        {
+          "bookmaker": "BetRivers",
+          "no_vig_probability": 0.71429,
+          "observed_at_utc": "2026-11-21T02:29:39Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.35
+        },
+        {
+          "bookmaker": "MyBookie.ag",
+          "no_vig_probability": 0.71121,
+          "observed_at_utc": "2026-11-21T02:28:36Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.3
+        },
+        {
+          "bookmaker": "BetMGM",
+          "no_vig_probability": 0.7173,
+          "observed_at_utc": "2026-11-21T02:30:15Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.4
+        },
+        {
+          "bookmaker": "Bovada",
+          "no_vig_probability": 0.7173,
+          "observed_at_utc": "2026-11-21T02:29:43Z",
+          "decimal_yes": 1.34,
+          "decimal_no": 3.4
         }
       ],
       "warning": "Historical bookmaker data; do not place an order without refreshed evidence"
