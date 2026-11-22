@@ -1,25 +1,20 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-22T09:57:50Z",
-  "input_feed_generated_at_utc": "2026-11-22T09:56:43Z",
+  "generated_at_utc": "2026-11-22T10:47:18Z",
+  "input_feed_generated_at_utc": "2026-11-22T10:47:04Z",
   "source_type": "Open-Meteo gridded forecasts plus next-day Kalshi market discovery",
   "research_only": true,
   "estimated_contracts": 0,
   "evaluations": [],
   "diagnostics": {
-    "existing_weather_sample": 96,
+    "existing_weather_sample": 100,
     "active_future_market_candidates": 0,
     "supplemented": 0,
     "quoted_supplements": 0,
     "sources_queried": 4
   },
   "errors": [
-    "weather forecast MSP: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>",
-    "weather forecast MDW: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>",
-    "weather forecast ATL: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast DEN: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast PHX: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast DTW: HTTPError: HTTP Error 429: Too Many Requests"
+    "weather forecast MDW: URLError: <urlopen error [Errno 104] Connection reset by peer>"
   ],
   "warnings": [
     "WEATHER RESEARCH ONLY: gridded forecasts not calibrated to Weather Company settlement stations.",
