@@ -1,26 +1,19 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-22T07:07:11Z",
-  "input_feed_generated_at_utc": "2026-11-22T07:06:50Z",
+  "generated_at_utc": "2026-11-22T08:19:55Z",
+  "input_feed_generated_at_utc": "2026-11-22T08:19:33Z",
   "source_type": "Open-Meteo gridded forecasts plus next-day Kalshi market discovery",
   "research_only": true,
   "estimated_contracts": 0,
   "evaluations": [],
   "diagnostics": {
-    "existing_weather_sample": 128,
+    "existing_weather_sample": 110,
     "active_future_market_candidates": 0,
     "supplemented": 0,
     "quoted_supplements": 0,
     "sources_queried": 4
   },
-  "errors": [
-    "weather forecast MSP: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast MDW: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast ATL: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast DEN: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast PHX: HTTPError: HTTP Error 429: Too Many Requests",
-    "weather forecast DTW: HTTPError: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "warnings": [
     "WEATHER RESEARCH ONLY: gridded forecasts not calibrated to Weather Company settlement stations.",
     "Model uncertainty and forecast errors do not establish live positive expected value."
