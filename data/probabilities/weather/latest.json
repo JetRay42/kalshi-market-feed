@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-23T01:45:06Z",
-  "input_feed_generated_at_utc": "2026-11-23T01:44:49Z",
+  "generated_at_utc": "2026-11-23T02:44:51Z",
+  "input_feed_generated_at_utc": "2026-11-23T02:44:35Z",
   "source_type": "Open-Meteo gridded forecasts plus next-day Kalshi market discovery",
   "research_only": true,
-  "estimated_contracts": 24,
+  "estimated_contracts": 18,
   "evaluations": [
     {
       "ticker": "KXHIGHCHI-26NOV23-B40.5",
@@ -12,7 +12,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMDW",
       "location": "Chicago Midway",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -28,32 +28,84 @@
         39.5,
         41.5
       ],
-      "forecast_max_f": 38.2,
-      "p_mid": 0.1671,
-      "p_lower": 0.091,
-      "p_upper": 0.2558,
-      "mean_f": 37.75,
+      "forecast_max_f": 39.4,
+      "p_mid": 0.2062,
+      "p_lower": 0.1431,
+      "p_upper": 0.2821,
+      "mean_f": 38.95,
       "sd_f": 3.46,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.091,
-          "p_upper": 0.2558,
-          "historical_ask_cents": 35,
+          "p_lower": 0.1431,
+          "p_upper": 0.2821,
+          "historical_ask_cents": 36,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.279,
-          "research_price_ceiling_cents_with_2pp_cushion": 6,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.2369,
+          "research_price_ceiling_cents_with_2pp_cushion": 11,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.7442,
-          "p_upper": 0.909,
-          "historical_ask_cents": 66,
+          "p_lower": 0.7179,
+          "p_upper": 0.8569,
+          "historical_ask_cents": 65,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.0642,
-          "research_price_ceiling_cents_with_2pp_cushion": 70,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.0479,
+          "research_price_ceiling_cents_with_2pp_cushion": 67,
+          "status": "research_only"
+        }
+      }
+    },
+    {
+      "ticker": "KXHIGHCHI-26NOV23-B42.5",
+      "title": "Will the maximum temperature be 42-43° on Nov 23, 2026?",
+      "event_date": "2026-11-23",
+      "settlement_code": "CLIMDW",
+      "location": "Chicago Midway",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
+      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
+      "forecast_source_url": "https://open-meteo.com/en/docs",
+      "calibration": {
+        "n_days": 101,
+        "forecast_horizon_days": 1,
+        "mean_error_f": -0.454,
+        "std_error_f": 3.008,
+        "mae_f": 2.298,
+        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
+      },
+      "weather_condition": [
+        "bin",
+        41.5,
+        43.5
+      ],
+      "forecast_max_f": 39.4,
+      "p_mid": 0.1362,
+      "p_lower": 0.0571,
+      "p_upper": 0.2168,
+      "mean_f": 38.95,
+      "sd_f": 3.46,
+      "confidence": "proxy_only_unvalidated_station",
+      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
+      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
+      "valuation": {
+        "yes": {
+          "p_lower": 0.0571,
+          "p_upper": 0.2168,
+          "historical_ask_cents": 55,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.5129,
+          "research_price_ceiling_cents_with_2pp_cushion": 2,
+          "status": "research_only"
+        },
+        "no": {
+          "p_lower": 0.7832,
+          "p_upper": 0.9429,
+          "historical_ask_cents": 46,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.3032,
+          "research_price_ceiling_cents_with_2pp_cushion": 74,
           "status": "research_only"
         }
       }
@@ -64,7 +116,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMDW",
       "location": "Chicago Midway",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -80,32 +132,32 @@
         43.5,
         45.5
       ],
-      "forecast_max_f": 38.2,
-      "p_mid": 0.0356,
-      "p_lower": 0.004,
-      "p_upper": 0.0886,
-      "mean_f": 37.75,
+      "forecast_max_f": 39.4,
+      "p_mid": 0.0649,
+      "p_lower": 0.0125,
+      "p_upper": 0.1188,
+      "mean_f": 38.95,
       "sd_f": 3.46,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.004,
-          "p_upper": 0.0886,
+          "p_lower": 0.0125,
+          "p_upper": 0.1188,
           "historical_ask_cents": 11,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.116,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.1075,
           "research_price_ceiling_cents_with_2pp_cushion": null,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9114,
-          "p_upper": 0.996,
+          "p_lower": 0.8812,
+          "p_upper": 0.9875,
           "historical_ask_cents": 90,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.0014,
-          "research_price_ceiling_cents_with_2pp_cushion": 88,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0288,
+          "research_price_ceiling_cents_with_2pp_cushion": 85,
           "status": "research_only"
         }
       }
@@ -116,7 +168,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMDW",
       "location": "Chicago Midway",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -132,84 +184,32 @@
         45.5,
         47.5
       ],
-      "forecast_max_f": 38.2,
-      "p_mid": 0.0101,
-      "p_lower": 0.0004,
-      "p_upper": 0.0459,
-      "mean_f": 37.75,
+      "forecast_max_f": 39.4,
+      "p_mid": 0.0224,
+      "p_lower": 0.0017,
+      "p_upper": 0.0698,
+      "mean_f": 38.95,
       "sd_f": 3.46,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.0004,
-          "p_upper": 0.0459,
+          "p_lower": 0.0017,
+          "p_upper": 0.0698,
           "historical_ask_cents": 1,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0196,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0183,
           "research_price_ceiling_cents_with_2pp_cushion": null,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9541,
-          "p_upper": 0.9996,
+          "p_lower": 0.9302,
+          "p_upper": 0.9983,
           "historical_ask_cents": null,
           "general_taker_fee_one_share_dollars": null,
           "edge_lower_at_historical_ask_after_general_taker_fee_dollars": null,
-          "research_price_ceiling_cents_with_2pp_cushion": 92,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHCHI-26NOV23-T40",
-      "title": "Will the maximum temperature be <40° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIMDW",
-      "location": "Chicago Midway",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -0.454,
-        "std_error_f": 3.008,
-        "mae_f": 2.298,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "below",
-        null,
-        39.5
-      ],
-      "forecast_max_f": 38.2,
-      "p_mid": 0.6939,
-      "p_lower": 0.5234,
-      "p_upper": 0.8802,
-      "mean_f": 37.75,
-      "sd_f": 3.46,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0.5234,
-          "p_upper": 0.8802,
-          "historical_ask_cents": 2,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.4934,
-          "research_price_ceiling_cents_with_2pp_cushion": 48,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.1198,
-          "p_upper": 0.4766,
-          "historical_ask_cents": 99,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.8802,
-          "research_price_ceiling_cents_with_2pp_cushion": 8,
+          "research_price_ceiling_cents_with_2pp_cushion": 90,
           "status": "research_only"
         }
       }
@@ -220,7 +220,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMDW",
       "location": "Chicago Midway",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -236,32 +236,84 @@
         47.5,
         null
       ],
-      "forecast_max_f": 38.2,
-      "p_mid": 0.0024,
-      "p_lower": 0.0,
-      "p_upper": 0.0281,
-      "mean_f": 37.75,
+      "forecast_max_f": 39.4,
+      "p_mid": 0.0067,
+      "p_lower": 0.0001,
+      "p_upper": 0.0514,
+      "mean_f": 38.95,
       "sd_f": 3.46,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0,
-          "p_upper": 0.0281,
+          "p_lower": 0.0001,
+          "p_upper": 0.0514,
           "historical_ask_cents": 1,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0199,
           "research_price_ceiling_cents_with_2pp_cushion": null,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9719,
-          "p_upper": 1,
+          "p_lower": 0.9486,
+          "p_upper": 0.9999,
           "historical_ask_cents": null,
           "general_taker_fee_one_share_dollars": null,
           "edge_lower_at_historical_ask_after_general_taker_fee_dollars": null,
-          "research_price_ceiling_cents_with_2pp_cushion": 94,
+          "research_price_ceiling_cents_with_2pp_cushion": 91,
+          "status": "research_only"
+        }
+      }
+    },
+    {
+      "ticker": "KXHIGHTATL-26NOV23-B68.5",
+      "title": "Will the maximum temperature be 68-69° on Nov 23, 2026?",
+      "event_date": "2026-11-23",
+      "settlement_code": "CLIATL",
+      "location": "Atlanta (ATL)",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
+      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
+      "forecast_source_url": "https://open-meteo.com/en/docs",
+      "calibration": {
+        "n_days": 101,
+        "forecast_horizon_days": 1,
+        "mean_error_f": -1.664,
+        "std_error_f": 2.33,
+        "mae_f": 2.367,
+        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
+      },
+      "weather_condition": [
+        "bin",
+        67.5,
+        69.5
+      ],
+      "forecast_max_f": 69.1,
+      "p_mid": 0.2699,
+      "p_lower": 0.1766,
+      "p_upper": 0.3523,
+      "mean_f": 67.44,
+      "sd_f": 2.68,
+      "confidence": "proxy_only_unvalidated_station",
+      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
+      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
+      "valuation": {
+        "yes": {
+          "p_lower": 0.1766,
+          "p_upper": 0.3523,
+          "historical_ask_cents": 38,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.2234,
+          "research_price_ceiling_cents_with_2pp_cushion": 14,
+          "status": "research_only"
+        },
+        "no": {
+          "p_lower": 0.6477,
+          "p_upper": 0.8234,
+          "historical_ask_cents": 63,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0023,
+          "research_price_ceiling_cents_with_2pp_cushion": 60,
           "status": "research_only"
         }
       }
@@ -272,7 +324,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIATL",
       "location": "Atlanta (ATL)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -288,84 +340,32 @@
         69.5,
         71.5
       ],
-      "forecast_max_f": 65.0,
-      "p_mid": 0.0096,
-      "p_lower": 0.0002,
-      "p_upper": 0.0586,
-      "mean_f": 63.34,
+      "forecast_max_f": 69.1,
+      "p_mid": 0.1559,
+      "p_lower": 0.0435,
+      "p_upper": 0.2804,
+      "mean_f": 67.44,
       "sd_f": 2.68,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.0002,
-          "p_upper": 0.0586,
+          "p_lower": 0.0435,
+          "p_upper": 0.2804,
           "historical_ask_cents": 14,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.1498,
-          "research_price_ceiling_cents_with_2pp_cushion": null,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.1065,
+          "research_price_ceiling_cents_with_2pp_cushion": 1,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9414,
-          "p_upper": 0.9998,
-          "historical_ask_cents": 87,
+          "p_lower": 0.7196,
+          "p_upper": 0.9565,
+          "historical_ask_cents": 88,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.0614,
-          "research_price_ceiling_cents_with_2pp_cushion": 91,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHTATL-26NOV23-B72.5",
-      "title": "Will the maximum temperature be 72-73° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIATL",
-      "location": "Atlanta (ATL)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -1.664,
-        "std_error_f": 2.33,
-        "mae_f": 2.367,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "bin",
-        71.5,
-        73.5
-      ],
-      "forecast_max_f": 65.0,
-      "p_mid": 0.0011,
-      "p_lower": 0.0,
-      "p_upper": 0.0185,
-      "mean_f": 63.34,
-      "sd_f": 2.68,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0,
-          "p_upper": 0.0185,
-          "historical_ask_cents": 5,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.06,
-          "research_price_ceiling_cents_with_2pp_cushion": null,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.9815,
-          "p_upper": 1,
-          "historical_ask_cents": 96,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.0115,
-          "research_price_ceiling_cents_with_2pp_cushion": 95,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.1704,
+          "research_price_ceiling_cents_with_2pp_cushion": 67,
           "status": "research_only"
         }
       }
@@ -376,7 +376,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIATL",
       "location": "Atlanta (ATL)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -392,32 +392,32 @@
         73.5,
         75.5
       ],
-      "forecast_max_f": 65.0,
-      "p_mid": 0.0001,
-      "p_lower": 0.0,
-      "p_upper": 0.0041,
-      "mean_f": 63.34,
+      "forecast_max_f": 69.1,
+      "p_mid": 0.0105,
+      "p_lower": 0.0002,
+      "p_upper": 0.0615,
+      "mean_f": 67.44,
       "sd_f": 2.68,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0,
-          "p_upper": 0.0041,
+          "p_lower": 0.0002,
+          "p_upper": 0.0615,
           "historical_ask_cents": 2,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.03,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0298,
           "research_price_ceiling_cents_with_2pp_cushion": null,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9959,
-          "p_upper": 1,
+          "p_lower": 0.9385,
+          "p_upper": 0.9998,
           "historical_ask_cents": 99,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0041,
-          "research_price_ceiling_cents_with_2pp_cushion": 96,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0615,
+          "research_price_ceiling_cents_with_2pp_cushion": 90,
           "status": "research_only"
         }
       }
@@ -428,7 +428,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIATL",
       "location": "Atlanta (ATL)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -444,32 +444,32 @@
         null,
         67.5
       ],
-      "forecast_max_f": 65.0,
-      "p_mid": 0.9399,
-      "p_lower": 0.7868,
-      "p_upper": 0.9959,
-      "mean_f": 63.34,
+      "forecast_max_f": 69.1,
+      "p_mid": 0.5095,
+      "p_lower": 0.2515,
+      "p_upper": 0.7672,
+      "mean_f": 67.44,
       "sd_f": 2.68,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.7868,
-          "p_upper": 0.9959,
-          "historical_ask_cents": 44,
+          "p_lower": 0.2515,
+          "p_upper": 0.7672,
+          "historical_ask_cents": 45,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.3268,
-          "research_price_ceiling_cents_with_2pp_cushion": 74,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.2185,
+          "research_price_ceiling_cents_with_2pp_cushion": 21,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.0041,
-          "p_upper": 0.2132,
-          "historical_ask_cents": 57,
+          "p_lower": 0.2328,
+          "p_upper": 0.7485,
+          "historical_ask_cents": 56,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.5859,
-          "research_price_ceiling_cents_with_2pp_cushion": null,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.3472,
+          "research_price_ceiling_cents_with_2pp_cushion": 19,
           "status": "research_only"
         }
       }
@@ -480,7 +480,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIATL",
       "location": "Atlanta (ATL)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -496,11 +496,11 @@
         75.5,
         null
       ],
-      "forecast_max_f": 65.0,
-      "p_mid": 0.0,
+      "forecast_max_f": 69.1,
+      "p_mid": 0.0013,
       "p_lower": 0.0,
-      "p_upper": 0.0007,
-      "mean_f": 63.34,
+      "p_upper": 0.025,
+      "mean_f": 67.44,
       "sd_f": 2.68,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
@@ -508,7 +508,7 @@
       "valuation": {
         "yes": {
           "p_lower": 0,
-          "p_upper": 0.0007,
+          "p_upper": 0.025,
           "historical_ask_cents": 1,
           "general_taker_fee_one_share_dollars": 0.01,
           "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.02,
@@ -516,12 +516,64 @@
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9993,
+          "p_lower": 0.975,
           "p_upper": 1,
           "historical_ask_cents": null,
           "general_taker_fee_one_share_dollars": null,
           "edge_lower_at_historical_ask_after_general_taker_fee_dollars": null,
-          "research_price_ceiling_cents_with_2pp_cushion": 96,
+          "research_price_ceiling_cents_with_2pp_cushion": 94,
+          "status": "research_only"
+        }
+      }
+    },
+    {
+      "ticker": "KXHIGHTMIN-26NOV23-B30.5",
+      "title": "Will the maximum temperature be 30-31° on Nov 23, 2026?",
+      "event_date": "2026-11-23",
+      "settlement_code": "CLIMSP",
+      "location": "Minneapolis (MSP)",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
+      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
+      "forecast_source_url": "https://open-meteo.com/en/docs",
+      "calibration": {
+        "n_days": 101,
+        "forecast_horizon_days": 1,
+        "mean_error_f": -0.273,
+        "std_error_f": 3.072,
+        "mae_f": 2.428,
+        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
+      },
+      "weather_condition": [
+        "bin",
+        29.5,
+        31.5
+      ],
+      "forecast_max_f": 28.5,
+      "p_mid": 0.1822,
+      "p_lower": 0.1176,
+      "p_upper": 0.2668,
+      "mean_f": 28.23,
+      "sd_f": 3.53,
+      "confidence": "proxy_only_unvalidated_station",
+      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
+      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
+      "valuation": {
+        "yes": {
+          "p_lower": 0.1176,
+          "p_upper": 0.2668,
+          "historical_ask_cents": 30,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.2024,
+          "research_price_ceiling_cents_with_2pp_cushion": 8,
+          "status": "research_only"
+        },
+        "no": {
+          "p_lower": 0.7332,
+          "p_upper": 0.8824,
+          "historical_ask_cents": 71,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.0032,
+          "research_price_ceiling_cents_with_2pp_cushion": 69,
           "status": "research_only"
         }
       }
@@ -532,7 +584,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMSP",
       "location": "Minneapolis (MSP)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:29Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -548,84 +600,32 @@
         31.5,
         33.5
       ],
-      "forecast_max_f": 29.0,
-      "p_mid": 0.1279,
-      "p_lower": 0.0521,
-      "p_upper": 0.2028,
-      "mean_f": 28.73,
+      "forecast_max_f": 28.5,
+      "p_mid": 0.1093,
+      "p_lower": 0.0374,
+      "p_upper": 0.1743,
+      "mean_f": 28.23,
       "sd_f": 3.53,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.0521,
-          "p_upper": 0.2028,
-          "historical_ask_cents": 66,
+          "p_lower": 0.0374,
+          "p_upper": 0.1743,
+          "historical_ask_cents": 68,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.6279,
-          "research_price_ceiling_cents_with_2pp_cushion": 2,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.7972,
-          "p_upper": 0.9479,
-          "historical_ask_cents": 39,
-          "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.3872,
-          "research_price_ceiling_cents_with_2pp_cushion": 75,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHTMIN-26NOV23-B34.5",
-      "title": "Will the maximum temperature be 34-35° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIMSP",
-      "location": "Minneapolis (MSP)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -0.273,
-        "std_error_f": 3.072,
-        "mae_f": 2.428,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "bin",
-        33.5,
-        35.5
-      ],
-      "forecast_max_f": 29.0,
-      "p_mid": 0.0607,
-      "p_lower": 0.0115,
-      "p_upper": 0.1131,
-      "mean_f": 28.73,
-      "sd_f": 3.53,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0.0115,
-          "p_upper": 0.1131,
-          "historical_ask_cents": 6,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0585,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.6626,
           "research_price_ceiling_cents_with_2pp_cushion": null,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.8869,
-          "p_upper": 0.9885,
-          "historical_ask_cents": 95,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0731,
-          "research_price_ceiling_cents_with_2pp_cushion": 85,
+          "p_lower": 0.8257,
+          "p_upper": 0.9626,
+          "historical_ask_cents": 34,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.4657,
+          "research_price_ceiling_cents_with_2pp_cushion": 78,
           "status": "research_only"
         }
       }
@@ -636,7 +636,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMSP",
       "location": "Minneapolis (MSP)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:29Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -652,32 +652,32 @@
         35.5,
         37.5
       ],
-      "forecast_max_f": 29.0,
-      "p_mid": 0.0211,
-      "p_lower": 0.0016,
-      "p_upper": 0.0664,
-      "mean_f": 28.73,
+      "forecast_max_f": 28.5,
+      "p_mid": 0.0154,
+      "p_lower": 0.0009,
+      "p_upper": 0.0564,
+      "mean_f": 28.23,
       "sd_f": 3.53,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.0016,
-          "p_upper": 0.0664,
+          "p_lower": 0.0009,
+          "p_upper": 0.0564,
           "historical_ask_cents": 2,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0284,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0291,
           "research_price_ceiling_cents_with_2pp_cushion": null,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9336,
-          "p_upper": 0.9984,
+          "p_lower": 0.9436,
+          "p_upper": 0.9991,
           "historical_ask_cents": 99,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0664,
-          "research_price_ceiling_cents_with_2pp_cushion": 90,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0564,
+          "research_price_ceiling_cents_with_2pp_cushion": 91,
           "status": "research_only"
         }
       }
@@ -688,7 +688,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMSP",
       "location": "Minneapolis (MSP)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -704,32 +704,32 @@
         null,
         29.5
       ],
-      "forecast_max_f": 29.0,
-      "p_mid": 0.5866,
-      "p_lower": 0.3985,
-      "p_upper": 0.7894,
-      "mean_f": 28.73,
+      "forecast_max_f": 28.5,
+      "p_mid": 0.6407,
+      "p_lower": 0.468,
+      "p_upper": 0.8367,
+      "mean_f": 28.23,
       "sd_f": 3.53,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
       "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
       "valuation": {
         "yes": {
-          "p_lower": 0.3985,
-          "p_upper": 0.7894,
+          "p_lower": 0.468,
+          "p_upper": 0.8367,
           "historical_ask_cents": 2,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.3685,
-          "research_price_ceiling_cents_with_2pp_cushion": 35,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.438,
+          "research_price_ceiling_cents_with_2pp_cushion": 42,
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.2106,
-          "p_upper": 0.6015,
+          "p_lower": 0.1633,
+          "p_upper": 0.532,
           "historical_ask_cents": 99,
           "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.7894,
-          "research_price_ceiling_cents_with_2pp_cushion": 17,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.8367,
+          "research_price_ceiling_cents_with_2pp_cushion": 13,
           "status": "research_only"
         }
       }
@@ -740,7 +740,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIMSP",
       "location": "Minneapolis (MSP)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:44Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:30Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -756,11 +756,11 @@
         37.5,
         null
       ],
-      "forecast_max_f": 29.0,
-      "p_mid": 0.0065,
+      "forecast_max_f": 28.5,
+      "p_mid": 0.0043,
       "p_lower": 0.0001,
-      "p_upper": 0.0498,
-      "mean_f": 28.73,
+      "p_upper": 0.0392,
+      "mean_f": 28.23,
       "sd_f": 3.53,
       "confidence": "proxy_only_unvalidated_station",
       "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
@@ -768,7 +768,7 @@
       "valuation": {
         "yes": {
           "p_lower": 0.0001,
-          "p_upper": 0.0498,
+          "p_upper": 0.0392,
           "historical_ask_cents": 1,
           "general_taker_fee_one_share_dollars": 0.01,
           "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0199,
@@ -776,12 +776,12 @@
           "status": "research_only"
         },
         "no": {
-          "p_lower": 0.9502,
+          "p_lower": 0.9608,
           "p_upper": 0.9999,
           "historical_ask_cents": null,
           "general_taker_fee_one_share_dollars": null,
           "edge_lower_at_historical_ask_after_general_taker_fee_dollars": null,
-          "research_price_ceiling_cents_with_2pp_cushion": 92,
+          "research_price_ceiling_cents_with_2pp_cushion": 93,
           "status": "research_only"
         }
       }
@@ -792,7 +792,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIPHX",
       "location": "Phoenix (PHX)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:47Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:49Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -821,331 +821,19 @@
         "yes": {
           "p_lower": 0.1013,
           "p_upper": 0.2925,
-          "historical_ask_cents": 60,
+          "historical_ask_cents": 65,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.5187,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.5687,
           "research_price_ceiling_cents_with_2pp_cushion": 7,
           "status": "research_only"
         },
         "no": {
           "p_lower": 0.7075,
           "p_upper": 0.8987,
-          "historical_ask_cents": 41,
+          "historical_ask_cents": 37,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.2775,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.3175,
           "research_price_ceiling_cents_with_2pp_cushion": 66,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHTPHX-26NOV23-B74.5",
-      "title": "Will the maximum temperature be 74-75° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIPHX",
-      "location": "Phoenix (PHX)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:47Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -2.257,
-        "std_error_f": 2.734,
-        "mae_f": 2.665,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "bin",
-        73.5,
-        75.5
-      ],
-      "forecast_max_f": 68.4,
-      "p_mid": 0.0082,
-      "p_lower": 0.0002,
-      "p_upper": 0.0453,
-      "mean_f": 66.14,
-      "sd_f": 3.14,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0.0002,
-          "p_upper": 0.0453,
-          "historical_ask_cents": 1,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0198,
-          "research_price_ceiling_cents_with_2pp_cushion": null,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.9547,
-          "p_upper": 0.9998,
-          "historical_ask_cents": null,
-          "general_taker_fee_one_share_dollars": null,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": null,
-          "research_price_ceiling_cents_with_2pp_cushion": 92,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHTPHX-26NOV23-T68",
-      "title": "Will the maximum temperature be <68° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIPHX",
-      "location": "Phoenix (PHX)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:48Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -2.257,
-        "std_error_f": 2.734,
-        "mae_f": 2.665,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "below",
-        null,
-        67.5
-      ],
-      "forecast_max_f": 68.4,
-      "p_mid": 0.667,
-      "p_lower": 0.4773,
-      "p_upper": 0.872,
-      "mean_f": 66.14,
-      "sd_f": 3.14,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0.4773,
-          "p_upper": 0.872,
-          "historical_ask_cents": 2,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.4473,
-          "research_price_ceiling_cents_with_2pp_cushion": 43,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.128,
-          "p_upper": 0.5227,
-          "historical_ask_cents": 99,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.872,
-          "research_price_ceiling_cents_with_2pp_cushion": 9,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHTPHX-26NOV23-T75",
-      "title": "Will the maximum temperature be >75° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIPHX",
-      "location": "Phoenix (PHX)",
-      "kalshi_observed_at_utc": "2026-11-23T01:44:48Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -2.257,
-        "std_error_f": 2.734,
-        "mae_f": 2.665,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "above",
-        75.5,
-        null
-      ],
-      "forecast_max_f": 68.4,
-      "p_mid": 0.0015,
-      "p_lower": 0.0,
-      "p_upper": 0.0228,
-      "mean_f": 66.14,
-      "sd_f": 3.14,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0,
-          "p_upper": 0.0228,
-          "historical_ask_cents": 1,
-          "general_taker_fee_one_share_dollars": 0.01,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.02,
-          "research_price_ceiling_cents_with_2pp_cushion": null,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.9772,
-          "p_upper": 1,
-          "historical_ask_cents": null,
-          "general_taker_fee_one_share_dollars": null,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": null,
-          "research_price_ceiling_cents_with_2pp_cushion": 94,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHTMIN-26NOV23-B30.5",
-      "title": "Will the maximum temperature be 30-31° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIMSP",
-      "location": "Minneapolis (MSP)",
-      "kalshi_observed_at_utc": "2026-11-23T01:45:04Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -0.273,
-        "std_error_f": 3.072,
-        "mae_f": 2.428,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "bin",
-        29.5,
-        31.5
-      ],
-      "forecast_max_f": 29.0,
-      "p_mid": 0.1972,
-      "p_lower": 0.1368,
-      "p_upper": 0.2753,
-      "mean_f": 28.73,
-      "sd_f": 3.53,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0.1368,
-          "p_upper": 0.2753,
-          "historical_ask_cents": 30,
-          "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.1832,
-          "research_price_ceiling_cents_with_2pp_cushion": 10,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.7247,
-          "p_upper": 0.8632,
-          "historical_ask_cents": 71,
-          "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0053,
-          "research_price_ceiling_cents_with_2pp_cushion": 68,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHCHI-26NOV23-B42.5",
-      "title": "Will the maximum temperature be 42-43° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIMDW",
-      "location": "Chicago Midway",
-      "kalshi_observed_at_utc": "2026-11-23T01:45:05Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -0.454,
-        "std_error_f": 3.008,
-        "mae_f": 2.298,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "bin",
-        41.5,
-        43.5
-      ],
-      "forecast_max_f": 38.2,
-      "p_mid": 0.0908,
-      "p_lower": 0.0244,
-      "p_upper": 0.1479,
-      "mean_f": 37.75,
-      "sd_f": 3.46,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0.0244,
-          "p_upper": 0.1479,
-          "historical_ask_cents": 54,
-          "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.5356,
-          "research_price_ceiling_cents_with_2pp_cushion": null,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.8521,
-          "p_upper": 0.9756,
-          "historical_ask_cents": 47,
-          "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.3621,
-          "research_price_ceiling_cents_with_2pp_cushion": 81,
-          "status": "research_only"
-        }
-      }
-    },
-    {
-      "ticker": "KXHIGHTATL-26NOV23-B68.5",
-      "title": "Will the maximum temperature be 68-69° on Nov 23, 2026?",
-      "event_date": "2026-11-23",
-      "settlement_code": "CLIATL",
-      "location": "Atlanta (ATL)",
-      "kalshi_observed_at_utc": "2026-11-23T01:45:05Z",
-      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
-      "forecast_source_url": "https://open-meteo.com/en/docs",
-      "calibration": {
-        "n_days": 101,
-        "forecast_horizon_days": 1,
-        "mean_error_f": -1.664,
-        "std_error_f": 2.33,
-        "mae_f": 2.367,
-        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
-      },
-      "weather_condition": [
-        "bin",
-        67.5,
-        69.5
-      ],
-      "forecast_max_f": 65.0,
-      "p_mid": 0.0494,
-      "p_lower": 0.0039,
-      "p_upper": 0.1313,
-      "mean_f": 63.34,
-      "sd_f": 2.68,
-      "confidence": "proxy_only_unvalidated_station",
-      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
-      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
-      "valuation": {
-        "yes": {
-          "p_lower": 0.0039,
-          "p_upper": 0.1313,
-          "historical_ask_cents": 38,
-          "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.3961,
-          "research_price_ceiling_cents_with_2pp_cushion": null,
-          "status": "research_only"
-        },
-        "no": {
-          "p_lower": 0.8687,
-          "p_upper": 0.9961,
-          "historical_ask_cents": 63,
-          "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.2187,
-          "research_price_ceiling_cents_with_2pp_cushion": 83,
           "status": "research_only"
         }
       }
@@ -1156,7 +844,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIPHX",
       "location": "Phoenix (PHX)",
-      "kalshi_observed_at_utc": "2026-11-23T01:45:05Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:49Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -1185,18 +873,18 @@
         "yes": {
           "p_lower": 0.0235,
           "p_upper": 0.1676,
-          "historical_ask_cents": 41,
+          "historical_ask_cents": 33,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.4065,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.3265,
           "research_price_ceiling_cents_with_2pp_cushion": null,
           "status": "research_only"
         },
         "no": {
           "p_lower": 0.8324,
           "p_upper": 0.9765,
-          "historical_ask_cents": 60,
+          "historical_ask_cents": 68,
           "general_taker_fee_one_share_dollars": 0.02,
-          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.2124,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.1324,
           "research_price_ceiling_cents_with_2pp_cushion": 79,
           "status": "research_only"
         }
@@ -1208,7 +896,7 @@
       "event_date": "2026-11-23",
       "settlement_code": "CLIPHX",
       "location": "Phoenix (PHX)",
-      "kalshi_observed_at_utc": "2026-11-23T01:45:05Z",
+      "kalshi_observed_at_utc": "2026-11-23T02:44:50Z",
       "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
       "forecast_source_url": "https://open-meteo.com/en/docs",
       "calibration": {
@@ -1256,10 +944,10 @@
     }
   ],
   "diagnostics": {
-    "existing_weather_sample": 136,
+    "existing_weather_sample": 129,
     "active_future_market_candidates": 24,
-    "supplemented": 5,
-    "quoted_supplements": 5,
+    "supplemented": 3,
+    "quoted_supplements": 3,
     "sources_queried": 4
   },
   "errors": [],
