@@ -1,36 +1,36 @@
 # Weather Politics — research shortlist
 
-Feed generated (UTC): 2026-11-24T15:13:15Z
+Feed generated (UTC): 2026-11-24T16:28:43Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXHIGHCHI-26NOV24-T40` | 18 | 5 / 6 | 94 / 95 |
-| 2 | `KXHIGHTATL-26NOV24-B65.5` | 18 | 1 / 2 | 98 / 99 |
-| 3 | `KXLOWTCHI-26NOV24-T24` | 18 | 1 / 2 | 98 / 99 |
-| 4 | `KXAPRPOTUS-26NOV27-37.5` | 17 | 18 / 20 | 80 / 82 |
-| 5 | `KXHIGHTHOU-26NOV24-B61.5` | 17 | 5 / 6 | 94 / 95 |
-| 6 | `KXHIGHTMIN-26NOV24-B34.5` | 17 | 39 / 40 | 60 / 61 |
-| 7 | `KXRAIN-26NOV25-ATL` | 17 | 94 / 95 | 5 / 6 |
-| 8 | `KXRAINWKND-26NOV28-DTW` | 16 | 76 / 77 | 23 / 24 |
-| 9 | `KXTRUMPVH-26NOV27-T37.0` | 16 | 14 / 15 | 85 / 86 |
-| 10 | `KXTRUMPNOMNUM-26NOV22-T30` | 13 | 1 / 2 | 98 / 99 |
-| 11 | `CONTROLS-2028-D` | 12 | 87 / 88 | 12 / 13 |
-| 12 | `KXAMSAVO-26NOV27-T1.10` | 12 | 50 / 59 | 41 / 50 |
-| 13 | `KXLOWTDEN-26NOV25-T28` | 11 | 1 / 2 | 98 / 99 |
-| 14 | `KXUSEDCARCPI-26DEC10-T183` | 11 | 1 / 2 | 98 / 99 |
-| 15 | `KXUSCPIYEAR-28FEB01-T2.0` | 9 | 86 / 87 | 13 / 14 |
+| 1 | `KXHIGHCHI-26NOV24-B44.5` | 18 | 1 / 2 | 98 / 99 |
+| 2 | `KXHIGHTATL-26NOV24-T61` | 18 | 3 / 4 | 96 / 97 |
+| 3 | `KXHIGHTHOU-26NOV24-B61.5` | 17 | 5 / 6 | 94 / 95 |
+| 4 | `KXHIGHTMIN-26NOV24-T32` | 17 | 2 / 3 | 97 / 98 |
+| 5 | `KXHIGHTOKC-26NOV24-B43.5` | 17 | 32 / 33 | 67 / 68 |
+| 6 | `KXRAIN-26NOV25-ATL` | 17 | 94 / 95 | 5 / 6 |
+| 7 | `KXTRUMPVH-26NOV27-T37.0` | 17 | 15 / 16 | 84 / 85 |
+| 8 | `KXLOWTCHI-26NOV25-T25` | 16 | 1 / 3 | 97 / 99 |
+| 9 | `KXRAINWKND-26NOV28-NOLA` | 16 | 75 / 76 | 24 / 25 |
+| 10 | `KXLOWTDEN-26NOV25-B27.5` | 13 | 1 / 6 | 94 / 99 |
+| 11 | `KXTRUMPNOMNUM-26NOV22-T30` | 13 | 1 / 2 | 98 / 99 |
+| 12 | `CONTROLS-2028-D` | 12 | 87 / 88 | 12 / 13 |
+| 13 | `KXUSEDCARCPI-26DEC10-T183` | 11 | 1 / 2 | 98 / 99 |
+| 14 | `KXAMSAVO-26NOV27-T0.80` | 10 | 93 / 98 | 2 / 7 |
+| 15 | `KXFEDGOVNOM-27-CWAL` | 10 | 0 / 4 | 96 / 100 |
 | 16 | `KXFEDDC-27JAN-FEDDC` | 8 | 1 / 4 | 96 / 99 |
-| 17 | `KXFEDGOVNOM-27-LLOG` | 8 | 1 / 6 | 94 / 99 |
-| 18 | `KXHIGHCHI-26NOV24-B42.5` | 18 | 37 / 38 | 62 / 63 |
-| 19 | `KXHIGHTATL-26NOV24-B61.5` | 18 | 47 / 48 | 52 / 53 |
-| 20 | `KXLOWTCHI-26NOV25-T25` | 12 | 1 / 6 | 94 / 99 |
-| 21 | `KXAPRPOTUS-26NOV27-37.3` | 16 | 5 / 6 | 94 / 95 |
-| 22 | `KXHIGHTHOU-26NOV24-B59.5` | 15 | 33 / 35 | 65 / 67 |
-| 23 | `KXHIGHTMIN-26NOV24-B32.5` | 17 | 47 / 48 | 52 / 53 |
+| 17 | `KXUSCPIYEAR-28FEB01-T5.0` | 8 | 7 / 8 | 92 / 93 |
+| 18 | `KXUSGASCPI-26DEC10-T342` | 7 | 89 / 99 | 1 / 11 |
+| 19 | `KXHIGHCHI-26NOV24-B40.5` | 17 | 61 / 62 | 38 / 39 |
+| 20 | `KXHIGHTATL-26NOV24-B65.5` | 17 | 3 / 4 | 96 / 97 |
+| 21 | `KXHIGHTHOU-26NOV24-B63.5` | 17 | 1 / 2 | 98 / 99 |
+| 22 | `KXHIGHTMIN-26NOV24-B38.5` | 17 | 1 / 2 | 98 / 99 |
+| 23 | `KXHIGHTOKC-26NOV25-B51.5` | 16 | 1 / 2 | 98 / 99 |
 | 24 | `KXRAIN-26NOV25-PHIL` | 17 | 1 / 2 | 98 / 99 |
-| 25 | `KXRAINWKND-26NOV28-NOLA` | 16 | 75 / 76 | 24 / 25 |
-| 26 | `KXTRUMPNOMNUM-26NOV22-T40` | 12 | 1 / 2 | 98 / 99 |
-| 27 | `CONTROLS-2028-R` | 12 | 10 / 11 | 89 / 90 |
-| 28 | `KXAMSAVO-26NOV27-T1.20` | 11 | 34 / 42 | 58 / 66 |
+| 25 | `KXLOWTCHI-26NOV25-B25.5` | 14 | 1 / 3 | 97 / 99 |
+| 26 | `KXRAINWKND-26NOV28-DTW` | 15 | 80 / 82 | 18 / 20 |
+| 27 | `KXLOWTDEN-26NOV25-B23.5` | 10 | 17 / 33 | 67 / 83 |
+| 28 | `KXTRUMPNOMNUM-26NOV22-T40` | 12 | 1 / 2 | 98 / 99 |
