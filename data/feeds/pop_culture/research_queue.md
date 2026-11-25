@@ -1,27 +1,25 @@
 # Pop Culture — research shortlist
 
-Feed generated (UTC): 2026-11-25T18:30:45Z
+Feed generated (UTC): 2026-11-25T19:31:51Z
 
 **Screening priority only — NOT a trade recommendation or estimate of expected value.**
 
 | Priority | Kalshi ticker | Research score | Bid/ask (YES, ¢) | Bid/ask (NO, ¢) |
 |---:|---|---:|---|---|
-| 1 | `KXRT-HEX-62` | 17 | 76 / 77 | 23 / 24 |
+| 1 | `KXRT-HEX-57` | 17 | 93 / 94 | 6 / 7 |
 | 2 | `KXSTEAMTOPSELLER-26DEC01-DIS` | 17 | 1 / 2 | 98 / 99 |
 | 3 | `KXPS6-26-DEC31` | 14 | 3 / 4 | 96 / 97 |
-| 4 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 12 | 1 / 2 | 98 / 99 |
-| 5 | `KXBILLBOARDRUNNERUPSONG-26DEC05-ROC` | 8 | 1 / 4 | 96 / 99 |
-| 6 | `KXPERFORMSUPERBOWL-27B-GUN` | 8 | 2 / 5 | 95 / 98 |
-| 7 | `KXTOPSONGSPOTIFYRUNNERUP-26-END` | 8 | 13 / 16 | 84 / 87 |
-| 8 | `KXOSCARNOMSPLAY-27-APL` | 7 | 1 / 5 | 95 / 99 |
-| 9 | `KXTOPSONG-26DEC12-DRA` | 6 | 2 / 89 | 11 / 98 |
-| 10 | `KXRT-FOC-25` | 16 | 88 / 90 | 10 / 12 |
-| 11 | `KXSTEAMTOPSELLER-26DEC01-AIO` | 13 | 2 / 3 | 97 / 98 |
-| 12 | `KXTOPSONGRUNNERUPUSA-26-MANI` | 8 | 60 / 68 | 32 / 40 |
-| 13 | `KXPERFORMSUPERBOWL-27B-FRA` | 7 | 7 / 10 | 90 / 93 |
-| 14 | `KXTOPSONGSPOTIFYRUNNERUP-26-BAB` | 7 | 83 / 87 | 13 / 17 |
-| 15 | `KXOSCARNOMSPLAY-27-BEH` | 7 | 9 / 11 | 89 / 91 |
-| 16 | `KXTOPSONG-26DEC12-JIN` | 6 | 2 / 89 | 11 / 98 |
-| 17 | `KXRT-VIO-90` | 15 | 1 / 2 | 98 / 99 |
-| 18 | `KXRT-ZER-75` | 15 | 8 / 9 | 91 / 92 |
-| 19 | `KXRT-HEX-57` | 15 | 93 / 97 | 3 / 7 |
+| 4 | `KXOSCARNOMSPLAY-27-OBS` | 12 | 56 / 58 | 42 / 44 |
+| 5 | `KXTOPSONGRUNNERUPUSA-26-FAT` | 12 | 1 / 2 | 98 / 99 |
+| 6 | `KXBILLBOARDRUNNERUPSONG-26DEC05-ROC` | 8 | 1 / 4 | 96 / 99 |
+| 7 | `KXPERFORMSUPERBOWL-27B-CHRI` | 8 | 3 / 7 | 93 / 97 |
+| 8 | `KXTOPSONG-26DEC12-LAS` | 6 | 2 / 89 | 11 / 98 |
+| 9 | `KXRT-DUNE-90` | 15 | 46 / 47 | 53 / 54 |
+| 10 | `KXSTEAMTOPSELLER-26DEC01-AIO` | 15 | 2 / 3 | 97 / 98 |
+| 11 | `KXOSCARNOMSPLAY-27-APL` | 7 | 1 / 5 | 95 / 99 |
+| 12 | `KXTOPSONGRUNNERUPUSA-26-EAR` | 9 | 33 / 38 | 62 / 67 |
+| 13 | `KXPERFORMSUPERBOWL-27B-USH` | 5 | 3 / 7 | 93 / 97 |
+| 14 | `KXTOPSONG-26DEC12-PAT` | 6 | 2 / 89 | 11 / 98 |
+| 15 | `KXRT-VIO-45` | 15 | 71 / 72 | 28 / 29 |
+| 16 | `KXRT-AVE-75` | 15 | 62 / 63 | 37 / 38 |
+| 17 | `KXRT-JUM-85` | 14 | 3 / 4 | 96 / 97 |
