@@ -1,26 +1,176 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-26T05:10:18Z",
-  "input_feed_generated_at_utc": "2026-11-26T05:07:48Z",
+  "generated_at_utc": "2026-11-26T06:08:33Z",
+  "input_feed_generated_at_utc": "2026-11-26T06:08:12Z",
   "source_type": "Open-Meteo gridded forecasts plus next-day Kalshi market discovery",
   "research_only": true,
-  "estimated_contracts": 0,
-  "evaluations": [],
+  "estimated_contracts": 3,
+  "evaluations": [
+    {
+      "ticker": "KXHIGHTPHX-26NOV26-B78.5",
+      "title": "Will the maximum temperature be 78-79° on Nov 26, 2026?",
+      "event_date": "2026-11-26",
+      "settlement_code": "CLIPHX",
+      "location": "Phoenix (PHX)",
+      "kalshi_observed_at_utc": "2026-11-26T06:08:10Z",
+      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
+      "forecast_source_url": "https://open-meteo.com/en/docs",
+      "calibration": {
+        "n_days": 101,
+        "forecast_horizon_days": 1,
+        "mean_error_f": -2.282,
+        "std_error_f": 2.764,
+        "mae_f": 2.716,
+        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
+      },
+      "weather_condition": [
+        "bin",
+        77.5,
+        79.5
+      ],
+      "forecast_max_f": 80.9,
+      "p_mid": 0.2468,
+      "p_lower": 0.1832,
+      "p_upper": 0.3056,
+      "mean_f": 78.62,
+      "sd_f": 3.18,
+      "confidence": "proxy_only_unvalidated_station",
+      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
+      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
+      "valuation": {
+        "yes": {
+          "p_lower": 0.1832,
+          "p_upper": 0.3056,
+          "historical_ask_cents": 45,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.2868,
+          "research_price_ceiling_cents_with_2pp_cushion": 15,
+          "status": "research_only"
+        },
+        "no": {
+          "p_lower": 0.6944,
+          "p_upper": 0.8168,
+          "historical_ask_cents": 56,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.1144,
+          "research_price_ceiling_cents_with_2pp_cushion": 65,
+          "status": "research_only"
+        }
+      }
+    },
+    {
+      "ticker": "KXHIGHTPHX-26NOV26-B80.5",
+      "title": "Will the maximum temperature be 80-81° on Nov 26, 2026?",
+      "event_date": "2026-11-26",
+      "settlement_code": "CLIPHX",
+      "location": "Phoenix (PHX)",
+      "kalshi_observed_at_utc": "2026-11-26T06:08:10Z",
+      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
+      "forecast_source_url": "https://open-meteo.com/en/docs",
+      "calibration": {
+        "n_days": 101,
+        "forecast_horizon_days": 1,
+        "mean_error_f": -2.282,
+        "std_error_f": 2.764,
+        "mae_f": 2.716,
+        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
+      },
+      "weather_condition": [
+        "bin",
+        79.5,
+        81.5
+      ],
+      "forecast_max_f": 80.9,
+      "p_mid": 0.2084,
+      "p_lower": 0.132,
+      "p_upper": 0.3026,
+      "mean_f": 78.62,
+      "sd_f": 3.18,
+      "confidence": "proxy_only_unvalidated_station",
+      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
+      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
+      "valuation": {
+        "yes": {
+          "p_lower": 0.132,
+          "p_upper": 0.3026,
+          "historical_ask_cents": 54,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.428,
+          "research_price_ceiling_cents_with_2pp_cushion": 10,
+          "status": "research_only"
+        },
+        "no": {
+          "p_lower": 0.6974,
+          "p_upper": 0.868,
+          "historical_ask_cents": 47,
+          "general_taker_fee_one_share_dollars": 0.02,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": 0.2074,
+          "research_price_ceiling_cents_with_2pp_cushion": 65,
+          "status": "research_only"
+        }
+      }
+    },
+    {
+      "ticker": "KXHIGHTPHX-26NOV26-B82.5",
+      "title": "Will the maximum temperature be 82-83° on Nov 26, 2026?",
+      "event_date": "2026-11-26",
+      "settlement_code": "CLIPHX",
+      "location": "Phoenix (PHX)",
+      "kalshi_observed_at_utc": "2026-11-26T06:08:10Z",
+      "forecast_provider": "Open-Meteo gridded forecast; NOT Kalshi settlement source",
+      "forecast_source_url": "https://open-meteo.com/en/docs",
+      "calibration": {
+        "n_days": 101,
+        "forecast_horizon_days": 1,
+        "mean_error_f": -2.282,
+        "std_error_f": 2.764,
+        "mae_f": 2.716,
+        "dataset": "Open-Meteo previous-run forecasts vs gridded historical reanalysis; NOT Kalshi Weather Company settlement observations"
+      },
+      "weather_condition": [
+        "bin",
+        81.5,
+        83.5
+      ],
+      "forecast_max_f": 80.9,
+      "p_mid": 0.12,
+      "p_lower": 0.0364,
+      "p_upper": 0.2016,
+      "mean_f": 78.62,
+      "sd_f": 3.18,
+      "confidence": "proxy_only_unvalidated_station",
+      "uncertainty_note": "Heuristic sensitivity range (forecast mean ±1.5°F, dispersion 0.8–1.25x); not an empirical confidence interval or Kalshi-station-validated model.",
+      "model_status": "RESEARCH ONLY: Weather Company final station reading not independently validated; never automate as confirmed +EV",
+      "valuation": {
+        "yes": {
+          "p_lower": 0.0364,
+          "p_upper": 0.2016,
+          "historical_ask_cents": 3,
+          "general_taker_fee_one_share_dollars": 0.01,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.0036,
+          "research_price_ceiling_cents_with_2pp_cushion": null,
+          "status": "research_only"
+        },
+        "no": {
+          "p_lower": 0.7984,
+          "p_upper": 0.9636,
+          "historical_ask_cents": 98,
+          "general_taker_fee_one_share_dollars": 0.01,
+          "edge_lower_at_historical_ask_after_general_taker_fee_dollars": -0.1916,
+          "research_price_ceiling_cents_with_2pp_cushion": 75,
+          "status": "research_only"
+        }
+      }
+    }
+  ],
   "diagnostics": {
-    "existing_weather_sample": 143,
-    "active_future_market_candidates": 18,
-    "supplemented": 3,
-    "quoted_supplements": 3,
+    "existing_weather_sample": 139,
+    "active_future_market_candidates": 6,
+    "supplemented": 0,
+    "quoted_supplements": 0,
     "sources_queried": 4
   },
-  "errors": [
-    "weather forecast MSP: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>",
-    "weather forecast MDW: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>",
-    "weather forecast ATL: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>",
-    "weather forecast DEN: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>",
-    "weather forecast PHX: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>",
-    "weather forecast DTW: URLError: <urlopen error _ssl.c:1001: The handshake operation timed out>"
-  ],
+  "errors": [],
   "warnings": [
     "WEATHER RESEARCH ONLY: gridded forecasts not calibrated to Weather Company settlement stations.",
     "Model uncertainty and forecast errors do not establish live positive expected value."
