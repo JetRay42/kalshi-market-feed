@@ -1,6 +1,6 @@
 # Kalshi public order-book snapshots (v2)
 
-Updated UTC: **2026-11-26T22:29:47Z** · Books: **204** of **204** selected · Warnings: **0**
+Updated UTC: **2026-11-26T23:29:12Z** · Books: **204** of **204** selected · Warnings: **0**
 
 > Research snapshots only: no live execution guarantee. Recheck market status, fees and settlement rules before placing any order.
 
@@ -8,209 +8,209 @@ Updated UTC: **2026-11-26T22:29:47Z** · Books: **204** of **204** selected · W
 
 | Ticker | Reason | Contract | YES bid | YES ask | YES ask size | NO bid | NO ask | NO ask size | Observed UTC |
 |---|---|---|---:|---:|---:|---:|---:|---:|---|
-| KXATPWTA-27AO-ZVEMUC | series:KXATPWTA | Will Alexander Zverev and Karolina Muchova both win the Australia | — | 0.0400 | 296.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXATPWTA-27AO-ZVENOS | series:KXATPWTA | Will Alexander Zverev and Linda Noskova both win the Australian O | — | 0.0400 | 295.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXATPWTA-27AO-ZVEOSA | series:KXATPWTA | Will Alexander Zverev and Naomi Osaka both win the Australian Ope | — | 0.0400 | 295.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXATPWTA-27AO-ZVEPAO | series:KXATPWTA | Will Alexander Zverev and Jasmine Paolini both win the Australian | — | 0.0400 | 296.00 | 0.9600 | — | — | 2026-11-26T22:29:44Z |
-| KXATPWTA-27AO-ZVERYB | series:KXATPWTA | Will Alexander Zverev and Elena Rybakina both win the Australian  | 0.0100 | 0.0700 | 217.00 | 0.9300 | 0.9900 | 302.00 | 2026-11-26T22:29:44Z |
-| KXATPWTA-27AO-ZVESAB | series:KXATPWTA | Will Alexander Zverev and Aryna Sabalenka both win the Australian | 0.0100 | 0.0700 | 210.00 | 0.9300 | 0.9900 | 411.00 | 2026-11-26T22:29:44Z |
-| KXATPWTA-27AO-ZVESHN | series:KXATPWTA | Will Alexander Zverev and Diana Shnaider both win the Australian  | — | 0.0400 | 296.00 | 0.9600 | — | — | 2026-11-26T22:29:44Z |
-| KXF1H2H-QATA26VERRUS-RUS | series:KXF1H2H | Will George Russell beat Max Verstappen in the Qatar Grand Prix? | 0.2600 | 0.3400 | 5.00 | 0.6600 | 0.7400 | 200.00 | 2026-11-26T22:29:43Z |
-| KXF1H2H-QATA26VERRUS-VER | series:KXF1H2H | Will Max Verstappen beat George Russell in the Qatar Grand Prix? | 0.6400 | 0.7200 | 5.00 | 0.2800 | 0.3600 | 200.00 | 2026-11-26T22:29:43Z |
-| KXF1OCCUR-26ADGP-ADGP | series:KXF1OCCUR | Will the 2026 F1 Abu Dhabi Grand Prix main race take place in Abu | 0.8800 | 0.8900 | 0.43 | 0.1100 | 0.1200 | 317.69 | 2026-11-26T22:29:45Z |
-| KXF1OCCUR-26QATGP-QATGP | series:KXF1OCCUR | Will the 2026 F1 Qatar Grand Prix main race take place in Qatar b | 0.9300 | 0.9700 | 181.10 | 0.0300 | 0.0700 | 5.00 | 2026-11-26T22:29:45Z |
-| KXF1RACEPODIUM-QATA26-CAM | series:KXF1RACEPODIUM | Main Race: Rafael Chaves Camara to finish top 3 | — | 0.0500 | 6.00 | 0.9500 | — | — | 2026-11-26T22:29:43Z |
-| KXF1RACEPODIUM-QATA26-COL | series:KXF1RACEPODIUM | Main Race: Franco Colapinto to finish top 3 | — | 0.0400 | 6500.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXF1RACEPODIUM-QATA26-HUL | series:KXF1RACEPODIUM | Main Race: Nico Hulkenberg to finish top 3 | — | 0.0400 | 6500.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXF1RACEPODIUM-QATA26-LAW | series:KXF1RACEPODIUM | Main Race: Liam Lawson to finish top 3 | — | 0.0400 | 3900.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXF1RACEPODIUM-QATA26-LIN | series:KXF1RACEPODIUM | Main Race: Arvid Lindblad to finish top 3 | — | 0.0400 | 3900.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXF1RACEPODIUM-QATA26-NOR | series:KXF1RACEPODIUM | Main Race: Lando Norris to finish top 3 | 0.4700 | 0.4900 | 442.14 | 0.5100 | 0.5300 | 24.00 | 2026-11-26T22:29:43Z |
-| KXF1RACEPODIUM-QATA26-SAI | series:KXF1RACEPODIUM | Main Race: Carlos Sainz Jr. to finish top 3 | — | 0.0400 | 6500.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXF1RACEPODIUM-QATA26-STR | series:KXF1RACEPODIUM | Main Race: Lance Stroll to finish top 3 | — | 0.0400 | 6500.00 | 0.9600 | — | — | 2026-11-26T22:29:43Z |
-| KXLEADERNFLPYDS-27-ARODGERS8 | series:KXLEADERNFLPYDS | Will Aaron Rodgers lead Pro Football in Passing Yards for the 202 | — | 0.0100 | 1770.38 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLPYDS-27-BMAYFIELD6 | series:KXLEADERNFLPYDS | Will Baker Mayfield lead Pro Football in Passing Yards for the 20 | — | 0.0100 | 2095.95 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLPYDS-27-BNIX10 | series:KXLEADERNFLPYDS | Will Bo Nix lead Pro Football in Passing Yards for the 2026-2027  | — | 0.0100 | 2247.51 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLPYDS-27-CWARD1 | series:KXLEADERNFLPYDS | Will Cam Ward lead Pro Football in Passing Yards for the 2026-202 | — | 0.0100 | 5248.95 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLPYDS-27-DJONES17 | series:KXLEADERNFLPYDS | Will Daniel Jones lead Pro Football in Passing Yards for the 2026 | — | 0.0100 | 2804.95 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLPYDS-27-JBRISSETT7 | series:KXLEADERNFLPYDS | Will Jacoby Brissett lead Pro Football in Passing Yards for the 2 | — | 0.0100 | 2936.59 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLPYDS-27-JHURTS1 | series:KXLEADERNFLPYDS | Will Jalen Hurts lead Pro Football in Passing Yards for the 2026- | — | 0.0100 | 1454.95 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLPYDS-27-LJACKSON8 | series:KXLEADERNFLPYDS | Will Lamar Jackson lead Pro Football in Passing Yards for the 202 | — | 0.0100 | 2201.04 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-AKAMARA41 | series:KXLEADERNFLRUSHYDS | Will Alvin Kamara lead Pro Football in rushing yards for the 2026 | — | 0.0100 | 943.19 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-BHALL20 | series:KXLEADERNFLRUSHYDS | Will Breece Hall lead Pro Football in rushing yards for the 2026- | — | 0.0100 | 842.22 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-CHUBBARD30 | series:KXLEADERNFLRUSHYDS | Will Chuba Hubbard lead Pro Football in rushing yards for the 202 | — | 0.0100 | 655.19 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-JALLEN17 | series:KXLEADERNFLRUSHYDS | Will Josh Allen lead Pro Football in rushing yards for the 2026-2 | — | 0.0100 | 649.93 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-JCROSKEYMERRITT22 | series:KXLEADERNFLRUSHYDS | Will Jacory Croskey-Merritt lead Pro Football in rushing yards fo | — | 0.0100 | 872.19 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-JJACOBS8 | series:KXLEADERNFLRUSHYDS | Will Josh Jacobs lead Pro Football in rushing yards for the 2026- | — | 0.0100 | 905.19 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-KWILLIAMS23 | series:KXLEADERNFLRUSHYDS | Will Kyren Williams lead Pro Football in rushing yards for the 20 | — | 0.0100 | 691.13 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRUSHYDS-27-LJACKSON8 | series:KXLEADERNFLRUSHYDS | Will Lamar Jackson lead Pro Football in rushing yards for the 202 | — | 0.0100 | 853.93 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRYDS-27-COLAVE12 | series:KXLEADERNFLRYDS | Will Chris Olave lead Pro Football in Receiving Yards for the 202 | — | 0.0200 | 299.08 | 0.9800 | — | — | 2026-11-26T22:29:47Z |
-| KXLEADERNFLRYDS-27-DADAMS17 | series:KXLEADERNFLRYDS | Will Davante Adams lead Pro Football in Receiving Yards for the 2 | — | 0.0100 | 926.17 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRYDS-27-DMETCALF4 | series:KXLEADERNFLRYDS | Will DK Metcalf lead Pro Football in Receiving Yards for the 2026 | — | 0.0100 | 1609.32 | 0.9900 | — | — | 2026-11-26T22:29:47Z |
-| KXLEADERNFLRYDS-27-EEGBUKA2 | series:KXLEADERNFLRYDS | Will Emeka Egbuka lead Pro Football in Receiving Yards for the 20 | — | 0.0100 | 1920.69 | 0.9900 | — | — | 2026-11-26T22:29:47Z |
-| KXLEADERNFLRYDS-27-MHARRISON18 | series:KXLEADERNFLRYDS | Will Marvin Harrison Jr. lead Pro Football in Receiving Yards for | — | 0.0100 | 1317.94 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRYDS-27-NCOLLINS12 | series:KXLEADERNFLRYDS | Will Nico Collins lead Pro Football in Receiving Yards for the 20 | — | 0.0100 | 917.00 | 0.9900 | — | — | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRYDS-27-THIGGINS5 | series:KXLEADERNFLRYDS | Will Tee Higgins lead Pro Football in Receiving Yards for the 202 | 0.0200 | 0.0500 | 1.00 | 0.9500 | 0.9800 | 1.00 | 2026-11-26T22:29:46Z |
-| KXLEADERNFLRYDS-27-TMCMILLAN4 | series:KXLEADERNFLRYDS | Will Tetairoa McMillan lead Pro Football in Receiving Yards for t | — | 0.0200 | 733.08 | 0.9800 | — | — | 2026-11-26T22:29:46Z |
-| KXNBAGAME-26NOV27ATLBOS-BOS | series:KXNBAGAME | Boston wins | 0.7600 | 0.7700 | 109.86 | 0.2300 | 0.2400 | 1668.39 | 2026-11-26T22:29:41Z |
-| KXNBAGAME-26NOV27BKNTOR-TOR | series:KXNBAGAME | Toronto wins | 0.7300 | 0.7400 | 354.56 | 0.2600 | 0.2700 | 109.69 | 2026-11-26T22:29:42Z |
-| KXNBAGAME-26NOV27DALPHX-PHX | series:KXNBAGAME | Phoenix wins | 0.5400 | 0.5500 | 519.78 | 0.4500 | 0.4600 | 210.10 | 2026-11-26T22:29:41Z |
-| KXNBAGAME-26NOV27DENUTA-DEN | series:KXNBAGAME | Denver wins | 0.7800 | 0.7900 | 160.00 | 0.2100 | 0.2200 | 1104.00 | 2026-11-26T22:29:42Z |
-| KXNBAGAME-26NOV27GSWPOR-POR | series:KXNBAGAME | Portland wins | 0.7500 | 0.7600 | 17.45 | 0.2400 | 0.2500 | 1789.49 | 2026-11-26T22:29:42Z |
-| KXNBAGAME-26NOV27MILDET-DET | series:KXNBAGAME | Detroit wins | 0.7500 | 0.7600 | 632.53 | 0.2400 | 0.2500 | 958.24 | 2026-11-26T22:29:41Z |
-| KXNBAGAME-26NOV28PHIHOU-HOU | series:KXNBAGAME | Houston wins | 0.7400 | 0.7500 | 2800.66 | 0.2500 | 0.2600 | 115.76 | 2026-11-26T22:29:42Z |
-| KXNBASPREAD-26NOV27GSWPOR-POR4 | series:KXNBASPREAD | Portland wins by over 3.5 points | 0.6400 | 0.7000 | 10.00 | 0.3000 | 0.3600 | 7.00 | 2026-11-26T22:29:42Z |
-| KXNBASPREAD-26NOV27LALSAS-SAS3 | series:KXNBASPREAD | San Antonio wins by over 2.5 points | 0.5600 | 0.6200 | 500.00 | 0.3800 | 0.4400 | 521.00 | 2026-11-26T22:29:42Z |
-| KXNBASPREAD-26NOV27MEMMIN-MIN5 | series:KXNBASPREAD | Minnesota wins by over 4.5 points | 0.4400 | 0.4900 | 103.00 | 0.5100 | 0.5600 | 40.00 | 2026-11-26T22:29:42Z |
-| KXNBASPREAD-26NOV27MIANYK-NYK27 | series:KXNBASPREAD | New York wins by over 26.5 points | 0.0200 | 0.0800 | 1115.00 | 0.9200 | 0.9800 | 259.00 | 2026-11-26T22:29:42Z |
-| KXNBASPREAD-26NOV27MILDET-MIL4 | series:KXNBASPREAD | Milwaukee wins by over 3.5 points | 0.1200 | 0.1800 | 275.00 | 0.8200 | 0.8800 | 600.00 | 2026-11-26T22:29:42Z |
-| KXNBATOTAL-26NOV27DENUTA-247 | series:KXNBATOTAL | Full Game: Over 246.5 points scored | 0.1400 | 0.2100 | 463.00 | 0.7900 | 0.8600 | 2146.00 | 2026-11-26T22:29:42Z |
-| KXNBATOTAL-26NOV27MEMMIN-230 | series:KXNBATOTAL | Full Game: Over 229.5 points scored | 0.2700 | 0.3800 | 1.00 | 0.6200 | 0.7300 | 201.00 | 2026-11-26T22:29:42Z |
-| KXNBATOTAL-26NOV27MILDET-241 | series:KXNBATOTAL | Full Game: Over 240.5 points scored | 0.0900 | 0.1900 | 20.00 | 0.8100 | 0.9100 | 295.00 | 2026-11-26T22:29:43Z |
-| KXNBATOTAL-26NOV27NOPLAC-248 | series:KXNBATOTAL | Full Game: Over 247.5 points scored | 0.1600 | 0.2300 | 20.00 | 0.7700 | 0.8400 | 1250.00 | 2026-11-26T22:29:43Z |
-| KXNBATOTAL-26NOV27PHIIND-251 | series:KXNBATOTAL | Full Game: Over 250.5 points scored | 0.1300 | 0.2300 | 5.00 | 0.7700 | 0.8700 | 249.00 | 2026-11-26T22:29:42Z |
-| KXNFLGAME-26DEC06CARMIN-CAR | series:KXNFLGAME | Carolina wins | 0.3000 | 0.3300 | 18079.47 | 0.6700 | 0.7000 | 0.11 | 2026-11-26T22:29:41Z |
-| KXNFLGAME-26DEC06CINCLE-CIN | series:KXNFLGAME | Cincinnati wins | 0.6700 | 0.7000 | 21.86 | 0.3000 | 0.3300 | 1884.00 | 2026-11-26T22:29:41Z |
-| KXNFLGAME-26DEC06HOUPIT-PIT | series:KXNFLGAME | Pittsburgh wins | 0.3200 | 0.3400 | 2574.79 | 0.6600 | 0.6800 | 12.28 | 2026-11-26T22:29:41Z |
-| KXNFLGAME-26DEC06PHIARI-PHI | series:KXNFLGAME | Philadelphia wins | 0.5600 | 0.6000 | 14.90 | 0.4000 | 0.4400 | 177.90 | 2026-11-26T22:29:41Z |
-| KXNFLGAME-26NOV26KCBUF-KC | series:KXNFLGAME | Kansas City wins | 0.3900 | 0.4000 | 5492633.44 | 0.6000 | 0.6100 | 847272.08 | 2026-11-26T22:29:41Z |
-| KXNFLGAME-26NOV26PHIDAL-DAL | series:KXNFLGAME | Dallas wins | 0.9200 | 0.9300 | 677680.54 | 0.0700 | 0.0800 | 1265195.76 | 2026-11-26T22:29:41Z |
-| KXNFLGAME-26NOV27DENPIT-PIT | series:KXNFLGAME | Pittsburgh wins | 0.3200 | 0.3300 | 2727517.98 | 0.6700 | 0.6800 | 4959.79 | 2026-11-26T22:29:41Z |
-| KXNFLLADDERREC-26NOV26KCBUF-KCRRICE4 | series:KXNFLLADDERREC | Rashee Rice Receptions Ladder | 0.2200 | 0.2300 | 157.00 | 0.7700 | 0.7800 | 9.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERREC-26NOV26PHIDAL-DALGPICKENS3 | series:KXNFLLADDERREC | George Pickens Receptions Ladder | 0.2100 | 0.2300 | 20.00 | 0.7700 | 0.7900 | 20.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERREC-26NOV27DENPIT-DENCSUTTON14 | series:KXNFLLADDERREC | Courtland Sutton Receptions Ladder | 0.1400 | 0.1600 | 50.00 | 0.8400 | 0.8600 | 11600.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERREC-26NOV29ATLMIN-ATLDLONDON5 | series:KXNFLLADDERREC | Drake London Receptions Ladder | 0.2500 | 0.2700 | 6528.00 | 0.7300 | 0.7500 | 8528.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERREC-26NOV29BALHOU-BALZFLOWERS4 | series:KXNFLLADDERREC | Zay Flowers Receptions Ladder | 0.3100 | 0.3400 | 2000.00 | 0.6600 | 0.6900 | 2000.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERREC-26NOV29NELAC-NERSTEVENSON38 | series:KXNFLLADDERREC | Rhamondre Stevenson Receptions Ladder | 0.1200 | 0.1400 | 8528.00 | 0.8600 | 0.8800 | 6528.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERREC-26NOV29WASARI-ARITMCBRIDE85 | series:KXNFLLADDERREC | Trey McBride Receptions Ladder | — | 0.4500 | 50.00 | 0.5500 | — | — | 2026-11-26T22:29:44Z |
-| KXNFLLADDERRECYDS-26NOV26KCBUF-BUFKSHAKIR10 | series:KXNFLLADDERRECYDS | Khalil Shakir receiving yards ladder | 0.1000 | 0.1100 | 194.00 | 0.8900 | 0.9000 | 2000.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERRECYDS-26NOV26PHIDAL-DALJWILLIAMS33 | series:KXNFLLADDERRECYDS | Javonte Williams receiving yards ladder | 0.0400 | 0.0500 | 2000.00 | 0.9500 | 0.9600 | 20.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERRECYDS-26NOV27DENPIT-PITJWARREN30 | series:KXNFLLADDERRECYDS | Jaylen Warren receiving yards ladder | 0.0500 | 0.0600 | 50.00 | 0.9400 | 0.9500 | 2000.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERRECYDS-26NOV29ATLMIN-MINJJEFFERSON18 | series:KXNFLLADDERRECYDS | Justin Jefferson receiving yards ladder | 0.2100 | 0.2300 | 6578.00 | 0.7700 | 0.7900 | 8528.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERRECYDS-26NOV29BALHOU-HOUNCOLLINS12 | series:KXNFLLADDERRECYDS | Nico Collins receiving yards ladder | 0.1400 | 0.1600 | 6528.00 | 0.8400 | 0.8600 | 8528.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERRECYDS-26NOV29TENJAC-JACBTHOMAS7 | series:KXNFLLADDERRECYDS | Brian Thomas Jr. receiving yards ladder | 0.0600 | 0.0700 | 4924.00 | 0.9300 | 0.9400 | 2022.00 | 2026-11-26T22:29:44Z |
-| KXNFLLADDERRECYDS-26NOV29WASARI-WASSDIGGS3 | series:KXNFLLADDERRECYDS | Stefon Diggs receiving yards ladder | 0.1100 | 0.1300 | 6528.00 | 0.8700 | 0.8900 | 8528.00 | 2026-11-26T22:29:44Z |
-| KXNFLPASSTDS-26NOV26KCBUF-BUFJALLEN17-2 | series:KXNFLPASSTDS | Josh Allen: 2+ passing touchdowns | 0.4100 | 0.4200 | 1201.00 | 0.5800 | 0.5900 | 4786.80 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV26PHIDAL-DALDPRESCOTT4-4 | series:KXNFLPASSTDS | Dak Prescott: 4+ passing touchdowns | 0.1600 | 0.1700 | 9174.55 | 0.8300 | 0.8400 | 396.00 | 2026-11-26T22:29:40Z |
-| KXNFLPASSTDS-26NOV27DENPIT-DENBNIX10-2 | series:KXNFLPASSTDS | Bo Nix: 2+ passing touchdowns | 0.3400 | 0.3500 | 1000.00 | 0.6500 | 0.6600 | 885.63 | 2026-11-26T22:29:40Z |
-| KXNFLPASSTDS-26NOV29ATLMIN-MINKCOUSINS8-4 | series:KXNFLPASSTDS | Kirk Cousins: 4+ passing touchdowns | 0.0400 | 0.1000 | 12.00 | 0.9000 | 0.9600 | 25.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29BALHOU-BALJBRISSETT7-4 | series:KXNFLPASSTDS | Jacoby Brissett: 4+ passing touchdowns | — | 0.0500 | 600.00 | 0.9500 | — | — | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29LVCLE-LVFMENDOZA15-1 | series:KXNFLPASSTDS | Fernando Mendoza: 1+ passing touchdowns | 0.6800 | 0.7100 | 720.00 | 0.2900 | 0.3200 | 2.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29NELAC-NETDEVITO16-1 | series:KXNFLPASSTDS | Tommy DeVito: 1+ passing touchdowns | 0.6100 | 0.6400 | 4.00 | 0.3600 | 0.3900 | 10.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29NOCIN-CINJBURROW9-1 | series:KXNFLPASSTDS | Joe Burrow: 1+ passing touchdowns | 0.9400 | 0.9500 | 50.00 | 0.0500 | 0.0600 | 12.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29NYGIND-NYGJMCCARTHY9-2 | series:KXNFLPASSTDS | J.J. McCarthy: 2+ passing touchdowns | 0.4200 | 0.4400 | 1002.06 | 0.5600 | 0.5800 | 27.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29NYJMIA-MIAKMCCORD14-1 | series:KXNFLPASSTDS | Kyle McCord: 1+ passing touchdowns | 0.6700 | 0.7000 | 744.00 | 0.3000 | 0.3300 | 504.48 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29SEASF-SEASDARNOLD14-4 | series:KXNFLPASSTDS | Sam Darnold: 4+ passing touchdowns | 0.0100 | 0.0700 | 1234.00 | 0.9300 | 0.9900 | 25.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29TENJAC-JACTLAWRENCE16-5 | series:KXNFLPASSTDS | Trevor Lawrence: 5+ passing touchdowns | 0.0200 | 0.0800 | 512.00 | 0.9200 | 0.9800 | 25.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV29WASARI-WASJDANIELS5-4 | series:KXNFLPASSTDS | Jayden Daniels: 4+ passing touchdowns | 0.0400 | 0.0900 | 12.00 | 0.9100 | 0.9600 | 1.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSTDS-26NOV30CARTB-TBBMAYFIELD6-2 | series:KXNFLPASSTDS | Baker Mayfield: 2+ passing touchdowns | 0.4600 | 0.4900 | 870.00 | 0.5100 | 0.5400 | 2.00 | 2026-11-26T22:29:41Z |
-| KXNFLPASSYDS-26NOV26KCBUF-KCPMAHOMES15-300 | series:KXNFLPASSYDS | Patrick Mahomes: 300+ passing yards | 0.1500 | 0.1600 | 225.00 | 0.8400 | 0.8500 | 1447.00 | 2026-11-26T22:29:37Z |
-| KXNFLPASSYDS-26NOV26PHIDAL-DALDPRESCOTT4-225 | series:KXNFLPASSYDS | Dak Prescott: 225+ passing yards | 0.7900 | 0.8000 | 8767.09 | 0.2000 | 0.2100 | 1303.00 | 2026-11-26T22:29:37Z |
-| KXNFLPASSYDS-26NOV27DENPIT-DENBNIX10-225 | series:KXNFLPASSYDS | Bo Nix: 225+ passing yards | 0.3600 | 0.3800 | 1078.00 | 0.6200 | 0.6400 | 209.00 | 2026-11-26T22:29:37Z |
-| KXNFLPASSYDS-26NOV27DENPIT-PITMRUDOLPH2-300 | series:KXNFLPASSYDS | Mason Rudolph: 300+ passing yards | 0.0200 | 0.0500 | 10.00 | 0.9500 | 0.9800 | 242.00 | 2026-11-26T22:29:38Z |
-| KXNFLPASSYDS-26NOV29ATLMIN-ATLMPENIX9-175 | series:KXNFLPASSYDS | Michael Penix Jr.: 175+ passing yards | 0.6200 | 0.6600 | 73.00 | 0.3400 | 0.3800 | 500.00 | 2026-11-26T22:29:37Z |
-| KXNFLPASSYDS-26NOV29BALHOU-HOUCSTROUD7-250 | series:KXNFLPASSYDS | C.J. Stroud: 250+ passing yards | 0.5300 | 0.5600 | 18.00 | 0.4400 | 0.4700 | 25.00 | 2026-11-26T22:29:37Z |
-| KXNFLPASSYDS-26NOV29LVCLE-LVFMENDOZA15-125 | series:KXNFLPASSYDS | Fernando Mendoza: 125+ passing yards | 0.8700 | 0.9000 | 125.00 | 0.1000 | 0.1300 | 12.00 | 2026-11-26T22:29:38Z |
-| KXNFLPASSYDS-26NOV29NOCIN-CINJBURROW9-350 | series:KXNFLPASSYDS | Joe Burrow: 350+ passing yards | 0.2000 | 0.2400 | 600.00 | 0.7600 | 0.8000 | 49.00 | 2026-11-26T22:29:38Z |
-| KXNFLPASSYDS-26NOV29NYGIND-INDARICHARDSON5-125 | series:KXNFLPASSYDS | Anthony Richardson Sr.: 125+ passing yards | 0.7200 | 0.7500 | 100.00 | 0.2500 | 0.2800 | 21.00 | 2026-11-26T22:29:38Z |
-| KXNFLPASSYDS-26NOV29NYJMIA-MIAKMCCORD14-175 | series:KXNFLPASSYDS | Kyle McCord: 175+ passing yards | 0.4800 | 0.5000 | 1538.00 | 0.5000 | 0.5200 | 42.00 | 2026-11-26T22:29:38Z |
-| KXNFLPASSYDS-26NOV29SEASF-SFBPURDY13-250 | series:KXNFLPASSYDS | Brock Purdy: 250+ passing yards | 0.3900 | 0.4400 | 12.00 | 0.5600 | 0.6100 | 13.00 | 2026-11-26T22:29:38Z |
-| KXNFLPASSYDS-26NOV29TENJAC-JACTLAWRENCE16-275 | series:KXNFLPASSYDS | Trevor Lawrence: 275+ passing yards | 0.4400 | 0.4500 | 300.00 | 0.5500 | 0.5600 | 49.00 | 2026-11-26T22:29:37Z |
-| KXNFLPASSYDS-26NOV29WASARI-ARIJJOHNSON11-200 | series:KXNFLPASSYDS | Josh Johnson: 200+ passing yards | 0.2600 | 0.3000 | 333.00 | 0.7000 | 0.7400 | 45.00 | 2026-11-26T22:29:37Z |
-| KXNFLPASSYDS-26NOV30CARTB-CARBYOUNG9-325 | series:KXNFLPASSYDS | Bryce Young: 325+ passing yards | 0.0700 | 0.1400 | 25.00 | 0.8600 | 0.9300 | 25.00 | 2026-11-26T22:29:37Z |
-| KXNFLREC-26NOV26KCBUF-BUFDMOORE2-7 | series:KXNFLREC | DJ Moore: 7+ receptions | 0.1100 | 0.1300 | 1130.00 | 0.8700 | 0.8900 | 2.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV26PHIDAL-DALLSCHOONMAKER86-1 | series:KXNFLREC | Luke Schoonmaker: 1+ receptions | 0.4100 | 0.4200 | 1670.00 | 0.5800 | 0.5900 | 40.00 | 2026-11-26T22:29:40Z |
-| KXNFLREC-26NOV26PHIDAL-PHISBARKLEY26-2 | series:KXNFLREC | Saquon Barkley: 2+ receptions | 0.3400 | 0.7300 | 0.01 | 0.2700 | 0.6600 | 540.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV27DENPIT-PITMPITTMAN11-4 | series:KXNFLREC | Michael Pittman Jr.: 4+ receptions | 0.0600 | 0.1000 | 912.00 | 0.9000 | 0.9400 | 148.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV27DENPIT-PITMPITTMAN11-5 | series:KXNFLREC | Michael Pittman Jr.: 5+ receptions | 0.0200 | 0.0500 | 25.00 | 0.9500 | 0.9800 | 25.00 | 2026-11-26T22:29:40Z |
-| KXNFLREC-26NOV29ATLMIN-MINAJONES33-5 | series:KXNFLREC | Aaron Jones Sr.: 5+ receptions | 0.0200 | 0.0600 | 190.00 | 0.9400 | 0.9800 | 25.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV29BALHOU-BALRBATEMAN7-7 | series:KXNFLREC | Rashod Bateman: 7+ receptions | 0.0100 | 0.1000 | 18.00 | 0.9000 | 0.9900 | 15.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV29NELAC-NERSTEVENSON38-7 | series:KXNFLREC | Rhamondre Stevenson: 7+ receptions | — | 0.0800 | 25.00 | 0.9200 | — | — | 2026-11-26T22:29:40Z |
-| KXNFLREC-26NOV29NOCIN-NOJTYSON0-7 | series:KXNFLREC | Jordyn Tyson: 7+ receptions | 0.1200 | 0.1600 | 25.00 | 0.8400 | 0.8800 | 118.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV29NYGIND-INDADULIN16-5 | series:KXNFLREC | Ashton Dulin: 5+ receptions | — | 0.0500 | 27.00 | 0.9500 | — | — | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV29NYJMIA-MIAMWASHINGTON6-8 | series:KXNFLREC | Malik Washington: 8+ receptions | 0.0200 | 0.0600 | 49.00 | 0.9400 | 0.9800 | 20.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV29SEASF-SFKALLEN10-6 | series:KXNFLREC | Keenan Allen: 6+ receptions | 0.0400 | 0.1300 | 14.00 | 0.8700 | 0.9600 | 15.00 | 2026-11-26T22:29:40Z |
-| KXNFLREC-26NOV29TENJAC-JACTHUNTER12-4 | series:KXNFLREC | Travis Hunter: 4+ receptions | 0.0300 | 0.0800 | 15.00 | 0.9200 | 0.9700 | 29.00 | 2026-11-26T22:29:39Z |
-| KXNFLREC-26NOV29WASARI-WASAWILLIAMS14-6 | series:KXNFLREC | Antonio Williams: 6+ receptions | 0.1400 | 0.2500 | 39.00 | 0.7500 | 0.8600 | 12.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV26PHIDAL-DALKTURPIN9-5 | series:KXNFLRECYDS | KaVontae Turpin: 5+ receiving yards | 0.9900 | — | — | — | 0.0100 | 39729.96 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV26PHIDAL-PHIWSHIPLEY28-5 | series:KXNFLRECYDS | Will Shipley: 5+ receiving yards | 0.3400 | 0.8100 | 33.00 | 0.1900 | 0.6600 | 25.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV27DENPIT-PITMPITTMAN11-10 | series:KXNFLRECYDS | Michael Pittman Jr.: 10+ receiving yards | 0.5100 | 0.5300 | 4390.00 | 0.4700 | 0.4900 | 17.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV27DENPIT-PITMPITTMAN11-50 | series:KXNFLRECYDS | Michael Pittman Jr.: 50+ receiving yards | 0.0300 | 0.0800 | 752.00 | 0.9200 | 0.9700 | 58.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29BALHOU-HOUDSCHULTZ86-25 | series:KXNFLRECYDS | Dalton Schultz: 25+ receiving yards | 0.4800 | 0.5200 | 1035.00 | 0.4800 | 0.5200 | 512.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29BALHOU-HOUDSCHULTZ86-40 | series:KXNFLRECYDS | Dalton Schultz: 40+ receiving yards | 0.2600 | 0.2900 | 256.00 | 0.7100 | 0.7400 | 25.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29LVCLE-CLEQJUDKINS10-25 | series:KXNFLRECYDS | Quinshon Judkins: 25+ receiving yards | 0.1300 | 0.1700 | 349.00 | 0.8300 | 0.8700 | 12.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29LVCLE-CLEQJUDKINS10-30 | series:KXNFLRECYDS | Quinshon Judkins: 30+ receiving yards | 0.0800 | 0.1200 | 1.00 | 0.8800 | 0.9200 | 12.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29NELAC-NEDDOUGLAS3-10 | series:KXNFLRECYDS | DeMario Douglas: 10+ receiving yards | 0.7700 | 0.8200 | 18.00 | 0.1800 | 0.2300 | 20.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29NELAC-NEMHOLLINS13-10 | series:KXNFLRECYDS | Mack Hollins: 10+ receiving yards | 0.7600 | 0.7700 | 108.00 | 0.2300 | 0.2400 | 24.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29NYJMIA-NYJAMITCHELL15-30 | series:KXNFLRECYDS | Adonai Mitchell: 30+ receiving yards | 0.5500 | 0.6300 | 12.00 | 0.3700 | 0.4500 | 25.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29TENJAC-JACJCAMERON19-25 | series:KXNFLRECYDS | Josh Cameron: 25+ receiving yards | 0.4800 | 0.4900 | 621.00 | 0.5100 | 0.5200 | 239.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV29WASARI-ARISFEHOKO80-10 | series:KXNFLRECYDS | Simi Fehoko: 10+ receiving yards | 0.6500 | 0.7100 | 172.00 | 0.2900 | 0.3500 | 25.00 | 2026-11-26T22:29:39Z |
-| KXNFLRECYDS-26NOV30CARTB-TBEEGBUKA2-60 | series:KXNFLRECYDS | Emeka Egbuka: 60+ receiving yards | 0.1500 | 0.2400 | 189.00 | 0.7600 | 0.8500 | 1.00 | 2026-11-26T22:29:39Z |
-| KXNFLRSHYDS-26NOV26KCBUF-BUFTJOHNSON26-20 | series:KXNFLRSHYDS | Ty Johnson: 20+ rushing yards | 0.0700 | 0.0800 | 5362.22 | 0.9200 | 0.9300 | 3638.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV26PHIDAL-PHISBARKLEY26-60 | series:KXNFLRSHYDS | Saquon Barkley: 60+ rushing yards | 0.3200 | 0.3500 | 38.00 | 0.6500 | 0.6800 | 21.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV27DENPIT-DENBNIX10-20 | series:KXNFLRSHYDS | Bo Nix: 20+ rushing yards | 0.2600 | 0.2800 | 956.00 | 0.7200 | 0.7400 | 50.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29ATLMIN-ATLBROBINSON7-80 | series:KXNFLRSHYDS | Bijan Robinson: 80+ rushing yards | 0.4300 | 0.4700 | 93.23 | 0.5300 | 0.5700 | 790.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29BALHOU-HOUDMONTGOMERY32-70 | series:KXNFLRSHYDS | David Montgomery: 70+ rushing yards | 0.1900 | 0.2400 | 577.00 | 0.7600 | 0.8100 | 18.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29LVCLE-LVAJEANTY2-50 | series:KXNFLRSHYDS | Ashton Jeanty: 50+ rushing yards | 0.3300 | 0.4000 | 6.00 | 0.6000 | 0.6700 | 6.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29NELAC-LACOHAMPTON8-130 | series:KXNFLRSHYDS | Omarion Hampton: 130+ rushing yards | 0.0200 | 0.0800 | 24.00 | 0.9200 | 0.9800 | 25.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29NOCIN-NOTSHOUGH6-30 | series:KXNFLRSHYDS | Tyler Shough: 30+ rushing yards | 0.2700 | 0.3000 | 500.00 | 0.7000 | 0.7300 | 25.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29NYGIND-NYGCSKATTEBO44-80 | series:KXNFLRSHYDS | Cam Skattebo: 80+ rushing yards | 0.4200 | 0.4700 | 683.00 | 0.5300 | 0.5800 | 6.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29NYJMIA-NYJBHALL20-30 | series:KXNFLRSHYDS | Breece Hall: 30+ rushing yards | 0.8300 | 0.8900 | 25.00 | 0.1100 | 0.1700 | 37.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29SEASF-SEAZCHARBONNET26-60 | series:KXNFLRSHYDS | Zach Charbonnet: 60+ rushing yards | 0.4100 | 0.4700 | 130.00 | 0.5300 | 0.5900 | 6.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29TENJAC-JACTLAWRENCE16-20 | series:KXNFLRSHYDS | Trevor Lawrence: 20+ rushing yards | 0.2200 | 0.2300 | 513.00 | 0.7700 | 0.7800 | 6.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV29WASARI-WASJDANIELS5-40 | series:KXNFLRSHYDS | Jayden Daniels: 40+ rushing yards | 0.3000 | 0.3700 | 6.00 | 0.6300 | 0.7000 | 25.00 | 2026-11-26T22:29:38Z |
-| KXNFLRSHYDS-26NOV30CARTB-CARBYOUNG9-25 | series:KXNFLRSHYDS | Bryce Young: 25+ rushing yards | 0.0200 | 0.1100 | 1123.00 | 0.8900 | 0.9800 | 25.00 | 2026-11-26T22:29:38Z |
-| KXNFLSPREAD-26NOV26KCBUF-BUF5 | series:KXNFLSPREAD | Buffalo wins by over 4.5 points? | 0.4100 | 0.4200 | 269525.52 | 0.5800 | 0.5900 | 286418.99 | 2026-11-26T22:29:42Z |
-| KXNFLSPREAD-26NOV26PHIDAL-DAL28 | series:KXNFLSPREAD | Dallas wins by over 27.5 points? | 0.2600 | 0.2700 | 124529.47 | 0.7300 | 0.7400 | 500.73 | 2026-11-26T22:29:42Z |
-| KXNFLSPREAD-26NOV27DENPIT-PIT17 | series:KXNFLSPREAD | Pittsburgh wins by over 16.5 points? | 0.0400 | 0.0500 | 6494.00 | 0.9500 | 0.9600 | 758.00 | 2026-11-26T22:29:42Z |
-| KXNFLSPREAD-26NOV29ATLMIN-MIN4 | series:KXNFLSPREAD | Minnesota wins by over 3.5 points? | 0.6100 | 0.6200 | 13823.92 | 0.3800 | 0.3900 | 120.00 | 2026-11-26T22:29:42Z |
-| KXNFLSPREAD-26NOV29BALHOU-HOU4 | series:KXNFLSPREAD | Houston wins by over 3.5 points? | 0.5900 | 0.6100 | 1911.50 | 0.3900 | 0.4100 | 2650.00 | 2026-11-26T22:29:42Z |
-| KXNFLTD-26NOV26KCBUF-BUFSBELL13-1 | series:KXNFLTD | Skyler Bell: 1+ touchdowns | 0.0500 | 0.0600 | 42964.83 | 0.9400 | 0.9500 | 75.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV26PHIDAL-PHIWSHIPLEY28-3 | series:KXNFLTD | Will Shipley: 3+ touchdowns | — | 0.0100 | 3137.00 | 0.9900 | — | — | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV27DENPIT-PITDMETCALF4-2 | series:KXNFLTD | DK Metcalf: 2+ touchdowns | 0.0100 | 0.0200 | 3257.00 | 0.9800 | 0.9900 | 242.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29ATLMIN-MINBYUROSEK85-2 | series:KXNFLTD | Ben Yurosek: 2+ touchdowns | — | 0.0100 | 1010.00 | 0.9900 | — | — | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29BALHOU-BALZFLOWERS4-1 | series:KXNFLTD | Zay Flowers: 1+ touchdowns | 0.2900 | 0.3000 | 120.83 | 0.7000 | 0.7100 | 160.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29LVCLE-CLEBWHITEHEART86-1 | series:KXNFLTD | Blake Whiteheart: 1+ touchdowns | 0.0500 | 0.0900 | 25.00 | 0.9100 | 0.9500 | 25000.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29NELAC-LACLMCCONKEY15-1 | series:KXNFLTD | Ladd McConkey: 1+ touchdowns | 0.1700 | 0.1900 | 30306.00 | 0.8100 | 0.8300 | 1100.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29NOCIN-NOTETIENNE3-1 | series:KXNFLTD | Travis Etienne Jr.: 1+ touchdowns | 0.3300 | 0.3400 | 124.00 | 0.6600 | 0.6700 | 1260.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29NYGIND-INDDBURKS80-2 | series:KXNFLTD | Deion Burks: 2+ touchdowns | — | 0.0100 | 1010.00 | 0.9900 | — | — | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29NYJMIA-NYJBALLEN0-3 | series:KXNFLTD | Braelon Allen: 3+ touchdowns | — | 0.0200 | 1308.00 | 0.9800 | — | — | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29SEASF-SEAESAUBERT81-1 | series:KXNFLTD | Eric Saubert: 1+ touchdowns | 0.0400 | 0.0700 | 649.00 | 0.9300 | 0.9600 | 25000.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29TENJAC-TENTPOLLARD20-1 | series:KXNFLTD | Tony Pollard: 1+ touchdowns | 0.4000 | 0.4200 | 135.00 | 0.5800 | 0.6000 | 417.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV29WASARI-ARIJJOHNSON11-1 | series:KXNFLTD | Josh Johnson: 1+ touchdowns | 0.1300 | 0.1500 | 161.00 | 0.8500 | 0.8700 | 90.00 | 2026-11-26T22:29:40Z |
-| KXNFLTD-26NOV30CARTB-TBTHURST17-1 | series:KXNFLTD | Ted Hurst III: 1+ touchdowns | 0.1500 | 0.2100 | 25815.00 | 0.7900 | 0.8500 | 25000.00 | 2026-11-26T22:29:40Z |
-| KXNFLTOTAL-26NOV26KCBUF-66 | series:KXNFLTOTAL | Full Game: over 65.5 points scored? | 0.0600 | 0.0700 | 324443.48 | 0.9300 | 0.9400 | 13400.82 | 2026-11-26T22:29:42Z |
-| KXNFLTOTAL-26NOV26PHIDAL-50 | series:KXNFLTOTAL | Full Game: over 49.5 points scored? | 0.5200 | 0.5300 | 61969.19 | 0.4700 | 0.4800 | 31597.33 | 2026-11-26T22:29:42Z |
-| KXNFLTOTAL-26NOV27DENPIT-38 | series:KXNFLTOTAL | Full Game: over 37.5 points scored? | 0.4700 | 0.4800 | 19475.00 | 0.5200 | 0.5300 | 228714.25 | 2026-11-26T22:29:42Z |
-| KXNFLTOTAL-26NOV29BALHOU-49 | series:KXNFLTOTAL | Full Game: over 48.5 points scored? | 0.4600 | 0.4700 | 31977.95 | 0.5300 | 0.5400 | 120.00 | 2026-11-26T22:29:42Z |
-| KXNFLTOTAL-26NOV29SEASF-68 | series:KXNFLTOTAL | Full Game: over 67.5 points scored? | 0.0200 | 0.0700 | 1824.00 | 0.9300 | 0.9800 | 1459.00 | 2026-11-26T22:29:42Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-ATLMPENIX9 | series:KXNFLWEEKMOSTPASSYDS | Michael Penix Jr.: most passing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-CINJBURROW9 | series:KXNFLWEEKMOSTPASSYDS | Joe Burrow: most passing yards in Pro Football Week 12 | 0.0700 | 0.3000 | 55.00 | 0.7000 | 0.9300 | 1.00 | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-DALDPRESCOTT4 | series:KXNFLWEEKMOSTPASSYDS | Dak Prescott: most passing yards in Pro Football Week 12 | — | 0.5000 | 85.57 | 0.5000 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-DETJGOFF16 | series:KXNFLWEEKMOSTPASSYDS | Jared Goff: most passing yards in Pro Football Week 12 | — | 0.1400 | 26.00 | 0.8600 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-SFBPURDY13 | series:KXNFLWEEKMOSTPASSYDS | Brock Purdy: most passing yards in Pro Football Week 12 | — | 0.2200 | 100.00 | 0.7800 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-TBBMAYFIELD6 | series:KXNFLWEEKMOSTPASSYDS | Baker Mayfield: most passing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-TENCWARD1 | series:KXNFLWEEKMOSTPASSYDS | Cam Ward: most passing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTPASSYDS-26W12-WASJDANIELS5 | series:KXNFLWEEKMOSTPASSYDS | Jayden Daniels: most passing yards in Pro Football Week 12 | — | 0.2200 | 100.00 | 0.7800 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-DALGPICKENS3 | series:KXNFLWEEKMOSTRECYDS | George Pickens: most receiving yards in Pro Football Week 12 | — | 0.8500 | 2879.00 | 0.1500 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-DALRFLOURNOY19 | series:KXNFLWEEKMOSTRECYDS | Ryan Flournoy: most receiving yards in Pro Football Week 12 | — | 0.8700 | 3322.00 | 0.1300 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-DENJWADDLE17 | series:KXNFLWEEKMOSTRECYDS | Jaylen Waddle: most receiving yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-DETASTBROWN14 | series:KXNFLWEEKMOSTRECYDS | Amon-Ra St. Brown: most receiving yards in Pro Football Week 12 | — | 0.9900 | 6.00 | 0.0100 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-DETJGIBBS0 | series:KXNFLWEEKMOSTRECYDS | Jahmyr Gibbs: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-DETJWILLIAMS1 | series:KXNFLWEEKMOSTRECYDS | Jameson Williams: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-GBCWATSON9 | series:KXNFLWEEKMOSTRECYDS | Christian Watson: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRECYDS-26W12-GBMGOLDEN0 | series:KXNFLWEEKMOSTRECYDS | Matthew Golden: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-LACOHAMPTON8 | series:KXNFLWEEKMOSTRSHYDS | Omarion Hampton: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:44Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-LARBCORUM24 | series:KXNFLWEEKMOSTRSHYDS | Blake Corum: most rushing yards in Pro Football Week 12 | — | 0.1000 | 26.00 | 0.9000 | — | — | 2026-11-26T22:29:44Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-LVAJEANTY2 | series:KXNFLWEEKMOSTRSHYDS | Ashton Jeanty: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:44Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-MIAOGORDON0 | series:KXNFLWEEKMOSTRSHYDS | Ollie Gordon II: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:44Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-MINAJONES33 | series:KXNFLWEEKMOSTRSHYDS | Aaron Jones Sr.: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-MINJMASON27 | series:KXNFLWEEKMOSTRSHYDS | Jordan Mason: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-NERSTEVENSON38 | series:KXNFLWEEKMOSTRSHYDS | Rhamondre Stevenson: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNFLWEEKMOSTRSHYDS-26W12-NOTETIENNE3 | series:KXNFLWEEKMOSTRSHYDS | Travis Etienne Jr.: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T22:29:45Z |
-| KXNHLGAME-26NOV27FLAWSH-WSH | series:KXNHLGAME | Washington wins | 0.5000 | 0.5100 | 11188.95 | 0.4900 | 0.5000 | 4.37 | 2026-11-26T22:29:43Z |
-| KXNHLGAME-26NOV28CGYNYR-CGY | series:KXNHLGAME | Calgary wins | 0.3400 | 0.3800 | 1.00 | 0.6200 | 0.6600 | 218.39 | 2026-11-26T22:29:43Z |
-| KXNHLGAME-26NOV28NYIPHI-PHI | series:KXNHLGAME | Philadelphia wins | 0.4800 | 0.5100 | 1575.00 | 0.4900 | 0.5200 | 410.34 | 2026-11-26T22:29:43Z |
-| KXNHLGAME-26NOV28WPGNJ-NJ | series:KXNHLGAME | New Jersey wins | 0.6400 | 0.6700 | 1574.33 | 0.3300 | 0.3600 | 411.37 | 2026-11-26T22:29:43Z |
-| KXNHLGAME-26NOV28WSHSTL-WSH | series:KXNHLGAME | Washington wins | 0.5000 | 0.5200 | 866.14 | 0.4800 | 0.5000 | 100.00 | 2026-11-26T22:29:43Z |
+| KXATPWTA-27AO-ZVEOSA | series:KXATPWTA | Will Alexander Zverev and Naomi Osaka both win the Australian Ope | — | 0.0400 | 295.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXATPWTA-27AO-ZVEPAO | series:KXATPWTA | Will Alexander Zverev and Jasmine Paolini both win the Australian | — | 0.0400 | 296.00 | 0.9600 | — | — | 2026-11-26T23:29:09Z |
+| KXATPWTA-27AO-ZVERYB | series:KXATPWTA | Will Alexander Zverev and Elena Rybakina both win the Australian  | 0.0100 | 0.0700 | 217.00 | 0.9300 | 0.9900 | 302.00 | 2026-11-26T23:29:08Z |
+| KXATPWTA-27AO-ZVESAB | series:KXATPWTA | Will Alexander Zverev and Aryna Sabalenka both win the Australian | 0.0100 | 0.0700 | 210.00 | 0.9300 | 0.9900 | 411.00 | 2026-11-26T23:29:09Z |
+| KXATPWTA-27AO-ZVESHN | series:KXATPWTA | Will Alexander Zverev and Diana Shnaider both win the Australian  | — | 0.0400 | 296.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXATPWTA-27AO-ZVESVI | series:KXATPWTA | Will Alexander Zverev and Elina Svitolina both win the Australian | — | 0.0400 | 296.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXATPWTA-27AO-ZVESWI | series:KXATPWTA | Will Alexander Zverev and Iga Swiatek both win the Australian Ope | — | 0.0600 | 261.00 | 0.9400 | — | — | 2026-11-26T23:29:09Z |
+| KXF1H2H-QATA26VERRUS-RUS | series:KXF1H2H | Will George Russell beat Max Verstappen in the Qatar Grand Prix? | 0.2600 | 0.3400 | 5.00 | 0.6600 | 0.7400 | 200.00 | 2026-11-26T23:29:08Z |
+| KXF1H2H-QATA26VERRUS-VER | series:KXF1H2H | Will Max Verstappen beat George Russell in the Qatar Grand Prix? | 0.6400 | 0.7200 | 5.00 | 0.2800 | 0.3600 | 200.00 | 2026-11-26T23:29:08Z |
+| KXF1OCCUR-26ADGP-ADGP | series:KXF1OCCUR | Will the 2026 F1 Abu Dhabi Grand Prix main race take place in Abu | 0.8800 | 0.8900 | 0.43 | 0.1100 | 0.1200 | 317.69 | 2026-11-26T23:29:11Z |
+| KXF1OCCUR-26QATGP-QATGP | series:KXF1OCCUR | Will the 2026 F1 Qatar Grand Prix main race take place in Qatar b | 0.9300 | 0.9700 | 181.10 | 0.0300 | 0.0700 | 5.00 | 2026-11-26T23:29:11Z |
+| KXF1RACEPODIUM-QATA26-HAM | series:KXF1RACEPODIUM | Main Race: Lewis Hamilton to finish top 3 | 0.1800 | 0.2400 | 5.00 | 0.7600 | 0.8200 | 121.00 | 2026-11-26T23:29:08Z |
+| KXF1RACEPODIUM-QATA26-HUL | series:KXF1RACEPODIUM | Main Race: Nico Hulkenberg to finish top 3 | — | 0.0400 | 6500.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXF1RACEPODIUM-QATA26-LAW | series:KXF1RACEPODIUM | Main Race: Liam Lawson to finish top 3 | — | 0.0400 | 3900.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXF1RACEPODIUM-QATA26-LEC | series:KXF1RACEPODIUM | Main Race: Charles Leclerc to finish top 3 | 0.2000 | 0.2200 | 8.00 | 0.7800 | 0.8000 | 14.00 | 2026-11-26T23:29:08Z |
+| KXF1RACEPODIUM-QATA26-LIN | series:KXF1RACEPODIUM | Main Race: Arvid Lindblad to finish top 3 | — | 0.0400 | 3900.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXF1RACEPODIUM-QATA26-NOR | series:KXF1RACEPODIUM | Main Race: Lando Norris to finish top 3 | 0.4600 | 0.4900 | 430.14 | 0.5100 | 0.5400 | 100.00 | 2026-11-26T23:29:08Z |
+| KXF1RACEPODIUM-QATA26-SAI | series:KXF1RACEPODIUM | Main Race: Carlos Sainz Jr. to finish top 3 | — | 0.0400 | 6500.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXF1RACEPODIUM-QATA26-STR | series:KXF1RACEPODIUM | Main Race: Lance Stroll to finish top 3 | — | 0.0400 | 6500.00 | 0.9600 | — | — | 2026-11-26T23:29:08Z |
+| KXLEADERNFLPYDS-27-BMAYFIELD6 | series:KXLEADERNFLPYDS | Will Baker Mayfield lead Pro Football in Passing Yards for the 20 | — | 0.0100 | 2095.95 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLPYDS-27-CWARD1 | series:KXLEADERNFLPYDS | Will Cam Ward lead Pro Football in Passing Yards for the 2026-202 | — | 0.0100 | 5248.95 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLPYDS-27-DJONES17 | series:KXLEADERNFLPYDS | Will Daniel Jones lead Pro Football in Passing Yards for the 2026 | — | 0.0100 | 2804.95 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLPYDS-27-JBRISSETT7 | series:KXLEADERNFLPYDS | Will Jacoby Brissett lead Pro Football in Passing Yards for the 2 | — | 0.0100 | 2936.59 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLPYDS-27-JDANIELS5 | series:KXLEADERNFLPYDS | Will Jayden Daniels lead Pro Football in Passing Yards for the 20 | — | 0.0100 | 3179.97 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLPYDS-27-JHURTS1 | series:KXLEADERNFLPYDS | Will Jalen Hurts lead Pro Football in Passing Yards for the 2026- | — | 0.0100 | 1454.95 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLPYDS-27-LJACKSON8 | series:KXLEADERNFLPYDS | Will Lamar Jackson lead Pro Football in Passing Yards for the 202 | — | 0.0100 | 2201.04 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLPYDS-27-SDARNOLD14 | series:KXLEADERNFLPYDS | Will Sam Darnold lead Pro Football in Passing Yards for the 2026- | — | 0.0100 | 3910.76 | 0.9900 | — | — | 2026-11-26T23:29:11Z |
+| KXLEADERNFLRUSHYDS-27-BHALL20 | series:KXLEADERNFLRUSHYDS | Will Breece Hall lead Pro Football in rushing yards for the 2026- | — | 0.0100 | 842.22 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRUSHYDS-27-CHUBBARD30 | series:KXLEADERNFLRUSHYDS | Will Chuba Hubbard lead Pro Football in rushing yards for the 202 | — | 0.0100 | 655.19 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRUSHYDS-27-JCROSKEYMERRITT22 | series:KXLEADERNFLRUSHYDS | Will Jacory Croskey-Merritt lead Pro Football in rushing yards fo | — | 0.0100 | 872.19 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRUSHYDS-27-JGIBBS0 | series:KXLEADERNFLRUSHYDS | Will Jahmyr Gibbs lead Pro Football in rushing yards for the 2026 | 0.6400 | 0.6700 | 28.00 | 0.3300 | 0.3600 | 71.62 | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRUSHYDS-27-JJACOBS8 | series:KXLEADERNFLRUSHYDS | Will Josh Jacobs lead Pro Football in rushing yards for the 2026- | — | 0.0100 | 905.19 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRUSHYDS-27-KWILLIAMS23 | series:KXLEADERNFLRUSHYDS | Will Kyren Williams lead Pro Football in rushing yards for the 20 | — | 0.0100 | 691.13 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRUSHYDS-27-LJACKSON8 | series:KXLEADERNFLRUSHYDS | Will Lamar Jackson lead Pro Football in rushing yards for the 202 | — | 0.0100 | 853.93 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRUSHYDS-27-TPOLLARD20 | series:KXLEADERNFLRUSHYDS | Will Tony Pollard lead Pro Football in rushing yards for the 2026 | — | 0.0100 | 649.93 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-BTHOMAS7 | series:KXLEADERNFLRYDS | Will Brian Thomas Jr. lead Pro Football in Receiving Yards for th | — | 0.0100 | 3104.23 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-COLAVE12 | series:KXLEADERNFLRYDS | Will Chris Olave lead Pro Football in Receiving Yards for the 202 | — | 0.0200 | 299.08 | 0.9800 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-DADAMS17 | series:KXLEADERNFLRYDS | Will Davante Adams lead Pro Football in Receiving Yards for the 2 | — | 0.0100 | 926.17 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-DMETCALF4 | series:KXLEADERNFLRYDS | Will DK Metcalf lead Pro Football in Receiving Yards for the 2026 | — | 0.0100 | 1609.32 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-EEGBUKA2 | series:KXLEADERNFLRYDS | Will Emeka Egbuka lead Pro Football in Receiving Yards for the 20 | — | 0.0100 | 1920.69 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-RODUNZE15 | series:KXLEADERNFLRYDS | Will Rome Odunze lead Pro Football in Receiving Yards for the 202 | — | 0.0100 | 2500.73 | 0.9900 | — | — | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-THIGGINS5 | series:KXLEADERNFLRYDS | Will Tee Higgins lead Pro Football in Receiving Yards for the 202 | 0.0200 | 0.0500 | 51.00 | 0.9500 | 0.9800 | 1.00 | 2026-11-26T23:29:12Z |
+| KXLEADERNFLRYDS-27-TMCMILLAN4 | series:KXLEADERNFLRYDS | Will Tetairoa McMillan lead Pro Football in Receiving Yards for t | — | 0.0200 | 733.08 | 0.9800 | — | — | 2026-11-26T23:29:12Z |
+| KXNBAGAME-26NOV27ATLBOS-BOS | series:KXNBAGAME | Boston wins | 0.7700 | 0.7800 | 7263.74 | 0.2200 | 0.2300 | 76.00 | 2026-11-26T23:29:08Z |
+| KXNBAGAME-26NOV27BKNTOR-TOR | series:KXNBAGAME | Toronto wins | 0.7300 | 0.7400 | 4003.16 | 0.2600 | 0.2700 | 1563.73 | 2026-11-26T23:29:07Z |
+| KXNBAGAME-26NOV27DALPHX-PHX | series:KXNBAGAME | Phoenix wins | 0.5400 | 0.5500 | 1023.61 | 0.4500 | 0.4600 | 33.10 | 2026-11-26T23:29:07Z |
+| KXNBAGAME-26NOV27GSWPOR-POR | series:KXNBAGAME | Portland wins | 0.7600 | 0.7700 | 24486.69 | 0.2300 | 0.2400 | 1609.17 | 2026-11-26T23:29:08Z |
+| KXNBAGAME-26NOV27MEMMIN-MIN | series:KXNBAGAME | Minnesota wins | 0.6000 | 0.6100 | 1100.81 | 0.3900 | 0.4000 | 1017.39 | 2026-11-26T23:29:07Z |
+| KXNBAGAME-26NOV27MILDET-DET | series:KXNBAGAME | Detroit wins | 0.7600 | 0.7700 | 965.28 | 0.2300 | 0.2400 | 2791.11 | 2026-11-26T23:29:07Z |
+| KXNBAGAME-26NOV27PHIIND-IND | series:KXNBAGAME | Indiana wins | 0.4100 | 0.4200 | 3266.79 | 0.5800 | 0.5900 | 59.24 | 2026-11-26T23:29:07Z |
+| KXNBASPREAD-26NOV27ATLBOS-BOS6 | series:KXNBASPREAD | Boston wins by over 5.5 points | 0.6300 | 0.6600 | 1400.00 | 0.3400 | 0.3700 | 600.00 | 2026-11-26T23:29:08Z |
+| KXNBASPREAD-26NOV27BKNTOR-TOR7 | series:KXNBASPREAD | Toronto wins by over 6.5 points | 0.5300 | 0.5600 | 40.00 | 0.4400 | 0.4700 | 268.28 | 2026-11-26T23:29:07Z |
+| KXNBASPREAD-26NOV27GSWPOR-POR8 | series:KXNBASPREAD | Portland wins by over 7.5 points | 0.5000 | 0.5800 | 2900.00 | 0.4200 | 0.5000 | 459.00 | 2026-11-26T23:29:08Z |
+| KXNBASPREAD-26NOV27LALSAS-SAS33 | series:KXNBASPREAD | San Antonio wins by over 32.5 points | — | 0.0600 | 43.00 | 0.9400 | — | — | 2026-11-26T23:29:08Z |
+| KXNBASPREAD-26NOV27MIANYK-NYK31 | series:KXNBASPREAD | New York wins by over 30.5 points | 0.0100 | 0.0600 | 1110.00 | 0.9400 | 0.9900 | 252.00 | 2026-11-26T23:29:08Z |
+| KXNBATOTAL-26NOV27DENUTA-251 | series:KXNBATOTAL | Full Game: Over 250.5 points scored | 0.0900 | 0.1600 | 906.00 | 0.8400 | 0.9100 | 5734.00 | 2026-11-26T23:29:08Z |
+| KXNBATOTAL-26NOV27LALSAS-249 | series:KXNBATOTAL | Full Game: Over 248.5 points scored | 0.0800 | 0.1400 | 865.00 | 0.8600 | 0.9200 | 5025.00 | 2026-11-26T23:29:08Z |
+| KXNBATOTAL-26NOV27MEMMIN-228 | series:KXNBATOTAL | Full Game: Over 227.5 points scored | 0.3000 | 0.4000 | 1.00 | 0.6000 | 0.7000 | 1067.00 | 2026-11-26T23:29:08Z |
+| KXNBATOTAL-26NOV27MILDET-245 | series:KXNBATOTAL | Full Game: Over 244.5 points scored | 0.0500 | 0.1100 | 114.00 | 0.8900 | 0.9500 | 2965.00 | 2026-11-26T23:29:08Z |
+| KXNBATOTAL-26NOV27PHIIND-257 | series:KXNBATOTAL | Full Game: Over 256.5 points scored | 0.0700 | 0.1300 | 2960.00 | 0.8700 | 0.9300 | 4.00 | 2026-11-26T23:29:09Z |
+| KXNFLGAME-26DEC03KCLAR-KC | series:KXNFLGAME | Kansas City wins | 0.5100 | 0.5200 | 10.15 | 0.4800 | 0.4900 | 33.06 | 2026-11-26T23:29:07Z |
+| KXNFLGAME-26DEC06JACCHI-JAC | series:KXNFLGAME | Jacksonville wins | 0.5400 | 0.5900 | 54.66 | 0.4100 | 0.4600 | 76.14 | 2026-11-26T23:29:07Z |
+| KXNFLGAME-26DEC06MIADEN-DEN | series:KXNFLGAME | Denver wins | 0.8900 | 0.9000 | 17.00 | 0.1000 | 0.1100 | 1036.00 | 2026-11-26T23:29:07Z |
+| KXNFLGAME-26NOV26KCBUF-KC | series:KXNFLGAME | Kansas City wins | 0.3900 | 0.4000 | 3763984.96 | 0.6000 | 0.6100 | 845964.02 | 2026-11-26T23:29:07Z |
+| KXNFLGAME-26NOV26PHIDAL-DAL | series:KXNFLGAME | Dallas wins | 0.9600 | 0.9700 | 1838805.99 | 0.0300 | 0.0400 | 2443890.77 | 2026-11-26T23:29:07Z |
+| KXNFLGAME-26NOV27DENPIT-PIT | series:KXNFLGAME | Pittsburgh wins | 0.3200 | 0.3300 | 2637658.28 | 0.6700 | 0.6800 | 2327.57 | 2026-11-26T23:29:07Z |
+| KXNFLGAME-26NOV29WASARI-WAS | series:KXNFLGAME | Washington wins | 0.7400 | 0.7500 | 53076.19 | 0.2500 | 0.2600 | 328153.96 | 2026-11-26T23:29:07Z |
+| KXNFLLADDERREC-26NOV26KCBUF-BUFDMOORE2 | series:KXNFLLADDERREC | DJ Moore Receptions Ladder | 0.1900 | 0.2100 | 942.00 | 0.7900 | 0.8100 | 2000.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERREC-26NOV26PHIDAL-PHISBARKLEY26 | series:KXNFLLADDERREC | Saquon Barkley Receptions Ladder | 0.0500 | 0.4300 | 3.00 | 0.5700 | 0.9500 | 1.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERREC-26NOV27DENPIT-PITDMETCALF4 | series:KXNFLLADDERREC | DK Metcalf Receptions Ladder | 0.1300 | 0.1400 | 50.00 | 0.8600 | 0.8700 | 11600.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERREC-26NOV29NYGIND-NYGCSKATTEBO44 | series:KXNFLLADDERREC | Cam Skattebo Receptions Ladder | 0.1100 | 0.1300 | 6528.00 | 0.8700 | 0.8900 | 8528.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERREC-26NOV29NYJMIA-NYJBHALL20 | series:KXNFLLADDERREC | Breece Hall Receptions Ladder | 0.1400 | 0.1600 | 6578.00 | 0.8400 | 0.8600 | 8528.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERREC-26NOV29SEASF-SFCMCCAFFREY23 | series:KXNFLLADDERREC | Christian McCaffrey Receptions Ladder | 0.1800 | 0.2000 | 6896.00 | 0.8000 | 0.8200 | 4896.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERREC-26NOV29TENJAC-TENTPOLLARD20 | series:KXNFLLADDERREC | Tony Pollard Receptions Ladder | 0.1400 | 0.1500 | 50.00 | 0.8500 | 0.8600 | 6528.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERRECYDS-26NOV26KCBUF-KCTKELCE87 | series:KXNFLLADDERRECYDS | Travis Kelce receiving yards ladder | 0.1300 | 0.1400 | 28600.01 | 0.8600 | 0.8700 | 48.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERRECYDS-26NOV26PHIDAL-DALCLAMB88 | series:KXNFLLADDERRECYDS | CeeDee Lamb receiving yards ladder | 0.2200 | 0.2400 | 2000.00 | 0.7600 | 0.7800 | 20.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERRECYDS-26NOV27DENPIT-PITRDOWDLE13 | series:KXNFLLADDERRECYDS | Rico Dowdle receiving yards ladder | 0.0200 | 0.0300 | 51.00 | 0.9700 | 0.9800 | 2000.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERRECYDS-26NOV29NOCIN-NODVELE14 | series:KXNFLLADDERRECYDS | Devaughn Vele receiving yards ladder | 0.0900 | 0.1000 | 6578.00 | 0.9000 | 0.9100 | 2000.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERRECYDS-26NOV29NYGIND-INDTWARREN84 | series:KXNFLLADDERRECYDS | Tyler Warren receiving yards ladder | 0.0800 | 0.0900 | 6528.00 | 0.9100 | 0.9200 | 2000.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERRECYDS-26NOV29NYJMIA-MIAMWASHINGTON6 | series:KXNFLLADDERRECYDS | Malik Washington receiving yards ladder | 0.0800 | 0.0900 | 6528.00 | 0.9100 | 0.9200 | 2000.00 | 2026-11-26T23:29:09Z |
+| KXNFLLADDERRECYDS-26NOV29SEASF-SEAJPRICE8 | series:KXNFLLADDERRECYDS | Jadarian Price receiving yards ladder | 0.0300 | 0.0400 | 6578.00 | 0.9600 | 0.9700 | 2000.00 | 2026-11-26T23:29:09Z |
+| KXNFLPASSTDS-26NOV26KCBUF-BUFJALLEN17-1 | series:KXNFLPASSTDS | Josh Allen: 1+ passing touchdowns | 0.7700 | 0.7800 | 10872.33 | 0.2200 | 0.2300 | 227.00 | 2026-11-26T23:29:05Z |
+| KXNFLPASSTDS-26NOV26PHIDAL-PHIJMILTON10-2 | series:KXNFLPASSTDS | Joe Milton III: 2+ passing touchdowns | 0.6000 | 0.6100 | 2256.34 | 0.3900 | 0.4000 | 2383.00 | 2026-11-26T23:29:06Z |
+| KXNFLPASSTDS-26NOV27DENPIT-PITMRUDOLPH2-1 | series:KXNFLPASSTDS | Mason Rudolph: 1+ passing touchdowns | 0.6000 | 0.6100 | 12.00 | 0.3900 | 0.4000 | 828.42 | 2026-11-26T23:29:06Z |
+| KXNFLPASSTDS-26NOV29ATLMIN-MINKCOUSINS8-2 | series:KXNFLPASSTDS | Kirk Cousins: 2+ passing touchdowns | 0.5400 | 0.5600 | 25.00 | 0.4400 | 0.4600 | 750.00 | 2026-11-26T23:29:06Z |
+| KXNFLPASSTDS-26NOV29BALHOU-HOUCSTROUD7-3 | series:KXNFLPASSTDS | C.J. Stroud: 3+ passing touchdowns | 0.3300 | 0.3400 | 12.00 | 0.6600 | 0.6700 | 40.00 | 2026-11-26T23:29:07Z |
+| KXNFLPASSTDS-26NOV29LVCLE-LVFMENDOZA15-3 | series:KXNFLPASSTDS | Fernando Mendoza: 3+ passing touchdowns | 0.0400 | 0.1100 | 23.00 | 0.8900 | 0.9600 | 58.00 | 2026-11-26T23:29:07Z |
+| KXNFLPASSTDS-26NOV29NELAC-NETDEVITO16-3 | series:KXNFLPASSTDS | Tommy DeVito: 3+ passing touchdowns | 0.0300 | 0.0800 | 49.00 | 0.9200 | 0.9700 | 25.00 | 2026-11-26T23:29:06Z |
+| KXNFLPASSTDS-26NOV29NOCIN-CINJBURROW9-6 | series:KXNFLPASSTDS | Joe Burrow: 6+ passing touchdowns | — | 0.0500 | 20.00 | 0.9500 | — | — | 2026-11-26T23:29:07Z |
+| KXNFLPASSTDS-26NOV29NYGIND-NYGJMCCARTHY9-2 | series:KXNFLPASSTDS | J.J. McCarthy: 2+ passing touchdowns | 0.4200 | 0.4400 | 1002.06 | 0.5600 | 0.5800 | 27.00 | 2026-11-26T23:29:06Z |
+| KXNFLPASSTDS-26NOV29NYJMIA-MIAKMCCORD14-2 | series:KXNFLPASSTDS | Kyle McCord: 2+ passing touchdowns | 0.2700 | 0.3000 | 12.00 | 0.7000 | 0.7300 | 25.00 | 2026-11-26T23:29:07Z |
+| KXNFLPASSTDS-26NOV29SEASF-SFBPURDY13-4 | series:KXNFLPASSTDS | Brock Purdy: 4+ passing touchdowns | 0.0100 | 0.1000 | 25.00 | 0.9000 | 0.9900 | 25.00 | 2026-11-26T23:29:06Z |
+| KXNFLPASSTDS-26NOV29TENJAC-TENCWARD1-1 | series:KXNFLPASSTDS | Cam Ward: 1+ passing touchdowns | 0.6800 | 0.7100 | 10.00 | 0.2900 | 0.3200 | 25.00 | 2026-11-26T23:29:07Z |
+| KXNFLPASSTDS-26NOV29WASARI-ARIJJOHNSON11-1 | series:KXNFLPASSTDS | Josh Johnson: 1+ passing touchdowns | 0.6300 | 0.6800 | 341.00 | 0.3200 | 0.3700 | 4.00 | 2026-11-26T23:29:06Z |
+| KXNFLPASSTDS-26NOV30CARTB-TBBMAYFIELD6-4 | series:KXNFLPASSTDS | Baker Mayfield: 4+ passing touchdowns | — | 0.0800 | 800.00 | 0.9200 | — | — | 2026-11-26T23:29:06Z |
+| KXNFLPASSYDS-26NOV26KCBUF-BUFJALLEN17-200 | series:KXNFLPASSYDS | Josh Allen: 200+ passing yards | 0.6000 | 0.6100 | 9590.14 | 0.3900 | 0.4000 | 1109.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV26KCBUF-BUFJALLEN17-300 | series:KXNFLPASSYDS | Josh Allen: 300+ passing yards | 0.1100 | 0.1200 | 266.47 | 0.8800 | 0.8900 | 2093.00 | 2026-11-26T23:29:04Z |
+| KXNFLPASSYDS-26NOV26PHIDAL-DALDPRESCOTT4-300 | series:KXNFLPASSYDS | Dak Prescott: 300+ passing yards | 0.1400 | 0.1500 | 6940.70 | 0.8500 | 0.8600 | 4429.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV27DENPIT-PITMRUDOLPH2-100 | series:KXNFLPASSYDS | Mason Rudolph: 100+ passing yards | 0.8700 | 0.8800 | 30.00 | 0.1200 | 0.1300 | 142.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29ATLMIN-ATLMPENIX9-250 | series:KXNFLPASSYDS | Michael Penix Jr.: 250+ passing yards | 0.2100 | 0.2500 | 834.00 | 0.7500 | 0.7900 | 26.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29BALHOU-HOUCSTROUD7-325 | series:KXNFLPASSYDS | C.J. Stroud: 325+ passing yards | 0.1400 | 0.2000 | 612.00 | 0.8000 | 0.8600 | 25.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29LVCLE-LVFMENDOZA15-225 | series:KXNFLPASSYDS | Fernando Mendoza: 225+ passing yards | 0.3800 | 0.3900 | 12.00 | 0.6100 | 0.6200 | 11.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29NOCIN-CINJBURROW9-400 | series:KXNFLPASSYDS | Joe Burrow: 400+ passing yards | 0.0600 | 0.1000 | 25.00 | 0.9000 | 0.9400 | 12.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29NYGIND-INDARICHARDSON5-200 | series:KXNFLPASSYDS | Anthony Richardson Sr.: 200+ passing yards | 0.2700 | 0.3000 | 1062.00 | 0.7000 | 0.7300 | 25.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29NYJMIA-NYJGSMITH7-175 | series:KXNFLPASSYDS | Geno Smith: 175+ passing yards | 0.6700 | 0.6900 | 80.00 | 0.3100 | 0.3300 | 37.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29SEASF-SEASDARNOLD14-200 | series:KXNFLPASSYDS | Sam Darnold: 200+ passing yards | 0.6000 | 0.6500 | 12.00 | 0.3500 | 0.4000 | 26.00 | 2026-11-26T23:29:04Z |
+| KXNFLPASSYDS-26NOV29TENJAC-JACTLAWRENCE16-200 | series:KXNFLPASSYDS | Trevor Lawrence: 200+ passing yards | 0.8400 | 0.8600 | 753.00 | 0.1400 | 0.1600 | 12.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV29WASARI-ARIJJOHNSON11-150 | series:KXNFLPASSYDS | Josh Johnson: 150+ passing yards | 0.5700 | 0.5900 | 337.00 | 0.4100 | 0.4300 | 28.00 | 2026-11-26T23:29:03Z |
+| KXNFLPASSYDS-26NOV30CARTB-CARBYOUNG9-350 | series:KXNFLPASSYDS | Bryce Young: 350+ passing yards | 0.0300 | 0.0900 | 25.00 | 0.9100 | 0.9700 | 25.00 | 2026-11-26T23:29:03Z |
+| KXNFLREC-26NOV26KCBUF-BUFDKNOX88-2 | series:KXNFLREC | Dawson Knox: 2+ receptions | 0.4500 | 0.4600 | 9400.00 | 0.5400 | 0.5500 | 771.26 | 2026-11-26T23:29:05Z |
+| KXNFLREC-26NOV26KCBUF-KCEJOHNSON10-4 | series:KXNFLREC | Emmett Johnson: 4+ receptions | 0.5400 | 0.5500 | 6518.06 | 0.4500 | 0.4600 | 3019.17 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV26PHIDAL-PHISBARKLEY26-1 | series:KXNFLREC | Saquon Barkley: 1+ receptions | 0.0300 | 0.8500 | 10.00 | 0.1500 | 0.9700 | 123.00 | 2026-11-26T23:29:05Z |
+| KXNFLREC-26NOV27DENPIT-PITMPITTMAN11-2 | series:KXNFLREC | Michael Pittman Jr.: 2+ receptions | 0.4300 | 0.4400 | 700.00 | 0.5600 | 0.5700 | 1962.65 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV27DENPIT-PITMPITTMAN11-3 | series:KXNFLREC | Michael Pittman Jr.: 3+ receptions | 0.1900 | 0.2100 | 223.00 | 0.7900 | 0.8100 | 40.00 | 2026-11-26T23:29:05Z |
+| KXNFLREC-26NOV29ATLMIN-MINJJEFFERSON18-10 | series:KXNFLREC | Justin Jefferson: 10+ receptions | 0.1400 | 0.2000 | 128.00 | 0.8000 | 0.8600 | 112.00 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV29BALHOU-BALZFLOWERS4-11 | series:KXNFLREC | Zay Flowers: 11+ receptions | 0.0400 | 0.1000 | 154.00 | 0.9000 | 0.9600 | 19.00 | 2026-11-26T23:29:05Z |
+| KXNFLREC-26NOV29NELAC-NEDDOUGLAS3-3 | series:KXNFLREC | DeMario Douglas: 3+ receptions | 0.5000 | 0.5300 | 1242.00 | 0.4700 | 0.5000 | 238.61 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV29NOCIN-NOJTYSON0-9 | series:KXNFLREC | Jordyn Tyson: 9+ receptions | 0.0300 | 0.0600 | 25.00 | 0.9400 | 0.9700 | 6.00 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV29NYGIND-INDAGOULD6-3 | series:KXNFLREC | Anthony Gould: 3+ receptions | 0.3100 | 0.3300 | 25.00 | 0.6700 | 0.6900 | 12.00 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV29NYJMIA-MIAOGORDON0-6 | series:KXNFLREC | Ollie Gordon II: 6+ receptions | 0.0200 | 0.0700 | 49.00 | 0.9300 | 0.9800 | 25.00 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV29SEASF-SFKALLEN10-8 | series:KXNFLREC | Keenan Allen: 8+ receptions | — | 0.0800 | 16.00 | 0.9200 | — | — | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV29TENJAC-TENCDIKE17-4 | series:KXNFLREC | Chimere Dike: 4+ receptions | 0.3800 | 0.4300 | 1191.00 | 0.5700 | 0.6200 | 199.00 | 2026-11-26T23:29:04Z |
+| KXNFLREC-26NOV29WASARI-WASAWILLIAMS14-8 | series:KXNFLREC | Antonio Williams: 8+ receptions | 0.0600 | 0.1000 | 167.00 | 0.9000 | 0.9400 | 8.00 | 2026-11-26T23:29:05Z |
+| KXNFLRECYDS-26NOV26PHIDAL-DALBSPANNFORD89-5 | series:KXNFLRECYDS | Brevyn Spann-Ford: 5+ receiving yards | 0.3900 | 0.4000 | 923.00 | 0.6000 | 0.6100 | 20.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV26PHIDAL-DALRFLOURNOY19-5 | series:KXNFLRECYDS | Ryan Flournoy: 5+ receiving yards | 0.5500 | 0.5800 | 55.00 | 0.4200 | 0.4500 | 20.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV27DENPIT-PITMPITTMAN11-10 | series:KXNFLRECYDS | Michael Pittman Jr.: 10+ receiving yards | 0.5100 | 0.5300 | 4289.00 | 0.4700 | 0.4900 | 17.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV27DENPIT-PITMPITTMAN11-15 | series:KXNFLRECYDS | Michael Pittman Jr.: 15+ receiving yards | 0.3900 | 0.4100 | 422.00 | 0.5900 | 0.6100 | 41.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29BALHOU-HOUDSCHULTZ86-50 | series:KXNFLRECYDS | Dalton Schultz: 50+ receiving yards | 0.1500 | 0.1900 | 500.00 | 0.8100 | 0.8500 | 12.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29BALHOU-HOUDSCHULTZ86-60 | series:KXNFLRECYDS | Dalton Schultz: 60+ receiving yards | 0.0800 | 0.1300 | 572.00 | 0.8700 | 0.9200 | 12.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29LVCLE-CLEHFANNIN44-70 | series:KXNFLRECYDS | Harold Fannin Jr.: 70+ receiving yards | 0.1500 | 0.2500 | 12.00 | 0.7500 | 0.8500 | 24.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29LVCLE-CLEHFANNIN44-80 | series:KXNFLRECYDS | Harold Fannin Jr.: 80+ receiving yards | 0.1000 | 0.1900 | 24.00 | 0.8100 | 0.9000 | 18.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29NELAC-NEDDOUGLAS3-10 | series:KXNFLRECYDS | DeMario Douglas: 10+ receiving yards | 0.7700 | 0.7800 | 113.00 | 0.2200 | 0.2300 | 21.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29NELAC-NEDDOUGLAS3-15 | series:KXNFLRECYDS | DeMario Douglas: 15+ receiving yards | 0.6700 | 0.7000 | 83.00 | 0.3000 | 0.3300 | 23.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29NYJMIA-NYJAMITCHELL15-50 | series:KXNFLRECYDS | Adonai Mitchell: 50+ receiving yards | 0.3100 | 0.3700 | 268.00 | 0.6300 | 0.6900 | 25.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29TENJAC-TENTPOLLARD20-10 | series:KXNFLRECYDS | Tony Pollard: 10+ receiving yards | 0.6100 | 0.6600 | 172.00 | 0.3400 | 0.3900 | 17.00 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV29WASARI-ARISFEHOKO80-20 | series:KXNFLRECYDS | Simi Fehoko: 20+ receiving yards | 0.4800 | 0.5100 | 904.00 | 0.4900 | 0.5200 | 324.98 | 2026-11-26T23:29:04Z |
+| KXNFLRECYDS-26NOV30CARTB-TBEEGBUKA2-80 | series:KXNFLRECYDS | Emeka Egbuka: 80+ receiving yards | 0.0400 | 0.1300 | 25.00 | 0.8700 | 0.9600 | 25.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV26KCBUF-KCEJOHNSON10-90 | series:KXNFLRSHYDS | Emmett Johnson: 90+ rushing yards | 0.4000 | 0.4100 | 837.64 | 0.5900 | 0.6000 | 188.00 | 2026-11-26T23:29:03Z |
+| KXNFLRSHYDS-26NOV26PHIDAL-PHIWSHIPLEY28-50 | series:KXNFLRSHYDS | Will Shipley: 50+ rushing yards | 0.3100 | 0.3300 | 132.00 | 0.6700 | 0.6900 | 17.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV27DENPIT-DENJCOLEMAN20-80 | series:KXNFLRSHYDS | Jonah Coleman: 80+ rushing yards | 0.4300 | 0.4400 | 17.85 | 0.5600 | 0.5700 | 50.01 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29ATLMIN-ATLBROBINSON7-70 | series:KXNFLRSHYDS | Bijan Robinson: 70+ rushing yards | 0.5500 | 0.5900 | 489.00 | 0.4100 | 0.4500 | 644.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29BALHOU-HOUDMONTGOMERY32-90 | series:KXNFLRSHYDS | David Montgomery: 90+ rushing yards | 0.0700 | 0.1100 | 25.00 | 0.8900 | 0.9300 | 6.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29LVCLE-LVAJEANTY2-70 | series:KXNFLRSHYDS | Ashton Jeanty: 70+ rushing yards | 0.1300 | 0.1900 | 37.00 | 0.8100 | 0.8700 | 6.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29NELAC-LACOHAMPTON8-40 | series:KXNFLRSHYDS | Omarion Hampton: 40+ rushing yards | 0.6900 | 0.7900 | 56.00 | 0.2100 | 0.3100 | 6.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29NOCIN-NOTSHOUGH6-50 | series:KXNFLRSHYDS | Tyler Shough: 50+ rushing yards | 0.0700 | 0.1100 | 900.00 | 0.8900 | 0.9300 | 6.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29NYGIND-NYGCSKATTEBO44-90 | series:KXNFLRSHYDS | Cam Skattebo: 90+ rushing yards | 0.3200 | 0.3700 | 46.00 | 0.6300 | 0.6800 | 6.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29NYJMIA-NYJBHALL20-70 | series:KXNFLRSHYDS | Breece Hall: 70+ rushing yards | 0.3500 | 0.4000 | 37.00 | 0.6000 | 0.6500 | 25.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29SEASF-SEASDARNOLD14-10 | series:KXNFLRSHYDS | Sam Darnold: 10+ rushing yards | 0.3000 | 0.3400 | 1050.00 | 0.6600 | 0.7000 | 6.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29TENJAC-JACTLAWRENCE16-30 | series:KXNFLRSHYDS | Trevor Lawrence: 30+ rushing yards | 0.1000 | 0.1400 | 25.00 | 0.8600 | 0.9000 | 18.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV29WASARI-WASJDANIELS5-60 | series:KXNFLRSHYDS | Jayden Daniels: 60+ rushing yards | 0.1000 | 0.1600 | 6.00 | 0.8400 | 0.9000 | 25.00 | 2026-11-26T23:29:04Z |
+| KXNFLRSHYDS-26NOV30CARTB-CARBYOUNG9-30 | series:KXNFLRSHYDS | Bryce Young: 30+ rushing yards | 0.0200 | 0.0900 | 390.00 | 0.9100 | 0.9800 | 25.00 | 2026-11-26T23:29:04Z |
+| KXNFLSPREAD-26NOV26KCBUF-BUF7 | series:KXNFLSPREAD | Buffalo wins by over 6.5 points? | 0.3600 | 0.3700 | 52186.79 | 0.6300 | 0.6400 | 2837.01 | 2026-11-26T23:29:07Z |
+| KXNFLSPREAD-26NOV26PHIDAL-DAL14 | series:KXNFLSPREAD | Dallas wins by over 13.5 points? | 0.7600 | 0.7700 | 34142.13 | 0.2300 | 0.2400 | 26213.68 | 2026-11-26T23:29:07Z |
+| KXNFLSPREAD-26NOV27DENPIT-PIT10 | series:KXNFLSPREAD | Pittsburgh wins by over 9.5 points? | 0.0900 | 0.1100 | 3157.00 | 0.8900 | 0.9100 | 3235.00 | 2026-11-26T23:29:07Z |
+| KXNFLSPREAD-26NOV29ATLMIN-MIN10 | series:KXNFLSPREAD | Minnesota wins by over 9.5 points? | 0.4000 | 0.4200 | 10540.00 | 0.5800 | 0.6000 | 25769.94 | 2026-11-26T23:29:07Z |
+| KXNFLSPREAD-26NOV29NELAC-NE4 | series:KXNFLSPREAD | New England wins by over 3.5 points? | 0.3900 | 0.4000 | 88.02 | 0.6000 | 0.6100 | 18166.45 | 2026-11-26T23:29:07Z |
+| KXNFLTD-26NOV26KCBUF-BUFJALLEN17-2 | series:KXNFLTD | Josh Allen: 2+ touchdowns | 0.1600 | 0.1700 | 75472.36 | 0.8300 | 0.8400 | 13349.01 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV26PHIDAL-DALHLUEPKE30-1 | series:KXNFLTD | Hunter Luepke: 1+ touchdowns | 0.0600 | 0.0700 | 21164.99 | 0.9300 | 0.9400 | 1061.48 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV27DENPIT-PITRDOWDLE13-2 | series:KXNFLTD | Rico Dowdle: 2+ touchdowns | 0.0100 | 0.0300 | 7210.00 | 0.9700 | 0.9900 | 2101.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29ATLMIN-ATLATLDST-1 | series:KXNFLTD | ATL Falcons D/ST: 1+ touchdowns | 0.1100 | 0.1500 | 110.00 | 0.8500 | 0.8900 | 25000.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29BALHOU-HOUDMONTGOMERY32-1 | series:KXNFLTD | David Montgomery: 1+ touchdowns | 0.4600 | 0.4700 | 3806.65 | 0.5300 | 0.5400 | 5.14 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29LVCLE-CLEJJEUDY3-2 | series:KXNFLTD | Jerry Jeudy: 2+ touchdowns | 0.0100 | 0.0300 | 9266.00 | 0.9700 | 0.9900 | 101.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29NELAC-NERSTEVENSON38-3 | series:KXNFLTD | Rhamondre Stevenson: 3+ touchdowns | 0.0100 | 0.0200 | 10.00 | 0.9800 | 0.9900 | 101.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29NOCIN-NOBBROWN19-1 | series:KXNFLTD | Barion Brown: 1+ touchdowns | 0.0300 | 0.0600 | 112.00 | 0.9400 | 0.9700 | 25844.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29NYGIND-INDADULIN16-1 | series:KXNFLTD | Ashton Dulin: 1+ touchdowns | 0.0900 | 0.1000 | 103.00 | 0.9000 | 0.9100 | 50.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29NYJMIA-NYJNYJDST-1 | series:KXNFLTD | NY Jets D/ST: 1+ touchdowns | 0.1300 | 0.1700 | 110.00 | 0.8300 | 0.8700 | 110.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29SEASF-SEARSHAHEED22-2 | series:KXNFLTD | Rashid Shaheed: 2+ touchdowns | 0.0100 | 0.0200 | 124.00 | 0.9800 | 0.9900 | 742.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV29TENJAC-TENCTATE14-1 | series:KXNFLTD | Carnell Tate: 1+ touchdowns | 0.2400 | 0.2600 | 26288.00 | 0.7400 | 0.7600 | 241.00 | 2026-11-26T23:29:06Z |
+| KXNFLTD-26NOV29WASARI-ARISFEHOKO80-1 | series:KXNFLTD | Simi Fehoko: 1+ touchdowns | 0.1200 | 0.1500 | 1536.50 | 0.8500 | 0.8800 | 300.00 | 2026-11-26T23:29:05Z |
+| KXNFLTD-26NOV30CARTB-TBTJOHNSON15-1 | series:KXNFLTD | Tez Johnson: 1+ touchdowns | 0.1200 | 0.1600 | 215.00 | 0.8400 | 0.8800 | 40.00 | 2026-11-26T23:29:05Z |
+| KXNFLTOTAL-26NOV26KCBUF-51 | series:KXNFLTOTAL | Full Game: over 50.5 points scored? | 0.3700 | 0.3800 | 402445.94 | 0.6200 | 0.6300 | 6342.93 | 2026-11-26T23:29:07Z |
+| KXNFLTOTAL-26NOV26PHIDAL-49 | series:KXNFLTOTAL | Full Game: over 48.5 points scored? | 0.9100 | 0.9200 | 47973.65 | 0.0800 | 0.0900 | 10141.68 | 2026-11-26T23:29:08Z |
+| KXNFLTOTAL-26NOV27DENPIT-40 | series:KXNFLTOTAL | Full Game: over 39.5 points scored? | 0.4100 | 0.4200 | 326352.11 | 0.5800 | 0.5900 | 50939.75 | 2026-11-26T23:29:07Z |
+| KXNFLTOTAL-26NOV29SEASF-44 | series:KXNFLTOTAL | Full Game: over 43.5 points scored? | 0.5000 | 0.5100 | 388.00 | 0.4900 | 0.5000 | 4426.53 | 2026-11-26T23:29:07Z |
+| KXNFLTOTAL-26NOV29TENJAC-51 | series:KXNFLTOTAL | Full Game: over 50.5 points scored? | 0.4600 | 0.4700 | 20663.26 | 0.5300 | 0.5400 | 6220.00 | 2026-11-26T23:29:07Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-ATLMPENIX9 | series:KXNFLWEEKMOSTPASSYDS | Michael Penix Jr.: most passing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:11Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-BALJBRISSETT7 | series:KXNFLWEEKMOSTPASSYDS | Jacoby Brissett: most passing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:11Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-BUFJALLEN17 | series:KXNFLWEEKMOSTPASSYDS | Josh Allen: most passing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:11Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-CINJBURROW9 | series:KXNFLWEEKMOSTPASSYDS | Joe Burrow: most passing yards in Pro Football Week 12 | 0.0700 | 0.3000 | 55.00 | 0.7000 | 0.9300 | 1.00 | 2026-11-26T23:29:11Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-DALDPRESCOTT4 | series:KXNFLWEEKMOSTPASSYDS | Dak Prescott: most passing yards in Pro Football Week 12 | — | 0.5000 | 85.57 | 0.5000 | — | — | 2026-11-26T23:29:11Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-DETJGOFF16 | series:KXNFLWEEKMOSTPASSYDS | Jared Goff: most passing yards in Pro Football Week 12 | — | 0.0500 | 124.00 | 0.9500 | — | — | 2026-11-26T23:29:11Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-TENCWARD1 | series:KXNFLWEEKMOSTPASSYDS | Cam Ward: most passing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTPASSYDS-26W12-WASJDANIELS5 | series:KXNFLWEEKMOSTPASSYDS | Jayden Daniels: most passing yards in Pro Football Week 12 | — | 0.2200 | 100.00 | 0.7800 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRECYDS-26W12-DENJWADDLE17 | series:KXNFLWEEKMOSTRECYDS | Jaylen Waddle: most receiving yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:09Z |
+| KXNFLWEEKMOSTRECYDS-26W12-DETASTBROWN14 | series:KXNFLWEEKMOSTRECYDS | Amon-Ra St. Brown: most receiving yards in Pro Football Week 12 | — | 0.9900 | 6.00 | 0.0100 | — | — | 2026-11-26T23:29:09Z |
+| KXNFLWEEKMOSTRECYDS-26W12-DETJGIBBS0 | series:KXNFLWEEKMOSTRECYDS | Jahmyr Gibbs: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRECYDS-26W12-DETJWILLIAMS1 | series:KXNFLWEEKMOSTRECYDS | Jameson Williams: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T23:29:09Z |
+| KXNFLWEEKMOSTRECYDS-26W12-GBCWATSON9 | series:KXNFLWEEKMOSTRECYDS | Christian Watson: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRECYDS-26W12-GBMGOLDEN0 | series:KXNFLWEEKMOSTRECYDS | Matthew Golden: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRECYDS-26W12-GBTKRAFT85 | series:KXNFLWEEKMOSTRECYDS | Tucker Kraft: most receiving yards in Pro Football Week 12 | — | 0.0100 | 250.00 | 0.9900 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRECYDS-26W12-HOUDSCHULTZ86 | series:KXNFLWEEKMOSTRECYDS | Dalton Schultz: most receiving yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-LVAJEANTY2 | series:KXNFLWEEKMOSTRSHYDS | Ashton Jeanty: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-MIAOGORDON0 | series:KXNFLWEEKMOSTRSHYDS | Ollie Gordon II: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-MINAJONES33 | series:KXNFLWEEKMOSTRSHYDS | Aaron Jones Sr.: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-MINJMASON27 | series:KXNFLWEEKMOSTRSHYDS | Jordan Mason: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-NERSTEVENSON38 | series:KXNFLWEEKMOSTRSHYDS | Rhamondre Stevenson: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-NOTETIENNE3 | series:KXNFLWEEKMOSTRSHYDS | Travis Etienne Jr.: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-NYGCSKATTEBO44 | series:KXNFLWEEKMOSTRSHYDS | Cam Skattebo: most rushing yards in Pro Football Week 12 | — | 0.2200 | 100.00 | 0.7800 | — | — | 2026-11-26T23:29:10Z |
+| KXNFLWEEKMOSTRSHYDS-26W12-NYJBALLEN0 | series:KXNFLWEEKMOSTRSHYDS | Braelon Allen: most rushing yards in Pro Football Week 12 | — | 0.1300 | 100.00 | 0.8700 | — | — | 2026-11-26T23:29:11Z |
+| KXNHLGAME-26NOV27DALSTL-STL | series:KXNHLGAME | St. Louis wins | 0.4500 | 0.4600 | 16101.18 | 0.5400 | 0.5500 | 22.33 | 2026-11-26T23:29:08Z |
+| KXNHLGAME-26NOV27LAANA-ANA | series:KXNHLGAME | Anaheim wins | 0.4900 | 0.5000 | 3261.13 | 0.5000 | 0.5100 | 14.93 | 2026-11-26T23:29:08Z |
+| KXNHLGAME-26NOV27NYRCHI-NYR | series:KXNHLGAME | New York R wins | 0.6100 | 0.6200 | 81.66 | 0.3800 | 0.3900 | 2871.63 | 2026-11-26T23:29:08Z |
+| KXNHLGAME-26NOV27OTTTB-TB | series:KXNHLGAME | Tampa Bay wins | 0.5500 | 0.5700 | 7551.47 | 0.4300 | 0.4500 | 3288.40 | 2026-11-26T23:29:08Z |
+| KXNHLGAME-26NOV28OTTCAR-CAR | series:KXNHLGAME | Carolina wins | 0.6900 | 0.7000 | 100.00 | 0.3000 | 0.3100 | 100.71 | 2026-11-26T23:29:08Z |
 
 Full machine-readable data: [`latest.json`](latest.json).
