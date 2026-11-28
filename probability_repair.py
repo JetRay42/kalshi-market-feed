@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Safe v1.1 research orchestration for the existing probability_engine.py.
+"""Safe v1.2 research orchestration for the existing probability_engine.py.
 
 Fixes early odds cooldown during a multi-sport batch, preserves timestamped
-historical research, and supplements same-day-only weather samples with
+historical research, aligns Kalshi events to sportsbook data, and supplements same-day-only weather samples with
 future-day open contracts. No authenticated Kalshi API and no order placement.
 """
 from __future__ import annotations
@@ -73,8 +73,15 @@ def sports_odds_batch(quotes, config, api_key, output_root, now=None):
     fetched_events = []
     # A batch is a SINGLE cooldown window. Don't update and recheck the cooldown
     # between NBA and NFL, which is the original bug.
-    if api_key and due and requested and remaining_month and remaining_day:
-        for sport in requested[:min(remaining_month, remaining_day)]:
+    credit_cap = int(config.get('max_odds_api_credits_per_month', 430))
+    credit_remaining = credit_cap - int(budget.get('approx_credits_used',0))
+    mainline_budget = min(remaining_month, remaining_day, max(0,credit_remaining//3))
+    # Optional: do not use the last daily API call on NBA and lock NFL out
+    # for another 12-hour window. Wait for the next UTC day instead.
+    require_full = bool(config.get('require_full_sports_refresh_batch', False))
+    partial_blocked = require_full and 0 < mainline_budget < len(requested)
+    if api_key and due and requested and mainline_budget and not partial_blocked:
+        for sport in requested[:mainline_budget]:
             budget["requests"] = int(budget.get("requests", 0)) + 1
             budget["day_calls"] = int(budget.get("day_calls", 0)) + 1
             budget["approx_credits_used"] = int(budget.get("approx_credits_used", 0)) + 3
@@ -111,8 +118,10 @@ def sports_odds_batch(quotes, config, api_key, output_root, now=None):
             issues.append("THE_ODDS_API_KEY not configured; automated odds unavailable")
         elif not due:
             issues.append("odds refresh on cooldown; using timestamped cached evidence if available")
-        elif not remaining_month or not remaining_day:
-            issues.append("bookmaker request limit reached; using timestamped cached evidence if available")
+        elif partial_blocked:
+            issues.append("full NBA+NFL batch needs more daily API budget; retrying after UTC reset")
+        elif not mainline_budget:
+            issues.append("bookmaker request/credit limit reached; using timestamped cached evidence if available")
         elif not requested:
             issues.append("no NFL/NBA contract families in current feed")
     # Even during a no-refresh run, retain a cache as historical RESEARCH only.
@@ -134,7 +143,7 @@ def odds_evaluations(quotes, events, config, source_cache_time):
         for event in events:
             if not prior.align_event(q, event):
                 continue
-            spec = prior.market_spec(q, event)
+            spec = prior.market_spec(q, event) or prior.player_spec(q)
             if not spec:
                 continue
             matching_fresh.extend(prior.matched_book_probabilities(event, spec, freshness_cutoff, now))
@@ -166,6 +175,142 @@ def odds_evaluations(quotes, events, config, source_cache_time):
     # A fresh result is already in the historical set; avoid duplication.
     fresh_tickers = {x["ticker"] for x in fresh}
     return fresh, [x for x in historical if x["ticker"] not in fresh_tickers]
+
+
+
+# v1.2: The rotating Kalshi quote sample can omit NBA games that are currently
+# offered by bookmakers. Supplement only ACTIVE/FUTURE matching contracts.
+SPORTS_SUPPLEMENT_SERIES = ("KXNBAGAME", "KXNFLGAME", "KXNBAPTS", "KXNBAREB",
+                            "KXNFLREC", "KXNFLRECYDS", "KXNFLRSHYDS")
+
+
+def supplement_matching_sports(quotes, events, errors, now=None, max_book_calls=18):
+    """Augment a rotating feed with Kalshi markets matching upcoming book events.
+
+    The sportsbook event and Kalshi contract must match the same teams and
+    date; administrative closing timestamps are not used as event start times.
+    No calls are made if sportsbook events are absent or old (refresh cooldown).
+    """
+    now = now or datetime.now(UTC)
+    diag = {"listed_series": 0, "matching_contracts": 0,
+            "quoted_supplements": 0, "candidate_book_calls": 0}
+    fresh_events = []
+    for e in events:
+        start = prior.parse_utc(e.get("commence_time"))
+        if start and timedelta(minutes=25) < start-now < timedelta(days=5):
+            fresh_events.append(e)
+    if not fresh_events:
+        return list(quotes), diag
+    present = {q.get('ticker') for q in quotes}
+    matches = []
+    for series in SPORTS_SUPPLEMENT_SERIES:
+        diag['listed_series'] += 1
+        cursor = None
+        pages = 2 if series.endswith('GAME') else 1
+        for _ in range(pages):
+            args = {'series_ticker': series, 'status': 'open', 'limit': 200}
+            if cursor: args['cursor'] = cursor
+            try:
+                listing = kalshi.get('/markets', args)
+            except Exception as exc:
+                errors.append(f'Sports matching discovery {series}: {error_label(exc)}')
+                break
+            for m in (listing.get('markets') or []):
+                if not isinstance(m, dict): continue
+                ticker = m.get('ticker')
+                if not ticker or ticker in present or not kalshi.market_active(m, now.timestamp()):
+                    continue
+                # Match game winner or an integer player-threshold with a REAL
+                # upcoming sportsbook event; do not infer a ticker-only match.
+                if not any(prior.align_event(m, e) for e in fresh_events):
+                    continue
+                if not (prior.player_spec(m) or any(prior.market_spec(m,e) for e in fresh_events if prior.align_event(m,e))):
+                    continue
+                matches.append(m)
+                present.add(ticker)
+            cursor = listing.get('cursor') or None
+            if not cursor: break
+    diag['matching_contracts'] = len(matches)
+    # Higher-volume markets are more likely to offer usable execution, not EV.
+    matches.sort(key=lambda m: (-float(m.get('volume_24h_fp') or 0),str(m.get('ticker'))))
+    result = list(quotes)
+    for m in matches[:max_book_calls]:
+        diag['candidate_book_calls'] += 1
+        ticker = m['ticker']
+        try:
+            book = kalshi.get('/markets/'+quote(ticker,safe='')+'/orderbook')
+        except Exception as exc:
+            errors.append(f'Sports matching book {ticker}: {error_label(exc)}')
+            continue
+        row = {k:m.get(k) for k in ('ticker','event_ticker','series_ticker','title',
+                                    'yes_sub_title','status','close_time','volume_fp',
+                                    'volume_24h_fp','rules_primary','rules_secondary')}
+        row.update({'observed_at_utc':timestamp_now(),
+                    'selection_reason':'bookmaker_event_aligned_supplement', **kalshi.best_quotes(book)})
+        result.append(row)
+        diag['quoted_supplements'] += 1
+    return result, diag
+
+
+def fetch_targeted_prop_evidence(quotes, events, cfg, api_key, output_dir, budget, errors, now=None):
+    """At most ONE near-term event and TWO exact prop markets per day.
+
+    This is an OPT-IN free-credit experiment. Approximate credit use is tracked
+    before requests; full provider usage must be checked in the API dashboard.
+    """
+    now = now or datetime.now(UTC)
+    stats = {"enabled":bool(cfg.get('enable_paid_player_props', False)),
+             "requested_events":0,"returned_events":0,"prop_markets_requested":[],
+             "matched_prop_tickers_in_input":0}
+    if not (api_key and stats['enabled'] and events):return [],stats
+    # Count existing odds request budget and reserve credits for later refreshes.
+    cap=int(cfg.get('max_odds_api_credits_per_month', 430))
+    day_limit=int(cfg.get('max_odds_api_requests_per_day',5))
+    month_limit=int(cfg.get('max_odds_api_requests_per_month',145))
+    if budget.get('prop_request_day')==now.date().isoformat():return [],stats
+    if int(budget.get('day_calls',0))>=day_limit:return [],stats
+    if int(budget.get('requests',0))>=month_limit:return [],stats
+    max_markets=max(1,min(2,int(cfg.get('max_prop_markets_per_request',2))))
+    remaining=cap-int(budget.get('approx_credits_used',0))
+    if remaining<max_markets+6:return [],stats # reserve the next two mainline sport requests
+    eligible=[]
+    for event in events:
+        start=prior.parse_utc(event.get('commence_time'))
+        if not start or not timedelta(minutes=25)<start-now<timedelta(hours=48):continue
+        specs=[prior.player_spec(q) for q in quotes if prior.align_event(q,event) and prior.player_spec(q)]
+        if not specs:continue
+        keys=sorted(set(spec[0] for spec in specs))
+        # Prefer the closest upcoming well-covered exact markets, without
+        # wrongly treating a player prop in an unrelated game as a match.
+        eligible.append((start, -len(specs), event, keys, len(specs)))
+    stats['matched_prop_tickers_in_input']=sum(x[4] for x in eligible)
+    if not eligible:return [],stats
+    eligible.sort(key=lambda x:(x[0],x[1]))
+    start,_,event,keys,_=eligible[0]
+    keys=keys[:max_markets]
+    budget['requests']=int(budget.get('requests',0))+1
+    budget['day_calls']=int(budget.get('day_calls',0))+1
+    budget['approx_credits_used']=int(budget.get('approx_credits_used',0))+len(keys)
+    budget['prop_request_day']=now.date().isoformat()
+    prior.save(output_dir/'odds_budget.json',budget)
+    stats['requested_events']=1
+    stats['prop_markets_requested']=keys
+    try:
+        data=prior.web_json(f'{prior.ODDS_API}/sports/{event["sport_key"]}/events/{event["id"]}/odds',{
+            'apiKey':api_key,'regions':'us','markets':','.join(keys),'oddsFormat':'decimal'})
+        if not isinstance(data,dict):
+            errors.append('Player props: API returned non-object')
+            return [],stats
+        # The event-specific response often includes team and kickoff fields,
+        # but restore from verified parent event if it does not.
+        for key in ('home_team','away_team','commence_time','sport_key','id'):
+            data.setdefault(key,event.get(key))
+        stats['returned_events']=1
+        stats['returned_bookmakers']=len(data.get('bookmakers') or [])
+        return [data],stats
+    except (HTTPError,URLError,TimeoutError,ValueError,OSError) as exc:
+        errors.append('Player props: '+error_label(exc)+'; disable optional prop queries if plan does not permit them')
+        return [],stats
 
 
 def supplement_weather(quotes, config, errors, now=None):
@@ -257,9 +402,19 @@ def main(argv=None):
         raise RuntimeError("Both category feeds missing. Previous probability files preserved.")
     sports_report, weather_report = None, None
     if sports.get("quotes"):
+        api_key = os.getenv("THE_ODDS_API_KEY", "").strip()
         events, refreshed, errors, budget, cache_stamp = sports_odds_batch(
-            sports["quotes"], cfg, os.getenv("THE_ODDS_API_KEY", "").strip(), output)
-        fresh, historical = odds_evaluations(sports["quotes"], events, cfg, cache_stamp)
+            sports["quotes"], cfg, api_key, output)
+        # Discovery is bounded and only necessary near a fresh bookmaker batch.
+        # During cooldown, original sampling and historical-only analysis remain.
+        sports_quotes, align_stats = supplement_matching_sports(
+            sports["quotes"], events, errors) if refreshed else (sports["quotes"],
+            {"listed_series":0,"matching_contracts":0,"quoted_supplements":0,"candidate_book_calls":0})
+        prop_events, prop_stats = fetch_targeted_prop_evidence(
+            sports_quotes, events if refreshed else [], cfg, api_key, output, budget, errors)
+        # Player specs require the event-specific odds endpoint, not mainlines.
+        # Historical and fresh checks are still performed in odds_evaluations.
+        fresh, historical = odds_evaluations(sports_quotes, events+prop_events, cfg, cache_stamp)
         if fresh:
             prior.save(output / "sports/last_fresh.json",
                        {"generated_at_utc": timestamp_now(), "evaluations": fresh,
@@ -273,7 +428,8 @@ def main(argv=None):
             "last_fresh_estimates_generated_at_utc": last_fresh.get("generated_at_utc"),
             "last_fresh_estimate_count": len(last_fresh.get("evaluations", [])),
             "odds_cache_generated_at_utc": cache_stamp,
-            "refreshed_sports": refreshed, "errors": errors,
+            "refreshed_sports": refreshed, "sports_alignment_diagnostics": align_stats,
+            "player_prop_diagnostics": prop_stats, "errors": errors,
             "budget": {k: budget.get(k) for k in
                        ("month", "requests", "approx_credits_used", "day", "day_calls", "last_batch_at_utc")},
             "warnings": ["Cached bookmaker estimates must NEVER be treated as current prices or a verified trade edge.",
